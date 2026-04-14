@@ -1,0 +1,18 @@
+[
+  { "name": "BBC World", "url": "http://feeds.bbci.co.uk/news/world/rss.xml", "theme": "politics" },
+  { "name": "The Guardian World", "url": "https://www.theguardian.com/world/rss", "theme": "politics" },
+  { "name": "NYT Home", "url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml", "theme": "politics" },
+  { "name": "BBC Business", "url": "http://feeds.bbci.co.uk/news/business/rss.xml", "theme": "business" },
+  { "name": "NYT Business", "url": "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml", "theme": "business" },
+  { "name": "The Verge", "url": "https://www.theverge.com/rss/index.xml", "theme": "tech" },
+  { "name": "Ars Technica", "url": "http://feeds.arstechnica.com/arstechnica/index", "theme": "tech" },
+  { "name": "Variety", "url": "https://variety.com/feed/", "theme": "entertainment" },
+  { "name": "Pitchfork News", "url": "https://pitchfork.com/rss/news/", "theme": "music" },
+  { "name": "IndieWire", "url": "https://www.indiewire.com/feed/", "theme": "film" },
+  { "name": "Guardian Culture", "url": "https://www.theguardian.com/culture/rss", "theme": "culture" },
+  { "name": "Guardian Lifeandstyle", "url": "https://www.theguardian.com/lifeandstyle/rss", "theme": "lifestyle" },
+  { "name": "Guardian Sport", "url": "https://www.theguardian.com/sport/rss", "theme": "sports" },
+  { "name": "NYT Science", "url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml", "theme": "science" },
+  { "name": "Seth Godin", "url": "https://seths.blog/feed/", "theme": "business" },
+  { "name": "Wait But Why", "url": "https://waitbutwhy.com/feed", "theme": "science" }
+]

@@ -1,0 +1,31 @@
+name: Biweekly Picks
+
+on:
+  schedule:
+    # Sunday 21:00 UTC = Monday 06:00 KST
+    # Friday 21:00 UTC = Saturday 06:00 KST
+    - cron: "0 21 * * 0,5"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+      - run: npm ci
+      - name: Build picks
+        run: npm run picks:build
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      - name: Commit updated picks
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: biweekly picks"
+          file_pattern: "public/picks/*.json"

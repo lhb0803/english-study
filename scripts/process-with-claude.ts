@@ -28,10 +28,10 @@ export async function processWithClaude(items: RawItem[]): Promise<Article[]> {
   if (!process.env.ANTHROPIC_API_KEY) {
     throw new Error("ANTHROPIC_API_KEY not set");
   }
-  const client = new Anthropic();
+  const client = new Anthropic({ timeout: 120_000, maxRetries: 2 });
 
   const out: Article[] = [];
-  const BATCH = 3;
+  const BATCH = 2;
   for (let i = 0; i < items.length; i += BATCH) {
     const chunk = items.slice(i, i + BATCH);
     const userPayload = chunk.map((it, idx) => ({
@@ -43,9 +43,11 @@ export async function processWithClaude(items: RawItem[]): Promise<Article[]> {
       body: it.content.slice(0, 4000),
     }));
 
+    console.log(`[claude] batch ${i / BATCH + 1}: ${chunk.length} items`);
+    const startedAt = Date.now();
     const resp = await client.messages.create({
-      model: "claude-sonnet-4-5",
-      max_tokens: 8000,
+      model: "claude-sonnet-4-6",
+      max_tokens: 6000,
       system: [
         {
           type: "text",
@@ -61,6 +63,7 @@ export async function processWithClaude(items: RawItem[]): Promise<Article[]> {
       ],
     });
 
+    console.log(`[claude] batch done in ${((Date.now() - startedAt) / 1000).toFixed(1)}s`);
     const text = resp.content
       .filter((c) => c.type === "text")
       .map((c) => (c as { text: string }).text)

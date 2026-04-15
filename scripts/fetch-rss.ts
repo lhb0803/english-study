@@ -47,7 +47,9 @@ function stripHtml(s: string | undefined): string {
 export async function fetchAllFeeds(feeds: FeedConfig[]): Promise<RawItem[]> {
   const results = await Promise.allSettled(
     feeds.map(async (feed) => {
+      const t0 = Date.now();
       const parsed = await parser.parseURL(feed.url);
+      console.log(`[rss] ${feed.name}: ${parsed.items?.length ?? 0} items in ${Date.now() - t0}ms`);
       return (parsed.items ?? []).map<RawItem>((item) => {
         const link = item.link ?? "";
         const publishedAt = item.isoDate ?? item.pubDate ?? new Date().toISOString();
@@ -77,7 +79,7 @@ export async function fetchAllFeeds(feeds: FeedConfig[]): Promise<RawItem[]> {
     if (r.status === "fulfilled") {
       items.push(...r.value);
     } else {
-      console.warn(`[fetch-rss] failed: ${feeds[i].name} — ${r.reason}`);
+      console.warn(`[rss] FAIL ${feeds[i].name}: ${r.reason}`);
     }
   });
   return items;

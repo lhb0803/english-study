@@ -55,7 +55,7 @@ async function main() {
   console.log(`[build-picks] ${recent.length} recent items`);
 
   const balanced = balanceByTheme(recent, 2);
-  const candidates = balanced.slice(0, 12);
+  const candidates = balanced.slice(0, 10);
   console.log(`[build-picks] ${candidates.length} candidates after balancing`);
 
   const processed =

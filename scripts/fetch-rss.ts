@@ -44,11 +44,24 @@ function stripHtml(s: string | undefined): string {
     .trim();
 }
 
+function withTimeout<T>(p: Promise<T>, ms: number, label: string): Promise<T> {
+  return new Promise((resolve, reject) => {
+    const timer = setTimeout(() => reject(new Error(`timeout ${ms}ms: ${label}`)), ms);
+    p.then((v) => {
+      clearTimeout(timer);
+      resolve(v);
+    }).catch((e) => {
+      clearTimeout(timer);
+      reject(e);
+    });
+  });
+}
+
 export async function fetchAllFeeds(feeds: FeedConfig[]): Promise<RawItem[]> {
   const results = await Promise.allSettled(
     feeds.map(async (feed) => {
       const t0 = Date.now();
-      const parsed = await parser.parseURL(feed.url);
+      const parsed = await withTimeout(parser.parseURL(feed.url), 20_000, feed.name);
       console.log(`[rss] ${feed.name}: ${parsed.items?.length ?? 0} items in ${Date.now() - t0}ms`);
       return (parsed.items ?? []).map<RawItem>((item) => {
         const link = item.link ?? "";

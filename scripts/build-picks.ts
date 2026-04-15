@@ -5,6 +5,7 @@ import type { Theme, Article, DailyPicks } from "../src/lib/types";
 import { fetchAllFeeds, filterRecent, balanceByTheme, type RawItem } from "./fetch-rss";
 import { processWithClaude } from "./process-with-claude";
 import { dummyProcess } from "./dummy-process";
+import { loadCache, saveCache, getCached, putCached } from "./article-cache";
 
 interface FeedConfig {
   name: string;
@@ -58,9 +59,32 @@ async function main() {
   const candidates = balanced.slice(0, 10);
   console.log(`[build-picks] ${candidates.length} candidates after balancing`);
 
-  const processed =
-    mode === "dummy" ? dummyProcess(candidates) : await processWithClaude(candidates);
-  console.log(`[build-picks] ${processed.length} processed articles`);
+  const cache = loadCache();
+  const cachedHits: Article[] = [];
+  const cacheMisses: RawItem[] = [];
+  for (const c of candidates) {
+    const hit = getCached(cache, c.id);
+    if (hit) cachedHits.push(hit);
+    else cacheMisses.push(c);
+  }
+  console.log(
+    `[build-picks] cache: ${cachedHits.length} hits / ${cacheMisses.length} misses`,
+  );
+
+  const freshlyProcessed =
+    cacheMisses.length === 0
+      ? []
+      : mode === "dummy"
+        ? dummyProcess(cacheMisses)
+        : await processWithClaude(cacheMisses);
+  console.log(`[build-picks] ${freshlyProcessed.length} newly processed articles`);
+
+  if (freshlyProcessed.length > 0) {
+    putCached(cache, freshlyProcessed);
+    saveCache(cache);
+  }
+
+  const processed: Article[] = [...cachedHits, ...freshlyProcessed];
 
   const eligible = processed.filter((a) => a.difficulty !== undefined);
   const chosen = pickDiverse(eligible, 5);

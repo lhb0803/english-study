@@ -80,6 +80,17 @@ export default async function ArticlePage({
           </section>
         )}
 
+        {article.summary && article.summary.trim().length > 0 && (
+          <section
+            className={`${article.keyVocab.length > 0 ? "mt-6" : "mt-10"} p-5 rounded-2xl bg-white border border-neutral-200`}
+          >
+            <h2 className="text-base font-semibold mb-3">한 줄 요약</h2>
+            <p className="text-sm text-neutral-700 leading-6 whitespace-pre-line">
+              {article.summary}
+            </p>
+          </section>
+        )}
+
         <div className="mt-8">
           <a
             href={article.sourceUrl}

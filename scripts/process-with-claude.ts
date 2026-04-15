@@ -22,7 +22,13 @@ For each input article, produce a JSON object with these fields:
 - estimatedMinutes: integer reading time (at ~150 wpm for the rewrite)
 - keyVocab: array of exactly 5 useful vocabulary items { word, meaning (한국어 뜻), example (an English example sentence) } drawn from the rewrite
 
-Return ONLY a JSON array matching the order of the inputs. No prose, no code fences.`;
+Return ONLY a JSON array matching the order of the inputs. No prose, no code fences.
+
+JSON formatting rules — CRITICAL to follow exactly:
+- Escape every literal double quote inside string values as \\"
+- Use \\n for line breaks inside string values; do not include raw newline characters
+- Do not include trailing commas
+- The learnerContent field may use markdown, but \\n between paragraphs, not real newlines`;
 
 export async function processWithClaude(items: RawItem[]): Promise<Article[]> {
   if (!process.env.ANTHROPIC_API_KEY) {
@@ -75,7 +81,9 @@ export async function processWithClaude(items: RawItem[]): Promise<Article[]> {
       const jsonEnd = text.lastIndexOf("]");
       parsed = JSON.parse(text.slice(jsonStart, jsonEnd + 1));
     } catch (err) {
-      console.warn("[process-with-claude] parse failure, skipping chunk", err);
+      console.warn("[claude] parse failure, skipping chunk", err);
+      console.warn("[claude] raw response head:", text.slice(0, 600));
+      console.warn("[claude] raw response tail:", text.slice(-400));
       continue;
     }
 

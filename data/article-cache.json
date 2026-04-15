@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-15T00:41:38.389Z",
+  "updatedAt": "2026-04-15T06:32:30.685Z",
   "articles": {
     "189cea6e74d0": {
       "id": "189cea6e74d0",
@@ -201,104 +201,6 @@
         }
       ],
       "publishedAt": "2026-04-14T16:43:54.000Z"
-    },
-    "c42714cb7daf": {
-      "id": "c42714cb7daf",
-      "source": "NYT Home",
-      "sourceUrl": "https://www.nytimes.com/2026/04/14/nyregion/hochul-pied-terre-tax.html",
-      "title": "Hochul Proposes Tax on N.Y.C. Second Homes That Are Worth $5 Million",
-      "theme": "politics",
-      "themeLabel": "시사",
-      "summary": "Gov. Kathy Hochul, who has opposed raising taxes, favored a “pied-à-terre” luxury tax because it largely targets the ultrawealthy who primarily live outside New York City.",
-      "difficulty": "B1",
-      "estimatedMinutes": 4,
-      "learnerContent": "# Hochul Proposes Tax on N.Y.C. Second Homes That Are Worth $5 Million\n\n*Source: NYT Home*\n\nGov. Kathy Hochul, who has opposed raising taxes, favored a “pied-à-terre” luxury tax because it largely targets the ultrawealthy who primarily live outside New York City.\n\n---\n\n*이 콘텐츠는 더미 데이터입니다. 실제 배포 시에는 Claude API를 통해 학습자 친화적으로 재작성됩니다.*",
-      "keyVocab": [],
-      "publishedAt": "2026-04-15T00:34:47.000Z"
-    },
-    "4fc748311056": {
-      "id": "4fc748311056",
-      "source": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/music/2026/apr/15/kanye-west-ban-france-marseille-ye-concert",
-      "title": "Kanye West faces possible ban from France ahead of concert in Marseille",
-      "theme": "politics",
-      "themeLabel": "시사",
-      "summary": "Interior minister is ‘highly determined’ to block US rapper from performing in the southern city in June due to his past antisemitic remarks, sources say France’s interior minister",
-      "difficulty": "B1",
-      "estimatedMinutes": 4,
-      "learnerContent": "# Kanye West faces possible ban from France ahead of concert in Marseille\n\n*Source: The Guardian World*\n\nInterior minister is ‘highly determined’ to block US rapper from performing in the southern city in June due to his past antisemitic remarks, sources say France’s interior minister is seeking to block the US rapper formerly known as Kanye West from performing in the southern city of Marseille in June due to his antisemitic remarks, a source close to the minister said Tuesday. The interior minister, Laurent Nunez, is “highly determined” to ban the 11 June concert at Marseille’s Velodrome stadium and is exploring “all possibilities”, the source told Agence France-Presse. Continue reading...\n\n---\n\n*이 콘텐츠는 더미 데이터입니다. 실제 배포 시에는 Claude API를 통해 학습자 친화적으로 재작성됩니다.*",
-      "keyVocab": [],
-      "publishedAt": "2026-04-15T00:34:45.000Z"
-    },
-    "7654f6986624": {
-      "id": "7654f6986624",
-      "source": "BBC Business",
-      "sourceUrl": "https://www.bbc.com/news/articles/cy511kd5lkwo?at_medium=RSS&at_campaign=rss",
-      "title": "Help to Buy mostly helped high earners, IFS says",
-      "theme": "business",
-      "themeLabel": "경제",
-      "summary": "People with lower incomes benefitted less from the house-buying scheme than those with high incomes, the influential think tank says.",
-      "difficulty": "B1",
-      "estimatedMinutes": 4,
-      "learnerContent": "# Help to Buy mostly helped high earners, IFS says\n\n*Source: BBC Business*\n\nPeople with lower incomes benefitted less from the house-buying scheme than those with high incomes, the influential think tank says.\n\n---\n\n*이 콘텐츠는 더미 데이터입니다. 실제 배포 시에는 Claude API를 통해 학습자 친화적으로 재작성됩니다.*",
-      "keyVocab": [],
-      "publishedAt": "2026-04-14T23:03:25.000Z"
-    },
-    "dba46af42ae1": {
-      "id": "dba46af42ae1",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/entertainment/912025/godzilla-minus-zero-teaser-trailer",
-      "title": "Godzilla Minus Zero stomps through New York in first teaser trailer",
-      "theme": "tech",
-      "themeLabel": "기술",
-      "summary": "*insert Godzilla screeching sound* Here's the very first look at the next big kaiju feature. Godzilla Minus Zero will continue the story of 2023's Godzilla Minus One, which returne",
-      "difficulty": "B1",
-      "estimatedMinutes": 4,
-      "learnerContent": "# Godzilla Minus Zero stomps through New York in first teaser trailer\n\n*Source: The Verge*\n\n*insert Godzilla screeching sound* Here's the very first look at the next big kaiju feature. Godzilla Minus Zero will continue the story of 2023's Godzilla Minus One , which returned the franchise to the more grounded tone established in the original film, and while the new teaser trailer doesn't show a whole lot, it suggests some big things for the series. Minus Zero is set in 1949, two years after the first movie, \"and continues the story of the Shikishima family as they face an all-new calamity,\" according to the official logline. Apparently that includes shifting the setting from Tokyo to New York, as we see Godzilla right next to the St … Read the full story at The Verge.\n\n---\n\n*이 콘텐츠는 더미 데이터입니다. 실제 배포 시에는 Claude API를 통해 학습자 친화적으로 재작성됩니다.*",
-      "keyVocab": [],
-      "publishedAt": "2026-04-14T23:05:09.000Z"
-    },
-    "07f2b934f0e1": {
-      "id": "07f2b934f0e1",
-      "source": "Variety",
-      "sourceUrl": "https://variety.com/2026/film/news/digger-trailer-cinemacon-tom-cruise-fat-billionaire-1236705656/",
-      "title": "‘Digger’ Trailer at CinemaCon Shows Tom Cruise Transformed Into Insane, Cat-Loving Billionaire With a Big Belly, a Comb Over and a Thick Southern Accent",
-      "theme": "entertainment",
-      "themeLabel": "엔터",
-      "summary": "Tom Cruise ventured to CinemaCon to offer a deliciously demented first look at “Digger,” his new movie with director Alejandro González Iñárritu. “It took 40 years for me to be abl",
-      "difficulty": "B1",
-      "estimatedMinutes": 4,
-      "learnerContent": "# ‘Digger’ Trailer at CinemaCon Shows Tom Cruise Transformed Into Insane, Cat-Loving Billionaire With a Big Belly, a Comb Over and a Thick Southern Accent\n\n*Source: Variety*\n\nTom Cruise ventured to CinemaCon to offer a deliciously demented first look at &#8220;Digger,&#8221; his new movie with director Alejandro González Iñárritu. &#8220;It took 40 years for me to be able to put on the boots of Digger Rockwell,&#8221; Cruise said before introducing the never-before-seen trailer. And this is definitely Cruise as you&#8217;ve never seen [&#8230;]\n\n---\n\n*이 콘텐츠는 더미 데이터입니다. 실제 배포 시에는 Claude API를 통해 학습자 친화적으로 재작성됩니다.*",
-      "keyVocab": [],
-      "publishedAt": "2026-04-15T00:40:02.000Z"
-    },
-    "8a685d74aa48": {
-      "id": "8a685d74aa48",
-      "source": "Variety",
-      "sourceUrl": "https://variety.com/2026/film/news/margot-robbie-oceans-11-prequel-plot-danny-oceans-1236721883/",
-      "title": "Margot Robbie Confirms ‘Ocean’s 11’ Prequel Follows Danny Ocean’s Parents at the 1962 Monaco Grand Prix",
-      "theme": "entertainment",
-      "themeLabel": "엔터",
-      "summary": "Monaco, hold on to your race cars. Margot Robbie has confirmed the upcoming “Ocean’s 11” prequel will take place at the crown jewel of the Formula One circuit — the Monaco Grand Pr",
-      "difficulty": "B1",
-      "estimatedMinutes": 4,
-      "learnerContent": "# Margot Robbie Confirms ‘Ocean’s 11’ Prequel Follows Danny Ocean’s Parents at the 1962 Monaco Grand Prix\n\n*Source: Variety*\n\nMonaco, hold on to your race cars. Margot Robbie has confirmed the upcoming &#8220;Ocean&#8217;s 11&#8221; prequel will take place at the crown jewel of the Formula One circuit &#8212; the Monaco Grand Prix. It won&#8217;t center on Danny Ocean, the con-man who led a Las Vegas casino heist in &#8220;Ocean&#8217;s 11,&#8221; but instead his crafty [&#8230;]\n\n---\n\n*이 콘텐츠는 더미 데이터입니다. 실제 배포 시에는 Claude API를 통해 학습자 친화적으로 재작성됩니다.*",
-      "keyVocab": [],
-      "publishedAt": "2026-04-15T00:38:10.000Z"
-    },
-    "94394b3fd849": {
-      "id": "94394b3fd849",
-      "source": "Pitchfork News",
-      "sourceUrl": "https://pitchfork.com/news/madonna-readies-confessions-on-a-dance-floor-sequel/",
-      "title": "Madonna Readies Confessions on a Dance Floor Sequel",
-      "theme": "music",
-      "themeLabel": "음악",
-      "summary": "She made the album with Stuart Price, who produced the original 2005 LP",
-      "difficulty": "B1",
-      "estimatedMinutes": 4,
-      "learnerContent": "# Madonna Readies Confessions on a Dance Floor Sequel\n\n*Source: Pitchfork News*\n\nShe made the album with Stuart Price, who produced the original 2005 LP\n\n---\n\n*이 콘텐츠는 더미 데이터입니다. 실제 배포 시에는 Claude API를 통해 학습자 친화적으로 재작성됩니다.*",
-      "keyVocab": [],
-      "publishedAt": "2026-04-14T16:18:37.000Z"
     }
   }
 }

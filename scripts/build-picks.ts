@@ -79,7 +79,7 @@ async function main() {
         : await processWithClaude(cacheMisses);
   console.log(`[build-picks] ${freshlyProcessed.length} newly processed articles`);
 
-  if (freshlyProcessed.length > 0) {
+  if (freshlyProcessed.length > 0 && mode === "claude") {
     putCached(cache, freshlyProcessed);
     saveCache(cache);
   }

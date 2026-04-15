@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-15T06:32:30.685Z",
+  "updatedAt": "2026-04-15T11:14:09.001Z",
   "articles": {
     "189cea6e74d0": {
       "id": "189cea6e74d0",
@@ -201,6 +201,366 @@
         }
       ],
       "publishedAt": "2026-04-14T16:43:54.000Z"
+    },
+    "34a22d2d48f1": {
+      "id": "34a22d2d48f1",
+      "source": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/politics/live/2026/apr/15/labour-reform-uk-women-nigel-farage-local-elections-keir-starmer-kemi-badenoch-pmqs-iran-war-uk-politics-latest",
+      "title": "Starmer to face Badenoch at PMQs amid row over defence spending – UK politics live",
+      "theme": "politics",
+      "themeLabel": "시사",
+      "summary": "영국 총리 키어 스타머가 의회 질의응답(PMQs)에서 야당 대표 케미 바데노크와 맞붙었습니다. 이번 회기에서는 국방비 지출 논란이 주요 쟁점이었습니다. 또한 피터 만델슨과 제프리 엡스타인의 관계에 대한 보도가 왜 오랫동안 주목받지 못했는지에 대한 논의도 있었습니다.",
+      "difficulty": "B1",
+      "estimatedMinutes": 4,
+      "learnerContent": "## Starmer Faces Badenoch at PMQs Amid Defence Spending Row\n\n**What is PMQs?**\n\nPMQs stands for Prime Minister's Questions. It is a weekly event in the UK Parliament where the Prime Minister must answer questions from Members of Parliament (MPs). The leader of the main opposition party usually asks the most important questions. This week, Prime Minister Keir Starmer faced questions from Kemi Badenoch, the leader of the Conservative Party.\n\n**The Defence Spending Debate**\n\nOne of the biggest topics this week was defence spending. There is an ongoing argument in the UK about how much money the government should spend on the military. Some politicians believe the UK needs to increase its defence budget, especially given rising tensions in Europe. Others worry about the cost to ordinary people. This disagreement has created a significant political row between the government and the opposition.\n\n**The Mandelson and Epstein Question**\n\nAnother serious topic came up during political discussions this week. Some people have been asking questions about Peter Mandelson, a well-known British politician, and his possible connections to Jeffrey Epstein, the convicted sex offender who died in prison in 2019.\n\nOne commentator explained why many people ignored early reports about this connection. She said that when these claims first appeared on social media, they seemed to come from unreliable sources — people who were simply trying to cause trouble online, known as \"trolls.\" Because Mandelson continued to appear on major news programmes and host a podcast, many assumed the claims were exaggerated or untrue.\n\n**A Deeper Problem: Women Not Being Taken Seriously**\n\nHowever, the commentator said the real problem goes much deeper. She argued that the root cause of why these stories were ignored for so long is sexism and misogyny — in other words, the fact that Epstein's victims, who were girls and young women, were not taken seriously enough. Their experiences were not treated as important.\n\nShe said: \"Those women, those girls, not being taken seriously enough, their experiences not mattering enough — that is exactly the sort of sexism and misogyny at the root of the issue.\"\n\nShe added that everyone — including the media, politicians, and the public — must take responsibility for this failure.\n\n**Why This Matters**\n\nThis discussion is important because it raises questions about how the media and public decide what stories to believe. It also highlights the ongoing problem of powerful people avoiding scrutiny, while the voices of victims are dismissed or ignored. As these conversations continue in Parliament and in the press, many are calling for greater accountability and a more careful approach to reporting serious allegations.",
+      "keyVocab": [
+        {
+          "word": "opposition",
+          "meaning": "야당, 반대 세력",
+          "example": "The leader of the opposition asked the Prime Minister several difficult questions."
+        },
+        {
+          "word": "defence spending",
+          "meaning": "국방비 지출",
+          "example": "There is a debate about whether to increase defence spending to protect the country."
+        },
+        {
+          "word": "credible",
+          "meaning": "신뢰할 수 있는, 믿을 만한",
+          "example": "The journalist only reports information from credible sources."
+        },
+        {
+          "word": "misogyny",
+          "meaning": "여성 혐오",
+          "example": "The report highlighted how misogyny caused the victims' stories to be ignored."
+        },
+        {
+          "word": "accountability",
+          "meaning": "책임, 책임감",
+          "example": "Citizens demanded accountability from politicians who had ignored the scandal."
+        }
+      ],
+      "publishedAt": "2026-04-15T10:59:23.000Z"
+    },
+    "df8877ff3bf2": {
+      "id": "df8877ff3bf2",
+      "source": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/us-news/live/2026/apr/15/donald-trump-iran-economy-tax-day-voter-id-latest-news-updates",
+      "title": "Republicans struggle to highlight Trump’s cuts as Americans see little effect on Tax Day – US politics live",
+      "theme": "politics",
+      "themeLabel": "시사",
+      "summary": "미국 공화당은 트럼프의 2025년 감세 정책이 세금 신고일(Tax Day)에 유권자들의 큰 지지를 받길 기대했지만, 많은 미국인들이 별다른 변화를 느끼지 못하고 있습니다. 한편, '미국 구하기 법안(Save America Act)'의 새 버전이 투표 규칙을 크게 바꿀 수 있어 논란이 되고 있습니다. 이 법안은 시민권 증명 서류 요건과 엄격한 신분증 확인 조항을 포함하고 있습니다.",
+      "difficulty": "B1",
+      "estimatedMinutes": 4,
+      "learnerContent": "## Republicans Struggle on Tax Day as Americans Feel Little Change\n\n**What is Tax Day?**\n\nIn the United States, April 15 is known as \"Tax Day.\" This is the deadline for most Americans to file their income tax returns — official forms that tell the government how much money a person earned and how much tax they owe. Tax Day is an important moment in American politics because it reminds people about taxes and government policy.\n\n**Trump's 2025 Tax Cuts**\n\nThe Republican Party had high hopes for this Tax Day. In 2025, President Donald Trump signed a package of tax cuts into law. Republicans believed that ordinary Americans would clearly feel the benefits of these cuts — for example, by paying less tax or receiving a bigger tax refund.\n\nHowever, reports suggest that many Americans have not noticed any real difference. This is a problem for Republicans, who wanted voters to connect the tax cuts with their daily lives ahead of future elections. If people do not feel the benefit, the cuts become harder to use as a political success story.\n\n**Why Haven't People Noticed?**\n\nThere are several possible reasons why Americans may not have noticed the tax cuts. The changes may have been small for many workers, spread across many months of paychecks. Economic pressures — such as high prices for food, housing, and energy — may also have cancelled out any savings from the cuts. When the cost of living is high, even a small tax reduction can feel invisible.\n\n**The Save America Act: Big Changes to Voting Rules**\n\nAnother major political story is developing around a proposed law called the Save America Act. The latest version of this act, if passed by Congress, could significantly change how Americans vote.\n\nAccording to journalist Rachel Leingang, the new version of the Save America Act includes several strict new requirements:\n\n- **Proof of citizenship documents:** Voters would need to show official papers proving they are US citizens before they can register to vote.\n- **Strict voter ID rules:** People would need to show approved identification when casting a ballot.\n- **Voter roll checks:** States would regularly have to share their lists of registered voters with the Department of Homeland Security.\n- **Criminal penalties:** Election officials could face criminal charges if they do not follow the new rules.\n\n**Why Is This Controversial?**\n\nCritics say these changes could make it much harder for millions of legal voters to participate in elections, particularly people who do not have easy access to official documents. They also warn that introducing such major changes during a federal midterm election year — when all seats in the House of Representatives are up for election — could cause confusion and chaos for election workers across the country.\n\nSupporters of the act argue that stronger rules are needed to protect the integrity of elections and prevent fraud. The debate over this law is likely to continue as the midterm elections approach.",
+      "keyVocab": [
+        {
+          "word": "tax cut",
+          "meaning": "감세, 세금 인하",
+          "example": "The government introduced a tax cut to help families with low incomes."
+        },
+        {
+          "word": "tax refund",
+          "meaning": "세금 환급",
+          "example": "She was happy to receive a tax refund after filing her annual tax return."
+        },
+        {
+          "word": "voter ID",
+          "meaning": "유권자 신분증",
+          "example": "The new law requires all citizens to show voter ID before casting their ballot."
+        },
+        {
+          "word": "proof of citizenship",
+          "meaning": "시민권 증명 서류",
+          "example": "Applicants must provide proof of citizenship to register for the programme."
+        },
+        {
+          "word": "integrity",
+          "meaning": "무결성, 정직성, 온전함",
+          "example": "Officials must work to protect the integrity of the election process."
+        }
+      ],
+      "publishedAt": "2026-04-15T10:56:09.000Z"
+    },
+    "29fa5a0e67b9": {
+      "id": "29fa5a0e67b9",
+      "source": "BBC Business",
+      "sourceUrl": "https://www.bbc.com/news/articles/c07000dzg9do?at_medium=RSS&at_campaign=rss",
+      "title": "AA and BSM ordered to refund learner drivers for hidden fees",
+      "theme": "business",
+      "themeLabel": "경제",
+      "summary": "영국 운전 학원 AA와 BSM이 수강생들에게 숨겨진 수수료를 사전에 공개하지 않아 환불 명령과 벌금 처분을 받았습니다. 소비자 보호 규정에 따라 온라인에서 모든 비용을 명확히 표시해야 합니다.",
+      "difficulty": "B1",
+      "estimatedMinutes": 3,
+      "learnerContent": "## AA and BSM Must Refund Learner Drivers for Hidden Fees\n\nTwo of the UK's most well-known driving schools, AA and BSM, have been ordered to refund learner drivers after charging hidden fees. The companies were also fined for not showing all costs clearly on their websites before customers made a purchase.\n\n### What Happened?\n\nAA (Automobile Association) and BSM (British School of Motoring) are both owned by the same company. Regulators found that this company did not properly tell customers about certain fees when they first visited the driving schools' websites.\n\nThis is important because, under UK consumer protection rules, businesses must be transparent about all costs upfront. In other words, customers should be able to see the full price before they decide to buy a service. When companies hide fees or only show them later in the buying process, it is considered unfair and illegal.\n\n### Why Is This a Problem?\n\nMany learner drivers are young people who are budgeting carefully to pay for driving lessons. A typical course of driving lessons in the UK can cost hundreds of pounds. If extra fees are added that were not clearly shown at the start, customers may end up paying much more than they expected.\n\nHidden fees are a common problem in many industries, including travel, banking, and entertainment. Regulators around the world are working harder to stop this practice and protect consumers.\n\n### What Must the Company Do Now?\n\nThe owner of AA and BSM has been ordered to:\n\n- **Refund** affected learner drivers who were charged hidden fees\n- **Pay a fine** for breaking the rules about fee disclosure\n- **Update their websites** to clearly show all fees before customers complete a booking\n\nThis means that in the future, anyone visiting the AA or BSM websites should be able to see exactly how much they will pay, with no surprises.\n\n### What Does This Mean for Consumers?\n\nThis case is a reminder that consumers have rights when buying services online. In the UK, the Competition and Markets Authority (CMA) and other regulators monitor businesses to make sure they follow the rules. When companies break these rules, they can be ordered to pay back customers and face financial penalties.\n\nIf you are a learner driver looking for driving lessons, it is always a good idea to:\n\n- Compare prices from different schools\n- Read the full terms and conditions before paying\n- Ask about any additional fees that might not be shown upfront\n\nThe action against AA and BSM sends a clear message to other driving schools and businesses: hiding fees from customers is not acceptable and can lead to serious consequences.",
+      "keyVocab": [
+        {
+          "word": "disclose",
+          "meaning": "공개하다, 밝히다",
+          "example": "Companies must disclose all fees before customers make a payment."
+        },
+        {
+          "word": "upfront",
+          "meaning": "사전에, 미리",
+          "example": "The school should tell you the full cost upfront, not after you sign up."
+        },
+        {
+          "word": "refund",
+          "meaning": "환불",
+          "example": "The company was ordered to refund customers who had been overcharged."
+        },
+        {
+          "word": "transparent",
+          "meaning": "투명한, 명확한",
+          "example": "Good businesses are transparent about their prices and policies."
+        },
+        {
+          "word": "penalty",
+          "meaning": "벌금, 처벌",
+          "example": "The firm faced a large financial penalty for breaking consumer protection rules."
+        }
+      ],
+      "publishedAt": "2026-04-15T10:37:00.000Z"
+    },
+    "6b51012fa337": {
+      "id": "6b51012fa337",
+      "source": "BBC Business",
+      "sourceUrl": "https://www.bbc.com/news/videos/c7055yjplr2o?at_medium=RSS&at_campaign=rss",
+      "title": "Commuters welcome second year of Translink fare freeze",
+      "theme": "business",
+      "themeLabel": "경제",
+      "summary": "북아일랜드의 대중교통 회사 Translink가 2년 연속으로 요금 동결을 시행하여 통근자들의 환영을 받고 있습니다. 재정적으로 어려운 상황임에도 불구하고 이 결정이 내려졌습니다.",
+      "difficulty": "B1",
+      "estimatedMinutes": 4,
+      "learnerContent": "## Commuters Welcome Second Year of Translink Fare Freeze\n\nPassengers who use Translink, the main public transport company in Northern Ireland, are celebrating some good news. For the second year in a row, Translink will not increase its fares. This means that bus and train tickets will stay at the same price as last year.\n\n### What Is a Fare Freeze?\n\nA \"fare freeze\" means that a transport company decides not to raise the price of its tickets. This is good news for commuters — people who travel regularly, usually to and from work or school. When transport costs go up, it can put a heavy financial burden on passengers, especially those who travel every day.\n\nIn recent years, the cost of living has risen significantly in the UK and across the world. Prices for food, energy, and housing have all gone up. In this difficult economic environment, keeping transport fares the same helps people manage their daily expenses.\n\n### What Did Officials Say?\n\nLiz Kimmins, a government minister responsible for transport in Northern Ireland, acknowledged that the decision to freeze fares was not easy. She said the choice was made against a \"difficult funding backdrop\" for Translink. This means that the company is facing financial challenges — it costs a lot of money to run buses and trains, and the company does not always receive enough government funding to cover all its costs.\n\nDespite these financial pressures, the decision was made to prioritise passengers and keep fares affordable. This shows a commitment to public transport and to making it easier for people to travel without worrying about rising costs.\n\n### Why Is Public Transport Funding a Challenge?\n\nRunning a public transport network is very expensive. Companies like Translink must pay for:\n\n- **Staff wages** for drivers, conductors, and maintenance workers\n- **Fuel costs** for buses and trains\n- **Maintenance and repairs** of vehicles and infrastructure\n- **New vehicles** to replace old ones and reduce carbon emissions\n\nGovernments often provide subsidies — financial support — to help public transport companies cover these costs. However, when government budgets are tight, this support can be reduced, making it harder for companies to keep fares low while still covering their expenses.\n\n### How Do Commuters Feel?\n\nMany passengers have welcomed the news. Regular commuters say that even a small increase in fares can add up to a large amount of money over a full year. By freezing fares for a second year, Translink is helping people save money during a time when many households are struggling financially.\n\nPublic transport is also important for the environment. When fares are affordable, more people choose buses and trains instead of driving their own cars, which helps to reduce traffic and lower carbon emissions.\n\n### Looking Ahead\n\nWhile the fare freeze is welcome news, questions remain about the long-term financial health of Translink. If funding remains difficult, the company may face tough decisions in the future about how to balance affordability for passengers with the need to cover its operating costs.",
+      "keyVocab": [
+        {
+          "word": "fare freeze",
+          "meaning": "요금 동결",
+          "example": "The fare freeze means passengers will pay the same price as last year."
+        },
+        {
+          "word": "commuter",
+          "meaning": "통근자",
+          "example": "Commuters who travel by train every day will benefit from lower costs."
+        },
+        {
+          "word": "acknowledge",
+          "meaning": "인정하다",
+          "example": "The minister acknowledged that the decision was difficult given the budget problems."
+        },
+        {
+          "word": "backdrop",
+          "meaning": "배경, 상황",
+          "example": "The company made its decision against a backdrop of rising operating costs."
+        },
+        {
+          "word": "subsidy",
+          "meaning": "보조금",
+          "example": "The government provides a subsidy to help keep bus fares affordable for passengers."
+        }
+      ],
+      "publishedAt": "2026-04-15T10:11:15.000Z"
+    },
+    "fd205c3d121e": {
+      "id": "fd205c3d121e",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/entertainment/912232/spotify-update-physical-book-bookshop-sales",
+      "title": "Spotify now sells printed books",
+      "theme": "tech",
+      "themeLabel": "기술",
+      "summary": "Spotify가 이제 실물 책 판매 기능을 추가했습니다. 미국과 영국 사용자들은 Bookshop.org와의 협력을 통해 Android 앱에서 종이책을 구매할 수 있으며, iOS 지원도 곧 예정되어 있습니다.",
+      "difficulty": "B1",
+      "estimatedMinutes": 3,
+      "learnerContent": "## Spotify Now Sells Printed Books\n\nSpotify is known as a music and podcast streaming app, but recently it has been expanding into audiobooks. Now, the platform is going one step further — users can buy real, printed books directly through the app.\n\n### What's New?\n\nSpotify has partnered with **Bookshop.org**, an online bookstore that supports independent bookshops. Thanks to this partnership, users in the **United States** and the **United Kingdom** can now purchase physical books without leaving the Spotify app.\n\nThe feature is currently available on **Android** devices. If you use an iPhone or iPad, don't worry — iOS support is expected to arrive **next week**.\n\n### Why Is Spotify Doing This?\n\nSpotify has been working hard to become a destination for book lovers, not just music fans. In recent years, the company added audiobook listening features, allowing users to listen to books read aloud. Selling printed books is a natural next step for readers who enjoy both formats.\n\nThe partnership with Bookshop.org was first **announced in February 2026**. Andy Hunter, the founder and CEO of Bookshop.org, welcomed the deal. He said, \"Spotify is bringing in more readers, and I'm all for anything that grows the size of the pie.\" This means he believes more people reading — in any format — is good for the book industry.\n\n### What Is Bookshop.org?\n\nBookshop.org is an online platform that sells books and shares its profits with **independent, local bookstores**. It was created as an alternative to large retailers like Amazon, giving smaller shops a way to earn money from online sales. By partnering with Spotify, Bookshop.org can now reach millions of new potential customers.\n\n### What Does This Mean for Users?\n\nFor Spotify users who love books, this update makes things more convenient. Imagine discovering a great audiobook on Spotify and then deciding you want a physical copy to keep on your shelf. With this new feature, you can buy it right away without switching to another app or website.\n\nSpotify says more updates for book lovers are coming soon. The company seems to have a clear goal: to become the go-to platform for people who enjoy stories, whether they prefer listening or reading.\n\n### A Changing Spotify\n\nThis move shows how Spotify continues to **expand beyond music**. The platform now offers podcasts, audiobooks, and soon — physical books. It will be interesting to see whether users enjoy buying books through Spotify, and whether the company will expand this feature to more countries in the future.",
+      "keyVocab": [
+        {
+          "word": "partnership",
+          "meaning": "협력 관계, 제휴",
+          "example": "The two companies formed a partnership to sell books through the app."
+        },
+        {
+          "word": "expand",
+          "meaning": "확장하다, 넓히다",
+          "example": "Spotify is expanding its services beyond music and podcasts."
+        },
+        {
+          "word": "independent",
+          "meaning": "독립적인, 독자적인",
+          "example": "Bookshop.org supports independent bookstores that are not part of large chains."
+        },
+        {
+          "word": "format",
+          "meaning": "형식, 형태",
+          "example": "Some readers prefer the audiobook format, while others like printed books."
+        },
+        {
+          "word": "convenient",
+          "meaning": "편리한",
+          "example": "It is convenient to buy a book without switching to a different app."
+        }
+      ],
+      "publishedAt": "2026-04-15T11:00:00.000Z"
+    },
+    "6734ca52785c": {
+      "id": "6734ca52785c",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/912297/apple-app-store-ban-grok-x-deepfakes",
+      "title": "Grok’s sexual deepfakes almost got it banned from Apple’s App Store. Almost. ",
+      "theme": "tech",
+      "themeLabel": "기술",
+      "summary": "Apple은 딥페이크 관련 문제로 Elon Musk의 AI 앱 Grok을 App Store에서 삭제하겠다고 비공개로 경고했습니다. Apple은 X와 Grok 팀에 콘텐츠 관리 계획을 수립할 것을 요구했으나, 이 과정은 비공개로 이루어져 비판을 받았습니다.",
+      "difficulty": "B2",
+      "estimatedMinutes": 4,
+      "learnerContent": "## Grok's Deepfake Problem Almost Got It Removed from Apple's App Store\n\nApple came close to removing **Grok**, Elon Musk's AI chatbot app, from its App Store earlier this year. The reason? A serious failure to deal with a flood of **nonconsensual sexual deepfakes** — fake, AI-generated explicit images of real people created without their permission — that were spreading on X, the social media platform also owned by Musk.\n\n### What Happened?\n\nAccording to a report by NBC News, Apple privately threatened to ban Grok from the App Store in **January 2026**. The threat came after a surge of nonconsensual deepfake images appeared on X, causing widespread public outrage. Critics accused both X and Grok of failing to moderate harmful content effectively.\n\nApple sent a letter to US senators explaining its actions. In the letter, Apple stated that it had \"contacted the teams behind both X and Grok after it received complaints and saw news coverage of the scandal.\" Apple then demanded that the developers \"create a plan to improve content moderation.\"\n\n### Why Does This Matter?\n\nThe case highlights the enormous **gatekeeping power** that Apple holds over the digital world. Because Apple controls which apps are allowed on the iPhone through its App Store, a threat of removal is extremely serious for any app developer. Millions of people use iPhones, and losing access to the App Store could devastate a product's reach.\n\nHowever, Apple's response has also drawn criticism. The company acted **behind closed doors**, away from public view, even as the deepfake crisis was playing out openly and attracting widespread media coverage. Many argued that Apple should have taken a stronger and more transparent public stance rather than quietly sending private warnings.\n\n### The Deepfake Crisis on X\n\nNonconsensual deepfakes — particularly those targeting women — have become a growing problem on social media platforms. These images are created using AI tools that can place a real person's face onto an explicit image without their knowledge or consent. Victims often suffer significant emotional distress and reputational harm.\n\nX faced intense criticism for allowing such content to spread. Content moderation — the process of reviewing and removing harmful posts — had reportedly weakened on the platform since Musk took ownership in 2022 and made large cuts to the trust and safety team.\n\n### What Came Next?\n\nApple's warning was enough to prompt action — at least for now. Grok remains available on the App Store, suggesting that Musk's team responded to Apple's demands in some way. However, critics argue that Apple's behind-the-scenes approach set a weak example, and that more visible, decisive action from powerful tech companies is needed to protect users from AI-generated abuse.\n\nThe incident raises important questions about **accountability** in the tech industry: When AI tools are misused to harm people, who is responsible — the platform that hosts the content, the company that built the AI, or the app store that distributes it?",
+      "keyVocab": [
+        {
+          "word": "nonconsensual",
+          "meaning": "동의 없이 이루어진",
+          "example": "The nonconsensual deepfakes were created without the victims' knowledge or permission."
+        },
+        {
+          "word": "content moderation",
+          "meaning": "콘텐츠 관리 (유해 콘텐츠 검토 및 삭제)",
+          "example": "The platform was criticized for its weak content moderation policies."
+        },
+        {
+          "word": "gatekeeper",
+          "meaning": "관문 역할을 하는 사람 또는 기관",
+          "example": "Apple acts as a powerful gatekeeper by deciding which apps are allowed in its store."
+        },
+        {
+          "word": "transparent",
+          "meaning": "투명한, 공개적인",
+          "example": "Critics wanted Apple to be more transparent about how it handles harmful apps."
+        },
+        {
+          "word": "accountability",
+          "meaning": "책임, 책임감",
+          "example": "There are growing calls for greater accountability among AI companies."
+        }
+      ],
+      "publishedAt": "2026-04-15T10:55:22.000Z"
+    },
+    "ea9462f07dbf": {
+      "id": "ea9462f07dbf",
+      "source": "Variety",
+      "sourceUrl": "https://variety.com/2026/music/global/katy-perry-under-investigation-ruby-rose-sex-assault-allegations-1236722201/",
+      "title": "Katy Perry Under Investigation in Australia Over Ruby Rose Sexual Assault Allegations",
+      "theme": "entertainment",
+      "themeLabel": "엔터",
+      "summary": "호주 경찰이 케이티 페리를 성폭행 혐의로 수사 중입니다. 배우 루비 로즈가 케이티 페리를 고발했으며, 케이티 페리는 이를 '무책임한 거짓말'이라고 부인했습니다.",
+      "difficulty": "B1",
+      "estimatedMinutes": 3,
+      "learnerContent": "## Katy Perry Under Investigation in Australia Over Sexual Assault Allegations\n\nAustralian police have opened an investigation into pop star Katy Perry following sexual assault allegations made against her by actor Ruby Rose.\n\n**Who is Ruby Rose?**\n\nRuby Rose is an Australian actor known for popular TV shows and movies, including *Orange Is the New Black* and *Batgirl*. Rose made the allegations publicly, which led to the police investigation in the state of Victoria, Australia.\n\n**What did the police say?**\n\nThe Victoria Police confirmed the investigation in an official statement. The Melbourne Sexual Offences and Child Abuse Investigation Team (SOCIT) is handling the case. This is a specialized police unit that deals with serious allegations of sexual offences.\n\n**How has Katy Perry responded?**\n\nKaty Perry has strongly denied the allegations. She described the claims as \"reckless lies,\" meaning she believes the accusations are false and irresponsible. Her representatives have not provided further details about her response at this time.\n\n**Background and context**\n\nKaty Perry is one of the world's most famous pop stars, known for hit songs like \"Roar,\" \"Firework,\" and \"Teenage Dream.\" She has sold millions of records worldwide and has a large global fanbase.\n\nSexual assault allegations against celebrities have become more common in recent years, especially since the rise of the #MeToo movement, which encouraged people to speak out about their experiences. When such allegations are made, police have a responsibility to investigate them seriously, regardless of the fame or status of the person involved.\n\n**What happens next?**\n\nAt this stage, the investigation is still in its early phases. No charges have been announced. An investigation does not mean that a person is guilty — it simply means that police are looking into the claims carefully. Both Katy Perry and Ruby Rose are likely to cooperate with authorities as the process continues.\n\nThis story is developing, and more information is expected to become available as the investigation progresses.",
+      "keyVocab": [
+        {
+          "word": "allegation",
+          "meaning": "혐의, 주장 (아직 증명되지 않은 고발)",
+          "example": "The actor denied all allegations made against him."
+        },
+        {
+          "word": "investigation",
+          "meaning": "수사, 조사",
+          "example": "The police opened an investigation after receiving the complaint."
+        },
+        {
+          "word": "deny",
+          "meaning": "부인하다, 부정하다",
+          "example": "She denied saying anything rude to her colleague."
+        },
+        {
+          "word": "reckless",
+          "meaning": "무모한, 무책임한",
+          "example": "It was reckless of him to spread rumors without checking the facts."
+        },
+        {
+          "word": "specialize",
+          "meaning": "전문으로 하다",
+          "example": "This team specializes in investigating serious crimes."
+        }
+      ],
+      "publishedAt": "2026-04-15T11:06:15.000Z"
+    },
+    "ebb725523ee7": {
+      "id": "ebb725523ee7",
+      "source": "Variety",
+      "sourceUrl": "https://variety.com/2026/global/global/quirino-awards-animation-latin-america-spain-portugal-1236721620/",
+      "title": "Quirino Animation Awards Lean Into Collaboration as Latin American Producers Adapt to Funding Volatility",
+      "theme": "entertainment",
+      "themeLabel": "엔터",
+      "summary": "라틴 아메리카 최대 애니메이션 시상식인 키리노 어워즈가 9회를 맞이했습니다. 올해 행사는 자금 조달의 불안정성 속에서 라틴 아메리카 애니메이션 산업이 국제 협업을 통해 어떻게 적응하고 있는지를 조명합니다.",
+      "difficulty": "B2",
+      "estimatedMinutes": 4,
+      "learnerContent": "## Quirino Animation Awards Highlight Collaboration as Latin American Studios Face Funding Challenges\n\nThe Quirino Animation Awards, now in its 9th edition, is taking place from April 15 to 17, bringing together animation professionals from across Latin America, Spain, and Portugal. The event serves as both a celebration of the region's creative talent and an important platform for discussing the challenges facing the industry.\n\n**A director with a clearer vision**\n\nSilvina Cornillón, the director of the Quirino Awards, arrives at this year's ceremony in a stronger position than she was a year ago. Having now completed a full cycle in the role, she has developed a deeper understanding of both the event and the broader animation industry it represents.\n\n\"There has been a lot of change,\" Cornillón noted, reflecting on the evolving landscape of Latin American animation. Her fuller perspective allows her to better guide the awards' mission of recognizing and supporting regional talent.\n\n**Funding volatility: a growing concern**\n\nOne of the central themes of this year's Quirino Awards is how Latin American animation producers are adapting to increasing instability in funding. Producing animated content is expensive and time-consuming, and studios in the region have historically relied on a mix of public subsidies, co-production deals, and international streaming partnerships to finance their projects.\n\nHowever, the landscape has shifted. Streaming platforms have become more selective in their commissioning of international content, and public funding in several Latin American countries has become less predictable due to political and economic changes. This uncertainty has forced producers to become more creative and flexible in how they finance and structure their projects.\n\n**Collaboration as a survival strategy**\n\nIn response to these pressures, many studios and producers are leaning more heavily into collaboration — both within the region and with international partners. Co-productions between Latin American countries, as well as partnerships with studios in Europe and beyond, are increasingly seen as a way to share costs, access new markets, and improve the chances of securing distribution deals.\n\nThis collaborative approach is not entirely new to the region, but its importance has grown significantly. The Quirino Awards have long championed this spirit of cooperation, offering a space where professionals can network, share knowledge, and explore new creative partnerships.\n\n**Why the Quirino Awards matter**\n\nThe Quirino Awards were established to recognize excellence in Ibero-American animation — a field that has grown considerably in terms of both quality and international visibility over the past decade. Winners and nominees from past editions have gone on to achieve success at major international festivals, demonstrating the world-class calibre of animation being produced in the region.\n\nAs the industry navigates a difficult period of financial uncertainty, events like the Quirino Awards play an increasingly important role in maintaining momentum, fostering community, and keeping Latin American animation visible on the global stage.",
+      "keyVocab": [
+        {
+          "word": "volatility",
+          "meaning": "불안정성, 변동성",
+          "example": "The volatility of the market made it difficult for small businesses to plan ahead."
+        },
+        {
+          "word": "subsidy",
+          "meaning": "보조금, 지원금",
+          "example": "The government offered subsidies to help local film studios produce more content."
+        },
+        {
+          "word": "commission",
+          "meaning": "(작품을) 의뢰하다, 발주하다",
+          "example": "The streaming platform commissioned ten new animated series this year."
+        },
+        {
+          "word": "co-production",
+          "meaning": "공동 제작",
+          "example": "The film was a co-production between a Brazilian studio and a Spanish broadcaster."
+        },
+        {
+          "word": "champion",
+          "meaning": "(명분·사람을) 지지하다, 옹호하다",
+          "example": "The organization has long championed the rights of independent artists."
+        }
+      ],
+      "publishedAt": "2026-04-15T10:57:03.000Z"
+    },
+    "94394b3fd849": {
+      "id": "94394b3fd849",
+      "source": "Pitchfork News",
+      "sourceUrl": "https://pitchfork.com/news/madonna-readies-confessions-on-a-dance-floor-sequel/",
+      "title": "Madonna Readies Confessions on a Dance Floor Sequel",
+      "theme": "music",
+      "themeLabel": "음악",
+      "summary": "마돈나가 2005년 앨범 'Confessions on a Dance Floor'의 후속작을 준비하고 있습니다. 이번 앨범도 원작을 제작한 스튜어트 프라이스와 함께 작업했습니다. 팬들은 새로운 댄스 팝 음악을 기대하고 있습니다.",
+      "difficulty": "A2",
+      "estimatedMinutes": 4,
+      "learnerContent": "## Madonna Is Making a New Dance Album\n\nMadonna, one of the world's most famous pop stars, is preparing a new album. It will be a sequel to her popular 2005 album called **Confessions on a Dance Floor**.\n\n### What Is a Sequel?\n\nA sequel is a follow-up to something that came before. Just like a second movie continues the story of the first, a music sequel continues the style and feeling of the original album.\n\n### About the Original Album\n\n*Confessions on a Dance Floor* came out in 2005. It was a dance and electronic pop record. Many people loved it because it had a fun, energetic sound perfect for dancing. Songs from the album were played in clubs and on radio stations all around the world. The album was a big success for Madonna.\n\nThe producer of that album was a man named **Stuart Price**. A producer is a person who helps create the sound of an album. They work with the artist in the studio and make important decisions about the music.\n\n### The New Album\n\nNow, almost 20 years later, Madonna is working with Stuart Price again. Together, they are making a new album that follows the style of *Confessions on a Dance Floor*. This means fans can probably expect more dance music with an electronic sound.\n\nMadonna has not yet shared a release date or the name of the new album. But the news is already exciting for her many fans around the world.\n\n### Who Is Madonna?\n\nMadonna's full name is Madonna Louise Ciccone. She was born in the United States in 1958. She became famous in the 1980s with hit songs like *Like a Virgin* and *Material Girl*. Over the years, she has continued to make music and perform. She is often called the \"Queen of Pop\" because of her long and successful music career.\n\nShe is known for always trying new styles and sounds. Making a sequel to one of her most loved albums shows that she still enjoys making dance music for her fans.\n\n### Who Is Stuart Price?\n\nStuart Price is a British musician and music producer. He is well known for producing albums for many different artists. Besides working with Madonna, he has also worked with bands like The Killers and Pet Shop Boys. He is very skilled at creating electronic and dance music, which is why he and Madonna work well together.\n\n### Why This News Is Exciting\n\nFor music fans, it is always exciting when a beloved album gets a sequel. *Confessions on a Dance Floor* is remembered as one of Madonna's best works. Hearing that the same producer is involved gives fans hope that the new album will have a similar high quality.\n\nThe music world is watching closely. More details about the new album are expected to come soon.",
+      "keyVocab": [
+        {
+          "word": "sequel",
+          "meaning": "후속작, 속편",
+          "example": "The movie was so popular that the director decided to make a sequel."
+        },
+        {
+          "word": "producer",
+          "meaning": "음악 프로듀서, 제작자",
+          "example": "The producer worked with the singer to create a new sound for the album."
+        },
+        {
+          "word": "electronic",
+          "meaning": "전자 음악의, 전자적인",
+          "example": "The DJ played electronic music that made everyone want to dance."
+        },
+        {
+          "word": "release date",
+          "meaning": "발매일, 출시일",
+          "example": "The band announced the release date for their new song."
+        },
+        {
+          "word": "energetic",
+          "meaning": "활기찬, 에너지가 넘치는",
+          "example": "The energetic performance made the whole crowd cheer loudly."
+        }
+      ],
+      "publishedAt": "2026-04-14T16:18:37.000Z"
     }
   }
 }

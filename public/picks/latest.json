@@ -3,32 +3,84 @@
   "batchLabel": "4월 15일 추천",
   "articles": [
     {
-      "id": "fb840f8c01cf",
-      "source": "NYT Home",
-      "sourceUrl": "https://www.nytimes.com/2026/04/14/weather/tornado-storm-forecast-midwest-oklahoma-updates.html",
-      "title": "Powerful Storms Prompt Tornado Watches Across the Central U.S.",
-      "theme": "politics",
-      "themeLabel": "시사",
-      "summary": "More than 125 million people face some risk of severe weather on Tuesday, forecasters warned, amid a multiday outbreak of storms.",
-      "difficulty": "B1",
-      "estimatedMinutes": 4,
-      "learnerContent": "# Powerful Storms Prompt Tornado Watches Across the Central U.S.\n\n*Source: NYT Home*\n\nMore than 125 million people face some risk of severe weather on Tuesday, forecasters warned, amid a multiday outbreak of storms.\n\n---\n\n*이 콘텐츠는 더미 데이터입니다. 실제 배포 시에는 Claude API를 통해 학습자 친화적으로 재작성됩니다.*",
-      "keyVocab": [],
-      "publishedAt": "2026-04-15T00:05:49.000Z"
-    },
-    {
       "id": "189cea6e74d0",
       "source": "Variety",
       "sourceUrl": "https://variety.com/2026/tv/news/taylor-frankie-paul-wont-face-charges-domestic-violence-1236721869/",
       "title": "Taylor Frankie Paul Won’t Face Charges Following Domestic Violence Investigation",
       "theme": "entertainment",
       "themeLabel": "엔터",
-      "summary": "“The Secret Lives of Mormon Wives” star Taylor Frankie Paul will not face charges following a domestic violence investigation by the Draper City Police Department, the Salt Lake Co",
+      "summary": "리얼리티 TV 스타 테일러 프랭키 폴은 가정폭력 수사 이후 기소되지 않을 것으로 결정됐습니다. 솔트레이크 카운티 검사 측은 여러 변호사들이 사건을 검토한 끝에 이 결정을 내렸다고 밝혔습니다. 폴은 '모르몬 아내들의 비밀 생활'에 출연한 것으로 잘 알려져 있습니다.",
       "difficulty": "B1",
       "estimatedMinutes": 4,
-      "learnerContent": "# Taylor Frankie Paul Won’t Face Charges Following Domestic Violence Investigation\n\n*Source: Variety*\n\n“The Secret Lives of Mormon Wives” star Taylor Frankie Paul will not face charges following a domestic violence investigation by the Draper City Police Department, the Salt Lake County District Attorney’s Office told The Salt Lake Tribune on Tuesday. “Due to the high profile of the defendant, the cases were reviewed by multiple attorneys,” read [&#8230;]\n\n---\n\n*이 콘텐츠는 더미 데이터입니다. 실제 배포 시에는 Claude API를 통해 학습자 친화적으로 재작성됩니다.*",
-      "keyVocab": [],
+      "learnerContent": "## Taylor Frankie Paul Will Not Face Charges After Domestic Violence Investigation\n\nTaylor Frankie Paul, a star of the reality TV show *The Secret Lives of Mormon Wives*, will not be charged with a crime after a domestic violence investigation. The Salt Lake County District Attorney's Office made this announcement on Tuesday, sharing the news with *The Salt Lake Tribune*.\n\n### What Happened?\n\nThe Draper City Police Department in Utah investigated Taylor Frankie Paul for domestic violence. Domestic violence refers to harmful or abusive behavior between people who live together or are in a close relationship. The investigation looked into whether Paul had committed such acts.\n\nAfter the investigation was completed, the case was sent to the District Attorney's Office. This office decides whether there is enough evidence to formally charge someone with a crime and take them to court.\n\n### The District Attorney's Decision\n\nThe District Attorney's Office said that because Paul is a well-known public figure, the cases were reviewed carefully by multiple attorneys — meaning more than one lawyer examined the evidence. This extra review is sometimes done when a case involves a famous person, to make sure the decision is fair and thorough.\n\nIn the end, the office decided not to move forward with charges. This means Paul will not have to face a trial or any criminal punishment related to this investigation.\n\n### Who Is Taylor Frankie Paul?\n\nTaylor Frankie Paul became famous through the Hulu reality show *The Secret Lives of Mormon Wives*. The show follows a group of women in Utah who are part of the Mormon community and who share their personal lives on social media. Paul was one of the central figures on the show and has a large following on platforms like TikTok.\n\nIn recent years, Paul's personal life attracted a lot of media attention. In 2022, she publicly announced that she and her then-husband were separating, and she spoke openly about their relationship on social media. This added to her public profile and kept her in the spotlight.\n\n### What Does 'Not Facing Charges' Mean?\n\nIt is important to understand what it means when someone does not face charges. It does not automatically mean that nothing happened. It means that prosecutors — the lawyers who represent the government in court — decided there was not enough evidence to prove a crime in court, or that it was not in the public interest to pursue the case.\n\nThis kind of decision is made regularly by district attorneys across the United States. The legal process requires a high level of proof before someone can be convicted of a crime.\n\n### Looking Ahead\n\nFor now, Taylor Frankie Paul is free from any criminal charges related to this investigation. It is unclear how this news will affect her television career or her presence on social media. Fans and media outlets will likely continue to follow her story closely.",
+      "keyVocab": [
+        {
+          "word": "domestic violence",
+          "meaning": "가정폭력 (가까운 관계에 있는 사람 사이에서 발생하는 폭력적이거나 학대적인 행동)",
+          "example": "The police were called to investigate a report of domestic violence at the apartment."
+        },
+        {
+          "word": "charges",
+          "meaning": "기소, 혐의 (범죄를 저질렀다는 공식적인 법적 고발)",
+          "example": "The court dropped all charges against him because there was not enough evidence."
+        },
+        {
+          "word": "District Attorney",
+          "meaning": "지방 검사 (특정 지역에서 정부를 대표하여 형사 사건을 담당하는 변호사)",
+          "example": "The District Attorney decided there was not enough evidence to take the case to trial."
+        },
+        {
+          "word": "investigation",
+          "meaning": "수사, 조사 (사실을 밝히기 위한 공식적인 조사 과정)",
+          "example": "Police launched an investigation after witnesses reported suspicious activity."
+        },
+        {
+          "word": "prosecutor",
+          "meaning": "검사 (법정에서 정부를 대표하여 피고인을 기소하는 변호사)",
+          "example": "The prosecutor argued that the defendant was guilty based on the available evidence."
+        }
+      ],
       "publishedAt": "2026-04-15T00:02:21.000Z"
+    },
+    {
+      "id": "37db7ef86d72",
+      "source": "Variety",
+      "sourceUrl": "https://variety.com/2026/film/news/sean-baker-anora-ti-amo-warner-bros-clockwork-1236720004/",
+      "title": "Sean Baker’s ‘Anora’ Follow-Up ‘Ti Amo!’ Set at New Warner Bros. Movie Label Clockwork",
+      "theme": "film",
+      "themeLabel": "영화",
+      "summary": "워너브라더스가 CinemaCon에서 'Clockwork'이라는 새로운 예술 영화 전문 레이블을 공개했습니다. 오스카 수상 독립 영화사 네온 출신의 세 명의 임원이 이 레이블을 운영할 예정입니다. 첫 번째 작품으로는 숀 베이커 감독의 신작 'Ti Amo!'가 선정되었습니다.",
+      "difficulty": "B2",
+      "estimatedMinutes": 5,
+      "learnerContent": "## Warner Bros. Launches New Specialty Film Label 'Clockwork' with Sean Baker's Next Movie\n\nAt CinemaCon 2026 — the annual convention where movie studios present their upcoming films to theater owners — Warner Bros. made a major announcement. The studio revealed a brand-new specialty film label called **Clockwork**. The label's first project will be *Ti Amo!*, the next film from acclaimed director Sean Baker.\n\n### What Is CinemaCon?\n\nCinemaCon takes place every year in Las Vegas and brings together film studios, directors, and cinema owners from around the world. Studios use the event to generate excitement about their upcoming releases and to build relationships with the theater operators who will screen their films.\n\n### Introducing Clockwork\n\nWarner Bros. film presidents **Michael De Luca** and **Pamela Abdy** introduced Clockwork at the convention. The new label is described as a specialty division — meaning it will focus on smaller, more artistic films rather than the large blockbusters that Warner Bros. is traditionally known for, such as superhero movies or major action franchises.\n\nTo lead Clockwork, Warner Bros. has brought in a trio of experienced creative executives from **Neon**, the independent film studio known for distributing critically acclaimed and award-winning films. Neon gained widespread recognition as the distributor of *Anora*, the 2024 Palme d'Or winner at the Cannes Film Festival, which also won the Academy Award for Best Picture.\n\n### Sean Baker's *Ti Amo!*\n\nThe flagship film for Clockwork will be *Ti Amo!*, the follow-up project from director **Sean Baker**. Baker is best known for *Anora*, which brought him enormous international recognition and marked a significant turning point in his career.\n\n*Ti Amo!* — Italian for \"I love you\" — is the working title of Baker's next feature film. While full plot details have not yet been released, the announcement signals that Baker will continue working at the forefront of American independent cinema, now with the backing of a major studio's specialty label.\n\n### Why Does This Matter?\n\nThe creation of Clockwork reflects a broader trend in the film industry. In recent years, major studios have recognised that there is a dedicated audience for smaller, character-driven, and artistic films that don't rely on big budgets or franchise tie-ins.\n\nBy establishing a specialty label, Warner Bros. can pursue these kinds of projects without disrupting its main studio slate of blockbusters. This strategy allows the studio to compete with established specialty distributors like A24, Searchlight Pictures, and Neon itself.\n\nHiring executives directly from Neon is also a strong strategic move. Neon has demonstrated a remarkable ability to identify and promote films that resonate with both critics and audiences — a skill that Warner Bros. clearly wants to apply through Clockwork.\n\n### A New Chapter for Independent-Style Cinema\n\nFor filmmakers like Sean Baker, a partnership with Clockwork could offer the best of both worlds: the creative freedom of independent filmmaking combined with the marketing power and distribution network of a major Hollywood studio.\n\nAll eyes will now be on *Ti Amo!* as it develops, with many in the industry curious to see whether Clockwork can replicate the critical success that Neon achieved with *Anora*.",
+      "keyVocab": [
+        {
+          "word": "specialty label",
+          "meaning": "전문 레이블 (대형 스튜디오 내에서 예술성 높은 소규모 영화를 전담하는 부서 또는 브랜드)",
+          "example": "The studio launched a specialty label to distribute independent films that wouldn't suit its mainstream slate."
+        },
+        {
+          "word": "distributor",
+          "meaning": "배급사 (영화를 극장이나 플랫폼에 공급하는 역할을 하는 회사)",
+          "example": "The film found a distributor willing to release it in cinemas across North America."
+        },
+        {
+          "word": "acclaimed",
+          "meaning": "호평받는, 찬사를 받는 (비평가나 대중으로부터 높은 평가를 받은)",
+          "example": "The acclaimed director received standing ovations at film festivals around the world."
+        },
+        {
+          "word": "franchise",
+          "meaning": "프랜차이즈 (동일한 캐릭터나 세계관을 바탕으로 만들어진 일련의 영화나 작품들)",
+          "example": "The studio invested heavily in its superhero franchise, releasing three films per year."
+        },
+        {
+          "word": "flagship",
+          "meaning": "대표적인, 주력의 (어떤 그룹이나 조직에서 가장 중요하거나 대표적인 것)",
+          "example": "The flagship store in central London attracts thousands of visitors every week."
+        }
+      ],
+      "publishedAt": "2026-04-15T00:01:38.000Z"
     },
     {
       "id": "54f03fe95d81",
@@ -37,26 +89,78 @@
       "title": "US Blockade Stops Iran-Linked Ships From Crossing Strait of Hormuz",
       "theme": "business",
       "themeLabel": "경제",
-      "summary": "U.S. Central Command said that six vessels had complied with directions to turn around and re-enter an Iranian port.",
+      "summary": "미국 중부사령부는 이란과 연관된 선박 6척이 호르무즈 해협을 통과하려다 미군의 봉쇄 명령에 따라 이란 항구로 돌아갔다고 밝혔습니다. 호르무즈 해협은 세계 석유 공급의 핵심 통로로, 이번 사건은 미국과 이란 간의 긴장을 높이고 있습니다.",
       "difficulty": "B1",
-      "estimatedMinutes": 4,
-      "learnerContent": "# US Blockade Stops Iran-Linked Ships From Crossing Strait of Hormuz\n\n*Source: NYT Business*\n\nU.S. Central Command said that six vessels had complied with directions to turn around and re-enter an Iranian port.\n\n---\n\n*이 콘텐츠는 더미 데이터입니다. 실제 배포 시에는 Claude API를 통해 학습자 친화적으로 재작성됩니다.*",
-      "keyVocab": [],
+      "estimatedMinutes": 3,
+      "learnerContent": "## US Navy Stops Iran-Linked Ships at the Strait of Hormuz\n\nThe United States military has blocked several ships connected to Iran from passing through the Strait of Hormuz. U.S. Central Command reported that six vessels followed orders to turn around and return to an Iranian port.\n\n### What Is the Strait of Hormuz?\n\nThe Strait of Hormuz is a narrow waterway located between Iran and Oman. It connects the Persian Gulf to the Arabian Sea. This strait is one of the most important shipping routes in the world. Experts estimate that about 20% of the world's oil supply passes through it every day. Because of this, any conflict or blockade in this area can affect global energy prices.\n\n### What Happened?\n\nU.S. Central Command, which manages American military operations in the Middle East, announced that its forces stopped the six Iran-linked ships from entering the strait. The ships were ordered to change course and go back to an Iranian port. All six vessels obeyed the instructions.\n\nThe U.S. military did not immediately explain the exact reason why these specific ships were stopped. However, the United States has been closely watching Iranian shipping activity in recent months. Washington has accused Iran of using ships to transport oil and weapons in ways that violate international sanctions.\n\n### Why Does This Matter?\n\nThis event is significant for several reasons. First, it shows that the United States is willing to use its military to enforce pressure on Iran. Second, it demonstrates the strategic importance of the Strait of Hormuz. If this waterway were closed or seriously disrupted, it could cause major problems for the global oil market.\n\nTensions between the United States and Iran have remained high for many years. The two countries disagree on issues such as Iran's nuclear program, its support for armed groups in the Middle East, and international sanctions. Actions like this naval blockade can increase those tensions further.\n\n### International Reactions\n\nOther countries that depend on oil flowing through the Strait of Hormuz are likely watching this situation carefully. Nations in Asia and Europe import large amounts of oil that travels through this route. Any long-term disruption could push up energy costs worldwide.\n\nSo far, Iran has not made an official public response to this specific incident. Analysts will be watching to see whether Iran takes any action in return and how the situation develops in the coming days.\n\nThis is a developing story, and more details are expected to emerge as officials release further information about the blockade and the ships involved.",
+      "keyVocab": [
+        {
+          "word": "blockade",
+          "meaning": "봉쇄 (군사적으로 통행을 막는 행위)",
+          "example": "The navy set up a blockade to stop ships from entering the port."
+        },
+        {
+          "word": "vessel",
+          "meaning": "선박, 배",
+          "example": "Six vessels were ordered to return to their home port."
+        },
+        {
+          "word": "strait",
+          "meaning": "해협 (두 바다를 연결하는 좁은 수로)",
+          "example": "The strait is only a few kilometres wide at its narrowest point."
+        },
+        {
+          "word": "sanctions",
+          "meaning": "제재 (국제적으로 부과되는 경제적·정치적 처벌)",
+          "example": "The country faced sanctions because it broke international trade rules."
+        },
+        {
+          "word": "strategic",
+          "meaning": "전략적인 (군사적·정치적으로 중요한)",
+          "example": "The port has great strategic importance because it controls access to the sea."
+        }
+      ],
       "publishedAt": "2026-04-14T23:47:14.000Z"
     },
     {
-      "id": "dba46af42ae1",
+      "id": "3330a5054e81",
       "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/entertainment/912025/godzilla-minus-zero-teaser-trailer",
-      "title": "Godzilla Minus Zero stomps through New York in first teaser trailer",
+      "sourceUrl": "https://www.theverge.com/tech/912114/microsoft-surface-hub-displays-discontinued",
+      "title": "Microsoft&#8217;s finally giving up on its massive Surface Hub touchscreen displays",
       "theme": "tech",
       "themeLabel": "기술",
-      "summary": "*insert Godzilla screeching sound* Here's the very first look at the next big kaiju feature. Godzilla Minus Zero will continue the story of 2023's Godzilla Minus One, which returne",
-      "difficulty": "B1",
-      "estimatedMinutes": 4,
-      "learnerContent": "# Godzilla Minus Zero stomps through New York in first teaser trailer\n\n*Source: The Verge*\n\n*insert Godzilla screeching sound* Here's the very first look at the next big kaiju feature. Godzilla Minus Zero will continue the story of 2023's Godzilla Minus One , which returned the franchise to the more grounded tone established in the original film, and while the new teaser trailer doesn't show a whole lot, it suggests some big things for the series. Minus Zero is set in 1949, two years after the first movie, \"and continues the story of the Shikishima family as they face an all-new calamity,\" according to the official logline. Apparently that includes shifting the setting from Tokyo to New York, as we see Godzilla right next to the St … Read the full story at The Verge.\n\n---\n\n*이 콘텐츠는 더미 데이터입니다. 실제 배포 시에는 Claude API를 통해 학습자 친화적으로 재작성됩니다.*",
-      "keyVocab": [],
-      "publishedAt": "2026-04-14T23:05:09.000Z"
+      "summary": "마이크로소프트가 대형 터치스크린 협업 디스플레이인 Surface Hub 3의 생산을 중단하고 Surface Hub 4 계획도 취소할 예정인 것으로 알려졌습니다. Surface Hub는 2015년에 처음 발표된 이후 약 10년간 운영되었으며, 최대 2만 달러에 달하는 높은 가격이 특징이었습니다. 이번 결정은 Surface 제품 라인업의 축소 흐름을 반영하는 것으로 보입니다.",
+      "difficulty": "B2",
+      "estimatedMinutes": 5,
+      "learnerContent": "## Microsoft Is Ending Its Surface Hub Product Line\n\nMicrosoft is reportedly shutting down its Surface Hub product line. According to Windows Central, the company has stopped production of the Surface Hub 3 and has cancelled all plans for a Surface Hub 4. This marks the end of a product that lasted for nearly a decade but never quite found mainstream success.\n\n### What Was the Surface Hub?\n\nThe Surface Hub was a large interactive touchscreen display designed for business meetings and collaboration. It functioned as a digital whiteboard with a fully built-in PC, allowing teams to draw, annotate, and share content during meetings — without needing a separate computer.\n\nMicrosoft first announced the Surface Hub in 2015, ahead of the launch of Windows 10. It was released in two sizes: a 50-inch model priced at $8,000 and an 85-inch model priced at $20,000. These premium price points positioned the Surface Hub firmly in the enterprise market, targeting large corporations and organizations rather than everyday consumers.\n\n### A Long but Quiet Run\n\nDespite its high price and relatively niche appeal, the Surface Hub outlasted several other ambitious Microsoft hardware projects. The Surface Duo — a dual-screen Android phone — was discontinued after poor sales. The Surface Studio all-in-one desktop, once celebrated for its elegant design, was also quietly retired. Even the Surface Headphones, Microsoft's attempt at the premium audio market, did not survive.\n\nThe Surface Hub also outlasted Panos Panay, the executive who led the Surface division for many years and became the public face of Microsoft's hardware ambitions. Panay departed Microsoft in 2023 to join Amazon, signalling a broader shift in Microsoft's hardware strategy.\n\n### Why Is Microsoft Walking Away?\n\nThe decision to end the Surface Hub line reflects broader changes in how businesses approach workplace collaboration. The COVID-19 pandemic accelerated the adoption of remote and hybrid work models, which led many companies to invest in software-based collaboration tools — such as Microsoft Teams itself — rather than expensive physical hardware installed in meeting rooms.\n\nIn this environment, a $20,000 wall-mounted display becomes harder to justify, even for large enterprises. Cloud-based video conferencing and digital whiteboard software can replicate many of the Hub's features at a fraction of the cost.\n\n### What This Means for Microsoft Hardware\n\nThe discontinuation of the Surface Hub is another sign that Microsoft is narrowing its focus in the hardware space. The company continues to invest in its Surface Pro and Surface Laptop lines, which compete directly in the mainstream PC market. However, experimental or enterprise-focused devices appear to be falling out of favour.\n\nMicrosoft has not yet made an official public statement confirming the cancellation, but if the reports are accurate, the Surface Hub will join a growing list of discontinued Microsoft products that were innovative in concept but struggled to achieve commercial scale.",
+      "keyVocab": [
+        {
+          "word": "discontinue",
+          "meaning": "중단하다, 생산을 멈추다",
+          "example": "The company decided to discontinue the product due to low sales."
+        },
+        {
+          "word": "enterprise",
+          "meaning": "기업, 대규모 사업체 (형용사로는 '기업용'의 의미)",
+          "example": "The software was designed for enterprise clients with thousands of employees."
+        },
+        {
+          "word": "niche",
+          "meaning": "틈새 (시장), 특정 소수를 위한",
+          "example": "The product had a niche appeal and was only popular among a small group of professionals."
+        },
+        {
+          "word": "annotate",
+          "meaning": "주석을 달다, 메모를 추가하다",
+          "example": "Students can annotate the digital document by adding notes and highlights."
+        },
+        {
+          "word": "replicate",
+          "meaning": "복제하다, 동일하게 재현하다",
+          "example": "The new software can replicate many features of the old system at a much lower cost."
+        }
+      ],
+      "publishedAt": "2026-04-14T22:56:52.000Z"
     },
     {
       "id": "47ce036e8de2",
@@ -65,11 +169,37 @@
       "title": "Watch Hayley Williams and Jeff Tweedy Cover Unknown Mortal Orchestra on Colbert",
       "theme": "music",
       "themeLabel": "음악",
-      "summary": "The Wilco frontman and Paramore singer performed the band’s 2010 track, “Ffunny Ffrends.”",
-      "difficulty": "B1",
-      "estimatedMinutes": 4,
-      "learnerContent": "# Watch Hayley Williams and Jeff Tweedy Cover Unknown Mortal Orchestra on Colbert\n\n*Source: Pitchfork News*\n\nThe Wilco frontman and Paramore singer performed the band’s 2010 track, “Ffunny Ffrends.”\n\n---\n\n*이 콘텐츠는 더미 데이터입니다. 실제 배포 시에는 Claude API를 통해 학습자 친화적으로 재작성됩니다.*",
-      "keyVocab": [],
+      "summary": "헤일리 윌리엄스와 제프 트위디가 콜베르 쇼에서 Unknown Mortal Orchestra의 노래를 함께 불렀습니다. 두 사람은 2010년 곡 'Ffunny Ffrends'를 커버했습니다.",
+      "difficulty": "A2",
+      "estimatedMinutes": 3,
+      "learnerContent": "## Hayley Williams and Jeff Tweedy Perform Together on Colbert\n\nTwo well-known musicians came together for a special performance on *The Late Show with Stephen Colbert*. Hayley Williams and Jeff Tweedy covered a song by the band Unknown Mortal Orchestra.\n\n### Who Are They?\n\n**Hayley Williams** is the lead singer of the popular rock band Paramore. Paramore has been making music since the early 2000s and is loved by fans all over the world. Songs like *Misery Business* and *Decode* made them famous.\n\n**Jeff Tweedy** is the frontman, or lead singer, of Wilco. Wilco is an American rock band that has been active since the 1990s. Tweedy is also known as a solo artist and music producer.\n\n### What Did They Perform?\n\nThe two musicians performed a **cover** of a song called *Ffunny Ffrends*. A cover is when a musician sings or plays a song that was originally made by someone else.\n\n*Ffunny Ffrends* was released in 2010 by **Unknown Mortal Orchestra**, often called UMO. Unknown Mortal Orchestra is an indie rock and psychedelic pop band. The band was started by Ruban Nielson, who was born in New Zealand but later moved to the United States. Their music has a warm, retro sound that many listeners enjoy.\n\n### About the Show\n\n*The Late Show with Stephen Colbert* is a popular American late-night TV show. Many musicians, actors, and celebrities appear on the show to talk and perform. It is a great place for artists to share their music with a large audience.\n\n### Why Is This Special?\n\nIt is not very common to see two artists from very different bands perform together like this. Hayley Williams is known for her powerful pop-rock style, while Jeff Tweedy has a more quiet, folk-rock sound. Together, they gave the UMO song a fresh and interesting feeling.\n\nFans of all three artists — Paramore, Wilco, and Unknown Mortal Orchestra — were excited to see this unexpected performance. Videos of the performance were shared widely on social media after the show aired.",
+      "keyVocab": [
+        {
+          "word": "cover",
+          "meaning": "다른 가수의 노래를 다시 부르는 것",
+          "example": "The band performed a cover of a famous Beatles song at the concert."
+        },
+        {
+          "word": "frontman",
+          "meaning": "밴드의 리드 보컬 또는 대표 멤버",
+          "example": "The frontman of the band sang every song with great energy."
+        },
+        {
+          "word": "perform",
+          "meaning": "공연하다, 연주하다",
+          "example": "She was nervous before she had to perform on stage for the first time."
+        },
+        {
+          "word": "release",
+          "meaning": "발표하다, 출시하다",
+          "example": "The artist released a new album last month."
+        },
+        {
+          "word": "audience",
+          "meaning": "청중, 관객",
+          "example": "The audience clapped loudly after the musician finished playing."
+        }
+      ],
       "publishedAt": "2026-04-14T16:43:54.000Z"
     }
   ]

@@ -5,6 +5,7 @@ import { findArticle, loadLatestPicks } from "@/lib/picks";
 import { renderSimpleMarkdown } from "@/lib/markdown";
 import { THEME_COLORS } from "@/lib/types";
 import SaveButton from "@/components/SaveButton";
+import ListenButton from "@/components/ListenButton";
 import ReadProgress from "@/components/ReadProgress";
 import BadgeToast from "@/components/BadgeToast";
 
@@ -42,7 +43,10 @@ export default async function ArticlePage({
           >
             {article.themeLabel}
           </span>
-          <SaveButton article={article} />
+          <div className="flex items-center gap-2">
+            <ListenButton text={article.learnerContent} />
+            <SaveButton article={article} compact />
+          </div>
         </div>
 
         <h1 className="text-2xl font-bold leading-tight mb-3">{article.title}</h1>

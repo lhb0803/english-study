@@ -41,8 +41,9 @@ Pages (`/`, `/article/[id]`, `/my`) read `public/picks/latest.json` at build tim
 4. **Model name.** Use `claude-sonnet-4-6`. An earlier run used a stale ID and a request hung; the current configuration has a 120s timeout and 2 retries to keep failures loud and fast.
 5. **Claude JSON output is fragile.** We ask for a raw JSON array (no code fences). Parse failures log `head`/`tail` of the response so you can diagnose. If you change the schema, update both `SYSTEM_PROMPT` in `scripts/process-with-claude.ts` and the `ClaudeResult` type.
 6. **Tailwind v4 has no typography plugin by default.** Article body styles live in `src/app/globals.css` under `.article-body` — don't add `prose` classes.
-7. **Client components need SSR guards.** Any component that reads zustand state must gate on a `mounted` flag or a `useEffect` to avoid hydration mismatches (see `StreakBanner`, `SaveButton`).
+7. **Client components need SSR guards.** Any component that reads zustand state must gate on a `mounted` flag or a `useEffect` to avoid hydration mismatches (see `StreakBanner`, `SaveButton`, `ListenButton`).
    - `article.summary` (Korean, 2-3 sentences from Claude) is rendered in two places: the home card (`ArticleCard`) and the bottom of the detail page (`src/app/article/[id]/page.tsx`, below Key Vocabulary). Keep both in mind when changing the field's length or format.
+   - `ListenButton` (`src/components/ListenButton.tsx`) uses the browser `SpeechSynthesis` API — no server cost, no extra deps. It strips markdown from `learnerContent` before speaking and calls `speechSynthesis.cancel()` on unmount so audio stops on navigation. Quality is OS/browser dependent; if we ever want higher fidelity, the upgrade path is server-side TTS at build time (mp3 in `public/audio/`).
 8. **Streak is day-based, not batch-based.** `markCompleted` uses local date; the batch cron is twice a week but users can still read saved/past articles on any day to keep their streak.
 9. **Workflow secrets.** `ANTHROPIC_API_KEY` lives in GitHub repo Secrets (Actions scope). Vercel does not need it — all Claude work happens in CI, not at runtime.
 

@@ -7,7 +7,7 @@ const geistSans = Geist({ variable: "--font-geist-sans", subsets: ["latin"] });
 const geistMono = Geist_Mono({ variable: "--font-geist-mono", subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "English Study",
+  title: "Study with HYOB",
   description: "Daily English articles picked for learners",
 };
 
@@ -23,7 +23,7 @@ export default function RootLayout({
         <header className="sticky top-0 z-40 bg-white/80 backdrop-blur border-b border-neutral-200">
           <nav className="max-w-2xl mx-auto px-5 h-14 flex items-center justify-between">
             <Link href="/" className="font-semibold tracking-tight">
-              📰 English Study
+              📰 Study with HYOB
             </Link>
             <div className="flex items-center gap-5 text-sm text-neutral-700">
               <Link href="/" className="hover:text-neutral-950">홈</Link>

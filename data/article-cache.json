@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-15T11:14:09.001Z",
+  "updatedAt": "2026-04-17T21:43:14.131Z",
   "articles": {
     "189cea6e74d0": {
       "id": "189cea6e74d0",
@@ -561,6 +561,406 @@
         }
       ],
       "publishedAt": "2026-04-14T16:18:37.000Z"
+    },
+    "bf2bb74e8278": {
+      "id": "bf2bb74e8278",
+      "source": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world/live/2026/apr/17/middle-east-crisis-live-news-israel-lebanon-ceasefire-iran-war-us-latest-updates",
+      "title": "Middle East crisis live: Iran reopens strait of Hormuz but US blockade remains",
+      "theme": "politics",
+      "themeLabel": "시사",
+      "summary": "이란이 호르무즈 해협을 재개방했으며, 이스라엘과 레바논 사이에 10일간의 휴전이 발효되었습니다. 도널드 트럼프 미국 대통령이 이 합의를 발표했으며, 양국 지도자를 백악관으로 초청했습니다. 유엔 사무총장도 휴전을 환영하며 협상으로 이어지길 희망했습니다.",
+      "difficulty": "B1",
+      "estimatedMinutes": 4,
+      "learnerContent": "## Iran Reopens Strait of Hormuz as Israel-Lebanon Ceasefire Begins\n\nTwo major developments are shaping the Middle East situation. Iran has announced that the Strait of Hormuz is fully open again, and a 10-day ceasefire between Israel and Lebanon has come into effect.\n\n### What Is the Strait of Hormuz?\n\nThe Strait of Hormuz is a narrow waterway between Iran and Oman. It is one of the most important shipping routes in the world. A large share of the world's oil and gas passes through it. When Iran announced the strait was open, oil and gas prices fell sharply on global markets. US President Donald Trump praised the move on social media.\n\n### The Israel-Lebanon Ceasefire\n\nA 10-day ceasefire between Israel and the Lebanese militant group Hezbollah came into effect at midnight on Thursday (9pm GMT). The fighting between the two sides had killed more than 2,100 Lebanese people and forced more than 2.1 million people to leave their homes.\n\nPresident Trump announced the agreement. He said he had spoken with Israeli Prime Minister Benjamin Netanyahu and Lebanese President Joseph Aoun. Trump also invited both leaders to the White House for \"meaningful talks.\"\n\nBoth leaders welcomed the ceasefire. However, both Israel and Hezbollah said they still had the right to defend themselves if the other side broke the truce.\n\n### Netanyahu's Position\n\nNetanyahu called the ceasefire a \"historic\" opportunity for peace. However, he refused to withdraw Israeli troops from southern Lebanon during the pause in fighting. \"We are remaining in Lebanon in an expanded security zone,\" he said. He explained that this was necessary to prevent attacks into Israel and to guard against what he called \"the danger of an invasion.\"\n\n### International Reactions\n\nUnited Nations Secretary-General António Guterres welcomed the ceasefire. He urged \"all actors\" to fully respect the agreement. He also expressed hope that the halt in fighting would \"pave the way for negotiations\" toward a lasting peace.\n\nIran's foreign ministry spokesperson also welcomed the ceasefire. Iran said the agreement was already part of an earlier Iran-US deal that was arranged by Pakistan.\n\n### Warnings About Returning Home\n\nDespite the ceasefire, officials warned civilians to be careful. The Lebanese army warned people who had been displaced from southern Lebanon not to return home yet, because some shelling was still reported after the ceasefire began. The Israeli military also warned residents of southern Lebanon not to return south of the Litani River.\n\nBoth sides had continued to exchange fire in the hours just before the truce took effect, showing how fragile the situation remains.\n\n### Why This Matters\n\nA ceasefire does not mean permanent peace. It is a pause in fighting that gives both sides time to negotiate. The situation in the Middle East remains tense, and the coming days will show whether this 10-day agreement can hold and lead to something more lasting.",
+      "keyVocab": [
+        {
+          "word": "ceasefire",
+          "meaning": "휴전 (전투를 일시적으로 중단하는 합의)",
+          "example": "The two countries agreed to a ceasefire to stop the fighting."
+        },
+        {
+          "word": "strait",
+          "meaning": "해협 (두 바다를 잇는 좁은 수로)",
+          "example": "The strait is an important route for ships carrying oil."
+        },
+        {
+          "word": "displaced",
+          "meaning": "실향된 (전쟁이나 재난으로 집을 떠나게 된)",
+          "example": "More than two million people were displaced by the conflict."
+        },
+        {
+          "word": "truce",
+          "meaning": "휴전, 정전 (적대 행위를 멈추는 합의)",
+          "example": "Both sides agreed to respect the truce and stop shooting."
+        },
+        {
+          "word": "withdraw",
+          "meaning": "철수하다 (군대나 사람을 어떤 지역에서 빼내다)",
+          "example": "The general refused to withdraw his troops from the border."
+        }
+      ],
+      "publishedAt": "2026-04-17T21:28:04.000Z"
+    },
+    "95cfc8f5984d": {
+      "id": "95cfc8f5984d",
+      "source": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/us-news/live/2026/apr/17/house-congress-republicans-trump-administration-us-politics-news-live",
+      "title": "Senate passes short-term extension of surveillance law – US politics live",
+      "theme": "politics",
+      "themeLabel": "시사",
+      "summary": "미국 상원이 FISA 감시법을 10일 연장하는 법안을 통과시켰습니다. 이는 공화당 내부 갈등으로 더 긴 연장안이 부결된 이후 나온 임시방편입니다. 또한 트럼프 대통령은 미국 질병통제예방센터(CDC)의 새 국장으로 에리카 슈워츠를 지명했습니다.",
+      "difficulty": "B1",
+      "estimatedMinutes": 4,
+      "learnerContent": "## US Senate Passes 10-Day Extension of Surveillance Law\n\nThe United States Senate has passed a short-term extension of an important surveillance law known as FISA. The extension gives lawmakers 10 more days to decide the law's future.\n\n### What Is FISA?\n\nFISA stands for the Foreign Intelligence Surveillance Act. It is a US law that allows government agencies, such as the FBI and NSA, to monitor and collect information on people they believe are threats to national security. Controversially, in some cases FISA allows this surveillance to happen without a standard court warrant. This means the government does not always need a judge's permission before collecting someone's private communications.\n\nSupporters of the law say it is essential for protecting the country from terrorism and foreign threats. Critics argue that it can be used to spy on ordinary American citizens without proper oversight.\n\n### Why Only 10 Days?\n\nThe Senate passed the 10-day extension by a voice vote. This came after the House of Representatives failed to agree on longer extensions. On Thursday night, the House defeated proposals for both a five-year extension and an 18-month extension.\n\nThe failed votes reflect serious disagreements within the Republican Party about how long the law should continue and whether it needs reform. Because no long-term deal could be reached, Congress chose the short 10-day extension as a temporary solution to avoid the law expiring entirely.\n\n### Republican Infighting\n\nThe difficulty in passing a longer extension highlights divisions inside the Republican Party. Some Republicans want to renew the law for several years with few changes. Others are deeply concerned about civil liberties and want stronger protections against the government surveilling American citizens. These disagreements made it impossible to agree on a longer plan.\n\n### New CDC Director Named\n\nIn other US political news, President Donald Trump has chosen Erica Schwartz to lead the Centers for Disease Control and Prevention (CDC). The CDC is the main US government agency responsible for public health and disease prevention.\n\nThe agency has faced significant challenges and controversy in recent years. The search for a permanent director had lasted several months. Schwartz previously served as the deputy surgeon general during Trump's first term in office, so she is familiar with the federal health system.\n\nHowever, before she can officially take the job, the Senate must confirm her appointment. This confirmation process requires a vote in the Senate, which could take additional time.\n\n### Iran News\n\nAlso notable, Trump posted on social media about Iran, writing in capital letters: \"IRAN HAS JUST ANNOUNCED THAT THE STRAIT OF IRAN IS FULLY OPEN AND READY FOR FULL PASSAGE. THANK YOU!\" This relates to the broader situation in the Middle East, where Iran's reopening of the Strait of Hormuz is seen as a positive diplomatic development.",
+      "keyVocab": [
+        {
+          "word": "surveillance",
+          "meaning": "감시 (특히 정부가 사람들을 지켜보거나 정보를 수집하는 행위)",
+          "example": "The law allows surveillance of people suspected of terrorism."
+        },
+        {
+          "word": "extension",
+          "meaning": "연장 (기간이나 기한을 늘리는 것)",
+          "example": "Congress passed a 10-day extension to give more time for debate."
+        },
+        {
+          "word": "warrant",
+          "meaning": "영장 (법원이 수색이나 체포를 허가하는 문서)",
+          "example": "Police usually need a warrant before searching someone's home."
+        },
+        {
+          "word": "confirmation",
+          "meaning": "인준, 승인 (의회가 대통령의 지명을 공식 승인하는 절차)",
+          "example": "Her appointment requires confirmation by the Senate."
+        },
+        {
+          "word": "infighting",
+          "meaning": "내분 (같은 집단 내부의 갈등이나 분쟁)",
+          "example": "Infighting among party members made it hard to pass the bill."
+        }
+      ],
+      "publishedAt": "2026-04-17T21:20:52.000Z"
+    },
+    "a7e192a206be": {
+      "id": "a7e192a206be",
+      "source": "NYT Business",
+      "sourceUrl": "https://www.nytimes.com/2026/04/17/business/sazerac-brown-forman-jack-daniels.html",
+      "title": "Sazerac Prepares $15 Billion Cash Offer for Maker of Jack Daniels",
+      "theme": "business",
+      "themeLabel": "경제",
+      "summary": "켄터키주의 주류 회사 Sazerac이 잭 다니엘스를 만드는 Brown-Forman을 약 150억 달러에 인수하려 합니다. 이 제안은 전 세계적으로 주류 소비가 줄어드는 어려운 시기에 나왔습니다.",
+      "difficulty": "B1",
+      "estimatedMinutes": 3,
+      "learnerContent": "## Sazerac Makes a $15 Billion Bid for the Maker of Jack Daniel's\n\nA major American spirits company called Sazerac is preparing a cash offer of about $15 billion to buy Brown-Forman, the company that makes Jack Daniel's whiskey. This would be one of the biggest deals in the history of the alcohol industry.\n\n**Who are these companies?**\n\nSazerac is a privately owned spirits company based in Kentucky. It produces many well-known American whiskeys and other alcoholic drinks. Brown-Forman is also based in Kentucky and is one of the most famous spirits companies in the world. Its best-known product is Jack Daniel's Tennessee Whiskey, which is sold in more than 170 countries.\n\n**Why is this deal happening now?**\n\nThe timing of this offer is interesting because the alcohol industry is facing serious challenges right now. Across the world, fewer people are drinking alcohol than before. Younger generations, in particular, are choosing to drink less or not at all. This trend has hurt sales for many alcohol companies, including Brown-Forman.\n\nBrown-Forman has seen its stock price fall significantly in recent months. This drop in value may have made the company a more attractive target for a buyer like Sazerac.\n\n**What does a \"cash offer\" mean?**\n\nWhen a company makes a \"cash offer\" to buy another company, it means it plans to pay with money directly, rather than with shares of stock. A $15 billion cash offer is very large and shows that Sazerac is serious about this deal.\n\n**What could this mean for the industry?**\n\nIf Sazerac successfully buys Brown-Forman, the combined company would become one of the most powerful spirits businesses in the world. It would control a wide range of popular brands across whiskey, bourbon, and other categories.\n\nHowever, large deals like this often face review by government regulators. Authorities check whether a merger would reduce competition in the market and harm consumers.\n\n**A difficult time for alcohol companies**\n\nThis potential deal reflects a broader trend of consolidation in the alcohol industry. When sales slow down, larger companies sometimes try to grow by buying competitors rather than waiting for the market to recover. For Sazerac, acquiring Brown-Forman could give it more global reach and a stronger position in the premium whiskey market.\n\nIt remains to be seen whether Brown-Forman will accept the offer or look for other options. Industry watchers will be following this story closely in the coming weeks.",
+      "keyVocab": [
+        {
+          "word": "bid",
+          "meaning": "인수 제안, 입찰",
+          "example": "The company made a bid to buy its largest competitor for $10 billion."
+        },
+        {
+          "word": "consolidation",
+          "meaning": "통합, 합병",
+          "example": "Consolidation in the industry means there are now fewer, but larger, companies."
+        },
+        {
+          "word": "regulators",
+          "meaning": "규제 당국",
+          "example": "Government regulators reviewed the merger to make sure it was fair for consumers."
+        },
+        {
+          "word": "premium",
+          "meaning": "고급의, 프리미엄",
+          "example": "Premium whiskey brands are sold at much higher prices than ordinary ones."
+        },
+        {
+          "word": "acquisition",
+          "meaning": "인수, 취득",
+          "example": "The acquisition of the smaller firm helped the company expand into new markets."
+        }
+      ],
+      "publishedAt": "2026-04-17T21:30:39.000Z"
+    },
+    "049f94ea1c6f": {
+      "id": "049f94ea1c6f",
+      "source": "NYT Business",
+      "sourceUrl": "https://www.nytimes.com/2026/04/17/world/middleeast/strait-hormuz-open-iran-lebanon-ceasefire.html",
+      "title": "Strait of Hormuz Is Open During Cease-Fire in Lebanon, U.S. and Iran Say",
+      "theme": "business",
+      "themeLabel": "경제",
+      "summary": "미국과 이란은 레바논 휴전 기간 동안 호르무즈 해협이 열려 있다고 발표했습니다. 그러나 해운 전문가들은 여전히 위험이 남아 있다고 경고했습니다.",
+      "difficulty": "B2",
+      "estimatedMinutes": 4,
+      "learnerContent": "## Strait of Hormuz Declared Open, but Shipping Experts Warn of Continued Risks\n\nThe United States and Iran have both issued statements saying that the Strait of Hormuz remains open to shipping during a cease-fire in Lebanon. However, experts in the shipping industry are cautioning that the waterway is not entirely safe, and that significant risks still remain.\n\n**What is the Strait of Hormuz?**\n\nThe Strait of Hormuz is one of the most strategically important waterways in the world. It is a narrow passage of water located between Iran and the Arabian Peninsula, connecting the Persian Gulf to the Gulf of Oman and the wider Arabian Sea. Roughly 20% of the world's oil supply passes through this strait, making it absolutely critical for global energy markets. Any disruption to shipping in this area can cause oil prices to rise sharply around the world.\n\n**What did the U.S. and Iran say?**\n\nPresident Trump and Iranian officials both made public statements intended to reassure global markets and the international shipping community. Their goal was to signal that the cease-fire in Lebanon had reduced tensions enough to keep the strait open and operational. Both sides appeared to want to prevent panic in oil markets and avoid further economic disruption.\n\n**Why are shipping experts still concerned?**\n\nDespite the official reassurances, professionals in the shipping and maritime industries remain cautious. Experts point out that political statements do not automatically eliminate the physical dangers that vessels face in the region. Iran has previously threatened to close the strait during periods of heightened tension, and naval incidents — including the seizure of commercial ships — have occurred in recent years.\n\nInsurance costs for vessels passing through the strait have risen considerably, reflecting the industry's ongoing concern about security. Shipping companies must weigh the financial cost of higher insurance premiums against the risk of choosing longer alternative routes.\n\n**The broader geopolitical context**\n\nThe situation in the Strait of Hormuz is closely linked to wider tensions involving Iran, the United States, Israel, and various regional actors. The cease-fire in Lebanon has provided a temporary reduction in hostilities, but the underlying conflicts that drive instability in the region have not been resolved.\n\nEnergy analysts note that even a brief closure of the strait — or a series of attacks on tankers — could send shockwaves through global oil markets. Countries that depend heavily on Gulf oil exports, including several in Asia and Europe, are watching developments closely.\n\n**What happens next?**\n\nFor now, commercial shipping continues to move through the Strait of Hormuz, but at elevated risk and cost. Diplomatic efforts to maintain the cease-fire and stabilize the region will be essential if confidence in the waterway's safety is to be fully restored. Until then, shipping companies and energy markets will remain on alert.",
+      "keyVocab": [
+        {
+          "word": "cease-fire",
+          "meaning": "휴전",
+          "example": "The two sides agreed to a cease-fire after months of intense fighting."
+        },
+        {
+          "word": "reassure",
+          "meaning": "안심시키다",
+          "example": "The government issued a statement to reassure investors that the economy was stable."
+        },
+        {
+          "word": "disruption",
+          "meaning": "혼란, 방해",
+          "example": "The storm caused serious disruption to shipping routes across the region."
+        },
+        {
+          "word": "maritime",
+          "meaning": "해상의, 해운의",
+          "example": "Maritime insurance costs have risen due to increased risks in the region."
+        },
+        {
+          "word": "geopolitical",
+          "meaning": "지정학적",
+          "example": "Geopolitical tensions in the Middle East often affect global oil prices."
+        }
+      ],
+      "publishedAt": "2026-04-17T20:46:05.000Z"
+    },
+    "12cef8f3f45c": {
+      "id": "12cef8f3f45c",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/04/russia-friendly-exchange-says-western-special-service-behind-15-million-cyberattack/",
+      "title": "Russia-friendly exchange says \"western special service\" behind $15 million cyberattack",
+      "theme": "tech",
+      "themeLabel": "기술",
+      "summary": "러시아 친화적 암호화폐 거래소 Grinex가 약 1,500만 달러 규모의 사이버 공격을 받아 운영을 중단했습니다. Grinex는 이 공격이 '서방 특수 기관' 해커들에 의해 이루어졌다고 주장했습니다. 블록체인 연구 기관들은 피해 규모를 확인했지만, 공격자들이 어떻게 보안을 뚫었는지는 아직 밝혀지지 않았습니다.",
+      "difficulty": "B1",
+      "estimatedMinutes": 4,
+      "learnerContent": "## Russia-Friendly Crypto Exchange Blames Western Hackers for $15 Million Theft\n\nA cryptocurrency exchange called Grinex has stopped all operations after hackers stole around $15 million worth of digital assets. The exchange blamed \"western special services\" — meaning government intelligence agencies from Western countries — for the attack.\n\n### What Is Grinex?\n\nGrinex is a cryptocurrency exchange registered in Kyrgyzstan, a country in Central Asia. The United States government has placed sanctions on the exchange, which means American companies and individuals are not allowed to do business with it. Grinex is considered friendly toward Russia, and its users are mainly Russian.\n\n### What Happened?\n\nHackers drained, or emptied, about 70 digital wallet addresses connected to the exchange. Grinex itself reported around 54 affected addresses, but blockchain research company TRM Labs found approximately 16 more. TRM confirmed that the total value of stolen assets was about $15 million — slightly more than the $13 million that Grinex originally reported.\n\nAnother research firm called Elliptic also looked into the attack. However, neither TRM nor Elliptic has explained how the attackers were able to get past Grinex's security systems.\n\n### A Pattern of Attacks\n\nGrinex said this was not the first time it had been targeted. According to the exchange, it has faced almost constant cyberattack attempts since it was founded about 16 months ago. The most recent attack, however, was different — it specifically targeted Russian users of the platform.\n\n### Grinex's Accusation\n\nIn a public statement, Grinex said the attack was highly sophisticated. The company wrote: \"The digital footprints and nature of the attack indicate an unprecedented level of resources and technology available exclusively to the structures of unfriendly states.\"\n\nIn simpler terms, Grinex is claiming that only a government — specifically a Western government — would have enough money and technology to carry out such an attack.\n\nGrinex also said the attack was designed to damage \"Russia's financial sovereignty,\" meaning it was meant to weaken Russia's control over its own money and financial systems.\n\n### What Does This Mean?\n\nCybersecurity experts have not confirmed Grinex's claims about who was responsible. Blaming foreign governments for cyberattacks is common, but it is very difficult to prove. Without clear evidence, these accusations are hard to verify.\n\nThis event is a reminder of how cryptocurrency exchanges can be vulnerable to large-scale theft, and how cyberattacks are increasingly connected to international politics.",
+      "keyVocab": [
+        {
+          "word": "sanctions",
+          "meaning": "제재 (특정 국가나 기관과의 거래를 금지하는 조치)",
+          "example": "The United States placed sanctions on the exchange, so American businesses could not trade with it."
+        },
+        {
+          "word": "drained",
+          "meaning": "비워진, 탈취된 (계좌나 지갑의 돈이 모두 사라진)",
+          "example": "Hackers drained the digital wallets and stole all the cryptocurrency inside."
+        },
+        {
+          "word": "sophisticated",
+          "meaning": "정교한, 고도로 발달된",
+          "example": "The cyberattack was so sophisticated that security experts struggled to understand how it worked."
+        },
+        {
+          "word": "sovereignty",
+          "meaning": "주권 (국가가 스스로를 통치할 수 있는 권한)",
+          "example": "The attack was said to be an attempt to damage Russia's financial sovereignty."
+        },
+        {
+          "word": "verify",
+          "meaning": "확인하다, 검증하다",
+          "example": "It is difficult to verify who was truly responsible for the cyberattack without solid evidence."
+        }
+      ],
+      "publishedAt": "2026-04-17T21:28:35.000Z"
+    },
+    "5243640524b2": {
+      "id": "5243640524b2",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/914463/openai-sora-bill-peebles-kevin-weil-leaving-departing",
+      "title": "OpenAI’s former Sora boss is leaving",
+      "theme": "tech",
+      "themeLabel": "기술",
+      "summary": "OpenAI의 Sora 비디오 생성 도구 팀장 Bill Peebles가 회사를 떠난다고 발표했습니다. OpenAI는 최근 코딩과 기업 서비스에 더 집중하기 위해 우선순위를 바꾸고 있으며, Sora 프로젝트도 축소되었습니다. Peebles의 퇴사는 이러한 회사 방향 전환의 일부입니다.",
+      "difficulty": "B1",
+      "estimatedMinutes": 4,
+      "learnerContent": "## OpenAI's Sora Team Leader Is Leaving the Company\n\nBill Peebles, the leader of OpenAI's Sora video generation team, has announced that he is leaving the company. His departure comes shortly after OpenAI made the decision to scale back the Sora project.\n\n### What Is Sora?\n\nSora is an artificial intelligence tool developed by OpenAI that can generate videos from text descriptions. For example, a user could type a sentence like \"a dog running on a beach at sunset,\" and Sora would create a video showing exactly that. When OpenAI first introduced Sora, it attracted a lot of attention because the videos it produced looked very realistic.\n\nHowever, last month — in March 2026 — OpenAI decided to give up on Sora as a major project. The company appears to have decided it was not a core part of its future plans.\n\n### Why Is OpenAI Changing Direction?\n\nOpenAI has been refocusing its business strategy. The company wants to avoid what it calls \"side quests\" — meaning projects that are interesting but not central to its main goals. Instead, OpenAI is putting more energy into areas like coding tools and services for business customers, also known as enterprise use.\n\nThis shift in priorities means that some projects, like Sora, are receiving less attention and fewer resources.\n\n### Bill Peebles' Departure\n\nBill Peebles announced his decision to leave OpenAI in a post on the social media platform X (formerly known as Twitter). In his message, he expressed gratitude to the company's leadership, including OpenAI CEO Sam Altman.\n\nPeebles wrote: \"I am immensely grateful to Sam, Mark, Aditya and Jakub for fostering a research environment that allowed us to pursue ideas off the beaten path from the company's mainline roadmap.\"\n\nIn other words, he thanked his colleagues for giving his team the freedom to explore creative and unusual ideas, even when those ideas were not the company's top priority.\n\n### A Bigger Picture\n\nPeebles' exit is not the only major change happening at OpenAI. The company has seen several departures and internal changes recently as it adjusts its focus. These changes suggest that OpenAI is trying to become a more focused and commercially successful company, rather than exploring every possible AI application.\n\nFor many observers, this raises questions about the future of creative AI tools like video generation, and whether large AI companies will continue to invest in them or move toward more profitable products.",
+      "keyVocab": [
+        {
+          "word": "scale back",
+          "meaning": "축소하다, 규모를 줄이다",
+          "example": "The company decided to scale back the project because it was not making enough money."
+        },
+        {
+          "word": "departure",
+          "meaning": "퇴사, 떠남",
+          "example": "His departure from the company surprised many people who admired his work."
+        },
+        {
+          "word": "enterprise",
+          "meaning": "기업, 사업체 (특히 비즈니스 고객을 위한)",
+          "example": "The software company shifted its focus to enterprise customers who could pay for large subscriptions."
+        },
+        {
+          "word": "fostering",
+          "meaning": "육성하다, 장려하다",
+          "example": "Good managers are skilled at fostering a creative environment where employees feel free to share ideas."
+        },
+        {
+          "word": "roadmap",
+          "meaning": "로드맵, 계획 방향 (회사나 프로젝트의 미래 계획)",
+          "example": "The company's roadmap for the next two years includes launching three new products."
+        }
+      ],
+      "publishedAt": "2026-04-17T21:13:25.000Z"
+    },
+    "68392bfc3600": {
+      "id": "68392bfc3600",
+      "source": "Variety",
+      "sourceUrl": "https://variety.com/2026/tv/columns/the-pitt-season-2-finale-review-1236724647/",
+      "title": "‘The Pitt’ Season 2 Didn’t Have a Defining Disaster — and Proved It Doesn’t Need One",
+      "theme": "entertainment",
+      "themeLabel": "엔터",
+      "summary": "'더 핏' 시즌 2는 시즌 1처럼 극적인 재난 사건 없이도 시청자들의 기대를 충족시켰습니다. 이 의학 드라마는 실시간 형식으로 진행되며, 에미상 수상 등 큰 성공을 거두었습니다. 시즌 2는 단순한 충격적 사건 없이도 드라마의 완성도를 증명했습니다.",
+      "difficulty": "B1",
+      "estimatedMinutes": 4,
+      "learnerContent": "## *The Pitt* Season 2: Proving a Big Disaster Isn't Always Necessary\n\n*The Pitt* is a medical drama series that tells its story in real time. This means that one season of the show covers roughly one full day inside a busy hospital emergency room. The show first aired in January of last year, releasing new episodes week by week in a traditional style — not all at once like many streaming shows do today.\n\n### A Strong Start with Season 1\n\nSeason 1 was praised by both critics and audiences. It built up to a major dramatic event near the end — a large-scale disaster that shocked viewers and kept them talking. That exciting finale helped the show win several Emmy Awards, which are some of the most important prizes in American television. Suddenly, *The Pitt* became one of the most talked-about shows on TV.\n\n### What Changed in Season 2?\n\nWith all that success, many viewers expected Season 2 to follow the same formula — build slowly, then end with a huge, defining disaster. However, the creators of *The Pitt* made a different choice. Season 2 did not include a single massive dramatic event at the end. Instead, it focused on smaller, more personal stories throughout the season.\n\nThis was a bold decision. When a show becomes very popular because of one big moment, it can be tempting to repeat that same idea. But *The Pitt* chose to grow in a different direction.\n\n### Why This Approach Worked\n\nBy removing the need for a climactic disaster, the show was able to focus more on its characters — the doctors, nurses, and patients inside the emergency room. Viewers got to understand these people more deeply. Their everyday struggles, difficult decisions, and emotional moments became the heart of the show.\n\nThis approach showed that *The Pitt* is not just a show about dramatic events. It is a show about the real, ongoing challenges of working in a hospital. Emergency rooms are busy and stressful every single day — not only when something catastrophic happens.\n\n### Playing with Audience Expectations\n\nOnly two seasons in, *The Pitt* is already doing something that many shows take years to attempt — it is challenging what audiences expect from it. Most viewers came into Season 2 waiting for another explosive ending. Instead, they found something quieter but equally powerful.\n\nThis kind of creative confidence is rare, especially for a show that is still quite new. It suggests that the writers and producers believe strongly in their characters and their storytelling style.\n\n### What's Next?\n\nIt is still early in the show's life, and it will be interesting to see how audiences and award voters respond to this new direction. Will *The Pitt* continue to win major awards without a big dramatic event driving the story? Season 2 suggests the answer might be yes.\n\nFor now, *The Pitt* stands as an example of a medical drama that is willing to take risks — and that trusts its viewers to appreciate good storytelling, even without a spectacular disaster.",
+      "keyVocab": [
+        {
+          "word": "real time",
+          "meaning": "실제 시간 그대로 (이야기가 실제 경과 시간과 동일하게 진행됨)",
+          "example": "The show is set in real time, so one episode covers just one hour of the day."
+        },
+        {
+          "word": "climactic",
+          "meaning": "절정의, 가장 극적인 순간의",
+          "example": "The climactic scene at the end of the movie left everyone speechless."
+        },
+        {
+          "word": "formula",
+          "meaning": "공식, 성공을 위한 정해진 방법",
+          "example": "Many action movies follow the same formula: a hero, a villain, and a big final battle."
+        },
+        {
+          "word": "catastrophic",
+          "meaning": "재앙적인, 엄청난 피해를 주는",
+          "example": "The flood was catastrophic, destroying hundreds of homes in the town."
+        },
+        {
+          "word": "creative confidence",
+          "meaning": "창작에 대한 자신감, 자신의 예술적 선택을 믿는 것",
+          "example": "It takes creative confidence to make a film that goes against audience expectations."
+        }
+      ],
+      "publishedAt": "2026-04-17T21:30:00.000Z"
+    },
+    "212e633e4db2": {
+      "id": "212e633e4db2",
+      "source": "Variety",
+      "sourceUrl": "https://variety.com/2026/tv/news/qvc-hsn-bankruptcy-debt-customers-1236724742/",
+      "title": "Parent Company of QVC and HSN Files for Bankruptcy: What Does It Mean for Customers, and What Happens Next?",
+      "theme": "business",
+      "themeLabel": "경제",
+      "summary": "QVC와 HSN 쇼핑 채널을 운영하는 QVC 그룹이 막대한 부채로 인해 미국 내 사업에 대해 챕터 11 파산 보호를 신청했습니다. 이는 케이블 TV 쇼핑 산업의 큰 위기를 보여줍니다. 고객과 직원들에게 미칠 영향에 대한 우려가 커지고 있습니다.",
+      "difficulty": "B2",
+      "estimatedMinutes": 5,
+      "learnerContent": "## QVC and HSN's Parent Company Files for Bankruptcy: What You Need to Know\n\nQVC Group, the company that owns and operates QVC and HSN — two of the most well-known shopping channels in American cable television — has filed for Chapter 11 bankruptcy protection for its U.S. businesses. The filing comes after years of mounting debt that the company has been unable to manage.\n\n### What Is Chapter 11 Bankruptcy?\n\nIn the United States, Chapter 11 bankruptcy is a legal process that allows a company to continue operating while it reorganises its finances. It is different from total bankruptcy, where a company simply closes down. Under Chapter 11, the business keeps running, but it works with courts and creditors — the people and organisations it owes money to — to create a plan to reduce its debts.\n\nThis type of bankruptcy is sometimes described as a \"second chance\" for struggling businesses. The goal is to restructure the company so that it can survive in the long term, rather than shutting it down entirely.\n\n### Why Did QVC Group File for Bankruptcy?\n\nQVC Group has been carrying an enormous amount of debt. Over the years, the rise of online shopping platforms — particularly Amazon — has significantly reduced the number of people watching and buying from traditional TV shopping channels. Fewer viewers mean fewer sales, and fewer sales make it harder to repay large debts.\n\nThe company filed what is known as a restructuring support agreement alongside its bankruptcy paperwork. This suggests that QVC Group already has a plan in place to reorganise its finances, which is generally seen as a positive sign for the company's future.\n\n### What Does This Mean for Customers?\n\nFor customers who regularly shop on QVC or HSN, the immediate concern is likely: \"Can I still shop? Will my orders be fulfilled? What about my returns?\"\n\nIn most Chapter 11 cases, the answer is reassuring in the short term. Because the business continues to operate during the bankruptcy process, customers should generally still be able to place orders, receive their products, and make returns as usual. However, the situation can change as the restructuring process develops, so customers are advised to stay informed.\n\nGift cards and store credits can sometimes be at risk during bankruptcy proceedings, as they may be treated as debts owed to customers. It is worth monitoring any official announcements from the company.\n\n### What About Employees?\n\nQVC and HSN together employ a large number of people across the United States. Bankruptcy does not automatically mean job losses, but restructuring plans often involve reducing costs — which can sometimes include layoffs. Employees will likely be watching developments closely in the coming weeks.\n\n### A Sign of the Times\n\nThe fall of QVC Group into bankruptcy reflects a broader trend in the retail industry. Cable TV shopping was once a revolutionary concept — allowing people to buy products from their living rooms decades before the internet made that idea commonplace. Today, however, e-commerce has overtaken traditional TV shopping in almost every way.\n\nWhether QVC and HSN can successfully restructure and adapt to the modern shopping landscape remains to be seen. But their story is a powerful reminder that even long-established businesses must evolve — or risk being left behind.",
+      "keyVocab": [
+        {
+          "word": "bankruptcy",
+          "meaning": "파산, 더 이상 빚을 갚을 수 없는 상태",
+          "example": "The small restaurant chain declared bankruptcy after losing customers during the pandemic."
+        },
+        {
+          "word": "restructuring",
+          "meaning": "구조조정, 회사의 재정이나 조직을 재편성하는 것",
+          "example": "The airline went through major restructuring to reduce costs and avoid closing down."
+        },
+        {
+          "word": "creditor",
+          "meaning": "채권자, 돈을 빌려준 사람이나 기관",
+          "example": "The company met with its creditors to negotiate a plan for repaying its debts."
+        },
+        {
+          "word": "mounting debt",
+          "meaning": "점점 늘어나는 부채",
+          "example": "Years of poor sales led to mounting debt that the business could no longer ignore."
+        },
+        {
+          "word": "e-commerce",
+          "meaning": "전자 상거래, 인터넷을 통한 상품 구매 및 판매",
+          "example": "The growth of e-commerce has made it harder for traditional stores to compete."
+        }
+      ],
+      "publishedAt": "2026-04-17T20:38:56.000Z"
+    },
+    "d671ccad8834": {
+      "id": "d671ccad8834",
+      "source": "Pitchfork News",
+      "sourceUrl": "https://pitchfork.com/news/wu-lyf-postpone-us-shows/",
+      "title": "Wu Lyf Postpone North American Shows",
+      "theme": "music",
+      "themeLabel": "음악",
+      "summary": "영국 밴드 Wu Lyf가 비자 처리 지연을 이유로 북미 공연 일정을 연기했습니다. 밴드는 가능한 한 빨리 새로운 날짜를 발표할 것이라고 밝혔습니다.",
+      "difficulty": "A2",
+      "estimatedMinutes": 3,
+      "learnerContent": "## Wu Lyf Postpone North American Shows\n\nThe band Wu Lyf has postponed their concerts in North America. This means the shows will not happen on the original dates. Fans who were excited to see them will have to wait a little longer.\n\n**Why did this happen?**\n\nThe band said the reason is \"delays in visa processing.\" A visa is an official document that allows a person to travel to another country. Sometimes, governments take a long time to approve visas. This can cause problems for musicians who need to travel internationally for tours.\n\nWu Lyf is a band from Manchester, England. To perform in North America, the band members need special work visas. These visas can be difficult and slow to get. Unfortunately, their visas were not ready in time.\n\n**What will happen next?**\n\nIn their official statement, the band wrote that they will \"be announcing new dates as soon as possible.\" This means they still plan to perform in North America. They just need more time to fix the visa problem.\n\nFans should watch the band's official website and social media pages for updates. New show dates will be shared there when they are ready.\n\n**Visa problems are common for touring musicians**\n\nThis kind of problem happens to many artists who travel around the world for concerts. Getting a work visa for the United States or Canada can take many weeks. If there are any delays, a whole tour can be pushed back.\n\nFor fans, it is disappointing to hear that a show is postponed. However, the good news is that Wu Lyf still wants to come and perform. The concerts are not cancelled — only delayed.\n\nIf you already bought tickets, check with the venue or ticketing website to learn about your options. Many venues will keep your ticket valid for the new date, or offer a refund if you cannot attend.",
+      "keyVocab": [
+        {
+          "word": "postpone",
+          "meaning": "연기하다",
+          "example": "The concert was postponed because of bad weather."
+        },
+        {
+          "word": "visa",
+          "meaning": "비자 (해외 입국 허가 서류)",
+          "example": "She needed a visa to travel and work in the United States."
+        },
+        {
+          "word": "delay",
+          "meaning": "지연, 늦어짐",
+          "example": "There was a delay in processing his travel documents."
+        },
+        {
+          "word": "statement",
+          "meaning": "공식 성명, 발표",
+          "example": "The band released a statement explaining why the show was cancelled."
+        },
+        {
+          "word": "venue",
+          "meaning": "공연장, 행사 장소",
+          "example": "The venue can hold up to 5,000 people."
+        }
+      ],
+      "publishedAt": "2026-04-17T18:07:52.000Z"
+    },
+    "c67f57d6502e": {
+      "id": "c67f57d6502e",
+      "source": "Pitchfork News",
+      "sourceUrl": "https://pitchfork.com/news/listen-to-kacey-musgraves-new-song-middle-of-nowhere/",
+      "title": "Listen to Kacey Musgraves’ New Song “Middle of Nowhere”",
+      "theme": "music",
+      "themeLabel": "음악",
+      "summary": "케이시 머스그레이브스가 새 앨범의 타이틀곡 'Middle of Nowhere'를 공개했습니다. 이 곡은 그녀가 코첼라 페스티벌에 갑작스럽게 출연하기 직전에 발표되었습니다.",
+      "difficulty": "B1",
+      "estimatedMinutes": 4,
+      "learnerContent": "## Kacey Musgraves Releases New Song \"Middle of Nowhere\"\n\nCountry-pop star Kacey Musgraves has released a brand new song called **\"Middle of Nowhere.\"** The track is the title song of her upcoming new album, which shares the same name. Fans have been eagerly waiting for new music from Musgraves, and this release has created a lot of excitement.\n\n**A title track ahead of the album**\n\nIn the music industry, the \"title track\" is the song that has the same name as the album it belongs to. Releasing a title track early is a common strategy artists use to build anticipation. It gives listeners a first look — or rather, a first listen — at the overall mood and style of the new album.\n\n\"Middle of Nowhere\" arrives as Musgraves prepares to share more of her new musical direction with the world. Her previous albums, including the critically acclaimed *Golden Hour*, won her multiple Grammy Awards and attracted a wide international fanbase.\n\n**A surprise Coachella appearance**\n\nThe timing of this release is particularly interesting. The song dropped just before Musgraves performed at **Coachella**, one of the most famous music festivals in the world, held in the California desert every April.\n\nHer Coachella set was described as \"late-notice,\" meaning it was announced without much advance warning. Last-minute additions to festival lineups are sometimes called surprise or pop-up sets. These unannounced appearances often generate huge buzz, as fans and media are caught off guard.\n\nPerforming at Coachella is a major moment for any artist. The festival is watched by millions of people both in person and through live streams online. Debuting her new song there — or performing shortly after its release — gives \"Middle of Nowhere\" an enormous platform.\n\n**What to expect from the new album**\n\nAlthough full details about the album have not yet been confirmed, the title *Middle of Nowhere* suggests themes of isolation, reflection, or searching for one's place in the world — topics that Musgraves has explored thoughtfully in her past work.\n\nFans and critics alike will be paying close attention to how this new chapter sounds compared to her earlier music. With a high-profile Coachella appearance and a fresh single already out, Musgraves is clearly ready to make a strong impression with her return.",
+      "keyVocab": [
+        {
+          "word": "title track",
+          "meaning": "타이틀곡 (앨범과 같은 이름의 곡)",
+          "example": "The title track of the album was released as the first single."
+        },
+        {
+          "word": "anticipation",
+          "meaning": "기대, 설렘",
+          "example": "There was a lot of anticipation before the band announced their new tour."
+        },
+        {
+          "word": "late-notice",
+          "meaning": "사전 예고 없이, 갑작스러운",
+          "example": "The artist made a late-notice appearance at the festival, surprising everyone."
+        },
+        {
+          "word": "lineup",
+          "meaning": "(행사의) 출연진 목록",
+          "example": "The festival lineup included some of the biggest names in music."
+        },
+        {
+          "word": "platform",
+          "meaning": "발판, 알릴 수 있는 기회나 공간",
+          "example": "Winning the award gave her a platform to share her message with more people."
+        }
+      ],
+      "publishedAt": "2026-04-17T16:55:45.000Z"
     }
   }
 }

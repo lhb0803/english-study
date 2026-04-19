@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-17T21:43:14.131Z",
+  "updatedAt": "2026-04-19T21:37:38.654Z",
   "articles": {
     "189cea6e74d0": {
       "id": "189cea6e74d0",
@@ -961,6 +961,406 @@
         }
       ],
       "publishedAt": "2026-04-17T16:55:45.000Z"
+    },
+    "d70e2f5f2434": {
+      "id": "d70e2f5f2434",
+      "source": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/australia-news/live/2026/apr/20/australia-news-live-pocock-gas-tax-fuel-crisis-jim-chalmers-anthony-albanese-budget-ben-roberts-smith-war-crimes-ntwnfb",
+      "title": "Australia news live: Pocock buys billboards to pressure Chalmers on gas export tax; survey reveals national gloom",
+      "theme": "politics",
+      "themeLabel": "시사",
+      "summary": "호주 독립 상원의원 데이비드 포콕이 가스 수출에 25% 세금을 부과해 복지와 주택 비용을 마련하자고 주장하고 있습니다. 자선단체와 사회서비스 단체들도 부동산 세금 혜택 축소와 가스 수출 이익 과세를 통해 저소득층을 지원해야 한다고 촉구하고 있습니다. 알바니즈 정부는 다음 달 연방 예산안을 앞두고 강한 압박을 받고 있습니다.",
+      "difficulty": "B1",
+      "estimatedMinutes": 3,
+      "learnerContent": "## Australian Politician Pushes for Gas Export Tax to Help Vulnerable People\n\nAustralian independent senator David Pocock is putting pressure on the government to introduce a new tax on gas exports. He wants energy companies to pay a **25% tax** on the profits they make from selling gas overseas. Pocock has even paid for billboards around the country to spread his message and push Treasurer Jim Chalmers to act.\n\n### Why Is This Tax Being Proposed?\n\nGlobal energy prices have risen sharply in recent years, partly because of the worldwide energy crisis. As a result, gas companies operating in Australia have made very large profits from selling gas to other countries. Pocock and others argue that ordinary Australians are not benefiting from these profits, while some of the most vulnerable people in the country are struggling badly.\n\nCharities and social service groups support the idea. They say that people on the lowest incomes are already skipping meals, delaying visits to the doctor, and using less heating or electricity just to survive. Frontline services — such as food banks, shelters, and support centres — are completely full and cannot keep up with the growing number of people who need help.\n\n### What Would the Money Be Used For?\n\nPocock wants the money raised from the gas export tax to fund two main things: **welfare payments** and **housing**. He argues that increasing support payments would help low-income families cover basic costs like food and medicine. Building more affordable housing would also help people who are currently homeless or paying too much rent.\n\nThe groups supporting this plan say that the government needs to make \"significant and sustained public investment\" — meaning large amounts of spending over a long period of time — to truly fix these problems.\n\n### Pressure on Property Tax Rules Too\n\nThe Albanese government is also facing calls to change rules around **property investment**. Currently, Australians who invest in property receive two major tax benefits:\n\n- **Negative gearing**: investors can reduce their taxable income if their property costs more than it earns.\n- **Capital gains tax discount**: investors only pay tax on 50% of the profit when they sell a property.\n\nCritics say these rules mostly help wealthy investors and make it harder for regular people to buy homes. Charities want the government to reduce or remove these benefits and use the extra tax money to build social housing and increase welfare support.\n\n### What Happens Next?\n\nAustralia's federal budget is due next month. This is when the government will announce its spending and tax plans for the coming year. Many people are watching closely to see whether Treasurer Jim Chalmers will take action on gas taxes and property investment rules.\n\nThe pressure from Senator Pocock, charities, and community groups shows that many Australians are unhappy with the current situation. A recent survey also revealed a general feeling of pessimism — or \"national gloom\" — among the Australian public about the direction the country is heading.\n\nWhether the government will respond with bold new policies remains to be seen.",
+      "keyVocab": [
+        {
+          "word": "export tax",
+          "meaning": "수출세 (다른 나라로 물건을 팔 때 내는 세금)",
+          "example": "The government introduced an export tax on oil to raise money for public services."
+        },
+        {
+          "word": "welfare",
+          "meaning": "복지 (정부가 어려운 사람들에게 제공하는 지원)",
+          "example": "Many families rely on welfare payments to cover the cost of food and rent."
+        },
+        {
+          "word": "negative gearing",
+          "meaning": "네거티브 기어링 (부동산 투자 손실로 세금을 줄이는 제도)",
+          "example": "Negative gearing allows property investors to lower their tax bill if their costs are higher than their rental income."
+        },
+        {
+          "word": "frontline services",
+          "meaning": "일선 서비스 (사람들을 직접 돕는 복지·지원 기관)",
+          "example": "Frontline services like food banks and shelters are under great pressure during an economic crisis."
+        },
+        {
+          "word": "sustained investment",
+          "meaning": "지속적인 투자 (장기간에 걸쳐 꾸준히 돈을 쓰는 것)",
+          "example": "Experts say sustained investment in education is needed to improve outcomes for young people."
+        }
+      ],
+      "publishedAt": "2026-04-19T21:24:36.000Z"
+    },
+    "82c56b80a3da": {
+      "id": "82c56b80a3da",
+      "source": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world/live/2026/apr/19/middle-east-crisis-live-iran-us-strait-of-hormuz-trump-lebanon-israel",
+      "title": "Middle East crisis live: Iran reportedly rejects US peace talks; Trump says marines took custody of an Iranian-flagged vessel",
+      "theme": "politics",
+      "themeLabel": "시사",
+      "summary": "이란이 미국과의 평화 협상을 거부했다는 보도가 나온 가운데, 트럼프 대통령은 미 해군이 이란 국기를 단 선박을 나포했다고 밝혔습니다. 이란은 미국이 봉쇄를 해제할 때까지 호르무즈 해협을 계속 폐쇄하겠다고 선언했습니다. 한편 레바논 남부에서는 유엔 평화유지군이 무장 공격을 받아 프랑스 군인 1명이 사망하고 3명이 부상을 입었습니다.",
+      "difficulty": "B2",
+      "estimatedMinutes": 4,
+      "learnerContent": "## Middle East Crisis Deepens: Iran Rejects Talks, Strait of Hormuz Remains Closed\n\nTensions in the Middle East have escalated significantly, with Iran reportedly rejecting US peace talks while a dangerous standoff at sea continues to threaten global trade and regional stability.\n\n### Iran Closes the Strait of Hormuz\n\nIran has announced that it will keep the **Strait of Hormuz** closed until the United States lifts its naval blockade on Iranian ports. The Strait of Hormuz is one of the most important shipping routes in the world — roughly 20% of the world's oil passes through it. Closing it sends a strong signal and has the potential to disrupt global energy supplies.\n\nThe US imposed the blockade as part of its pressure campaign against Iran, but Tehran has responded by blocking this critical waterway, dramatically raising the stakes in the ongoing standoff.\n\n### US Navy Fires on Iranian-Flagged Vessel\n\nPresident Trump stated that a US navy ship fired on an **Iranian-flagged vessel** after it attempted to pass through the blockade on Iranian ports. According to Trump, US marines subsequently took custody of the ship. The incident marks a significant escalation in direct military confrontation between American and Iranian forces at sea.\n\nDetails remain limited, but the episode illustrates how quickly the situation could spiral into a broader military conflict if diplomatic efforts continue to stall.\n\n### Iran Reportedly Rejects Peace Talks\n\nDespite international pressure to find a diplomatic solution, Iran has reportedly rejected proposals for direct peace negotiations with the United States. While the reasons behind this rejection have not been fully disclosed, analysts suggest Iran may view negotiations as a sign of weakness while it is under active military and economic pressure.\n\nThe refusal to engage in talks makes it harder for international mediators to find a peaceful way out of the crisis.\n\n### UN Peacekeeper Killed in Lebanon\n\nIn a separate but related development, United Nations Secretary-General **António Guterres** strongly condemned an attack on UN peacekeepers in southern Lebanon. A French peacekeeper was killed and three others were wounded after the **UNIFIL** peacekeeping force came under small-arms fire on Saturday morning. Two of the wounded soldiers were described as seriously injured.\n\nFrance's president also condemned the attack. UNIFIL — the United Nations Interim Force in Lebanon — has been deployed in southern Lebanon for decades to help maintain a fragile ceasefire between Israel and Hezbollah.\n\nUN spokesman **Stéphane Dujarric** confirmed the incident in a statement to the Associated Press, calling it an unacceptable attack on international peacekeepers.\n\n### Why This Matters\n\nThe combination of the Strait of Hormuz closure, the naval confrontation, Iran's rejection of diplomacy, and the attack on UN peacekeepers paints a deeply troubling picture of a region sliding toward wider conflict. The closure of the strait alone could drive up global oil prices and affect economies around the world.\n\nInternational observers are calling for an urgent diplomatic resolution, but with both sides hardening their positions, a peaceful outcome appears increasingly difficult to achieve in the short term.",
+      "keyVocab": [
+        {
+          "word": "blockade",
+          "meaning": "봉쇄 (군사적으로 항구나 지역을 막아 물자나 사람이 드나들지 못하게 하는 것)",
+          "example": "The navy enforced a blockade to prevent ships from entering or leaving the enemy's port."
+        },
+        {
+          "word": "escalate",
+          "meaning": "악화되다, 확대되다 (상황이 점점 더 심각해지다)",
+          "example": "The conflict escalated after both sides refused to negotiate."
+        },
+        {
+          "word": "custody",
+          "meaning": "구금, 억류 (누군가나 무언가를 통제하에 두는 것)",
+          "example": "The police took the suspect into custody after he was found near the scene."
+        },
+        {
+          "word": "condemn",
+          "meaning": "강력히 비난하다 (어떤 행동이 잘못되었다고 공개적으로 말하다)",
+          "example": "World leaders condemned the attack on the civilian hospital."
+        },
+        {
+          "word": "diplomatic resolution",
+          "meaning": "외교적 해결 (전쟁이 아닌 대화와 협상을 통해 분쟁을 해결하는 것)",
+          "example": "Both countries agreed to pursue a diplomatic resolution rather than military action."
+        }
+      ],
+      "publishedAt": "2026-04-19T21:20:08.000Z"
+    },
+    "bb10fcf1bb8d": {
+      "id": "bb10fcf1bb8d",
+      "source": "NYT Business",
+      "sourceUrl": "https://www.nytimes.com/2026/04/19/business/career-graduation-jobs-gen-z.html",
+      "title": "This Is a Hard Time to Start a Career. These Two Words Can Help.",
+      "theme": "business",
+      "themeLabel": "경제",
+      "summary": "현재 취업 시장은 매우 어렵지만, 두 가지 핵심 단어를 활용하면 보람 있는 직업 생활을 만들어 나갈 수 있습니다. 경력을 시작하는 사람들을 위한 실용적인 조언을 담고 있습니다.",
+      "difficulty": "B1",
+      "estimatedMinutes": 4,
+      "learnerContent": "## Starting a Career in Difficult Times\n\nLooking for a job right now is not easy. Many young people are entering the workforce during a period of economic uncertainty, limited job openings, and strong competition. It can feel discouraging, but career experts say there are strategies that can help.\n\n### Why Is It So Hard?\n\nThe job market today presents several challenges. Companies are being more careful about hiring new employees. Some industries have slowed down, and technology is changing the kinds of jobs that are available. At the same time, many people are applying for the same positions, making it harder to stand out.\n\nFor recent graduates or people changing careers, this situation can feel overwhelming. You may send out many applications and hear nothing back. You might feel like your skills are not good enough, or that you chose the wrong field. These feelings are very common.\n\n### Two Words That Can Help\n\nCareer advisors often point to two important words when it comes to building a successful work life: **\"genuine curiosity.\"**\n\nGenuine curiosity means showing a real, honest interest in the work you do and the people around you. It is not about pretending to be excited. It is about asking good questions, learning from others, and being open to new experiences.\n\nWhen you approach your job search — and your actual job — with genuine curiosity, several good things can happen:\n\n- You become more engaged and motivated, even when the work is difficult.\n- You ask better questions during interviews, which impresses employers.\n- You learn faster than people who simply follow instructions without thinking.\n- You build stronger relationships with colleagues and mentors.\n\n### How to Practice Genuine Curiosity\n\nHere are some practical ways to develop this habit:\n\n**Ask questions often.** When you meet someone in your field, ask them about their career path. How did they get started? What do they wish they had known earlier? Most people enjoy sharing their experiences.\n\n**Stay informed.** Read news and articles about your industry. Understanding the bigger picture makes you a more valuable employee and gives you interesting topics to discuss.\n\n**Try new things.** Take on projects that are slightly outside your comfort zone. Volunteer for tasks that help you learn new skills, even if they are not directly related to your current role.\n\n**Reflect on what you learn.** After a meeting, a project, or even a rejection, ask yourself: \"What did I learn from this?\" This habit turns every experience into an opportunity for growth.\n\n### Building a Rewarding Work Life\n\nA rewarding career is not built overnight. It takes time, patience, and a willingness to keep learning. The job market may be tough right now, but people who show genuine curiosity tend to find their way forward.\n\nEmployers notice people who are truly interested in their work. Even in a competitive market, standing out does not always require the most impressive qualifications. Sometimes, it simply requires showing that you care — about the work, about the company, and about your own growth.\n\nIf you are starting your career right now, remember: the difficulty you face today is building the resilience you will need tomorrow.",
+      "keyVocab": [
+        {
+          "word": "uncertainty",
+          "meaning": "불확실성",
+          "example": "Many workers feel anxiety because of economic uncertainty."
+        },
+        {
+          "word": "overwhelming",
+          "meaning": "압도적인, 너무 벅찬",
+          "example": "Applying for dozens of jobs at once can feel overwhelming."
+        },
+        {
+          "word": "genuine",
+          "meaning": "진정한, 진심 어린",
+          "example": "She showed genuine interest in learning about the company's goals."
+        },
+        {
+          "word": "resilience",
+          "meaning": "회복력, 탄력성",
+          "example": "Facing rejection many times helped him build resilience in his career."
+        },
+        {
+          "word": "qualifications",
+          "meaning": "자격, 자격 요건",
+          "example": "He did not have all the qualifications, but his curiosity impressed the interviewer."
+        }
+      ],
+      "publishedAt": "2026-04-19T19:27:58.000Z"
+    },
+    "ca54d8e180c1": {
+      "id": "ca54d8e180c1",
+      "source": "NYT Business",
+      "sourceUrl": "https://www.nytimes.com/video/business/100000010843347/why-your-paycheck-feels-smaller.html",
+      "title": "Why Your Paycheck Feels Smaller",
+      "theme": "business",
+      "themeLabel": "경제",
+      "summary": "미국 노동자들의 임금이 물가 상승률을 따라가지 못하면서 실질 구매력이 줄어들고 있습니다. 이는 미국 경제 전반에도 중요한 영향을 미치고 있습니다.",
+      "difficulty": "B2",
+      "estimatedMinutes": 5,
+      "learnerContent": "## Why Your Paycheck Feels Smaller\n\nMany American workers have noticed something frustrating: even when their salary goes up, it does not seem to go as far as it used to. Groceries cost more. Rent is higher. Everyday expenses keep climbing. So what is happening, and why?\n\n### Wages vs. Inflation: The Key Difference\n\nTo understand the problem, it helps to know the difference between **nominal wages** and **real wages**.\n\n- **Nominal wages** are the actual dollar amount you receive in your paycheck.\n- **Real wages** are what those dollars can actually buy — your purchasing power.\n\nIf your salary increases by 3% but prices rise by 5%, your real wage has actually fallen by 2%. In other words, you are earning more money on paper, but you can afford less in real life. This is exactly the situation many Americans have been experiencing in recent years.\n\n### Why Are Wages Not Keeping Up?\n\nEconomists point to several reasons why wages have struggled to keep pace with inflation.\n\n**Persistent inflation:** After the COVID-19 pandemic, prices surged rapidly across many sectors — food, energy, housing, and services. Although wage growth also increased during this period, it often lagged behind the rising cost of living.\n\n**Uneven wage growth:** Not all workers have been affected equally. Higher-income workers have generally seen stronger wage gains, while lower-income workers — who spend a larger proportion of their income on essentials — have felt the squeeze more acutely.\n\n**Corporate pricing strategies:** Some economists argue that certain companies raised their prices beyond what was strictly necessary, taking advantage of an inflationary environment to protect or even increase their profit margins. This contributed to prices staying high even as some supply chain pressures eased.\n\n**Labor market shifts:** While unemployment remained relatively low, the bargaining power of workers has not always been strong enough to push wages above the rate of inflation consistently.\n\n### What Does This Mean for Workers?\n\nFor individual workers, shrinking real wages mean difficult choices. Families may cut back on non-essential spending, delay major purchases like cars or homes, or rely more heavily on credit cards and loans to manage monthly expenses.\n\nThis financial pressure also affects mental health and job satisfaction. Workers who feel they are falling behind economically are more likely to report stress, reduced motivation, and a desire to change jobs — even if better opportunities are not readily available.\n\n### What Does This Mean for the Economy?\n\nWhen workers have less purchasing power, consumer spending — which drives a large portion of the U.S. economy — can weaken. Businesses may see lower sales, which can lead to slower hiring or, in some cases, layoffs.\n\nThe Federal Reserve, which manages U.S. monetary policy, has been working to bring inflation under control by raising interest rates. While this strategy can reduce inflation over time, it also makes borrowing more expensive for businesses and consumers alike, adding further pressure on household budgets.\n\n### Looking Ahead\n\nEconomists suggest that real wage growth may gradually improve as inflation cools and the labor market stabilizes. However, for many workers, the damage done to their purchasing power over the past few years will take time to recover. Understanding the gap between what you earn and what that money can buy is an important first step in planning your financial future.",
+      "keyVocab": [
+        {
+          "word": "purchasing power",
+          "meaning": "구매력",
+          "example": "When inflation rises faster than wages, workers' purchasing power decreases."
+        },
+        {
+          "word": "inflation",
+          "meaning": "인플레이션, 물가 상승",
+          "example": "High inflation means that the same amount of money buys fewer goods than before."
+        },
+        {
+          "word": "lagged behind",
+          "meaning": "뒤처지다, 따라가지 못하다",
+          "example": "Wage growth lagged behind rising prices, leaving workers worse off."
+        },
+        {
+          "word": "bargaining power",
+          "meaning": "협상력",
+          "example": "Workers with rare skills often have more bargaining power when negotiating salaries."
+        },
+        {
+          "word": "monetary policy",
+          "meaning": "통화 정책",
+          "example": "The central bank uses monetary policy tools, such as interest rates, to control inflation."
+        }
+      ],
+      "publishedAt": "2026-04-19T17:46:59.000Z"
+    },
+    "5bb2fea5f4cb": {
+      "id": "5bb2fea5f4cb",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/science/914729/blue-origin-successfully-reused-its-new-glenn-rocket",
+      "title": "Blue Origin successfully reused its New Glenn rocket",
+      "theme": "tech",
+      "themeLabel": "기술",
+      "summary": "블루 오리진의 뉴글렌 로켓이 두 번째 발사에서 성공적으로 착륙해 재사용 가능한 발사체임을 입증했습니다. 하지만 탑재된 AST 스페이스모바일의 위성은 예상보다 낮은 궤도에 진입해 사실상 무용지물이 되었습니다.",
+      "difficulty": "B1",
+      "estimatedMinutes": 3,
+      "learnerContent": "## Blue Origin Successfully Reuses Its New Glenn Rocket\n\nOn April 19, 2026, Blue Origin launched its New Glenn rocket for the second time. The rocket carried a satellite called BlueBird 7, which was built by a company called AST SpaceMobile. The launch had both good news and bad news.\n\n### The Good News: A Reusable Rocket\n\nThe most exciting part of the mission was the successful landing of the rocket's first stage booster. After lifting off, the booster returned to Earth and landed safely on its landing pad. This was the second time the same booster had launched and landed, which means it is officially a **reusable** rocket.\n\nThis is a big achievement for Blue Origin and its founder, Jeff Bezos. A reusable rocket is important because it can be used again for future missions, which saves a lot of money compared to throwing away a rocket after just one use. Blue Origin's competitor, SpaceX, has been doing this successfully with its Falcon 9 rocket for many years. Now, Blue Origin has joined that group.\n\n### The Bad News: The Satellite Problem\n\nUnfortunately, not everything went perfectly. The mission's main goal was to deliver AST SpaceMobile's BlueBird 7 satellite into the correct orbit around Earth. However, the second stage of the rocket — the upper part that carries the satellite into space — did not perform as planned. It placed the satellite into a **lower orbit** than expected.\n\nThis is a serious problem. A satellite in the wrong orbit cannot do its job properly. AST SpaceMobile confirmed that the satellite did separate from the rocket and turn on, but because it is in the wrong position in space, it is essentially useless. The company has not yet said whether it can fix the problem or whether the satellite is a total loss.\n\n### What Is AST SpaceMobile?\n\nAST SpaceMobile is a company that is trying to build a network of satellites that work like cell towers in space. The idea is to allow regular smartphones to connect to the internet from anywhere on Earth — even in remote areas where there are no traditional cell towers. Each BlueBird satellite is a key part of this plan, so losing one is a significant setback for the company.\n\n### What Happens Next?\n\nDespite the satellite problem, Blue Origin can celebrate the successful recovery of the New Glenn booster. Engineers will now inspect the booster and prepare it for a third flight. This proves that New Glenn is a real competitor in the growing market for reusable rockets.\n\nFor AST SpaceMobile, the situation is more difficult. The company will need to investigate what went wrong with the second stage and decide how to move forward with its satellite network plans.",
+      "keyVocab": [
+        {
+          "word": "reusable",
+          "meaning": "재사용 가능한",
+          "example": "A reusable rocket can fly multiple times, saving the company a lot of money."
+        },
+        {
+          "word": "booster",
+          "meaning": "부스터 (로켓의 추진 장치)",
+          "example": "The booster separated from the rocket after liftoff and returned safely to the ground."
+        },
+        {
+          "word": "orbit",
+          "meaning": "궤도",
+          "example": "The satellite was placed into the wrong orbit, so it could not work correctly."
+        },
+        {
+          "word": "setback",
+          "meaning": "차질, 실패",
+          "example": "Losing the satellite was a major setback for the company's plans."
+        },
+        {
+          "word": "remote",
+          "meaning": "외딴, 멀리 떨어진",
+          "example": "The new satellite network will help people living in remote areas connect to the internet."
+        }
+      ],
+      "publishedAt": "2026-04-19T20:28:52.000Z"
+    },
+    "2996a4936d23": {
+      "id": "2996a4936d23",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/914723/vercel-hacked",
+      "title": "Cloud development platform Vercel was hacked",
+      "theme": "tech",
+      "themeLabel": "기술",
+      "summary": "웹 개발 플랫폼 버셀(Vercel)이 해킹을 당해 직원 정보와 일부 고객 데이터가 유출되었습니다. 해커들은 훔친 데이터를 온라인에서 판매하려 하고 있으며, 버셀은 제3자 AI 도구가 공격 경로였다고 밝혔습니다.",
+      "difficulty": "B1",
+      "estimatedMinutes": 4,
+      "learnerContent": "## Cloud Development Platform Vercel Was Hacked\n\nVercel, a popular technology company that helps developers build and host websites and web applications, has confirmed that it was hacked. The attackers stole data and are now trying to sell it online.\n\n### What Is Vercel?\n\nVercel is a **cloud development platform**. This means it provides tools and services that help software developers create, test, and publish web applications. Many companies and individual developers around the world use Vercel to run their websites and apps. Because so many people and businesses rely on it, a security breach at Vercel is considered a serious event in the tech industry.\n\n### What Happened?\n\nA hacker — or a group of hackers — broke into Vercel's systems and stole data. The stolen information reportedly includes employee names, email addresses, and activity timestamps. A person claiming to be part of a well-known hacking group called **ShinyHunters** posted some of this data online.\n\nShinyHunters is a group that has been linked to several major cyberattacks in the past. Most recently, they were connected to a hack of Rockstar Games, the company behind the popular video game series Grand Theft Auto.\n\n### How Did It Happen?\n\nVercel confirmed the attack in a post on the social media platform X (formerly known as Twitter). The company called it a \"security incident\" and said that it affected a \"limited subset\" of its customers, meaning not all users were impacted.\n\nAccording to Vercel, the hackers did not break in directly. Instead, they used a **compromised third-party AI tool** as their way in. In other words, the hackers first attacked a separate company that makes an AI tool used by Vercel, and then used that access to reach Vercel's systems. Vercel did not reveal which third-party company was involved.\n\n### Why Does This Matter?\n\nThis incident highlights a growing problem in the technology industry: **supply chain attacks**. This is when hackers target a smaller company that provides tools or services to a larger company. By compromising the smaller company first, they can gain access to a much bigger target.\n\nAs more companies rely on AI tools from outside providers, the risk of this kind of attack is increasing. Security experts say that businesses need to carefully check the security of every third-party tool they use.\n\n### What Should Users Do?\n\nIf you use Vercel, it is a good idea to change your password and check if you have received any official communication from the company about the breach. Users should also watch out for **phishing emails** — fake emails that pretend to be from Vercel and try to steal your personal information.\n\nVercel has said it is investigating the incident and will provide more updates as it learns more.",
+      "keyVocab": [
+        {
+          "word": "breach",
+          "meaning": "보안 침해, 유출",
+          "example": "The data breach exposed the personal information of thousands of customers."
+        },
+        {
+          "word": "compromised",
+          "meaning": "침해된, 해킹된",
+          "example": "A compromised account can be used by hackers to access other systems."
+        },
+        {
+          "word": "third-party",
+          "meaning": "제3자 (외부 업체)",
+          "example": "The company used a third-party tool to manage its customer data."
+        },
+        {
+          "word": "phishing",
+          "meaning": "피싱 (가짜 이메일 사기)",
+          "example": "She received a phishing email pretending to be from her bank asking for her password."
+        },
+        {
+          "word": "timestamp",
+          "meaning": "타임스탬프 (활동 시각 기록)",
+          "example": "The stolen data included timestamps showing when each user logged into the system."
+        }
+      ],
+      "publishedAt": "2026-04-19T19:54:52.000Z"
+    },
+    "08ad74aaff90": {
+      "id": "08ad74aaff90",
+      "source": "Variety",
+      "sourceUrl": "https://variety.com/2026/music/news/ella-langley-album-chart-dandelion-billboard-number-one-1236725568/",
+      "title": "Ella Langley’s ‘Dandelion’ Debuts at No. 1 on Album Chart, Following a Six-Week Run by ‘Choosin’ Texas’ Atop the Hot 100",
+      "theme": "music",
+      "themeLabel": "음악",
+      "summary": "엘라 랭글리의 앨범 'Dandelion'이 빌보드 앨범 차트에서 1위로 데뷔했습니다. 이는 그녀의 싱글 'Choosin' Texas'가 빌보드 핫 100 차트에서 6주 연속 1위를 차지한 이후의 성과입니다. 2026년 엘라 랭글리는 싱글과 앨범 모두에서 큰 성공을 거두고 있습니다.",
+      "difficulty": "B1",
+      "estimatedMinutes": 3,
+      "learnerContent": "## Ella Langley's 'Dandelion' Debuts at No. 1 on the Album Chart\n\nCountry singer Ella Langley is having an incredible year in 2026. She is not just successful with one song — she is winning on multiple charts at the same time.\n\n### 'Choosin' Texas' Dominates the Hot 100\n\nEarlier this year, Ella Langley's hit single \"Choosin' Texas\" spent six weeks at No. 1 on the Billboard Hot 100. The Billboard Hot 100 is one of the most important music charts in the United States. It tracks the most popular songs across all music genres each week. Spending six weeks at the top is a remarkable achievement, and it shows just how popular Ella Langley has become.\n\n### A New Album Enters at the Top\n\nNow, Ella Langley has added another major success to her 2026 story. Her album, called \"Dandelion,\" debuted at No. 1 on the Billboard Album Chart. \"Debuted\" means it entered the chart for the first time — and it went straight to the top position. This is called a \"No. 1 debut,\" and it is something that not many artists can achieve.\n\nThe success of \"Dandelion\" is closely connected to the popularity of \"Choosin' Texas.\" When a single becomes very popular, many fans become curious about the artist and want to hear more of their music. This often leads people to buy or stream the artist's full album. This is exactly what happened with Ella Langley. The huge success of \"Choosin' Texas\" brought many new listeners to her album.\n\n### More Than a 'Singles Artist'\n\nSome musicians are known mainly for one or two popular singles, but their albums do not sell as well. These artists are sometimes called \"singles artists.\" However, Ella Langley has proven that she is much more than that. Both her single and her album have reached No. 1, which shows that fans enjoy her music as a whole, not just one hit song.\n\n### Who Is Ella Langley?\n\nElla Langley is a country music singer and songwriter. She has been building her career over the past few years and has gained a growing fanbase thanks to her honest lyrics and strong vocals. \"Choosin' Texas\" helped introduce her to a much wider audience, including many listeners who do not usually follow country music.\n\n### What This Means for Her Career\n\nHaving both a No. 1 single and a No. 1 album in the same year is a very big deal in the music industry. It shows strong commercial success and wide public interest. For Ella Langley, 2026 is shaping up to be a defining year — one that could establish her as one of the biggest names in country music for years to come.\n\nFans and music journalists will be watching closely to see how long \"Dandelion\" stays at the top of the chart and what Ella Langley does next.",
+      "keyVocab": [
+        {
+          "word": "debut",
+          "meaning": "처음 등장하다, 데뷔하다",
+          "example": "The singer's new album debuted at No. 1 on the chart."
+        },
+        {
+          "word": "achievement",
+          "meaning": "성취, 업적",
+          "example": "Winning two awards in one night was a great achievement for the young actor."
+        },
+        {
+          "word": "ubiquity",
+          "meaning": "어디에나 존재함, 편재성",
+          "example": "The ubiquity of the hit song meant you could hear it on every radio station."
+        },
+        {
+          "word": "fanbase",
+          "meaning": "팬층, 팬들",
+          "example": "The band built a large fanbase by touring across the country."
+        },
+        {
+          "word": "commercial success",
+          "meaning": "상업적 성공",
+          "example": "The film was a commercial success, earning millions of dollars in its first week."
+        }
+      ],
+      "publishedAt": "2026-04-19T19:59:14.000Z"
+    },
+    "e0b9878e996f": {
+      "id": "e0b9878e996f",
+      "source": "Variety",
+      "sourceUrl": "https://variety.com/2026/shopping/news/jury-duty-company-retreat-rockin-grandmas-hot-sauce-buy-online-1236725528/",
+      "title": "Fake ‘Retreat,’ Real Product: The Hot Sauce in ‘Jury Duty: Company Retreat’ Is Now Available to Buy Online",
+      "theme": "entertainment",
+      "themeLabel": "엔터",
+      "summary": "아마존 리얼리티 프로그램 'Jury Duty' 시즌 2에서 주인공 앤서니 노먼은 가짜 가족 핫소스 회사를 위해 일하는 것으로 설정되었습니다. 프로그램이 끝난 후, 쇼에 등장했던 그 핫소스가 실제로 온라인에서 판매되기 시작했습니다. 가상의 회사 'Rockin' Grandmas'가 실제 제품으로 이어진 것입니다.",
+      "difficulty": "B1",
+      "estimatedMinutes": 4,
+      "learnerContent": "## The Hot Sauce from 'Jury Duty: Company Retreat' Is Now Real — and You Can Buy It\n\nSometimes, something that starts as fiction becomes reality. That is exactly what happened with the hot sauce featured in the second season of Amazon's popular reality series, \"Jury Duty.\"\n\n### What Is 'Jury Duty'?\n\n\"Jury Duty\" is a social experiment series on Amazon. In the show, one real person — who does not know they are being filmed — is placed in a situation with actors. Hidden cameras record everything. In the first season, the unsuspecting star was a man named Ronald Gladden, who thought he was serving on a real jury. The show became very popular because viewers enjoyed watching someone react honestly to unusual and funny situations.\n\n### Season 2: A Fake Company Retreat\n\nThe second season of \"Jury Duty,\" subtitled \"Company Retreat,\" followed a similar idea. This time, the unwitting star was a man named Anthony Norman. Anthony believed he was attending a real company retreat — a kind of team-building trip organized by his employer. However, everything around him was carefully planned and performed by actors.\n\nThe company Anthony thought he worked for was a family-owned hot sauce business called \"Rockin' Grandmas.\" Of course, this company did not actually exist. It was completely made up for the show. The actors created a believable world around Anthony, including a fictional product — the \"Rockin' Grandmas\" hot sauce.\n\n### From Fiction to Reality\n\nThe second season of \"Jury Duty\" finished airing this month, and at the end of the show, Anthony found out the truth — that everything had been a set-up. However, the story did not end there.\n\nIn a surprising and fun twist, the hot sauce that was invented for the show is now a real product. Fans of \"Jury Duty\" can now actually buy \"Rockin' Grandmas\" hot sauce online. What began as a fictional prop used in a TV show has become a genuine item available for purchase.\n\n### Why Is This Interesting?\n\nThis kind of crossover — where something from a TV show becomes a real product — is becoming more common in the entertainment industry. It is a clever way to keep fans engaged even after a show ends. Buying the hot sauce lets fans feel connected to the show and its story.\n\nFor Anthony Norman, the experience was likely both surprising and amusing. He went through an entire fake work event without knowing it was staged, and now the fake product from that experience is something anyone in the world can buy.\n\n### The Popularity of 'Jury Duty'\n\nThe \"Jury Duty\" series has been praised for its creative format and genuinely funny moments. Unlike traditional reality TV, which often involves competition or conflict, \"Jury Duty\" is built around kindness and humor. Audiences have responded very positively to this approach, making it one of Amazon's more talked-about original programs.\n\nWhether or not the hot sauce itself tastes good, it has already become a memorable piece of pop culture — a small bottle that reminds fans of a show that blurred the line between fiction and real life.",
+      "keyVocab": [
+        {
+          "word": "unwitting",
+          "meaning": "자신도 모르는, 의도하지 않은",
+          "example": "The unwitting participant had no idea he was part of a hidden camera show."
+        },
+        {
+          "word": "fictitious",
+          "meaning": "가상의, 허구의",
+          "example": "The company in the story was fictitious and did not exist in the real world."
+        },
+        {
+          "word": "social experiment",
+          "meaning": "사회 실험",
+          "example": "The TV show was a social experiment designed to test how people behave under pressure."
+        },
+        {
+          "word": "prop",
+          "meaning": "소품 (영화·연극 등에서 사용하는 물건)",
+          "example": "The sword used in the movie was just a prop made of plastic."
+        },
+        {
+          "word": "crossover",
+          "meaning": "크로스오버 (두 분야가 합쳐지는 것)",
+          "example": "The crossover between the TV show and a real product surprised many fans."
+        }
+      ],
+      "publishedAt": "2026-04-19T17:54:06.000Z"
+    },
+    "39198fcad8b0": {
+      "id": "39198fcad8b0",
+      "source": "Pitchfork News",
+      "sourceUrl": "https://pitchfork.com/news/the-strokes-close-coachella-set-with-video-denouncing-us-foreign-intervention/",
+      "title": "The Strokes Close Coachella Set with Video Denouncing U.S. Foreign Intervention",
+      "theme": "music",
+      "themeLabel": "음악",
+      "summary": "록 밴드 더 스트로크스가 코첼라 공연을 마치며 미국의 외교 개입을 비판하는 영상을 무대에서 상영했습니다. 해당 영상에는 이란과 가자 지구의 폭격 장면과 CIA가 축출했다고 비난받는 세계 지도자들의 이미지가 포함되었습니다. 밴드는 'Oblivius'를 연주하는 동안 이 영상을 틀었습니다.",
+      "difficulty": "B1",
+      "estimatedMinutes": 3,
+      "learnerContent": "## The Strokes Make a Political Statement at Coachella\n\nThe Strokes, a well-known rock band from New York City, closed their set at the 2026 Coachella Valley Music and Arts Festival with a powerful and controversial political message.\n\n### What Happened on Stage?\n\nWhile performing their song \"Oblivius,\" the band displayed a video on the large screens behind them. The video showed footage of bombings taking place in Iran and Gaza. It also showed images of world leaders who the U.S. Central Intelligence Agency (CIA) has been accused of removing from power in the past.\n\nThe move clearly surprised many people in the crowd and quickly became one of the most talked-about moments of the entire festival.\n\n### Who Are The Strokes?\n\nThe Strokes formed in New York in the late 1990s and became famous in the early 2000s with their debut album *Is This It*. The band is known for their indie rock sound and has always had a reputation for being outspoken. Their music often reflects social and political ideas, but this Coachella moment was one of their most direct political statements in recent years.\n\n### What Is Coachella?\n\nCoachella is one of the biggest and most famous music festivals in the world. It takes place every April in Indio, California, in the United States. Hundreds of thousands of people attend the festival each year, and millions more watch performances online through live streams. Because of its huge audience, Coachella is a powerful platform for artists who want to share a message.\n\n### Why Is This Controversial?\n\nUsing a concert stage to make political statements is always a sensitive topic. Some fans and critics praised The Strokes for using their platform to speak out against what they see as harmful U.S. foreign policy. Foreign policy refers to how a country behaves and makes decisions in relation to other countries around the world.\n\nHowever, others felt that a music festival was not the right place for such strong political images, especially footage of real bombings and violence.\n\n### A Long Tradition of Political Music\n\nMusicians using their art to comment on politics is not new. Artists like Bob Dylan, Public Enemy, and Rage Against the Machine have all used their music and performances to challenge government actions and social injustice. The Strokes joining this tradition at such a high-profile event shows that political expression in music remains very much alive.\n\nWhether people agreed with the message or not, The Strokes certainly gave the Coachella crowd something to think about long after the music stopped.",
+      "keyVocab": [
+        {
+          "word": "controversial",
+          "meaning": "논란이 되는",
+          "example": "The band's decision to show political images during their performance was very controversial."
+        },
+        {
+          "word": "foreign policy",
+          "meaning": "외교 정책",
+          "example": "Many citizens disagree with their government's foreign policy toward other nations."
+        },
+        {
+          "word": "platform",
+          "meaning": "발언/활동의 장, 플랫폼",
+          "example": "Famous musicians have a large platform and can influence millions of people with their message."
+        },
+        {
+          "word": "outspoken",
+          "meaning": "거침없이 말하는, 직설적인",
+          "example": "She is outspoken about human rights issues and never hides her opinions."
+        },
+        {
+          "word": "denounce",
+          "meaning": "공개적으로 비난하다",
+          "example": "The singer used her speech to denounce the government's actions."
+        }
+      ],
+      "publishedAt": "2026-04-19T18:50:24.000Z"
+    },
+    "b550b2eb51f2": {
+      "id": "b550b2eb51f2",
+      "source": "Pitchfork News",
+      "sourceUrl": "https://pitchfork.com/news/olivia-rodrigo-performs-with-addison-rae-at-coachella/",
+      "title": "Olivia Rodrigo Performs with Addison Rae at Coachella",
+      "theme": "music",
+      "themeLabel": "음악",
+      "summary": "팝스타 올리비아 로드리고가 코첼라 무대에서 인플루언서이자 가수인 애디슨 레이와 함께 공연을 펼쳤습니다. 두 사람은 함께 'Headphones On'을 불렀으며, 로드리고의 신곡 'Drop Dead'가 처음으로 라이브로 공개되었습니다.",
+      "difficulty": "A2",
+      "estimatedMinutes": 3,
+      "learnerContent": "## Olivia Rodrigo and Addison Rae Perform Together at Coachella\n\nPop star Olivia Rodrigo had a very special moment at the 2026 Coachella Valley Music and Arts Festival. During her performance, she invited Addison Rae to join her on stage.\n\n### A Surprise Guest\n\nAddison Rae is a well-known social media influencer and singer. When she walked on stage, the crowd was very excited. The two performers sang the song \"Headphones On\" together. It was a fun and energetic moment that many fans loved.\n\n### A New Song Gets Its First Live Performance\n\nThe night was also special for another reason. Olivia Rodrigo performed her new song \"Drop Dead\" live for the very first time. This kind of first performance is called a \"live debut.\" Fans who were at Coachella were lucky to hear the song live before most other people in the world.\n\n### Who Is Olivia Rodrigo?\n\nOlivia Rodrigo is a very successful young singer and songwriter from the United States. She became famous in 2021 with her hit song \"drivers license.\" Her debut album *SOUR* was a huge success, and her second album *GUTS*, released in 2023, was also very popular around the world. She is known for her emotional and honest lyrics about growing up, relationships, and life as a young person.\n\n### Who Is Addison Rae?\n\nAddison Rae first became famous on the social media app TikTok, where she has millions of followers. She later became a singer and actress. She has released several songs and continues to grow her career in the music and entertainment industry.\n\n### What Is Coachella?\n\nCoachella is a very large and famous music festival in California, USA. It happens every April. Many of the world's biggest music artists perform there. Millions of people watch the performances online, so it is a great place for artists to share new music and create exciting moments.\n\nOlivia Rodrigo's performance at Coachella 2026 gave fans two great memories — a fun duet with Addison Rae and the exciting first live performance of \"Drop Dead.\"",
+      "keyVocab": [
+        {
+          "word": "influencer",
+          "meaning": "인플루언서 (SNS에서 많은 팔로워를 가진 사람)",
+          "example": "She is a popular influencer with millions of followers on social media."
+        },
+        {
+          "word": "debut",
+          "meaning": "데뷔, 첫 등장",
+          "example": "The band played their new song live for the first time — it was its live debut."
+        },
+        {
+          "word": "perform",
+          "meaning": "공연하다",
+          "example": "The singer will perform her new songs at the festival this weekend."
+        },
+        {
+          "word": "lyrics",
+          "meaning": "가사",
+          "example": "Many fans love her lyrics because they are honest and easy to connect with."
+        },
+        {
+          "word": "energetic",
+          "meaning": "활기찬, 에너지가 넘치는",
+          "example": "The energetic performance made the whole crowd dance and cheer."
+        }
+      ],
+      "publishedAt": "2026-04-19T16:38:33.000Z"
     }
   }
 }

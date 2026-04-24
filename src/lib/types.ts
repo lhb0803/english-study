@@ -31,6 +31,7 @@ export interface Article {
   learnerContent: string;
   keyVocab: KeyVocab[];
   publishedAt: string;
+  audioUrl?: string;
 }
 
 export interface DailyPicks {

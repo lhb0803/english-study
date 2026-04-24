@@ -44,7 +44,7 @@ export default async function ArticlePage({
             {article.themeLabel}
           </span>
           <div className="flex items-center gap-2">
-            <ListenButton text={article.learnerContent} />
+            <ListenButton text={article.learnerContent} audioUrl={article.audioUrl} />
             <SaveButton article={article} compact />
           </div>
         </div>

@@ -19,27 +19,80 @@ function stripMarkdown(text: string): string {
     .trim();
 }
 
-export default function ListenButton({ text }: { text: string }) {
+export default function ListenButton({
+  text,
+  audioUrl,
+}: {
+  text: string;
+  audioUrl?: string;
+}) {
   const [mounted, setMounted] = useState(false);
   const [status, setStatus] = useState<Status>("idle");
-  const utteranceRef = useRef<SpeechSynthesisUtterance | null>(null);
+  const audioRef = useRef<HTMLAudioElement | null>(null);
 
   useEffect(() => {
     setMounted(true);
     return () => {
+      if (audioRef.current) {
+        audioRef.current.pause();
+        audioRef.current.src = "";
+        audioRef.current = null;
+      }
       if (typeof window !== "undefined" && "speechSynthesis" in window) {
         window.speechSynthesis.cancel();
       }
     };
   }, []);
 
-  const supported =
+  const speechSupported =
     mounted && typeof window !== "undefined" && "speechSynthesis" in window;
+  const supported = mounted && (!!audioUrl || speechSupported);
+
+  const playWithAudio = () => {
+    if (!audioRef.current) {
+      const el = new Audio(audioUrl);
+      el.onended = () => setStatus("idle");
+      el.onerror = () => setStatus("idle");
+      audioRef.current = el;
+    }
+    audioRef.current.play();
+    setStatus("playing");
+  };
+
+  const playWithSpeech = () => {
+    const synth = window.speechSynthesis;
+    synth.cancel();
+    const utterance = new SpeechSynthesisUtterance(stripMarkdown(text));
+    utterance.lang = "en-US";
+    utterance.rate = 0.9;
+    const enVoice = synth.getVoices().find((v) => v.lang.startsWith("en"));
+    if (enVoice) utterance.voice = enVoice;
+    utterance.onend = () => setStatus("idle");
+    utterance.onerror = () => setStatus("idle");
+    synth.speak(utterance);
+    setStatus("playing");
+  };
 
   const handleClick = () => {
     if (!supported) return;
-    const synth = window.speechSynthesis;
 
+    if (audioUrl) {
+      if (status === "playing") {
+        audioRef.current?.pause();
+        setStatus("paused");
+        return;
+      }
+      if (status === "paused") {
+        audioRef.current?.play();
+        setStatus("playing");
+        return;
+      }
+      playWithAudio();
+      return;
+    }
+
+    if (!speechSupported) return;
+    const synth = window.speechSynthesis;
     if (status === "playing") {
       synth.pause();
       setStatus("paused");
@@ -50,18 +103,7 @@ export default function ListenButton({ text }: { text: string }) {
       setStatus("playing");
       return;
     }
-
-    synth.cancel();
-    const utterance = new SpeechSynthesisUtterance(stripMarkdown(text));
-    utterance.lang = "en-US";
-    utterance.rate = 0.9;
-    const enVoice = synth.getVoices().find((v) => v.lang.startsWith("en"));
-    if (enVoice) utterance.voice = enVoice;
-    utterance.onend = () => setStatus("idle");
-    utterance.onerror = () => setStatus("idle");
-    utteranceRef.current = utterance;
-    synth.speak(utterance);
-    setStatus("playing");
+    playWithSpeech();
   };
 
   const Icon = status === "playing" ? Pause : status === "paused" ? Play : Volume2;

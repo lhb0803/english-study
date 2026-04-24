@@ -6,6 +6,8 @@ import { fetchAllFeeds, filterRecent, balanceByTheme, type RawItem } from "./fet
 import { processWithClaude } from "./process-with-claude";
 import { dummyProcess } from "./dummy-process";
 import { loadCache, saveCache, getCached, putCached } from "./article-cache";
+import { synthesizeArticles } from "./synthesize-audio";
+import { pruneOldAudio } from "./prune-audio";
 
 interface FeedConfig {
   name: string;
@@ -90,12 +92,21 @@ async function main() {
   const chosen = pickDiverse(eligible, 5);
   console.log(`[build-picks] chose ${chosen.length} articles`);
 
+  const withAudio = mode === "claude" ? await synthesizeArticles(chosen) : chosen;
+  if (mode === "claude") {
+    try {
+      await pruneOldAudio();
+    } catch (err) {
+      console.warn(`[audio-prune] failed:`, (err as Error).message);
+    }
+  }
+
   const now = new Date();
   const dateStr = now.toISOString().slice(0, 10);
   const out: DailyPicks = {
     batchDate: dateStr,
     batchLabel: batchLabel(now),
-    articles: chosen,
+    articles: withAudio,
   };
 
   const picksDir = path.join(process.cwd(), "public", "picks");

@@ -23,8 +23,10 @@ jobs:
         run: npm run picks:build
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GCP_TTS_KEY: ${{ secrets.GCP_TTS_KEY }}
+          BLOB_READ_WRITE_TOKEN: ${{ secrets.BLOB_READ_WRITE_TOKEN }}
       - name: Commit updated picks
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: weekly picks"
-          file_pattern: "public/picks/*.json data/article-cache.json"
+          file_pattern: "public/picks/*.json data/article-cache.json data/audio-cache.json"

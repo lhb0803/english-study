@@ -33,7 +33,7 @@ export default function RootLayout({
         </header>
         <main className="flex-1 max-w-2xl w-full mx-auto px-5 py-6">{children}</main>
         <footer className="py-8 text-center text-xs text-neutral-400">
-          매주 월·토 오전, 새로운 아티클이 추천돼요.
+          매주 월요일 오전, 새로운 아티클이 추천돼요.
         </footer>
       </body>
     </html>

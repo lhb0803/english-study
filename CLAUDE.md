@@ -4,7 +4,7 @@ Guidance for Claude Code (and other coding assistants) working in this repo.
 
 ## What this is
 
-A web app that recommends 5 English articles twice a week (Mon & Sat, 06:00 KST) for Korean learners. Each article is rewritten by Claude into a learner-friendly ~600-word version with vocabulary aids. Users read in a detail page; scroll-to-end marks the article as completed and awards badges/streaks (gamification). No accounts — all user state lives in `localStorage`.
+A web app that recommends 5 English articles once a week (Mon, 06:00 KST) for Korean learners. Each article is rewritten by Claude into a learner-friendly ~600-word version with vocabulary aids. Users read in a detail page; scroll-to-end marks the article as completed and awards badges/streaks (gamification). No accounts — all user state lives in `localStorage`.
 
 Live: https://english-study-one.vercel.app
 
@@ -14,12 +14,12 @@ Live: https://english-study-one.vercel.app
 - **zustand** (with `persist`) — saved/completed/streak/badges in `localStorage`
 - **rss-parser** — RSS ingestion
 - **@anthropic-ai/sdk** — Claude `claude-sonnet-4-6`, system prompt cached via `cache_control: { type: "ephemeral" }`
-- **Vercel** hosting, **GitHub Actions** for the biweekly content job
+- **Vercel** hosting, **GitHub Actions** for the weekly content job
 
 ## Pipeline (most important part)
 
 ```
-GitHub Actions cron (Sun/Fri 21:00 UTC = Mon/Sat 06:00 KST)
+GitHub Actions cron (Sun 21:00 UTC = Mon 06:00 KST)
   └─ npm run picks:build
        ├─ scripts/fetch-rss.ts         (20s hard per-feed timeout)
        ├─ scripts/article-cache.ts     (data/article-cache.json, 30-day TTL)
@@ -44,7 +44,7 @@ Pages (`/`, `/article/[id]`, `/my`) read `public/picks/latest.json` at build tim
 7. **Client components need SSR guards.** Any component that reads zustand state must gate on a `mounted` flag or a `useEffect` to avoid hydration mismatches (see `StreakBanner`, `SaveButton`, `ListenButton`).
    - `article.summary` (Korean, 2-3 sentences from Claude) is rendered in two places: the home card (`ArticleCard`) and the bottom of the detail page (`src/app/article/[id]/page.tsx`, below Key Vocabulary). Keep both in mind when changing the field's length or format.
    - `ListenButton` (`src/components/ListenButton.tsx`) uses the browser `SpeechSynthesis` API — no server cost, no extra deps. It strips markdown from `learnerContent` before speaking and calls `speechSynthesis.cancel()` on unmount so audio stops on navigation. Quality is OS/browser dependent; if we ever want higher fidelity, the upgrade path is server-side TTS at build time (mp3 in `public/audio/`).
-8. **Streak is day-based, not batch-based.** `markCompleted` uses local date; the batch cron is twice a week but users can still read saved/past articles on any day to keep their streak.
+8. **Streak is day-based, not batch-based.** `markCompleted` uses local date; the batch cron is once a week but users can still read saved/past articles on any day to keep their streak.
 9. **Workflow secrets.** `ANTHROPIC_API_KEY` lives in GitHub repo Secrets (Actions scope). Vercel does not need it — all Claude work happens in CI, not at runtime.
 
 ## Local development
@@ -68,4 +68,4 @@ To generate real picks locally, put `ANTHROPIC_API_KEY=...` in `.env.local` and 
 | `src/data/feeds.json` | Edit here to add/remove sources |
 | `src/lib/store.ts` | zustand store, streak/badge logic |
 | `src/lib/badges.ts` | Milestone definitions |
-| `.github/workflows/biweekly-picks.yml` | Cron + auto-commit |
+| `.github/workflows/biweekly-picks.yml` | Cron (weekly, Mon 06:00 KST) + auto-commit |

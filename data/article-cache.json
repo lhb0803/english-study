@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-19T21:37:38.654Z",
+  "updatedAt": "2026-04-24T14:11:20.285Z",
   "articles": {
     "189cea6e74d0": {
       "id": "189cea6e74d0",
@@ -1361,6 +1361,526 @@
         }
       ],
       "publishedAt": "2026-04-19T16:38:33.000Z"
+    },
+    "2ea535ea1230": {
+      "id": "2ea535ea1230",
+      "source": "NYT Home",
+      "sourceUrl": "https://www.nytimes.com/2026/04/24/nyregion/mamdani-buffer-zones-veto.html",
+      "title": "Mamdani Expected to Reject Bill Involving Police at School Protests",
+      "theme": "politics",
+      "themeLabel": "시사",
+      "summary": "뉴욕시장 마므다니가 학교 근처 시위 관련 경찰 계획 공개를 의무화하는 법안에 거부권을 행사할 것으로 예상됩니다. 이는 시장으로서 첫 번째 거부권 행사가 될 것입니다. 해당 법안은 경찰이 교육 시설 근처의 시위대를 어떻게 관리할지 계획을 공개하도록 강제하는 내용을 담고 있습니다.",
+      "difficulty": "B1",
+      "estimatedMinutes": 3,
+      "learnerContent": "## New York Mayor Expected to Veto Police Protest Bill\n\nNew York City Mayor Zohran Mamdani is expected to reject a new bill that relates to how police handle protesters near schools. If he does, this will be his first veto since becoming mayor.\n\n**What is a veto?**\n\nA veto is when a leader, such as a mayor or president, officially refuses to approve a law that has been passed by a council or parliament. When a mayor vetoes a bill, it does not become law — at least not automatically.\n\n**What does the bill say?**\n\nThe bill would require the New York City Police Department (NYPD) to publicly release its plans for managing protesters who gather near schools and other educational facilities. Supporters of the bill believe that people have a right to know how the police intend to respond to protests, especially near places where children are present.\n\nIn recent years, protests near schools have become more common in New York City. Some demonstrations have been related to political issues, such as conflicts overseas or education policy. These events have sometimes led to concerns about how police interact with both students and protesters.\n\n**Why might the mayor reject it?**\n\nMayor Mamdani has not given a full public explanation yet, but city officials close to the mayor suggest he has concerns about the bill. Some officials worry that forcing the police to reveal their crowd management strategies in advance could make it harder for officers to do their jobs safely and effectively. Others argue that too much public detail about police plans could create security risks.\n\nOn the other hand, civil liberties groups and some city council members support the bill. They argue that transparency — meaning openness about what the government does — is important in a democratic city. They believe residents should be able to see how the police plan to handle situations near schools.\n\n**What happens next?**\n\nIf Mayor Mamdani vetoes the bill, the New York City Council could still try to override his decision. To do that, they would need a two-thirds majority vote — meaning at least two out of every three council members would have to vote in favor of the bill. If they succeed, the bill would become law even without the mayor's approval.\n\nThis situation highlights a common tension in city government between police operational freedom and the public's right to information. How New York City handles this debate may influence how other large cities approach similar issues in the future.",
+      "keyVocab": [
+        {
+          "word": "veto",
+          "meaning": "거부권 (법안을 공식적으로 거부하는 행위)",
+          "example": "The mayor used his veto to stop the new law from being passed."
+        },
+        {
+          "word": "compel",
+          "meaning": "강제하다, 의무화하다",
+          "example": "The new rule would compel all schools to report safety incidents."
+        },
+        {
+          "word": "transparency",
+          "meaning": "투명성 (정부나 기관이 정보를 공개하는 것)",
+          "example": "Citizens demanded transparency about how their tax money was being spent."
+        },
+        {
+          "word": "override",
+          "meaning": "번복하다, 무효화하다",
+          "example": "The council voted to override the mayor's veto and pass the law anyway."
+        },
+        {
+          "word": "demonstration",
+          "meaning": "시위, 집회",
+          "example": "A large demonstration took place outside the city hall to protest the new policy."
+        }
+      ],
+      "publishedAt": "2026-04-24T14:00:13.000Z"
+    },
+    "50099465f7cf": {
+      "id": "50099465f7cf",
+      "source": "NYT Home",
+      "sourceUrl": "https://www.nytimes.com/2026/04/24/us/politics/companies-consumers-tariff-refunds.html",
+      "title": "Tariffs Raised Consumers’ Prices, but the Refunds Go Only to Businesses",
+      "theme": "politics",
+      "themeLabel": "시사",
+      "summary": "미국 소비자들은 대통령의 관세 정책으로 인해 높은 물가를 경험했지만, 해당 관세가 위법 판정을 받으면서 기업들은 약 1,660억 달러의 환급금을 받게 되었습니다. 그러나 기업들은 이 환급금을 소비자들과 나눌 계획이 있는지에 대해 거의 언급하지 않고 있습니다. 일반 가정들은 물가 인상의 부담을 졌지만 환급 혜택은 받지 못할 가능성이 높습니다.",
+      "difficulty": "B2",
+      "estimatedMinutes": 4,
+      "learnerContent": "## Consumers Paid Higher Prices From Tariffs — But Refunds Are Going to Businesses\n\nMillions of American families experienced higher prices for everyday goods because of tariffs introduced by the president. Now, those tariffs have been ruled illegal by the courts, and businesses are set to receive around $166 billion in refunds. However, there is little sign that ordinary consumers will see any of that money.\n\n**What are tariffs?**\n\nTariffs are taxes placed on goods that are imported from other countries. When the government adds a tariff to, say, electronics or clothing coming from abroad, the companies that import those goods usually pass the extra cost on to customers by raising their prices. This means that while businesses technically pay the tariff to the government, it is often ordinary shoppers who feel the financial impact.\n\n**What happened with these tariffs?**\n\nThe president introduced a series of significant tariffs on a wide range of imported products. The stated goal was to protect American industries and encourage companies to manufacture more goods domestically. However, critics argued the tariffs were implemented without proper legal authority. Courts later agreed, ruling that the tariffs were illegal.\n\nBecause the tariffs were collected unlawfully, the government is now required to refund the money to the businesses that paid them. The total amount being returned is approximately $166 billion — a substantial sum.\n\n**Who benefits from the refunds?**\n\nThe refunds are going directly to the companies that imported goods and paid the tariffs — not to the consumers who ultimately bore the costs through higher prices at the checkout. Businesses have remained largely silent about whether they plan to lower their prices or share the refunded money with customers in any way.\n\nSome consumer advocacy groups are frustrated by this outcome. They argue that because families paid higher prices as a direct result of the tariffs, some form of compensation or price reduction would be fair. However, there is currently no legal requirement for businesses to pass any of the refund on to consumers.\n\n**A wider debate about economic fairness**\n\nThis situation raises broader questions about who truly bears the burden of trade policy and who benefits when policies are reversed. Economic research consistently shows that tariff costs are largely passed on to consumers in the form of higher prices. Yet when those same tariffs are refunded, the money flows back to corporations, not households.\n\nLawmakers and economists are now debating whether there should be greater accountability for businesses in situations like this. Some are calling for legislation that would require companies to demonstrate how refunds from unlawful government policies are distributed.\n\nFor now, many American families are left in a difficult position — they absorbed the cost of a policy that turned out to be illegal, but they are unlikely to receive any direct financial benefit from the ruling that struck it down.",
+      "keyVocab": [
+        {
+          "word": "tariff",
+          "meaning": "관세 (수입품에 부과되는 세금)",
+          "example": "The government placed a high tariff on imported steel to protect domestic producers."
+        },
+        {
+          "word": "refund",
+          "meaning": "환급, 환불",
+          "example": "After the policy was reversed, companies applied for a refund of the taxes they had paid."
+        },
+        {
+          "word": "unlawfully",
+          "meaning": "불법적으로, 위법으로",
+          "example": "The fees were collected unlawfully, so the court ordered them to be returned."
+        },
+        {
+          "word": "advocacy",
+          "meaning": "옹호, 지지 활동",
+          "example": "Consumer advocacy groups pushed the company to lower its prices."
+        },
+        {
+          "word": "accountability",
+          "meaning": "책임, 책임감",
+          "example": "There should be greater accountability for companies that benefit from government policy changes."
+        }
+      ],
+      "publishedAt": "2026-04-24T13:57:43.000Z"
+    },
+    "faa1980c76b3": {
+      "id": "faa1980c76b3",
+      "source": "NYT Business",
+      "sourceUrl": "https://www.nytimes.com/2026/04/24/business/trump-airline-mergers-bailouts.html",
+      "title": "Why Everyone, Including Trump, Is Talking About Airline Mergers",
+      "theme": "business",
+      "themeLabel": "경제",
+      "summary": "미국 항공 업계에서 일부 항공사는 큰 수익을 올리는 반면, 많은 항공사들이 어려움을 겪고 있습니다. 트럼프 대통령과 업계 임원들은 항공사 합병이 해결책이 될 수 있다고 보고 있습니다.",
+      "difficulty": "B1",
+      "estimatedMinutes": 4,
+      "learnerContent": "## Why Everyone Is Talking About Airline Mergers\n\nThe airline industry in the United States is going through a difficult time. Some airlines are doing very well and making large profits. But many others are struggling to stay in business. This gap between successful and struggling airlines has started an important conversation about the future of air travel.\n\n### What Is a Merger?\n\nA merger happens when two companies join together to become one larger company. In the airline industry, mergers can help struggling carriers survive by combining their resources, routes, and staff. When two airlines merge, they can cut costs and compete more effectively against stronger rivals.\n\n### Who Is Struggling and Who Is Not?\n\nRight now, a small number of major carriers are performing well financially. Airlines like Delta have reported strong earnings, helped by high demand for premium and business class seats. However, budget airlines and smaller carriers have had a harder time. Rising costs for fuel, labor, and operations have made it very difficult for them to make a profit.\n\nThis uneven situation has made many people in the industry worried. If weaker airlines go bankrupt, passengers could lose choices, and ticket prices could rise.\n\n### Trump and Mergers\n\nPresident Donald Trump has spoken publicly about the idea of airline mergers. He and several industry executives believe that allowing airlines to merge could help fix the industry's problems. By becoming larger and more powerful, merged airlines might be able to lower their costs and offer more stable prices to travelers.\n\nIn the past, the U.S. government was sometimes reluctant to approve big airline mergers. Officials worried that fewer airlines would mean less competition, which could lead to higher prices for consumers. However, the current conversation suggests that the government may now be more open to the idea.\n\n### A History of Mergers\n\nThe U.S. airline industry has already seen many big mergers over the years. For example, United Airlines and Continental Airlines merged in 2010. American Airlines and US Airways merged in 2013. These deals created some of the world's largest airlines. Supporters say those mergers helped the airlines become more stable. Critics argue they reduced competition and pushed ticket prices higher.\n\n### What Could Happen Next?\n\nIndustry watchers are now speculating about which airlines might merge in the near future. Smaller and mid-sized carriers are seen as the most likely candidates. Any merger would still need approval from government regulators, who must decide whether the deal is good or bad for consumers.\n\nFor everyday travelers, the outcome of this debate matters a lot. More mergers could mean fewer airline choices but possibly more reliable service. On the other hand, less competition could make flying more expensive.\n\nThe conversation about airline mergers is just beginning, and both the government and the public will be watching closely to see what happens next.",
+      "keyVocab": [
+        {
+          "word": "merger",
+          "meaning": "합병 (두 회사가 하나로 합쳐지는 것)",
+          "example": "The merger between the two airlines created one of the largest carriers in the world."
+        },
+        {
+          "word": "carrier",
+          "meaning": "항공사 (승객이나 화물을 운송하는 회사)",
+          "example": "Budget carriers often offer cheaper tickets than major airlines."
+        },
+        {
+          "word": "reluctant",
+          "meaning": "꺼리는, 내키지 않는",
+          "example": "The government was reluctant to approve the merger because it worried about higher prices."
+        },
+        {
+          "word": "regulator",
+          "meaning": "규제 기관 (기업 활동을 감독하고 규제하는 정부 기관)",
+          "example": "Regulators must review the deal before the two companies can officially merge."
+        },
+        {
+          "word": "competition",
+          "meaning": "경쟁 (시장에서 기업들이 고객을 얻기 위해 서로 겨루는 것)",
+          "example": "Strong competition between airlines usually leads to lower ticket prices for passengers."
+        }
+      ],
+      "publishedAt": "2026-04-24T13:59:12.000Z"
+    },
+    "533d3d837014": {
+      "id": "533d3d837014",
+      "source": "NYT Business",
+      "sourceUrl": "https://www.nytimes.com/2026/04/24/us/politics/companies-consumers-tariff-refunds.html",
+      "title": "Tariffs Raised Consumers’ Prices, but the Refunds Go Only to Businesses",
+      "theme": "business",
+      "themeLabel": "경제",
+      "summary": "트럼프 대통령의 관세 정책으로 인해 소비자 물가가 올랐지만, 법원이 관세를 불법으로 판결하면서 약 1,660억 달러가 기업들에게 환급될 예정입니다. 그러나 기업들이 이 돈을 소비자에게 돌려줄지는 불확실합니다.",
+      "difficulty": "B2",
+      "estimatedMinutes": 5,
+      "learnerContent": "## Tariffs Hurt Consumers, but the Refunds Are Going to Businesses\n\nOver the past year, many American families noticed that everyday goods became more expensive. The cause, in large part, was a series of tariffs — taxes on imported goods — introduced by President Donald Trump. These tariffs raised the prices of products ranging from electronics to household items. Consumers paid more at the checkout, often without fully understanding why.\n\n### What Are Tariffs?\n\nA tariff is a tax that a government places on goods imported from other countries. When a company imports a product and pays a tariff, it typically passes that extra cost on to customers in the form of higher prices. Tariffs are often used as a political tool — to protect domestic industries or to put economic pressure on other countries.\n\nTrump's tariffs were wide-ranging and affected goods from many different nations. Economists and consumer groups warned early on that ordinary Americans would feel the financial burden.\n\n### The Courts Step In\n\nRecently, U.S. courts ruled that some of these tariffs were illegal. The legal reasoning centered on whether the president had the proper authority under the law to impose such broad tariffs without congressional approval. As a result of these rulings, the government is now required to refund the tariff payments that were collected.\n\nThe total amount to be refunded is estimated at around **$166 billion** — a staggering sum that will be returned not to individual consumers, but to the businesses that actually paid the tariffs to the government.\n\n### Why Businesses Get the Money, Not Consumers\n\nThis is where the situation becomes controversial. Although consumers bore much of the financial pain through higher prices, they are not legally entitled to a direct refund. Under U.S. trade law, it is the importing companies — not the end consumers — that pay tariffs to the government. Therefore, the refunds go back to those businesses.\n\nThis creates a significant question: will companies pass these refunds on to their customers, or will they keep the money as profit?\n\n### Companies Stay Silent\n\nSo far, most companies have said very little about their plans. There has been no widespread commitment from major corporations to lower prices or issue refunds to the customers who were affected. Consumer advocates argue this is deeply unfair. They point out that families who struggled with higher grocery bills, appliance costs, and clothing prices are unlikely to see any financial relief.\n\nSome analysts suggest that companies may quietly use the refunded money to improve their profit margins rather than reduce prices. In a competitive market, there is some hope that businesses might lower prices to attract customers. However, there is no legal requirement for them to do so.\n\n### A Question of Fairness\n\nThe situation has sparked a broader debate about who truly bears the cost of trade policy. Critics argue that tariffs function as a hidden tax on consumers, yet the benefits of reversing them tend to flow upward to corporations.\n\nAs the $166 billion begins to be distributed, pressure may grow on lawmakers and regulators to ensure that at least some of this money reaches the families who paid higher prices for so long. For now, however, that outcome remains far from certain.",
+      "keyVocab": [
+        {
+          "word": "tariff",
+          "meaning": "관세 (수입 상품에 부과되는 세금)",
+          "example": "The new tariff on imported steel made it more expensive for manufacturers to buy materials."
+        },
+        {
+          "word": "refund",
+          "meaning": "환급 (이미 낸 돈을 돌려받는 것)",
+          "example": "After the court ruling, companies expected a refund on the tariffs they had paid."
+        },
+        {
+          "word": "staggering",
+          "meaning": "엄청난, 충격적일 만큼 큰",
+          "example": "The staggering amount of $166 billion will be returned to importing businesses."
+        },
+        {
+          "word": "congressional approval",
+          "meaning": "의회 승인 (의회의 동의나 허가)",
+          "example": "The judge ruled that the president needed congressional approval before imposing such tariffs."
+        },
+        {
+          "word": "profit margin",
+          "meaning": "이익률 (매출에서 비용을 뺀 순이익의 비율)",
+          "example": "Many companies chose to keep the refund money to improve their profit margins."
+        }
+      ],
+      "publishedAt": "2026-04-24T13:57:43.000Z"
+    },
+    "ed86d649656c": {
+      "id": "ed86d649656c",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/918011/trump-mobile-t1-phone-real-redesign-release-date",
+      "title": "The Trump phone still isn’t real",
+      "theme": "tech",
+      "themeLabel": "기술",
+      "summary": "트럼프 모바일이 'T1 폰'의 새로운 디자인과 사양을 공개했지만, 실제 출시 여부는 여전히 불확실합니다. 웹사이트가 개편되고 FCC 승인 가능성이 있지만, 실제 제품이 존재한다는 확실한 증거는 부족합니다.",
+      "difficulty": "B1",
+      "estimatedMinutes": 4,
+      "learnerContent": "## The Trump Phone: Still Not Here\n\nFor several weeks now, journalists at *The Verge* have been asking the same question: where is the Trump phone? Every week, they contact Trump Mobile to get an update. And every week, the company does not reply.\n\n**What Is the Trump Phone?**\n\nThe Trump phone, also called the **T1 Phone**, is a smartphone being marketed under the Trump brand by a company called Trump Mobile. It has received a lot of attention because of its connection to former U.S. President Donald Trump. Many people are curious about whether it will actually be sold to the public.\n\n**A New Website, But No New Phone**\n\nRecently, Trump Mobile updated its website with a fresh new look. Along with the redesign, the company revealed an updated design for the T1 Phone and published a new **spec sheet** — a document that lists the phone's technical details, such as the screen size, camera, and battery.\n\nAt first glance, this might seem like good news. An updated website and a detailed spec sheet usually suggest that a product is almost ready to launch. However, reporters say this is not necessarily the case.\n\n**Still No Real Proof**\n\nDespite the website changes, there is still very little evidence that the Trump phone will ever actually go on sale. Here is what we know so far:\n\n- The phone may have received **FCC authorization**, which is a kind of official government approval required for electronic devices to be sold in the United States.\n- One journalist says someone showed them the phone over a video call.\n- Beyond these two things, there is no solid proof that the phone exists as a real, working product ready for sale.\n\nNo one has been able to hold the phone, test it, or buy it. There are no confirmed release dates, no prices announced, and no stores where it will be sold.\n\n**Why Does This Matter?**\n\nWhen a company announces a product, people expect it to arrive within a reasonable amount of time. Delays can make customers lose trust in a brand. The Trump phone was first announced quite some time ago, and the repeated silence from Trump Mobile is making many tech journalists skeptical.\n\nA spec sheet and a nice website are easy to create. Actually building and selling a smartphone is much harder. It requires manufacturing, quality testing, supply chains, and distribution networks.\n\n**What Happens Next?**\n\nFor now, the Trump phone remains more of a mystery than a real product. *The Verge* has said it will continue to follow the story every week until there is a clear answer.\n\nIs the T1 Phone a real device that will soon be in stores? Or is it simply a marketing idea that never quite made it to reality? Until Trump Mobile starts answering questions, nobody outside the company really knows.",
+      "keyVocab": [
+        {
+          "word": "spec sheet",
+          "meaning": "제품의 기술적 세부 사항(화면 크기, 배터리 등)을 나열한 문서",
+          "example": "The company released a spec sheet showing the phone's camera and battery details."
+        },
+        {
+          "word": "FCC authorization",
+          "meaning": "미국에서 전자 기기를 판매하기 위해 필요한 정부 공식 승인",
+          "example": "The new device received FCC authorization before it went on sale in the US."
+        },
+        {
+          "word": "launch",
+          "meaning": "신제품을 처음으로 출시하거나 판매를 시작하는 것",
+          "example": "The company planned to launch its new phone in the spring."
+        },
+        {
+          "word": "skeptical",
+          "meaning": "의심스러워하는, 확신하지 못하는",
+          "example": "Many reporters were skeptical because the company had not shown a working product."
+        },
+        {
+          "word": "distribution network",
+          "meaning": "제품을 소비자에게 전달하기 위한 유통 경로 및 시스템",
+          "example": "Without a strong distribution network, even a great product can fail to reach customers."
+        }
+      ],
+      "publishedAt": "2026-04-24T14:00:00.000Z"
+    },
+    "3eba2fec5793": {
+      "id": "3eba2fec5793",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/column/918084/optimizer-gwyneth-paltrow-peptides",
+      "title": "I don&#8217;t think Gwyneth Paltrow knows what a peptide is",
+      "theme": "lifestyle",
+      "themeLabel": "라이프",
+      "summary": "펩타이드는 요즘 건강 및 웰니스 세계에서 매우 유행하는 성분이 되었습니다. 소셜 미디어, 광고, 정치계에서도 펩타이드가 언급되고 있지만, 많은 사람들이 펩타이드가 정확히 무엇인지 제대로 이해하지 못하는 것처럼 보입니다.",
+      "difficulty": "B2",
+      "estimatedMinutes": 5,
+      "learnerContent": "## Peptides Are Everywhere — But Does Anyone Actually Know What They Are?\n\nIf you spend any time online or commuting through a big city these days, you have probably noticed one word appearing over and over again: **peptide**. It is showing up in beauty products, health supplements, fitness communities, political speeches, and subway advertisements. But what exactly is a peptide, and why is everyone suddenly talking about them?\n\n**What Is a Peptide?**\n\nA peptide is a short chain of **amino acids** — the building blocks that make up proteins in the human body. Because peptides are smaller than full proteins, they can be absorbed more easily by the body or skin. Scientists have studied certain peptides for their potential roles in muscle repair, skin health, hormone regulation, and more.\n\nIn medicine, some peptides are used in legitimate treatments. For example, **GLP-1 receptor agonists** — a type of peptide-based drug — are at the center of the current weight-loss medication boom, with drugs like Ozempic and Wegovy generating enormous public interest.\n\n**Peptides in Pop Culture**\n\nTech columnist Victoria Song of *The Verge* writes that peptides have become almost impossible to avoid. On social media, she describes being flooded with videos of fitness influencers injecting what they call the \"Wolverine stack\" — a combination of peptides supposedly inspired by the superhero's legendary healing ability. These products are often sourced from unregulated suppliers, raising serious safety concerns.\n\nOn the New York City subway, tennis legend Serena Williams appears in advertisements for **Ro**, a telehealth company promoting easier access to GLP-1 medications. Meanwhile, in Silicon Valley — home to the tech industry's obsession with **biohacking** and human optimization — peptide-themed social events have reportedly become fashionable among the wealthy and health-conscious.\n\n**Even Politicians Are Talking About Peptides**\n\nThe trend has reached Washington, D.C. as well. Robert F. Kennedy Jr. (RFK Jr.), who serves in a health-related government role, has publicly stated that he supports peptides and wants to expand public access to them. His comments signal that peptides are no longer just a niche wellness topic — they have entered mainstream political conversation.\n\n**The Problem: Hype Without Understanding**\n\nDespite all this attention, columnist Victoria Song raises an important point: many of the people promoting peptides — including celebrities — may not fully understand what they are talking about. She humorously suggests that actress and wellness entrepreneur Gwyneth Paltrow has certainly *heard* of peptides, but probably cannot explain what they actually do at a biological level.\n\nThis is a common pattern in the wellness industry. A scientific-sounding ingredient gains popularity, celebrities and influencers begin endorsing it, and consumers start buying products without fully understanding the science — or the potential risks.\n\n**Should You Be Careful?**\n\nNot all peptide products are dangerous, and some have genuine scientific support. However, experts warn that many products sold online are **unregulated**, meaning their purity and safety have not been independently verified. Injecting substances from unknown sources carries real medical risks.\n\nAs with any health trend, the advice is straightforward: before trying a new supplement or treatment, consult a qualified doctor rather than relying on social media influencers or celebrity endorsements.",
+      "keyVocab": [
+        {
+          "word": "peptide",
+          "meaning": "아미노산의 짧은 사슬로, 단백질의 구성 요소이며 건강 및 미용 제품에 많이 사용됨",
+          "example": "Some skincare creams contain peptides that are claimed to help reduce wrinkles."
+        },
+        {
+          "word": "biohacking",
+          "meaning": "신체 기능을 향상시키기 위해 과학적 방법이나 기술을 실험적으로 적용하는 행위",
+          "example": "Silicon Valley entrepreneurs interested in biohacking often experiment with special diets and supplements."
+        },
+        {
+          "word": "unregulated",
+          "meaning": "정부나 공식 기관의 규제나 검사를 받지 않은",
+          "example": "Buying medicine from unregulated online sources can be very dangerous."
+        },
+        {
+          "word": "endorsement",
+          "meaning": "유명인이나 전문가가 특정 제품이나 아이디어를 공개적으로 지지하거나 추천하는 것",
+          "example": "The sports drink saw a huge rise in sales after a celebrity endorsement."
+        },
+        {
+          "word": "telehealth",
+          "meaning": "인터넷이나 전화를 통해 원격으로 의료 서비스를 제공하는 방식",
+          "example": "Through a telehealth app, she was able to speak with a doctor without leaving her home."
+        }
+      ],
+      "publishedAt": "2026-04-24T14:00:00.000Z"
+    },
+    "75ae0135f16c": {
+      "id": "75ae0135f16c",
+      "source": "Variety",
+      "sourceUrl": "https://variety.com/2026/tv/news/scooby-doo-origins-first-look-cast-mckenna-grace-daphne-1236729595/",
+      "title": "‘Scooby-Doo: Origins’ First Look: Netflix Series Reveals Mystery Inc. Crew, Including Mckenna Grace as Daphne",
+      "theme": "entertainment",
+      "themeLabel": "엔터",
+      "summary": "넷플릭스가 실사 시리즈 '스쿠비-두: 오리진스'의 첫 번째 이미지를 공개했습니다. 매켄나 그레이스가 대프니 역을 맡으며 미스터리 주식회사 팀이 소개되었습니다. 단, 주인공 스쿠비-두는 아직 모습을 드러내지 않았습니다.",
+      "difficulty": "B1",
+      "estimatedMinutes": 4,
+      "learnerContent": "## Netflix Reveals First Look at 'Scooby-Doo: Origins'\n\nNetflix has shared the first official images from its upcoming live-action series **\"Scooby-Doo: Origins.\"** The photos introduce the famous Mystery Inc. gang, but there is one big surprise — Scooby-Doo himself is not in the pictures yet.\n\n### Meet the New Mystery Inc. Gang\n\nFans of the classic cartoon will recognize the group of young mystery-solvers. The cast includes **Mckenna Grace**, who plays Daphne. Grace is a well-known young actress who has appeared in movies such as *Ghostbusters: Afterlife* and *Gifted*. The rest of the Mystery Inc. crew is also being introduced for the first time through these early images.\n\nThe show is currently being filmed in **Atlanta, Georgia**. Production has already begun, which means the series is moving forward quickly.\n\n### Where Is Scooby-Doo?\n\nThe most talked-about detail from the first look is that Scooby-Doo — the lovable, cowardly, and snack-loving Great Dane dog — does not appear in the photos. This is likely because Scooby will be a **CGI (computer-generated) character**, meaning he will be created digitally and added to the footage later in post-production. This is a common technique used in modern TV shows and movies when animals or fantasy creatures need to look realistic.\n\n### What Is 'Scooby-Doo: Origins' About?\n\nAs the title suggests, \"Scooby-Doo: Origins\" will tell the **origin story** of the Mystery Inc. gang. An origin story explains how characters first met and how they began their adventures together. For long-time Scooby-Doo fans, this is an exciting chance to see a fresh and modern version of a story they already love.\n\nThe original *Scooby-Doo* cartoon first appeared on American television in **1969**. Since then, it has become one of the most recognized and beloved animated franchises in the world. The story always follows the same basic idea: a group of teenagers and their talking dog travel together and solve spooky mysteries, only to find that the \"monsters\" are usually just people in disguise.\n\n### Why This Matters\n\nThis live-action adaptation is part of a growing trend of turning classic animated shows into real-life productions. Netflix has had success with similar projects in the past. By hiring recognizable young talent like Mckenna Grace and filming in a major production city like Atlanta, the streaming giant is clearly investing heavily in this show.\n\nFans around the world are already excited and curious about how Scooby-Doo will look as a CGI character alongside real human actors. More details, including a release date, are expected to be announced in the coming months.\n\nFor now, the first look gives audiences a promising glimpse at a brand-new chapter for one of television's most classic and timeless franchises.",
+      "keyVocab": [
+        {
+          "word": "live-action",
+          "meaning": "실사 (애니메이션이나 CGI가 아닌 실제 배우가 출연하는)",
+          "example": "The live-action version of the cartoon was filmed with real actors in a real city."
+        },
+        {
+          "word": "CGI (computer-generated imagery)",
+          "meaning": "컴퓨터 그래픽으로 만든 이미지",
+          "example": "The dragon in the movie was a CGI character created entirely on a computer."
+        },
+        {
+          "word": "origin story",
+          "meaning": "기원 이야기, 캐릭터가 처음 어떻게 시작했는지 설명하는 이야기",
+          "example": "The new series is an origin story that shows how the heroes first became a team."
+        },
+        {
+          "word": "franchise",
+          "meaning": "프랜차이즈, 동일한 캐릭터나 세계관을 바탕으로 한 일련의 작품들",
+          "example": "The superhero franchise has produced more than ten movies over the past twenty years."
+        },
+        {
+          "word": "post-production",
+          "meaning": "후반 작업 (촬영 후 편집, 음향, 시각 효과 등을 추가하는 단계)",
+          "example": "The special effects were added during post-production, after all the filming was finished."
+        }
+      ],
+      "publishedAt": "2026-04-24T14:00:00.000Z"
+    },
+    "d8df12bc6cde": {
+      "id": "d8df12bc6cde",
+      "source": "Variety",
+      "sourceUrl": "https://variety.com/2026/tv/global/lenny-abrahamson-bbc-adaptation-david-nicholls-you-are-here-1236729643/",
+      "title": "‘Normal People’ Director Lenny Abrahamson Reuniting With BBC on Adaptation of David Nicholl’s ‘You Are Here’ for Element Pictures (EXCLUSIVE)",
+      "theme": "entertainment",
+      "themeLabel": "엔터",
+      "summary": "'노멀 피플'을 연출한 아일랜드 감독 레니 에이브러햄슨이 BBC와 다시 손을 잡습니다. 그는 데이비드 니콜스의 2024년 소설 '유 아 히어'를 TV 드라마로 각색할 예정입니다. 이 프로젝트는 Element Pictures가 제작을 맡습니다.",
+      "difficulty": "B2",
+      "estimatedMinutes": 5,
+      "learnerContent": "## 'Normal People' Director Returns to BBC With New Adaptation\n\nAcclaimed Irish director **Lenny Abrahamson** is reuniting with the BBC for a brand-new television project. According to *Variety*, Abrahamson will direct a TV adaptation of **David Nicholls'** 2024 novel **\"You Are Here.\"** The project will be produced by **Element Pictures**, the same production company behind several of Abrahamson's previous successes.\n\n### Who Is Lenny Abrahamson?\n\nLenny Abrahamson is best known internationally for directing **\"Normal People\"**, the hugely popular 2020 BBC and Hulu series based on Sally Rooney's bestselling novel of the same name. The show became a global cultural phenomenon, praised for its emotionally honest portrayal of a complex young romance between two Irish university students.\n\n\"Normal People\" was also a career-defining moment for its two lead actors. **Paul Mescal**, who played Connell, has since become one of Hollywood's most in-demand stars, receiving an Academy Award nomination for his role in *Aftersun* and starring in *Gladiator II*. **Daisy Edgar-Jones**, who played Marianne, has similarly gone on to major film roles, including *Where the Crawdads Sing* and *Twisters*. The success of the series demonstrated Abrahamson's remarkable ability to bring literary fiction to life on screen in a way that resonates deeply with audiences.\n\nBefore \"Normal People,\" Abrahamson also directed **\"Room\"** (2015), a critically acclaimed film starring Brie Larson, which earned him an Academy Award nomination for Best Director.\n\n### What Is 'You Are Here' About?\n\nDavid Nicholls is a beloved British author, perhaps best known for his novel **\"One Day\"**, which was also adapted into a popular Netflix series in 2024. His latest novel, **\"You Are Here\"**, published in 2024, is a romantic story that follows two people who meet while on a long-distance walking trip through the English countryside. The novel explores themes of connection, loneliness, second chances, and the unexpected ways people find love later in life.\n\nNicholls has a strong reputation for writing warm, witty, and emotionally rich stories about ordinary people navigating relationships. His work tends to appeal to a wide audience, making his novels well-suited for television adaptation.\n\n### Why This Collaboration Is Significant\n\nThe reunion between Abrahamson and the BBC — with Element Pictures once again producing — suggests a deliberate effort to replicate the winning formula of \"Normal People.\" That series proved that thoughtful, character-driven literary adaptations could attract massive global audiences when executed with care and sensitivity.\n\nBy pairing Abrahamson's directorial talent with Nicholls' emotionally compelling source material, the BBC appears to be betting on another prestige drama with broad international appeal. No casting announcements or release date have been confirmed yet, but interest in the project is already high given the reputations of everyone involved.\n\nFor fans of quality British television and literary adaptations, **\"You Are Here\"** is shaping up to be one of the most anticipated upcoming productions.",
+      "keyVocab": [
+        {
+          "word": "adaptation",
+          "meaning": "각색, 원작을 다른 매체(예: TV, 영화)에 맞게 새롭게 만든 작품",
+          "example": "The TV adaptation of the popular novel attracted millions of viewers around the world."
+        },
+        {
+          "word": "acclaimed",
+          "meaning": "높이 평가받는, 비평가들의 찬사를 받은",
+          "example": "The acclaimed director received numerous awards for his emotionally powerful films."
+        },
+        {
+          "word": "phenomenon",
+          "meaning": "현상, 매우 주목할 만한 사건이나 사람",
+          "example": "The series became a cultural phenomenon, with people all over the world talking about it."
+        },
+        {
+          "word": "prestige drama",
+          "meaning": "프레스티지 드라마, 높은 제작 수준과 예술성으로 인정받는 TV 드라마",
+          "example": "The network invested heavily in prestige dramas to attract award nominations and critical praise."
+        },
+        {
+          "word": "resonate",
+          "meaning": "(감정적으로) 깊이 공감되다, 울림을 주다",
+          "example": "The story of two people finding love against all odds resonated with audiences everywhere."
+        }
+      ],
+      "publishedAt": "2026-04-24T14:00:00.000Z"
+    },
+    "5a1e7f077c26": {
+      "id": "5a1e7f077c26",
+      "source": "Pitchfork News",
+      "sourceUrl": "https://pitchfork.com/news/10-new-albums-you-should-listen-to-now-kehlani-loukeman-foo-fighters/",
+      "title": "11 New Albums You Should Listen to Now: Kehlani, Loukeman, and More",
+      "theme": "music",
+      "themeLabel": "음악",
+      "summary": "2026년 4월, Kehlani, Loukeman, Gia Margaret 등 여러 아티스트들이 새 앨범을 발표했습니다. Pitchfork는 지금 바로 들어볼 만한 신보 11장을 추천했습니다. 다양한 장르의 새로운 음악을 발견할 수 있는 좋은 기회입니다.",
+      "difficulty": "A2",
+      "estimatedMinutes": 3,
+      "learnerContent": "## 11 New Albums to Listen to Right Now\n\nIt is a great time to discover new music! In April 2026, many artists released exciting new albums. Music magazine Pitchfork chose 11 of the best new albums for listeners to enjoy.\n\n### Who Are the Featured Artists?\n\nThree artists are getting a lot of attention this week.\n\n**Kehlani** is an R&B and pop singer from Oakland, California. She is known for her smooth voice and emotional songs about love and life. Fans have been waiting for her new music, and she has delivered once again.\n\n**Loukeman** is an artist bringing fresh sounds to the music world. His music mixes different styles and has a unique feel that many listeners are enjoying.\n\n**Gia Margaret** is a singer and songwriter known for her calm and beautiful music. Her songs are often soft and dreamy, perfect for quiet moments.\n\n### Why Are New Album Releases Important?\n\nNew albums are exciting events in the music world. An album is a collection of songs released together. Artists spend months or even years writing and recording their songs before sharing them with the world.\n\nWhen a big artist releases a new album, fans listen carefully to every song. They share their favorite tracks on social media and talk about the music with friends.\n\n### What Is Pitchfork?\n\nPitchfork is a well-known music website and magazine. It covers many types of music, including pop, R&B, hip-hop, indie, and more. Every week, Pitchfork recommends new music for its readers. Many music lovers trust Pitchfork to help them find great new artists and albums.\n\n### How Can You Listen?\n\nYou can stream all of these new albums on popular music platforms. Streaming means you can listen to music online without downloading it. Apps like Spotify, Apple Music, and Tidal make it easy to find new releases every week.\n\nIf you want to explore new music, try listening to one song from each artist. You might find a new favorite!",
+      "keyVocab": [
+        {
+          "word": "release",
+          "meaning": "발표하다, 출시하다",
+          "example": "The singer will release her new album next Friday."
+        },
+        {
+          "word": "stream",
+          "meaning": "스트리밍하다 (온라인으로 음악·영상을 재생하다)",
+          "example": "You can stream the new album for free on Spotify."
+        },
+        {
+          "word": "recommend",
+          "meaning": "추천하다",
+          "example": "My friend recommended a great song by Kehlani."
+        },
+        {
+          "word": "unique",
+          "meaning": "독특한, 특별한",
+          "example": "Her voice is unique — I have never heard anyone sing like her."
+        },
+        {
+          "word": "collection",
+          "meaning": "모음, 컬렉션",
+          "example": "An album is a collection of songs by one artist."
+        }
+      ],
+      "publishedAt": "2026-04-24T13:35:37.000Z"
+    },
+    "55c232160fef": {
+      "id": "55c232160fef",
+      "source": "Pitchfork News",
+      "sourceUrl": "https://pitchfork.com/news/yung-lean-debuts-new-music-in-short-film-storm-pt-i-and-ii/",
+      "title": "Yung Lean Debuts New Music in Short Film Storm Pt. I & II",
+      "theme": "music",
+      "themeLabel": "음악",
+      "summary": "스웨덴 래퍼 Yung Lean이 감독 Romain Gavras와 함께 단편 영화 'Storm Pt. I & II'를 공개하며 새 음악을 선보였습니다. 영상에서 Yung Lean은 학교로 돌아가는 모습을 연출했습니다. 음악과 영화적 스토리텔링을 결합한 이번 프로젝트가 팬들의 관심을 끌고 있습니다.",
+      "difficulty": "B1",
+      "estimatedMinutes": 4,
+      "learnerContent": "## Yung Lean Shares New Music Through a Short Film\n\nSwedish rapper Yung Lean has found a creative way to introduce his new music to the world. Instead of a simple music video, he released a short film called **Storm Pt. I & II**, which features brand-new tracks and a cinematic story.\n\n### About the Short Film\n\nThe short film was directed by **Romain Gavras**, a well-known French director famous for his bold and visually striking work. Gavras has previously directed music videos for artists like Jay-Z, Kanye West, and M.I.A., so his involvement in this project has generated a lot of excitement.\n\nIn the film, Yung Lean goes back to school — a setting that feels both familiar and symbolic. The school environment contrasts with his identity as a rapper and artist, creating an interesting and thought-provoking atmosphere. The combination of Gavras's strong visual style and Yung Lean's music gives the project a powerful artistic feel.\n\n### Who Is Yung Lean?\n\nYung Lean, whose real name is Jonatan Leandoer Håstad, is a rapper and singer from Stockholm, Sweden. He first became famous around 2013 when his song \"Ginseng Strip 2002\" went viral on the internet. He was only a teenager at the time.\n\nOver the years, Yung Lean has developed a distinctive sound that mixes rap, cloud rap, and emotional lyrics. He has built a loyal international fanbase and is respected for his unique artistic vision. His music often deals with themes of sadness, nostalgia, and personal struggles.\n\n### Music Meets Film\n\nUsing short films to release new music has become an increasingly popular trend among artists. Rather than releasing a standard single or album, some musicians choose to pair their music with visual storytelling. This approach allows artists to create a richer experience for their audience.\n\nFamous examples include Beyoncé's visual album *Lemonade* and Frank Ocean's film *Endless*. By following this path, Yung Lean is showing that he wants his music to be experienced as more than just sound — it is also art.\n\n### What Fans Are Saying\n\nFans of Yung Lean have responded enthusiastically to the announcement of *Storm Pt. I & II*. Many are excited to see him collaborate with a director as respected as Romain Gavras. The project suggests that Yung Lean is entering a new and ambitious chapter in his career.\n\nIf you are curious about his music, *Storm Pt. I & II* is a great place to start.",
+      "keyVocab": [
+        {
+          "word": "cinematic",
+          "meaning": "영화 같은, 영화적인",
+          "example": "The music video had a cinematic quality, like a scene from a movie."
+        },
+        {
+          "word": "distinctive",
+          "meaning": "독특한, 뚜렷한 특징이 있는",
+          "example": "His distinctive voice makes him easy to recognize on the radio."
+        },
+        {
+          "word": "nostalgia",
+          "meaning": "향수, 과거에 대한 그리움",
+          "example": "The song filled her with nostalgia for her childhood summers."
+        },
+        {
+          "word": "collaborate",
+          "meaning": "협력하다, 협업하다",
+          "example": "The two artists decided to collaborate on a new album together."
+        },
+        {
+          "word": "ambitious",
+          "meaning": "야심 찬, 대담한",
+          "example": "It was an ambitious project that required months of hard work."
+        }
+      ],
+      "publishedAt": "2026-04-24T11:31:56.000Z"
+    },
+    "83942f1eb3d0": {
+      "id": "83942f1eb3d0",
+      "source": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/24/trump-tariff-uk-digital-services-tax-warning",
+      "title": "Trump says he will ‘probably put a big tariff on the UK’ if it doesn’t drop digital services tax",
+      "theme": "politics",
+      "themeLabel": "시사",
+      "summary": "트럼프 대통령이 영국이 디지털 서비스세를 폐지하지 않으면 영국산 제품에 높은 관세를 부과하겠다고 경고했습니다. 영국의 디지털 서비스세는 2020년에 도입되어 미국 대형 기술 기업들의 매출에 2%의 세금을 부과합니다. 이번 발언은 미-영 무역 협정 협상에 긴장감을 더하고 있습니다.",
+      "difficulty": "B1",
+      "estimatedMinutes": 4,
+      "learnerContent": "## Trump Threatens UK with Tariffs Over Digital Tax\n\nUS President Donald Trump has warned that he will put \"a big tariff\" on the United Kingdom if it does not remove its digital services tax. This tax affects large American technology companies that do business in Britain.\n\n### What Is the Digital Services Tax?\n\nThe UK introduced the digital services tax in 2020. It places a **2% levy** — meaning a 2% charge — on the revenues that big US tech companies earn in Britain. Companies like Google, Amazon, and Meta are among those affected by this tax.\n\nThe UK government created this tax because many large tech companies were making huge profits in the country but paying very little in local taxes. The 2% levy was meant to make the system fairer.\n\n### What Did Trump Say?\n\nTrump accused Britain of trying to \"make an easy buck\" from American technology firms. This phrase means he believes the UK is trying to take money from US companies in an unfair or lazy way.\n\nHe made these comments just weeks after warning that any trade deal between the UK and the US could still be changed. This suggests that the digital services tax has become an important issue in trade talks between the two countries.\n\n### Why Does This Matter?\n\nA tariff is a tax that one country places on goods imported from another country. If the US puts high tariffs on British goods, it would make those products more expensive for American buyers. This could seriously hurt British businesses that sell to the US market.\n\nThe US and UK have been working toward a trade deal for several years. Both sides hoped that closer trade ties would benefit their economies. However, Trump's latest threat shows that disagreements over tech taxes could block progress.\n\n### A Bigger Global Debate\n\nThe UK is not the only country with a digital services tax. France, Italy, Spain, and several other nations have introduced similar taxes on US tech giants. The US government has long argued that these taxes unfairly target American companies.\n\nThe debate highlights a wider problem: international tax rules were written long before companies like Google and Amazon existed. Many governments feel that tech giants use complex financial arrangements to avoid paying taxes where they actually earn their money. Digital services taxes are one way countries have tried to respond to this problem.\n\n### What Happens Next?\n\nIt is not yet clear whether the UK will remove the tax in response to Trump's warning. The British government will need to decide if keeping the digital services tax is worth the risk of new American tariffs.\n\nFor now, businesses and trade experts on both sides of the Atlantic are watching closely to see how this dispute develops.",
+      "keyVocab": [
+        {
+          "word": "tariff",
+          "meaning": "관세 (수입품에 부과되는 세금)",
+          "example": "The government placed a high tariff on imported steel to protect local manufacturers."
+        },
+        {
+          "word": "levy",
+          "meaning": "부과금, 세금",
+          "example": "The city introduced a new levy on plastic bags to reduce waste."
+        },
+        {
+          "word": "revenue",
+          "meaning": "수익, 매출",
+          "example": "The company's revenue grew by 10% after it expanded into new markets."
+        },
+        {
+          "word": "trade deal",
+          "meaning": "무역 협정",
+          "example": "The two countries signed a trade deal to reduce taxes on each other's goods."
+        },
+        {
+          "word": "accused",
+          "meaning": "비난하다, 고발하다",
+          "example": "The senator accused the company of breaking environmental laws."
+        }
+      ],
+      "publishedAt": "2026-04-24T13:58:41.000Z"
+    },
+    "64e9bc3b8b1a": {
+      "id": "64e9bc3b8b1a",
+      "source": "NYT Business",
+      "sourceUrl": "https://www.nytimes.com/2026/04/24/business/dealbook/ai-tech-cost-cuts.html",
+      "title": "A.I. Is Forcing More Belt-Tightening at Big Tech",
+      "theme": "tech",
+      "themeLabel": "기술",
+      "summary": "인공지능 경쟁에서 뒤처지지 않으려는 비용 부담으로 인해 대형 기술 기업들이 비용 절감에 나서고 있습니다. AI 개발에는 막대한 투자가 필요하기 때문에 기업들은 다른 분야에서 지출을 줄이고 있습니다. 이는 스타트업부터 오래된 대기업까지 업계 전반에 걸친 현상입니다.",
+      "difficulty": "B2",
+      "estimatedMinutes": 4,
+      "learnerContent": "## AI Is Forcing Tech Companies to Cut Costs\n\nThe artificial intelligence race is becoming increasingly expensive, and the pressure is being felt across the entire technology industry. From well-established giants to young startups, companies are being forced to **tighten their belts** — meaning they must spend more carefully and cut unnecessary costs — in order to keep up.\n\n### The High Price of AI\n\nDeveloping and running advanced AI systems requires enormous investment. Companies need to build or rent powerful data centers filled with expensive computer chips. They also need to hire highly skilled engineers and researchers, who command very high salaries in today's competitive job market.\n\nThe cost of training large AI models — the systems that power tools like chatbots and image generators — can run into hundreds of millions of dollars for a single project. Maintaining and updating these models over time adds even more to the bill.\n\n### Who Is Affected?\n\nThe financial strain is not limited to any one type of company. Large, established tech firms such as Google, Microsoft, and Amazon have all been increasing their AI spending dramatically. While these companies have deep pockets, even they are looking for ways to offset rising AI costs by cutting spending in other areas.\n\nMeanwhile, younger technology companies and AI startups face an even sharper challenge. Many of them are burning through cash quickly as they try to compete with much larger rivals that have far greater financial resources.\n\n### What Kind of Cuts Are Being Made?\n\nTo manage rising AI expenses, technology companies have been making cuts in several areas. Many firms have reduced their overall headcount through layoffs, letting go of workers in divisions that are seen as less critical to their AI strategies. Some companies have also scaled back on office space, marketing budgets, and non-AI research projects.\n\nThe trend reflects a broader shift in priorities across the industry. Investment and talent are increasingly being concentrated in AI, while other parts of the business receive less attention and fewer resources.\n\n### A High-Stakes Competition\n\nThe reason companies feel they cannot simply slow down their AI spending is the fear of falling behind. AI is widely seen as the most important technology of the coming decade, with the potential to transform industries ranging from healthcare and finance to transportation and entertainment.\n\nCompanies that fail to keep pace risk losing customers, talent, and market share to faster-moving competitors. This creates a cycle where everyone feels compelled to spend more, even as costs continue to climb.\n\n### The Bigger Picture\n\nThe AI spending race raises important questions about sustainability. Can companies continue to invest at this pace without damaging their financial health? And what happens to the workers and projects that are cut in order to fund AI ambitions?\n\nFor now, the pressure to compete in AI shows no sign of easing, and cost-cutting looks set to remain a defining feature of the tech industry for the foreseeable future.",
+      "keyVocab": [
+        {
+          "word": "tighten their belts",
+          "meaning": "허리띠를 조르다, 지출을 줄이다",
+          "example": "After losing several clients, the agency had to tighten its belt and reduce staff."
+        },
+        {
+          "word": "offset",
+          "meaning": "상쇄하다, 벌충하다",
+          "example": "The company planted trees to offset the carbon emissions from its factories."
+        },
+        {
+          "word": "headcount",
+          "meaning": "직원 수",
+          "example": "The firm reduced its headcount by 15% through a series of layoffs."
+        },
+        {
+          "word": "scale back",
+          "meaning": "축소하다, 줄이다",
+          "example": "Due to budget constraints, the project team decided to scale back their original plans."
+        },
+        {
+          "word": "sustainability",
+          "meaning": "지속 가능성",
+          "example": "Investors are questioning the sustainability of the company's rapid growth."
+        }
+      ],
+      "publishedAt": "2026-04-24T14:03:41.000Z"
+    },
+    "d2b157bdd06f": {
+      "id": "d2b157bdd06f",
+      "source": "NYT Business",
+      "sourceUrl": "https://www.nytimes.com/2026/04/24/business/iran-war-stocks-bonds-investing.html",
+      "title": "Ignoring the War Has Been Working for Long-Term Investors",
+      "theme": "business",
+      "themeLabel": "경제",
+      "summary": "미국 주식 시장은 이번 달 빠르게 회복되었지만, 이 반등은 불안정할 수 있습니다. 전문가들은 시장의 불안한 변동을 견디며 장기적으로 투자를 유지하는 전략이 효과적이었다고 말합니다. 전쟁과 같은 지정학적 위기 속에서도 장기 투자자들은 꾸준히 좋은 성과를 거두어 왔습니다.",
+      "difficulty": "B1",
+      "estimatedMinutes": 4,
+      "learnerContent": "## Ignoring the War Has Been Working for Long-Term Investors\n\nThe U.S. stock market has had a rocky few months. Prices have gone up and down sharply, and many investors have felt nervous. However, for people who stayed calm and kept their money invested, the results have been surprisingly good.\n\n### A Quick Rebound\n\nIn April, the U.S. stock market recovered quickly after a sharp drop. This means that stock prices fell suddenly, but then rose again in a short period of time. This kind of fast recovery is sometimes called a \"rebound.\"\n\nHowever, financial experts warn that this rebound may be **fragile**. In other words, it might not last long. The market could fall again if the situation changes. Investors should not assume that the danger is completely over.\n\n### What Is Driving the Uncertainty?\n\nOne major reason for market uncertainty is the ongoing war in Ukraine and other global conflicts. When wars happen, they can affect energy prices, supply chains, and the overall global economy. This makes investors worried, and sometimes they sell their stocks out of fear.\n\nGeopolitical events — things like wars, elections, and international disputes — have always caused short-term trouble in financial markets. History shows, however, that these events rarely change the long-term direction of the market.\n\n### The Strategy That Has Been Working\n\nSo what have successful investors been doing? Many of them have simply chosen to **ride out** the difficult periods. This means they did not panic and sell their stocks when prices dropped. Instead, they held onto their investments and waited for the market to recover.\n\nThis approach is sometimes called a \"buy and hold\" strategy. Instead of trying to guess when to buy and when to sell, long-term investors keep their money in the market through both good times and bad times.\n\nHistorically, this strategy has produced strong results. The U.S. stock market has always recovered from wars, recessions, and other crises — even if it sometimes takes months or years. Investors who stayed in the market during these difficult periods were usually rewarded in the end.\n\n### Why Do People Panic?\n\nEven though history supports the \"ride it out\" approach, many investors still panic when markets fall. This is because losing money — even temporarily — feels very painful. Psychologists call this \"loss aversion.\" People feel the pain of losing $100 much more strongly than they feel the pleasure of gaining $100.\n\nThis emotional reaction can lead investors to make poor decisions. They sell their stocks when prices are low, and then they miss the recovery when prices rise again.\n\n### What Should Investors Remember?\n\nFinancial advisors often give the following advice to investors during uncertain times:\n\n- **Stay calm.** Do not make big decisions based on short-term fear.\n- **Think long-term.** If you do not need your money for 10 or 20 years, short-term drops are less important.\n- **Diversify.** Spread your money across different types of investments to reduce risk.\n- **Avoid checking prices too often.** Looking at your portfolio every day can increase anxiety and lead to bad decisions.\n\n### The Bottom Line\n\nThe U.S. stock market's recent rebound may be fragile, and more uncertainty could be ahead. But for investors with a long time horizon, the strategy of staying invested and ignoring short-term noise has historically been a smart one. As the saying goes, \"time in the market beats timing the market.\"",
+      "keyVocab": [
+        {
+          "word": "rebound",
+          "meaning": "반등, 회복",
+          "example": "After the sharp drop, the stock market had a strong rebound within just a few weeks."
+        },
+        {
+          "word": "fragile",
+          "meaning": "불안정한, 취약한",
+          "example": "The economic recovery looks promising, but experts say it is still fragile and could reverse."
+        },
+        {
+          "word": "ride out",
+          "meaning": "(어려운 시기를) 버티다, 견뎌내다",
+          "example": "Many experienced investors chose to ride out the market crash instead of selling their stocks."
+        },
+        {
+          "word": "loss aversion",
+          "meaning": "손실 회피 심리",
+          "example": "Because of loss aversion, people often make emotional decisions when their investments lose value."
+        },
+        {
+          "word": "diversify",
+          "meaning": "다양화하다, 분산 투자하다",
+          "example": "It is wise to diversify your portfolio by investing in stocks, bonds, and real estate."
+        }
+      ],
+      "publishedAt": "2026-04-24T14:03:13.000Z"
     }
   }
 }

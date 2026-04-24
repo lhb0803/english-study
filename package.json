@@ -7,8 +7,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "picks:build": "tsx scripts/build-picks.ts",
-    "picks:dummy": "tsx scripts/build-picks.ts --dummy"
+    "picks:build": "tsx --env-file-if-exists=.env.local scripts/build-picks.ts",
+    "picks:dummy": "tsx --env-file-if-exists=.env.local scripts/build-picks.ts --dummy"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.89.0",

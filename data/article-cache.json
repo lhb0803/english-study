@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-26T21:37:56.172Z",
+  "updatedAt": "2026-05-03T21:40:41.098Z",
   "articles": {
     "189cea6e74d0": {
       "id": "189cea6e74d0",
@@ -2281,6 +2281,406 @@
         }
       ],
       "publishedAt": "2026-04-24T18:42:07.000Z"
+    },
+    "506b047e3186": {
+      "id": "506b047e3186",
+      "source": "BBC World",
+      "sourceUrl": "https://www.bbc.com/news/articles/cn0px2x53k2o?at_medium=RSS&at_campaign=rss",
+      "title": "Iran says US has responded to its latest peace proposal",
+      "theme": "politics",
+      "themeLabel": "시사",
+      "summary": "이란이 미국으로부터 최신 평화 제안에 대한 답변을 받았다고 밝혔습니다. 미국은 공식적으로 이를 확인하지 않았으며, 트럼프 대통령은 이란의 제안이 받아들일 수 없다고 말한 것으로 알려졌습니다.",
+      "difficulty": "B1",
+      "estimatedMinutes": 3,
+      "learnerContent": "## Iran and the US: Talks Over a Peace Proposal\n\nIran has announced that the United States has responded to its latest peace proposal. However, the US government has not yet officially confirmed this.\n\n### What Is a Peace Proposal?\n\nA peace proposal is a formal offer made by one country to another, suggesting a plan to reduce conflict or reach an agreement. Iran and the US have had a difficult relationship for many years, and the two countries have been involved in diplomatic talks about issues such as nuclear weapons and regional security.\n\n### What Did Iran Say?\n\nIranian officials stated that they sent a new proposal to the United States and that the US had sent a reply. This was seen as a possible step forward in negotiations between the two countries.\n\n### What Did the US Say?\n\nThe United States government has not made an official statement confirming that it replied to Iran's proposal. This means there is still some uncertainty about what exactly happened between the two sides.\n\n### Trump's Reaction\n\nAccording to reports, US President Donald Trump spoke to Israel's Kan News and said that Iran's proposal was \"unacceptable.\" This suggests that, even if the US did respond, the American side is not happy with what Iran offered.\n\n### Why Does This Matter?\n\nThe relationship between the US and Iran is very important for peace and stability in the Middle East and around the world. When the two countries talk, even if they disagree, it can help prevent the situation from getting worse.\n\nIsrael is also closely watching these talks. Israel and Iran have a very tense relationship, and any agreement — or disagreement — between the US and Iran directly affects Israel's security.\n\n### What Happens Next?\n\nIt is unclear what the next step will be. If Trump believes Iran's proposal is unacceptable, negotiations may slow down or stop. Diplomats and analysts around the world are watching carefully to see whether the two sides can find common ground, or whether tensions will continue to rise.\n\nFor now, both countries seem to have very different ideas about what a deal should look like. The coming weeks may be important in deciding the direction of US-Iran relations.",
+      "keyVocab": [
+        {
+          "word": "proposal",
+          "meaning": "제안, 계획안",
+          "example": "The company made a proposal to reduce costs and improve efficiency."
+        },
+        {
+          "word": "confirm",
+          "meaning": "확인하다",
+          "example": "The government has not yet confirmed the details of the new policy."
+        },
+        {
+          "word": "unacceptable",
+          "meaning": "받아들일 수 없는",
+          "example": "The teacher said that cheating on a test is completely unacceptable."
+        },
+        {
+          "word": "negotiations",
+          "meaning": "협상",
+          "example": "The two countries entered into negotiations to end the trade dispute."
+        },
+        {
+          "word": "stability",
+          "meaning": "안정",
+          "example": "Peace and stability in the region are important for economic growth."
+        }
+      ],
+      "publishedAt": "2026-05-03T21:28:09.000Z"
+    },
+    "3be0047f2752": {
+      "id": "3be0047f2752",
+      "source": "NYT Home",
+      "sourceUrl": "https://www.nytimes.com/2026/05/03/well/cruise-ship-virus-fatal-outbreak.html",
+      "title": "3 Dead in Hantavirus Outbreak Aboard Cruise Ship, W.H.O. Says",
+      "theme": "science",
+      "themeLabel": "과학",
+      "summary": "세계보건기구(WHO)에 따르면 크루즈선에서 한타바이러스 발병으로 3명이 사망했습니다. 실험실에서 1건이 확진되었으며, 추가로 5건이 의심 사례로 분류되었습니다.",
+      "difficulty": "B1",
+      "estimatedMinutes": 4,
+      "learnerContent": "## Hantavirus Outbreak on a Cruise Ship: 3 People Dead\n\nThe World Health Organization (WHO) has reported that three people have died following an outbreak of hantavirus on a cruise ship. The announcement was made on Sunday, raising concern among health officials around the world.\n\n### What Is Hantavirus?\n\nHantavirus is a rare but serious virus. It is mainly spread to humans through contact with infected rodents, such as mice or rats, or through their droppings, urine, or saliva. The virus does not usually spread easily from person to person, which makes an outbreak on a cruise ship unusual and surprising.\n\nSymptoms of hantavirus infection can include fever, muscle pain, and tiredness. In more serious cases, it can cause severe breathing problems or kidney failure, which can be life-threatening.\n\n### What Happened on the Cruise Ship?\n\nAccording to the WHO, one case of hantavirus infection has been confirmed through laboratory testing. In addition to this confirmed case, there are five more suspected cases. These are people who may have the virus but whose test results have not yet been fully confirmed.\n\nThree people connected to the outbreak have died. Health officials are working to understand exactly how the virus spread on board the ship.\n\n### Why Is This Unusual?\n\nCruise ships carry hundreds or even thousands of passengers in a small, enclosed space. This makes it easier for some illnesses to spread quickly. However, hantavirus is not commonly found on cruise ships because it is usually linked to rural areas where people come into contact with wild rodents.\n\nHealth experts are investigating where the passengers may have been exposed to the virus. It is possible they came into contact with infected animals during a stop at a port.\n\n### What Is the WHO Doing?\n\nThe WHO is monitoring the situation closely. The organization works with countries around the world to track disease outbreaks and provide guidance to health authorities. They are advising officials to test all suspected cases and to take steps to prevent further spread.\n\n### Should Travelers Be Worried?\n\nHealth officials say the general risk to the public remains low. Hantavirus is not easily passed between people. However, travelers are advised to avoid contact with wild rodents and to maintain good hygiene, especially when visiting natural or rural areas.",
+      "keyVocab": [
+        {
+          "word": "outbreak",
+          "meaning": "발병, 발생",
+          "example": "The government responded quickly to the outbreak of the new disease."
+        },
+        {
+          "word": "confirmed",
+          "meaning": "확진된, 확인된",
+          "example": "There are ten confirmed cases of the illness in the city."
+        },
+        {
+          "word": "suspected",
+          "meaning": "의심되는",
+          "example": "The doctor listed three suspected causes of the patient's symptoms."
+        },
+        {
+          "word": "rodents",
+          "meaning": "설치류 (쥐 등)",
+          "example": "Rodents such as mice can sometimes carry dangerous diseases."
+        },
+        {
+          "word": "hygiene",
+          "meaning": "위생",
+          "example": "Good hygiene, like washing your hands regularly, helps prevent illness."
+        }
+      ],
+      "publishedAt": "2026-05-03T21:24:22.000Z"
+    },
+    "56c4fd907a59": {
+      "id": "56c4fd907a59",
+      "source": "NYT Business",
+      "sourceUrl": "https://www.nytimes.com/2026/05/03/well/cruise-ship-virus-fatal-outbreak.html",
+      "title": "3 Dead in Hantavirus Outbreak Aboard Cruise Ship, W.H.O. Says",
+      "theme": "science",
+      "themeLabel": "과학",
+      "summary": "세계보건기구(WHO)에 따르면 크루즈선에서 한타바이러스 발생으로 3명이 사망했습니다. 실험실에서 한 건의 감염이 확인되었으며, 추가로 5건의 의심 사례가 보고되었습니다.",
+      "difficulty": "B1",
+      "estimatedMinutes": 3,
+      "learnerContent": "## 3 Dead in Hantavirus Outbreak on Cruise Ship, WHO Says\n\nThe World Health Organization (WHO) announced on Sunday that three people have died following a hantavirus outbreak aboard a cruise ship. One case of hantavirus infection has been confirmed through laboratory testing, and there are five additional suspected cases under investigation.\n\n### What Is Hantavirus?\n\nHantavirus is a serious illness caused by a virus that is mainly spread by rodents, such as mice and rats. People can become infected when they breathe in air that has been contaminated by the urine, feces, or saliva of infected rodents. The virus does not usually spread directly from person to person, which makes an outbreak on a cruise ship unusual and concerning.\n\nSymptoms of hantavirus infection often begin like a common flu. People may feel tired, have a fever, and experience muscle aches. However, the disease can become very serious quickly. In severe cases, it can cause breathing difficulties and organ failure, which can be fatal.\n\n### The Outbreak on the Cruise Ship\n\nDetails about the cruise ship, including its name, location, and the nationalities of those affected, have not yet been fully released. Health authorities are currently working to identify all passengers and crew members who may have been exposed to the virus. Contact tracing — the process of finding people who may have come into contact with infected individuals — is ongoing.\n\nThe WHO is closely monitoring the situation. When a disease outbreak occurs on a ship, it can be especially difficult to control because many people are living in a small, enclosed space. This makes it easier for illnesses to spread.\n\n### Why This Matters\n\nAlthough hantavirus outbreaks are relatively rare, they are taken very seriously by global health organizations because the disease can be deadly. There is currently no specific cure or vaccine for hantavirus. Treatment focuses on supporting the patient, such as helping them breathe and keeping their body stable.\n\nHealth experts are urging anyone who was recently on the affected cruise ship and is feeling unwell to seek medical attention immediately and inform doctors of their travel history.\n\nThe WHO has said it will continue to provide updates as more information becomes available. Travelers are advised to follow guidance from health authorities and to be aware of the symptoms of hantavirus, especially if they have been in areas where rodents are common.",
+      "keyVocab": [
+        {
+          "word": "outbreak",
+          "meaning": "갑작스러운 질병의 발생",
+          "example": "Health officials rushed to respond to the outbreak of the disease in the city."
+        },
+        {
+          "word": "confirmed",
+          "meaning": "공식적으로 확인된",
+          "example": "The laboratory confirmed that the patient had been infected with the virus."
+        },
+        {
+          "word": "contaminated",
+          "meaning": "오염된",
+          "example": "The water supply was contaminated, so residents were told not to drink it."
+        },
+        {
+          "word": "contact tracing",
+          "meaning": "접촉자 추적",
+          "example": "Contact tracing helped authorities find people who had been near the infected individual."
+        },
+        {
+          "word": "fatal",
+          "meaning": "치명적인, 사망을 초래하는",
+          "example": "The disease can be fatal if it is not treated quickly."
+        }
+      ],
+      "publishedAt": "2026-05-03T21:24:22.000Z"
+    },
+    "ec72490edebf": {
+      "id": "ec72490edebf",
+      "source": "NYT Business",
+      "sourceUrl": "https://www.nytimes.com/2026/05/03/business/economy/eeoc-discrimination-claim-new-york-times.html",
+      "title": "E.E.O.C. Investigating Discrimination Claim at The New York Times",
+      "theme": "business",
+      "themeLabel": "경제",
+      "summary": "미국 평등고용기회위원회(EEOC)가 뉴욕타임스 직원이 제기한 역차별 불만을 법률 부서에 넘겨 검토 중입니다. 이는 직장 내 차별 문제와 관련하여 언론사에 대한 중요한 조사입니다.",
+      "difficulty": "B2",
+      "estimatedMinutes": 4,
+      "learnerContent": "## EEOC Investigating Discrimination Claim at The New York Times\n\nThe United States Equal Employment Opportunity Commission (EEOC) is investigating a discrimination complaint filed by an employee at The New York Times. The case involves what is known as a \"reverse discrimination\" claim, and it has recently been referred to the agency's legal unit for a more detailed review.\n\n### What Is the EEOC?\n\nThe Equal Employment Opportunity Commission is a federal government agency in the United States. Its main role is to enforce laws that prohibit workplace discrimination. These laws protect employees from being treated unfairly because of their race, color, religion, sex, national origin, age, disability, or other protected characteristics. When an employee believes they have been discriminated against, they can file a complaint with the EEOC, which then investigates the claim.\n\n### What Is Reverse Discrimination?\n\nReverse discrimination refers to a situation where a person from a majority group — for example, a white employee or a male employee — claims they were treated unfairly in favor of someone from a minority group. This type of complaint has become more common in recent years, particularly as many companies have introduced diversity, equity, and inclusion (DEI) programs designed to increase representation of underrepresented groups in the workplace.\n\nCritics of DEI programs argue that these initiatives can sometimes lead to decisions — such as hiring or promotions — that unfairly disadvantage majority-group employees. Supporters, however, say that such programs are necessary to correct long-standing inequalities in the workplace.\n\n### The Case at The New York Times\n\nAn employee at The New York Times has filed a reverse discrimination complaint with the EEOC. The specific details of the complaint — including the identity of the employee and the exact nature of their claim — have not been made public. However, the fact that the EEOC has referred the case to its legal unit suggests that investigators believe the complaint may have enough merit to warrant further examination.\n\nA referral to the legal unit is a significant step. It means the case has moved beyond the initial review stage and is now being considered for potential legal action. This does not mean that The New York Times has been found guilty of any wrongdoing, but it does indicate that the complaint is being taken seriously.\n\n### The Broader Context\n\nThis case comes at a time when many organizations across the United States are facing increased scrutiny over their diversity and inclusion policies. Several high-profile legal challenges to DEI programs have emerged in recent years, reflecting a broader national debate about fairness, equality, and how best to address discrimination in the workplace.\n\nThe New York Times has not yet issued a public statement regarding the investigation. The EEOC is expected to continue its review and may take further action depending on its findings.",
+      "keyVocab": [
+        {
+          "word": "discrimination",
+          "meaning": "차별",
+          "example": "The company was sued for discrimination after refusing to hire qualified candidates based on their age."
+        },
+        {
+          "word": "complaint",
+          "meaning": "불만 신고, 고충",
+          "example": "She filed a formal complaint with the human resources department after being passed over for a promotion."
+        },
+        {
+          "word": "referred",
+          "meaning": "(검토를 위해) 이송된, 넘겨진",
+          "example": "The case was referred to a specialist team for further investigation."
+        },
+        {
+          "word": "merit",
+          "meaning": "타당성, 가치",
+          "example": "The judge decided the case had enough merit to proceed to trial."
+        },
+        {
+          "word": "scrutiny",
+          "meaning": "면밀한 조사, 감시",
+          "example": "The company's hiring practices came under scrutiny after reports of unfair treatment emerged."
+        }
+      ],
+      "publishedAt": "2026-05-03T20:29:51.000Z"
+    },
+    "7ba87e7eb568": {
+      "id": "7ba87e7eb568",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/games/922840/reggie-fils-aime-amazon-nintendo-illegal",
+      "title": "Reggie Fils-Aimé says Amazon once asked Nintendo to break the law",
+      "theme": "tech",
+      "themeLabel": "기술",
+      "summary": "전 닌텐도 오브 아메리카 사장 레지 필스-에이메가 NYU 강연에서 아마존이 닌텐도에게 불법적인 가격 우대를 요구했다고 밝혔습니다. 이로 인해 닌텐도는 한동안 아마존을 통한 제품 판매를 중단했습니다. 현재 두 회사는 화해하여 아마존에서 닌텐도 스위치 2를 구매할 수 있습니다.",
+      "difficulty": "B1",
+      "estimatedMinutes": 4,
+      "learnerContent": "## Nintendo Once Stopped Selling to Amazon — Here's Why\n\nDid you know that Nintendo once refused to sell its products on Amazon? The story behind this decision is quite interesting, and it was recently shared by a former Nintendo executive.\n\n### What Happened?\n\nReggie Fils-Aimé, the former President of Nintendo of America, gave a lecture at New York University (NYU) in 2025. During the talk, he explained why Nintendo made the unusual decision to stop selling its products to Amazon during the Nintendo DS era — roughly in the mid-2000s.\n\nAccording to Fils-Aimé, Amazon asked Nintendo for \"preferential treatment\" on pricing. This means Amazon wanted Nintendo to offer it much lower prices than those offered to other retailers like Walmart or GameStop. Amazon was aggressively growing its business at the time, moving well beyond its origins as an online bookstore. It wanted to undercut every other retailer on price — including major stores like Walmart.\n\n### Why Was This a Problem?\n\nNintendo refused for two main reasons. First, giving Amazon special low prices would have seriously damaged Nintendo's relationships with its other retail partners. Those partners would have felt they were being treated unfairly.\n\nSecond, and more seriously, what Amazon was asking for could have actually broken the law. In the United States, offering one retailer prices that are not available to competing retailers can violate fair trade laws under certain conditions. Nintendo was not willing to take that legal risk.\n\nBecause of this, Nintendo made the bold decision to stop selling its products through Amazon entirely. For many years during the 2000s and into the 2010s, it was very difficult to find Nintendo consoles available for sale on Amazon's website.\n\n### How Did Things Change?\n\nEventually, the two companies resolved their differences and rebuilt their business relationship. Today, Amazon is one of the main places where customers can buy Nintendo products. In fact, you can now purchase the brand-new Nintendo Switch 2 directly through Amazon without any problems.\n\n### Why Does This Story Matter?\n\nThis story gives us a rare look at how major corporations negotiate — and sometimes clash — behind closed doors. It shows that even a large company like Amazon does not always get what it wants. It also shows that Nintendo has a long history of protecting its relationships with retail partners, even if that meant losing sales on one of the world's biggest shopping platforms.\n\nFils-Aimé's lecture at NYU reminds us that business decisions are not always just about profit. Sometimes they are about fairness, legal responsibility, and long-term trust.",
+      "keyVocab": [
+        {
+          "word": "preferential treatment",
+          "meaning": "우대 대우 (다른 사람보다 더 좋은 조건을 받는 것)",
+          "example": "The company was accused of giving preferential treatment to one supplier over others."
+        },
+        {
+          "word": "undercut",
+          "meaning": "가격을 더 낮게 책정하여 경쟁자를 이기다",
+          "example": "The new store undercut all its competitors by offering prices 20% lower."
+        },
+        {
+          "word": "executive",
+          "meaning": "임원, 고위 경영자",
+          "example": "The executive gave a speech about the company's future plans."
+        },
+        {
+          "word": "retail partner",
+          "meaning": "소매 파트너 (제품을 판매하는 협력 매장)",
+          "example": "The brand worked closely with its retail partners to make sure products were available in all major stores."
+        },
+        {
+          "word": "resolve",
+          "meaning": "해결하다",
+          "example": "The two companies were able to resolve their disagreement after several months of negotiation."
+        }
+      ],
+      "publishedAt": "2026-05-03T15:24:27.000Z"
+    },
+    "85bb9847dc50": {
+      "id": "85bb9847dc50",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/gadgets/922616/shokz-openrun-pro-2-bone-conduction-headphones-mothers-day-deal-sale",
+      "title": "Shokz’s bassy OpenRun Pro 2 are $40 off thanks to a new Mother’s Day promo",
+      "theme": "tech",
+      "themeLabel": "기술",
+      "summary": "Shokz의 OpenRun Pro 2 골전도 헤드폰이 어머니날 프로모션으로 40달러 할인된 139.95달러에 판매되고 있습니다. 이 헤드폰은 귀를 막지 않는 오픈형 디자인으로 주변 소리를 들으면서 음악을 감상할 수 있으며, 최대 12시간의 배터리 수명을 제공합니다.",
+      "difficulty": "B1",
+      "estimatedMinutes": 4,
+      "learnerContent": "## Shokz OpenRun Pro 2 Headphones Are on Sale for Mother's Day\n\nIf you are looking for a special gift for your mother — or simply want a new pair of headphones for yourself — now is a great time to buy. Shokz is running a Mother's Day sale, and their popular OpenRun Pro 2 headphones are currently $40 off.\n\n### The Deal\n\nFrom now until May 10th, the Shokz OpenRun Pro 2 are available for **$139.95** (usually $179.95) at Amazon, Best Buy, and the official Shokz website. If you buy directly from Shokz, you will also receive a free waist bag worth $29.99. This is the lowest price these headphones have been all year.\n\n### What Makes These Headphones Special?\n\nThe OpenRun Pro 2 are **bone conduction headphones**. Instead of sitting inside your ear or over it, they rest against your cheekbones and send sound vibrations directly to your inner ear. This means your ears remain completely open while you listen.\n\nThis open design is especially useful for outdoor activities like running or cycling. You can enjoy your music or podcasts while still hearing cars, other people, and your surroundings. Traditional headphones block out the world, which can be dangerous outside.\n\n### How Do They Sound?\n\nBone conduction headphones have sometimes had a reputation for weak bass and poor sound quality. However, the OpenRun Pro 2 include a special air conduction speaker that significantly improves bass and overall clarity. Reviewer Victoria Song from The Verge described using them as feeling \"like the stars finally aligning.\"\n\nOf course, they still cannot match the sound quality of high-end in-ear headphones. But for open-ear headphones, they perform very well.\n\n### Comfort and Battery Life\n\nThe OpenRun Pro 2 are lightweight and use flexible ear hooks with a neckband that wraps around the back of your head. The design is comfortable even for people who wear glasses. They also vibrate much less than older Shokz models, which many users find more pleasant.\n\nBattery life is impressive at up to **12 hours** on a single charge. In testing, this was enough to last almost a full week without recharging. When you do need to charge them, the USB-C connection charges very quickly.\n\nThe headphones also have **AI-powered noise cancellation** for phone calls and an IP55 waterproof rating, making them suitable for sweaty workouts and outdoor use in light rain.\n\n### Other Options on Sale\n\nShokz is also discounting other models during the sale:\n- **OpenFit 2 Plus** – $149.95 (down from $199). These wireless earbuds support Dolby Audio and wireless charging.\n- **OpenRun (standard)** – from $89.94 (down from $149.95). A lighter, simpler model with up to 8 hours of battery and an IP67 water resistance rating, though without USB-C charging.\n\nIf you want open-ear headphones that balance comfort, safety, and sound quality, the OpenRun Pro 2 at this discounted price is worth considering.",
+      "keyVocab": [
+        {
+          "word": "bone conduction",
+          "meaning": "골전도 (뼈를 통해 소리를 전달하는 방식)",
+          "example": "Bone conduction headphones are popular with runners because they allow you to hear traffic while listening to music."
+        },
+        {
+          "word": "waterproof rating",
+          "meaning": "방수 등급",
+          "example": "The smartwatch has a high waterproof rating, so you can wear it while swimming."
+        },
+        {
+          "word": "neckband",
+          "meaning": "목 밴드 (목 뒤에 걸치는 헤드폰 연결 부분)",
+          "example": "The neckband design keeps the headphones securely in place during exercise."
+        },
+        {
+          "word": "noise cancellation",
+          "meaning": "노이즈 캔슬링 (주변 소음을 줄여주는 기술)",
+          "example": "The headphones use noise cancellation technology to block background sounds during calls."
+        },
+        {
+          "word": "discount",
+          "meaning": "할인",
+          "example": "The store offered a 20% discount on all electronics during the holiday sale."
+        }
+      ],
+      "publishedAt": "2026-05-03T15:00:00.000Z"
+    },
+    "4e84eb71f211": {
+      "id": "4e84eb71f211",
+      "source": "Variety",
+      "sourceUrl": "https://variety.com/2026/music/news/noah-kahan-scores-first-no-1-albums-chart-the-great-divide-1236736424/",
+      "title": "Noah Kahan Scores First No. 1 on Albums Chart With ‘The Great Divide’",
+      "theme": "music",
+      "themeLabel": "음악",
+      "summary": "노아 카한이 네 번째 앨범 'The Great Divide'로 빌보드 200 차트에서 처음으로 1위를 차지했습니다. 이 앨범은 389,000 유닛을 기록하며 2014년 이후 록 앨범 중 가장 큰 첫 주 성적을 달성했습니다.",
+      "difficulty": "B1",
+      "estimatedMinutes": 3,
+      "learnerContent": "## Noah Kahan Reaches No. 1 on the Billboard 200\n\nAmerican singer-songwriter Noah Kahan has achieved his first No. 1 album on the Billboard 200 chart. His fourth studio album, **\"The Great Divide,\"** debuted at the top spot with an impressive 389,000 equivalent album units in its first week.\n\n### What Are \"Equivalent Album Units\"?\n\nThe Billboard 200 chart measures album popularity using a system called \"equivalent album units.\" This system counts not just physical album sales, but also digital downloads and music streams. For example, a certain number of streams from a streaming platform like Spotify or Apple Music counts as one album unit. Billboard began using this measurement system at the end of 2014.\n\n### A Historic Week for Rock Music\n\nKahan's first-week numbers are not just a personal milestone — they are historic for rock music. \"The Great Divide\" recorded the biggest opening week for a rock album since Billboard switched to the unit-based measurement system in late 2014. This means no other rock album in over a decade has sold and streamed as strongly as Kahan's new record in its first week.\n\nThe album also ranks as one of the third-biggest opening weeks for any album across all genres in recent years, showing just how wide Kahan's audience has grown.\n\n### Who Is Noah Kahan?\n\nNoah Kahan is a singer-songwriter from Vermont, a small state in the northeastern United States. He is known for his folk-rock style, emotionally honest lyrics, and warm acoustic sound. He first gained wider attention with his 2022 album **\"Stick Season,\"** which became a slow-building hit thanks largely to social media platforms like TikTok. Songs like \"Stick Season\" and \"Dial Drunk\" connected deeply with younger listeners, helping him build a large and loyal fanbase.\n\n\"The Great Divide\" is his fourth full-length album and represents a major step forward in his career. Reaching No. 1 on the Billboard 200 is considered one of the highest achievements in the American music industry.\n\n### A Growing Star\n\nKahan's success with \"The Great Divide\" shows that rock and folk-rock music still has a strong audience, even in an era dominated by pop and hip-hop. His rise also highlights how streaming platforms and social media have changed the way artists can build their careers — sometimes without heavy support from traditional radio.\n\nFans and music critics have praised the album for its honest storytelling and powerful melodies. With this No. 1 debut, Noah Kahan has firmly established himself as one of the most important rock artists working today.",
+      "keyVocab": [
+        {
+          "word": "debut",
+          "meaning": "데뷔, 첫 등장",
+          "example": "The young singer's debut on the music chart surprised many industry experts."
+        },
+        {
+          "word": "equivalent album units",
+          "meaning": "앨범 판매량 환산 단위 (스트리밍, 다운로드, 실물 판매를 합산한 수치)",
+          "example": "The album sold 300,000 equivalent album units in its first week, including streams and downloads."
+        },
+        {
+          "word": "milestone",
+          "meaning": "중요한 성과, 이정표",
+          "example": "Winning the award was an important milestone in her acting career."
+        },
+        {
+          "word": "fanbase",
+          "meaning": "팬층, 팬들의 집합",
+          "example": "The band built a large fanbase by touring small venues across the country."
+        },
+        {
+          "word": "dominated",
+          "meaning": "지배된, 주도된",
+          "example": "The music charts were dominated by pop songs throughout the summer."
+        }
+      ],
+      "publishedAt": "2026-05-03T20:05:50.000Z"
+    },
+    "5a899a193ee4": {
+      "id": "5a899a193ee4",
+      "source": "Variety",
+      "sourceUrl": "https://variety.com/2026/tv/news/the-pitt-isa-briones-calls-out-fans-screaming-broadway-1236736405/",
+      "title": "‘The Pitt’ Star Isa Briones Calls Out Fans For Screaming at Her During Broadway Show: ‘F—ing Disrespectful’",
+      "theme": "entertainment",
+      "themeLabel": "엔터",
+      "summary": "TV 드라마 '더 핏'의 배우 이사 브리오네스가 브로드웨이 공연 도중 소리를 지르는 팬들을 향해 SNS에서 강하게 비판했습니다. 그녀는 이런 행동이 매우 무례하다고 말하며 공연장에서의 예의를 지켜줄 것을 요청했습니다.",
+      "difficulty": "B1",
+      "estimatedMinutes": 4,
+      "learnerContent": "## 'The Pitt' Star Isa Briones Speaks Out Against Disruptive Fans at Broadway Show\n\nActress Isa Briones, known for her role in the TV drama **\"The Pitt,\"** has publicly called out fans who disrupted her Broadway performance by screaming at her during the show. She shared her frustration on social media, describing the behavior as disrespectful to everyone in the theater.\n\n### What Happened?\n\nOn Saturday, Briones posted a message on social media addressing fans who had been shouting at her while she was performing on stage. In her post, she began with \"Hey, hey, hey!\" before expressing her strong feelings about the situation.\n\nShe made it clear that screaming at a performer during a live stage show is not acceptable. She called the behavior \"f---ing disrespectful\" — language that shows just how frustrated and upset she was by the experience.\n\n### Isa Briones: TV Star on the Broadway Stage\n\nBriones is currently starring in the Broadway jukebox musical **\"Just In Time,\"** where she plays the role of **Connie Francis**, a famous American pop singer from the 1950s and 1960s. A jukebox musical is a type of stage show that is built around well-known songs by a real artist or from a particular era.\n\nOutside of Broadway, Briones is widely recognized for playing **Dr. Trinity Santos**, a second-year medical resident, in the TV series \"The Pitt.\" The show has earned strong reviews and helped Briones gain a much larger public profile.\n\n### Why Is This a Problem?\n\nWhen fans recognize a celebrity in a live performance and react by calling out or screaming, it can seriously disrupt the show. Unlike a concert, where audience noise is usually welcome, a Broadway musical requires focus and quiet from the audience so that performers can deliver their lines and songs clearly.\n\nDisruptive behavior can also ruin the experience for other audience members who have paid for their tickets and want to enjoy the show without interruptions.\n\n### A Wider Conversation About Fan Behavior\n\nBriones' post is part of a growing conversation about how fans should behave around celebrities, both in public and at live events. In recent years, many performers and public figures have spoken out about overly aggressive or inconsiderate fan behavior.\n\nWhile enthusiasm for a favorite actor or singer is natural, many in the entertainment industry argue that there is an important line between showing appreciation and causing disruption.\n\nBriones' message was direct and honest. She did not want to shame her fans, but she did want them to understand that respectful behavior allows everyone — performers and audience members alike — to have a better experience.",
+      "keyVocab": [
+        {
+          "word": "call out",
+          "meaning": "공개적으로 비판하다, 지적하다",
+          "example": "The director called out the actor for arriving late to rehearsals repeatedly."
+        },
+        {
+          "word": "disruptive",
+          "meaning": "방해가 되는, 지장을 주는",
+          "example": "The teacher asked the disruptive student to leave the classroom."
+        },
+        {
+          "word": "jukebox musical",
+          "meaning": "기존의 유명한 노래들로 구성된 뮤지컬",
+          "example": "The jukebox musical used classic songs from the 1970s to tell a modern love story."
+        },
+        {
+          "word": "profile",
+          "meaning": "인지도, 명성",
+          "example": "Winning the award raised her profile significantly in the film industry."
+        },
+        {
+          "word": "appreciation",
+          "meaning": "감사, 고마움, 인정",
+          "example": "The audience showed their appreciation by giving the performers a standing ovation."
+        }
+      ],
+      "publishedAt": "2026-05-03T19:13:17.000Z"
+    },
+    "4e55348aa25e": {
+      "id": "4e55348aa25e",
+      "source": "Pitchfork News",
+      "sourceUrl": "https://pitchfork.com/news/shakira-brings-her-biggest-hits-to-free-rio-de-janeiro-show/",
+      "title": "Shakira Brings Her Biggest Hits To Free Rio de Janeiro Show",
+      "theme": "music",
+      "themeLabel": "음악",
+      "summary": "샤키라가 브라질 리우데자네이루의 코파카바나 해변에서 무료 콘서트를 열었습니다. 약 200만 명의 관중이 공연을 관람했으며, 이는 샤키라 역사상 가장 큰 규모의 공연 중 하나입니다.",
+      "difficulty": "A2",
+      "estimatedMinutes": 3,
+      "learnerContent": "## Shakira Performs Free Concert for Two Million Fans in Rio de Janeiro\n\nColombian pop star Shakira performed a free outdoor concert at Copacabana Beach in Rio de Janeiro, Brazil. It was one of the biggest concerts of her career.\n\n**A Huge Crowd**\n\nAn estimated two million people came to watch the show. That is an enormous number of fans. Copacabana Beach is one of the most famous beaches in the world. It is very long and wide, so it can hold very large crowds.\n\nFree concerts on Copacabana Beach have a long history of attracting millions of people. In the past, artists like Madonna and the Rolling Stones have also performed there for huge crowds.\n\n**Shakira's Greatest Hits**\n\nAt the show, Shakira performed many of her most popular songs. She has been making music since the 1990s. Some of her most famous songs include \"Hips Don't Lie,\" \"Whenever, Wherever,\" and \"Waka Waka.\" These songs are known all over the world.\n\nShakira is one of the best-selling music artists of all time. She sings in both Spanish and English. Fans from many different countries love her music.\n\n**Why Rio de Janeiro?**\n\nRio de Janeiro is a very popular city for big music events. The city is known for its energy and its love of music and dance. Copacabana Beach has been the location of several historic free concerts over the years.\n\nA free concert means that anyone can come and watch without paying for a ticket. This makes it possible for millions of people to enjoy the show together.\n\n**A Special Night**\n\nFor the fans who attended, it was a very special night. Seeing a world-famous artist perform live on a beautiful beach, for free, is a rare and exciting experience. With two million people singing and dancing together, it must have been an unforgettable event.",
+      "keyVocab": [
+        {
+          "word": "estimated",
+          "meaning": "추정된",
+          "example": "An estimated two million people came to watch the free concert."
+        },
+        {
+          "word": "enormous",
+          "meaning": "엄청나게 큰",
+          "example": "The crowd at the beach was enormous — you could not see the end of it."
+        },
+        {
+          "word": "attract",
+          "meaning": "끌어모으다",
+          "example": "Free concerts often attract very large crowds."
+        },
+        {
+          "word": "historic",
+          "meaning": "역사적인",
+          "example": "Copacabana Beach has been the location of several historic concerts."
+        },
+        {
+          "word": "unforgettable",
+          "meaning": "잊을 수 없는",
+          "example": "Seeing your favorite singer live is an unforgettable experience."
+        }
+      ],
+      "publishedAt": "2026-05-03T16:41:35.000Z"
+    },
+    "09d2056ef90c": {
+      "id": "09d2056ef90c",
+      "source": "Pitchfork News",
+      "sourceUrl": "https://pitchfork.com/news/watch-olivia-rodrigo-debut-music-with-weyes-blood-on-snl/",
+      "title": "Watch Olivia Rodrigo Perform New Song with Weyes Blood on SNL",
+      "theme": "music",
+      "themeLabel": "음악",
+      "summary": "올리비아 로드리고가 SNL(새터데이 나이트 라이브)에서 진행자와 공연자를 동시에 맡았습니다. 그녀는 웨이스 블러드와 함께 신곡을 선보였으며, 데비 해리와 아지즈 안사리도 게스트로 출연했습니다.",
+      "difficulty": "B1",
+      "estimatedMinutes": 4,
+      "learnerContent": "## Olivia Rodrigo Hosts and Performs on Saturday Night Live\n\nPop star Olivia Rodrigo had a very busy night on the popular American comedy show *Saturday Night Live* (SNL). She took on two big roles at the same time — she was both the host of the show and the musical guest.\n\n**What Is SNL?**\n\n*Saturday Night Live* is a long-running live comedy and sketch show on American television. It has been on the air since 1975. Each week, a celebrity hosts the show and a musical artist performs. It is quite rare for one person to do both jobs in the same episode. When someone hosts and performs, it is called \"playing double duty.\"\n\n**A New Song with Weyes Blood**\n\nOne of the highlights of the night was Olivia Rodrigo performing a brand-new song together with the artist Weyes Blood. Weyes Blood, whose real name is Natalie Mering, is known for her rich, cinematic sound and poetic lyrics. Performing a new song live on national television is a bold move, as there is no second chance if something goes wrong. Fans were excited to hear fresh material from Rodrigo.\n\n**Special Guests on the Show**\n\nThe episode also featured some well-known guests. Debbie Harry, the legendary lead singer of the rock band Blondie, made an appearance. Harry is considered a pioneer of punk and new wave music from the late 1970s and 1980s. Her presence on the show was a special moment for music fans of all ages.\n\nComedian and actor Aziz Ansari also appeared as a guest during the episode. Ansari is well known for his stand-up comedy and for creating and starring in the Netflix series *Master of None*.\n\n**Olivia Rodrigo's Rising Star**\n\nOlivia Rodrigo first became famous in 2021 with her debut single \"drivers license,\" which broke many streaming records. Her albums *SOUR* and *GUTS* were both critically praised and commercially successful. She is widely seen as one of the most talented young artists in pop music today.\n\nHosting SNL while also performing is a sign of how far she has come as an entertainer. It takes confidence, skill, and hard work to handle both responsibilities in front of a live audience.",
+      "keyVocab": [
+        {
+          "word": "double duty",
+          "meaning": "두 가지 역할을 동시에 수행함",
+          "example": "She played double duty that night, acting as both the host and the performer."
+        },
+        {
+          "word": "highlight",
+          "meaning": "가장 인상적인 부분, 하이라이트",
+          "example": "One of the highlights of the concert was when she sang her new song."
+        },
+        {
+          "word": "cinematic",
+          "meaning": "영화 같은",
+          "example": "The artist is known for her cinematic sound and dramatic lyrics."
+        },
+        {
+          "word": "pioneer",
+          "meaning": "선구자",
+          "example": "She is considered a pioneer of new wave music in the 1980s."
+        },
+        {
+          "word": "critically praised",
+          "meaning": "비평가들에게 호평을 받은",
+          "example": "Her second album was both critically praised and very popular with fans."
+        }
+      ],
+      "publishedAt": "2026-05-03T15:38:11.000Z"
     }
   }
 }

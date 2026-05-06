@@ -1,5 +1,7 @@
 export const ALPHABET = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
 
+export const LETTERS_WITH_STICKER = new Set(["A", "B", "C", "D"]);
+
 export const LETTER_EMOJI: Record<string, string> = {
   A: "🍎", B: "🐻", C: "🐱", D: "🦆", E: "🐘",
   F: "🦊", G: "🦒", H: "🐹", I: "🍦", J: "🤹",

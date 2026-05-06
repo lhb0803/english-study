@@ -2,7 +2,12 @@
 
 import { useEffect, useState } from "react";
 import { useStore } from "@/lib/store";
-import { ALPHABET, LETTER_EMOJI, LETTER_GRADIENT } from "@/lib/letters";
+import {
+  ALPHABET,
+  LETTER_EMOJI,
+  LETTER_GRADIENT,
+  LETTERS_WITH_STICKER,
+} from "@/lib/letters";
 
 export default function LetterGrid() {
   const collected = useStore((s) => s.letters);
@@ -22,17 +27,31 @@ export default function LetterGrid() {
       <div className="grid grid-cols-7 gap-2">
         {ALPHABET.map((letter) => {
           const owned = has(letter);
+          const hasRealSticker = owned && LETTERS_WITH_STICKER.has(letter);
           const gradient = LETTER_GRADIENT[letter] ?? "from-pink-200 to-rose-300";
+
+          let bgClass: string;
+          if (!owned) {
+            bgClass = "bg-neutral-100 border border-dashed border-neutral-300";
+          } else if (hasRealSticker) {
+            bgClass = "bg-transparent";
+          } else {
+            bgClass = `bg-gradient-to-br ${gradient} shadow-sm`;
+          }
+
           return (
             <div
               key={letter}
-              className={`relative aspect-square rounded-2xl flex items-center justify-center transition ${
-                owned
-                  ? `bg-gradient-to-br ${gradient} shadow-sm`
-                  : "bg-neutral-100 border border-dashed border-neutral-300"
-              }`}
+              className={`relative aspect-square rounded-2xl flex items-center justify-center transition ${bgClass}`}
             >
-              {owned ? (
+              {hasRealSticker ? (
+                /* eslint-disable-next-line @next/next/no-img-element */
+                <img
+                  src={`/stickers/${letter}.png`}
+                  alt={`Letter ${letter} sticker`}
+                  className="w-full h-full object-contain"
+                />
+              ) : owned ? (
                 <>
                   <span className="absolute -top-1 -right-1 text-sm drop-shadow">
                     {LETTER_EMOJI[letter]}

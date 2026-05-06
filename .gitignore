@@ -39,3 +39,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# generated sticker prompt asset (regen via scripts/generate-sticker-prompts-xlsx.mjs)
+/sticker-prompts.xlsx
+~$*

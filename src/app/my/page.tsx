@@ -2,10 +2,10 @@
 
 import Link from "next/link";
 import { useEffect, useState } from "react";
-import { Flame, BookOpen, Award, Trash2 } from "lucide-react";
+import { Flame, BookOpen, Sticker, Trash2 } from "lucide-react";
 import { useStore } from "@/lib/store";
 import { THEME_COLORS } from "@/lib/types";
-import BadgeGrid from "@/components/BadgeGrid";
+import LetterGrid from "@/components/LetterGrid";
 
 export default function MyPage() {
   const [mounted, setMounted] = useState(false);
@@ -14,7 +14,7 @@ export default function MyPage() {
   const saved = useStore((s) => s.saved);
   const completed = useStore((s) => s.completed);
   const streak = useStore((s) => s.streakCount);
-  const badges = useStore((s) => s.badges);
+  const letters = useStore((s) => s.letters);
   const removeSaved = useStore((s) => s.removeSaved);
 
   if (!mounted) {
@@ -28,13 +28,12 @@ export default function MyPage() {
         <div className="grid grid-cols-3 gap-3">
           <StatCard icon={<Flame className="text-orange-500" size={18} />} label="연속" value={`${streak}일`} />
           <StatCard icon={<BookOpen className="text-sky-500" size={18} />} label="완독" value={`${completed.length}`} />
-          <StatCard icon={<Award className="text-amber-500" size={18} />} label="뱃지" value={`${badges.length}`} />
+          <StatCard icon={<Sticker className="text-pink-500" size={18} />} label="스티커" value={`${letters.length}/26`} />
         </div>
       </section>
 
       <section>
-        <h2 className="text-lg font-semibold mb-3">뱃지</h2>
-        <BadgeGrid />
+        <LetterGrid />
       </section>
 
       <section>

@@ -7,7 +7,7 @@ import { THEME_COLORS } from "@/lib/types";
 import SaveButton from "@/components/SaveButton";
 import ListenButton from "@/components/ListenButton";
 import ReadProgress from "@/components/ReadProgress";
-import BadgeToast from "@/components/BadgeToast";
+import StickerToast from "@/components/StickerToast";
 
 export function generateStaticParams() {
   const picks = loadLatestPicks();
@@ -28,7 +28,7 @@ export default async function ArticlePage({
   return (
     <>
       <ReadProgress article={article} />
-      <BadgeToast />
+      <StickerToast />
       <div className="pb-16">
         <Link
           href="/"

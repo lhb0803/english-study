@@ -3,7 +3,7 @@
 import { create } from "zustand";
 import { persist } from "zustand/middleware";
 import type { Article, Theme } from "./types";
-import { evaluateBadges } from "./badges";
+import { pickRandomLetter } from "./letters";
 
 interface CompletedRecord {
   id: string;
@@ -28,7 +28,7 @@ interface StoreState {
   completed: CompletedRecord[];
   lastReadDate: string | null;
   streakCount: number;
-  badges: string[];
+  letters: string[];
   lastAwarded: string | null;
   isSaved(id: string): boolean;
   isCompleted(id: string): boolean;
@@ -60,7 +60,7 @@ export const useStore = create<StoreState>()(
       completed: [],
       lastReadDate: null,
       streakCount: 0,
-      badges: [],
+      letters: [],
       lastAwarded: null,
 
       isSaved: (id) => get().saved.some((s) => s.id === id),
@@ -114,20 +114,17 @@ export const useStore = create<StoreState>()(
           },
           ...state.completed,
         ];
-        const distinctThemes = new Set(completed.map((c) => c.theme)).size;
-        const earned = evaluateBadges({
-          completedCount: completed.length,
-          streakCount: streak,
-          distinctThemes,
-        });
-        const newly = earned.filter((b) => !state.badges.includes(b));
+
+        const newLetter = pickRandomLetter(state.letters);
+        const letters = newLetter ? [...state.letters, newLetter] : state.letters;
+        const award = newLetter ? `letter:${newLetter}` : "completed";
 
         set({
           completed,
           lastReadDate: today,
           streakCount: streak,
-          badges: earned,
-          lastAwarded: newly[0] ?? "first-read-toast",
+          letters,
+          lastAwarded: award,
         });
       },
 

@@ -3,7 +3,7 @@
 import { create } from "zustand";
 import { persist } from "zustand/middleware";
 import type { Article, Theme } from "./types";
-import { pickRandomLetter } from "./letters";
+import { pickNextLetter } from "./letters";
 
 interface CompletedRecord {
   id: string;
@@ -115,7 +115,7 @@ export const useStore = create<StoreState>()(
           ...state.completed,
         ];
 
-        const newLetter = pickRandomLetter(state.letters);
+        const newLetter = pickNextLetter(state.letters);
         const letters = newLetter ? [...state.letters, newLetter] : state.letters;
         const award = newLetter ? `letter:${newLetter}` : "completed";
 

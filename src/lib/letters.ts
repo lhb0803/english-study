@@ -40,8 +40,8 @@ export const LETTER_GRADIENT: Record<string, string> = {
   Z: "from-neutral-200 to-stone-300",
 };
 
-export function pickRandomLetter(collected: string[]): string | null {
+export function pickNextLetter(collected: string[]): string | null {
   const remaining = ALPHABET.filter((l) => !collected.includes(l));
   if (remaining.length === 0) return null;
-  return remaining[Math.floor(Math.random() * remaining.length)];
+  return remaining[0];
 }

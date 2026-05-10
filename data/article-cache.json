@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-03T21:40:41.098Z",
+  "updatedAt": "2026-05-10T21:46:45.632Z",
   "articles": {
     "189cea6e74d0": {
       "id": "189cea6e74d0",
@@ -2681,6 +2681,406 @@
         }
       ],
       "publishedAt": "2026-05-03T15:38:11.000Z"
+    },
+    "aa84a645a121": {
+      "id": "aa84a645a121",
+      "source": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/australia-news/live/2026/may/11/australia-politics-live-federal-budget-jim-chalmers-cost-of-living-deficit-farrer-byelection-coalition-one-nation-ntwnfb",
+      "title": "Australia politics live: budget funds to speed up environmental approvals; government repatriates passengers from hantavirus ship",
+      "theme": "politics",
+      "themeLabel": "시사",
+      "summary": "호주 연방 예산안에 주택, 에너지, 광업 프로젝트의 환경 승인을 빠르게 처리하기 위한 5억 달러가 포함될 예정입니다. 한편, 정치인 바나비 조이스는 원네이션 당이 연립 정부에 참여하는 것을 거부하며 독립적인 정책 협력을 원한다고 밝혔습니다.",
+      "difficulty": "B1",
+      "estimatedMinutes": 4,
+      "learnerContent": "## Australia's Budget and Political News\n\n### $500 Million for Faster Approvals\n\nThe Australian federal government is preparing its budget for this year. One major plan is to spend **$500 million** to speed up environmental approvals. These approvals are needed before housing developments, energy projects, and mining operations can begin.\n\nCurrently, getting approval for large projects can take a very long time. The government hopes this new funding will make the process faster, helping Australia build more homes and develop more energy sources more quickly.\n\n### Government Brings Home Passengers from Hantavirus Ship\n\nIn other news, the Australian government has repatriated — meaning brought back to their home country — passengers who were on a ship connected to a hantavirus outbreak. Hantavirus is a serious illness that people can catch from contact with infected rodents. The government acted to ensure the safety of Australian citizens who were on board.\n\n### Barnaby Joyce Rejects One Nation Coalition\n\nIn politics, former Deputy Prime Minister Barnaby Joyce made headlines by saying **no** to One Nation joining the Coalition. The Coalition is a formal alliance of conservative political parties in Australia.\n\nOne Nation recently celebrated winning its **first federal lower house seat**, which means the party is growing in popularity. Joyce acknowledged this, saying the party is \"on the up and up\" and could even \"go for government\" in the future.\n\nHowever, Joyce was clear that he does not want a formal partnership. He explained his position this way:\n\n> \"We'll offer supply and confidence on policy outcomes… and that is not a Coalition. We don't want your ministries, keep your ministries and your salaries.\"\n\nIn simple terms, Joyce is saying: One Nation can support the government on specific policies, but it should not become a full member of the Coalition. He does not want One Nation to share in government roles or salaries.\n\n### Cabinet Solidarity Concerns\n\nJoyce also criticized the idea of **cabinet solidarity**. This is a rule in government where all ministers must publicly agree with Cabinet decisions, even if they personally disagree. Joyce believes this system has hurt both the Australian people and conservative politics.\n\nHe argued that One Nation should stay independent so it can freely push for policies that benefit its voters, without being limited by coalition rules.\n\n### Skilled Visas Still Important\n\nJoyce also spoke about immigration. He said he will continue to fight for **skilled visas** in his region of Farrer, which relies heavily on workers from overseas. He mentioned programs like the **Pacific Australia Labour Mobility (PALM) scheme** and skilled aged care nursing programs, saying these are still important and will continue.\n\nHe described the recent election result not as a protest vote, but as voters looking for a better future:\n\n> \"It was a vote of relief, someone seeking a better future.\"\n\n### Key Takeaway\n\nAustralia is navigating a busy political period — with new budget spending, a growing One Nation party, and ongoing debates about immigration and political alliances. These developments will shape the country's direction in the months ahead.",
+      "keyVocab": [
+        {
+          "word": "approval",
+          "meaning": "승인, 허가",
+          "example": "The construction company received government approval to build the new highway."
+        },
+        {
+          "word": "repatriate",
+          "meaning": "본국으로 송환하다",
+          "example": "The government repatriated its citizens who were stranded abroad after the disaster."
+        },
+        {
+          "word": "coalition",
+          "meaning": "연립, 동맹 (정당 간의 협력)",
+          "example": "Two political parties formed a coalition to gain enough votes to lead the government."
+        },
+        {
+          "word": "cabinet solidarity",
+          "meaning": "내각 연대 (각료들이 공개적으로 같은 입장을 취해야 하는 원칙)",
+          "example": "Cabinet solidarity means all ministers must support the government's decision in public."
+        },
+        {
+          "word": "skilled visa",
+          "meaning": "기술 비자 (특정 직업 기술을 가진 외국인 근로자를 위한 비자)",
+          "example": "The hospital hired nurses from overseas using a skilled visa program."
+        }
+      ],
+      "publishedAt": "2026-05-10T21:32:47.000Z"
+    },
+    "39627b3efb01": {
+      "id": "39627b3efb01",
+      "source": "BBC World",
+      "sourceUrl": "https://www.bbc.com/news/videos/c2429dq0j4mo?at_medium=RSS&at_campaign=rss",
+      "title": "BBC speaks with civilians inside Iran struggling with impact of war",
+      "theme": "politics",
+      "themeLabel": "시사",
+      "summary": "이란 당국이 인터넷을 차단한 가운데, BBC 특파원 퍼갈 킨이 전쟁과 정부 탄압으로 고통받는 이란 시민들의 이야기를 전했습니다. 신뢰할 수 있는 내부 소식통을 통해 현지 상황이 외부에 알려지고 있습니다.",
+      "difficulty": "B1",
+      "estimatedMinutes": 4,
+      "learnerContent": "## Life Inside Iran: Civilians Speak Out\n\n### An Internet Ban in Iran\n\nThe Iranian government has imposed an **internet ban**. This means people inside Iran cannot freely use the internet. They cannot easily access news from outside the country, and it is very difficult for them to share information with the rest of the world.\n\nGovernments sometimes block the internet during times of conflict or political unrest. They often do this to control the flow of information and prevent people from organizing protests or sharing news that the government does not want others to see.\n\n### How the BBC Got the Story\n\nDespite the internet restrictions, BBC special correspondent **Fergal Keane** was able to hear from people living inside Iran. He used **trusted sources** — people who could safely communicate information from inside the country.\n\nThis kind of reporting is very important. When a government limits communication, it becomes harder for the outside world to understand what is really happening. Journalists rely on brave local sources to share the truth.\n\n### Trauma from Conflict and Repression\n\nThe people Keane spoke with described being **traumatised** — deeply hurt emotionally — by two major problems:\n\n1. **War and conflict** — Fighting and violence have caused fear, loss, and suffering for many ordinary Iranian civilians. A civilian is a person who is not a soldier — just a regular person living their daily life.\n\n2. **Government repression** — \"Repression\" means the government uses force or strict control to stop people from speaking freely or protesting. Many Iranians are afraid to speak out because of potential punishment.\n\nThese two pressures together — the danger of conflict and the fear of the government — make daily life extremely difficult and frightening for many people inside Iran.\n\n### Why This Matters\n\nIran has faced significant political tensions in recent years. Many citizens, especially young people and women, have protested against the government's strict rules. The government has responded harshly in many cases, arresting protesters and limiting freedoms.\n\nAt the same time, tensions in the wider Middle East region have added to the sense of danger and uncertainty that ordinary Iranians feel every day.\n\n### The Role of Journalism\n\nReports like Fergal Keane's are important because they give a **voice to civilians** who cannot easily speak for themselves. When governments try to hide what is happening by cutting off the internet, independent journalism helps ensure that the world can still hear the truth.\n\nFor the people inside Iran who shared their stories, speaking to the BBC was likely a risk. Their courage allows the international community to better understand the human cost of conflict and political repression.",
+      "keyVocab": [
+        {
+          "word": "impose",
+          "meaning": "강요하다, 부과하다",
+          "example": "The government imposed a curfew, requiring everyone to stay home after 10 p.m."
+        },
+        {
+          "word": "correspondent",
+          "meaning": "특파원, 기자",
+          "example": "The foreign correspondent reported live from the conflict zone."
+        },
+        {
+          "word": "traumatised",
+          "meaning": "정신적 충격을 받은",
+          "example": "Many residents were traumatised after the earthquake destroyed their homes."
+        },
+        {
+          "word": "repression",
+          "meaning": "탄압, 억압",
+          "example": "Citizens living under political repression are often afraid to speak freely."
+        },
+        {
+          "word": "civilian",
+          "meaning": "민간인 (군인이 아닌 일반 시민)",
+          "example": "The aid organisation worked to protect civilians caught in the middle of the fighting."
+        }
+      ],
+      "publishedAt": "2026-05-10T21:13:47.000Z"
+    },
+    "457eaa3bb168": {
+      "id": "457eaa3bb168",
+      "source": "NYT Business",
+      "sourceUrl": "https://www.nytimes.com/2026/05/10/us/politics/energy-secretary-federal-gas-tax.html",
+      "title": "Trump Administration Is Considering Pausing the Federal Gas Tax to Lower Prices, Energy Secretary Says",
+      "theme": "business",
+      "themeLabel": "경제",
+      "summary": "트럼프 행정부가 휘발유 가격을 낮추기 위해 연방 휘발유세를 일시 중단하는 방안을 검토 중입니다. 연방 휘발유세는 갤런당 약 18센트이며, 전국 평균 휘발유 가격이 4.50달러를 넘는 상황에서 실질적인 도움이 될지는 불확실합니다.",
+      "difficulty": "B1",
+      "estimatedMinutes": 4,
+      "learnerContent": "## Trump Administration Considers Pausing Federal Gas Tax\n\nThe Trump administration is thinking about temporarily stopping the federal gas tax to help lower fuel prices for American drivers. The U.S. Energy Secretary announced this idea as the government looks for ways to reduce costs at the gas pump.\n\n### What Is the Federal Gas Tax?\n\nThe federal gas tax is a charge that the U.S. government adds to every gallon of gasoline sold in the country. Right now, this tax is a little over **18 cents per gallon**. This money is usually used to pay for building and repairing roads, bridges, and highways across the country.\n\n### Why Is the Government Considering This?\n\nGas prices in the United States have been very high recently. The average national price for a gallon of gasoline is currently above **$4.50**. This is a significant burden for many families, especially those who drive long distances to work or live in areas without good public transportation.\n\nBy pausing the gas tax, the government hopes that gas stations would lower their prices, saving drivers some money every time they fill up their tanks. This kind of temporary removal of a fuel tax is sometimes called a \"gas tax holiday.\"\n\n### Will It Actually Help?\n\nMany economists and experts are doubtful that this measure will provide much real relief. Here is why:\n\n- The tax is only about **18 cents per gallon**, which is a small amount compared to the total price of $4.50 or more.\n- Even if the full 18 cents were removed, a driver filling a 15-gallon tank would save only about **$2.70** per visit to the gas station.\n- There is no guarantee that oil companies or gas stations would actually pass the full savings on to customers. They might keep some of the money as extra profit instead.\n\n### A Bigger Picture\n\nHigh gas prices affect more than just individual drivers. When transportation costs go up, businesses also pay more to move goods from one place to another. This can lead to higher prices for everyday products in stores, adding to inflation.\n\nA gas tax holiday has been tried before. During periods of high oil prices in the past, some U.S. states have temporarily paused their own state gas taxes. The results were mixed — some drivers saw small savings, but the impact was generally limited.\n\n### What Happens Next?\n\nThe administration has not yet made a final decision. Pausing the federal gas tax would likely need approval from the U.S. Congress, which could make the process slow or difficult. Some lawmakers may oppose the idea because removing the tax would reduce funding for road and infrastructure projects.\n\nFor now, American drivers continue to pay high prices at the pump while the government considers its options.",
+      "keyVocab": [
+        {
+          "word": "federal gas tax",
+          "meaning": "연방 휘발유세 (미국 정부가 휘발유에 부과하는 세금)",
+          "example": "The federal gas tax adds 18 cents to every gallon of gasoline sold in the United States."
+        },
+        {
+          "word": "pause",
+          "meaning": "일시 중단하다",
+          "example": "The government decided to pause the tax for three months to help lower prices."
+        },
+        {
+          "word": "relief",
+          "meaning": "완화, 경감 (고통이나 부담을 줄여줌)",
+          "example": "The small discount provided little relief to families struggling with high fuel costs."
+        },
+        {
+          "word": "pass on (savings)",
+          "meaning": "(절감액을) 전가하다, 소비자에게 돌려주다",
+          "example": "We hope the companies will pass on the savings to their customers."
+        },
+        {
+          "word": "infrastructure",
+          "meaning": "사회 기반 시설 (도로, 교량 등)",
+          "example": "The gas tax funds important infrastructure projects like road repairs and new bridges."
+        }
+      ],
+      "publishedAt": "2026-05-10T19:52:44.000Z"
+    },
+    "44845e36bc89": {
+      "id": "44845e36bc89",
+      "source": "BBC Business",
+      "sourceUrl": "https://www.bbc.com/news/articles/c4gd4nl23rro?at_medium=RSS&at_campaign=rss",
+      "title": "Haggling prices and chasing debts - tradespeople hit with cost of living headache",
+      "theme": "business",
+      "themeLabel": "경제",
+      "summary": "영국의 배관공, 전기공 등 기술직 종사자들이 고객들의 늦은 대금 지급으로 어려움을 겪고 있습니다. 설문 조사에 따르면, 절반 이상의 기술직 종사자들이 1년 전보다 늦은 대금 지급이 늘었다고 답했습니다.",
+      "difficulty": "B1",
+      "estimatedMinutes": 4,
+      "learnerContent": "## Tradespeople Struggle with Late Payments and Price Negotiations\n\nPlumbers, electricians, builders, and other skilled tradespeople across the UK are facing a growing financial headache. According to a recent survey, more than half of tradespeople have experienced an increase in **late payments** compared to a year ago. This is adding serious pressure to their businesses during an already difficult economic period.\n\n### Who Are Tradespeople?\n\nTradespeople are skilled workers who do practical jobs, such as fixing pipes, wiring homes, laying floors, or building walls. Many of them run their own small businesses or work as self-employed contractors. Unlike workers who receive a regular salary, tradespeople are often paid after they finish a job — which means late payments can seriously hurt their income.\n\n### The Late Payment Problem\n\nWhen a customer delays paying for work that has already been completed, the tradesperson still has costs to cover — tools, materials, fuel, and even their own living expenses. If too many customers pay late, a small business can quickly run into serious cash flow problems.\n\nThe survey found that this situation has been getting worse. More customers appear to be struggling to pay their bills on time, likely because of the **cost of living crisis** — a period when the prices of everyday goods, energy, and housing have risen sharply, leaving many people with less money to spend.\n\n### Haggling Over Prices\n\nAnother major challenge for tradespeople is customers trying to **haggle**, or negotiate, over the price of work. In tough economic times, people naturally look for ways to spend less money. However, for tradespeople, cutting prices can be very difficult because the cost of materials — like copper pipes, electrical cables, and timber — has also gone up significantly.\n\nThis means tradespeople are caught in a difficult situation:\n- Customers want to pay less.\n- The cost of doing the job has gone up.\n- Payments are arriving later than before.\n\n### Chasing Debts\n\nWhen customers do not pay on time, tradespeople sometimes have to spend time and energy **chasing debts** — repeatedly contacting customers to ask for the money they are owed. This takes time away from actually doing work and earning money. Some tradespeople may even need to hire a debt collection service, which adds another cost to their business.\n\n### A Difficult Time for Small Businesses\n\nThe findings highlight how the cost of living crisis is not just affecting ordinary households — it is also putting enormous pressure on small businesses. Tradespeople provide essential services that people rely on every day, but they are finding it increasingly hard to keep their businesses running smoothly.\n\nExperts suggest that clear payment agreements, written contracts, and deposits paid before work begins can all help reduce the risk of late payments. However, in a competitive market, many tradespeople worry that asking for strict payment terms might cause them to lose customers altogether.",
+      "keyVocab": [
+        {
+          "word": "late payment",
+          "meaning": "늦은 대금 지급, 연체",
+          "example": "Late payments from clients made it hard for the electrician to pay his own bills."
+        },
+        {
+          "word": "haggle",
+          "meaning": "흥정하다, 가격을 깎으려고 협상하다",
+          "example": "The customer tried to haggle over the price of the plumbing repair."
+        },
+        {
+          "word": "self-employed",
+          "meaning": "자영업자, 프리랜서",
+          "example": "As a self-employed builder, she has to find her own clients and manage her own finances."
+        },
+        {
+          "word": "cash flow",
+          "meaning": "현금 흐름 (사업에서 들어오고 나가는 돈의 흐름)",
+          "example": "Late payments caused serious cash flow problems for the small business."
+        },
+        {
+          "word": "chase (a debt)",
+          "meaning": "빚을 받으러 독촉하다",
+          "example": "He spent hours every week chasing debts from customers who had not paid."
+        }
+      ],
+      "publishedAt": "2026-05-10T19:50:06.000Z"
+    },
+    "0e705fbe1128": {
+      "id": "0e705fbe1128",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/927638/the-bastl-kalimba-is-a-wild-synth-that-thinks-its-a-thumb-piano",
+      "title": "The Bastl Kalimba is a wild synth that thinks it’s a thumb piano",
+      "theme": "tech",
+      "themeLabel": "기술",
+      "summary": "Bastl Kalimba는 칼림바처럼 생겼지만 실제로는 신디사이저입니다. 킥스타터에서 이미 70만 달러 이상을 모금했으며, 물리적 모델링과 FM 합성을 결합한 독특한 악기입니다.",
+      "difficulty": "B1",
+      "estimatedMinutes": 4,
+      "learnerContent": "## The Bastl Kalimba: A Synth That Looks Like a Thumb Piano\n\nThe Bastl Kalimba is a very unusual musical instrument. At first glance, it looks just like a kalimba — a small African thumb piano that you play by plucking thin metal strips called **tines**. But this instrument is actually a **synthesizer**, which is an electronic device that creates sound artificially.\n\n### How Does It Work?\n\nOn a real kalimba, the tines vibrate and make sound when you pluck them. On the Bastl Kalimba, however, the tines are mostly silent. Instead, they work as **touch and velocity-sensitive triggers**. This means they detect how hard and how fast you press them, and then send that information to an electronic sound engine inside the instrument.\n\nThat sound engine uses two technologies: **physical modeling** and **FM synthesis**. Physical modeling means the computer simulates how a real instrument would sound. FM synthesis is a classic electronic method for creating a wide range of tones. Together, they give the Bastl Kalimba a huge variety of sounds.\n\n### A Little Bit of Real Sound\n\nThere is also a small microphone inside the instrument. Players can mix in some real acoustic sound from the tines if they want a more natural feel. This adds a little \"acoustic spice\" to the mostly electronic sound.\n\n### What Sounds Can It Make?\n\nThe Bastl Kalimba can sound somewhat like a real kalimba, but it can also produce many other sounds. These include:\n\n- **Pluck sounds** — short, sharp notes like a guitar or harp\n- **Pad sounds** — long, smooth sounds that hold in the air\n- A wide range of other electronic tones\n\nThe instrument also has **built-in effects**. These include:\n\n- **Delay** — an echo effect that repeats the sound\n- **Reverb** — a effect that makes it sound like you are playing in a large room\n- **Distortion** — a rougher, edgier sound effect\n\n### Already a Big Success\n\nThe Bastl Kalimba has been very popular even before it officially goes on sale. It raised over **$700,000 on Kickstarter**, a website where people can give money to support new products and ideas. This shows that many musicians are excited about an instrument that combines the familiar, simple feel of a thumb piano with the power and flexibility of a modern synthesizer.\n\n### Why Is It Interesting?\n\nThe Bastl Kalimba is interesting because it makes synthesizer technology feel **approachable and fun**. Many synthesizers have lots of complicated buttons and screens. The kalimba design is simple and natural — you just use your thumbs. At the same time, the instrument is powerful enough for professional musicians who want to create unique electronic sounds.\n\nIt is a great example of how modern technology can be combined with traditional instrument designs to create something completely new.",
+      "keyVocab": [
+        {
+          "word": "synthesizer",
+          "meaning": "신디사이저 (전자 음향 장치)",
+          "example": "She used a synthesizer to create futuristic sounds for the film soundtrack."
+        },
+        {
+          "word": "tines",
+          "meaning": "(칼림바의) 금속 스트립, 진동판",
+          "example": "He plucked the tines of the kalimba gently with his thumbs."
+        },
+        {
+          "word": "velocity-sensitive",
+          "meaning": "속도(세기)에 반응하는",
+          "example": "The velocity-sensitive keys play louder when you press them harder."
+        },
+        {
+          "word": "reverb",
+          "meaning": "리버브 (공간감을 주는 음향 효과)",
+          "example": "Adding reverb to the guitar made it sound like it was played in a large hall."
+        },
+        {
+          "word": "physical modeling",
+          "meaning": "물리적 모델링 (실제 악기 소리를 컴퓨터로 시뮬레이션하는 기술)",
+          "example": "Physical modeling technology allows a keyboard to imitate the sound of a real piano."
+        }
+      ],
+      "publishedAt": "2026-05-10T20:42:08.000Z"
+    },
+    "7e22a7184334": {
+      "id": "7e22a7184334",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/entertainment/927620/ashnymph-childhood-ep-music-review",
+      "title": "Ashnymph’s Childhood EP is exhilarating dance goth rock",
+      "theme": "music",
+      "themeLabel": "음악",
+      "summary": "런던 밴드 Ashnymph가 데뷔 EP 'Childhood'를 발표했습니다. 이 EP는 포스트펑크, 크라우트록, 인더스트리얼 음악을 혼합한 스타일로, 강렬하고 춤추기 좋은 고딕 록 사운드를 선보입니다.",
+      "difficulty": "B2",
+      "estimatedMinutes": 4,
+      "learnerContent": "## Ashnymph's *Childhood* EP: Dance Goth Rock at Its Most Exciting\n\nSometimes the best music recommendations come from old friends. That is exactly how many listeners have been introduced to **Ashnymph**, a London-based band whose debut EP, *Childhood*, has been turning heads in underground music circles.\n\n### Who Are Ashnymph?\n\nAshnymph is a band from London that blends several distinct musical styles into one thrilling sound. Their music draws from:\n\n- **Post-punk** — the dark, angular rock style that emerged after punk in the late 1970s and early 1980s\n- **Krautrock** — an experimental German rock movement from the 1970s known for its hypnotic, repetitive rhythms\n- **Industrial music** — a harsh, mechanical electronic sound associated with artists like Nine Inch Nails\n\nThe result is a style that some are calling **\"dance goth rock\"** — music that is dark and atmospheric, but also built for the dancefloor.\n\n### What Does *Childhood* Sound Like?\n\nThe EP opens in an unexpected way. Before any music begins, there is an **ambient recording** — what sounds like someone walking down a hallway. Then, swirling synth noise slowly builds before the first proper track, \"Island in the Sky,\" launches into a **motorik beat**.\n\nA motorik beat is a steady, driving rhythm pattern closely associated with Krautrock bands like Neu! and Can. It has a machine-like regularity that makes it almost impossible not to move to.\n\nLayered over this rhythmic foundation are **vocals drenched in reverb** — the singer's voice is buried deep in a wash of echo and space, giving it a dreamy, distant quality. This sits in contrast to the pounding, physical energy of the rhythm section, creating a tension that makes the music feel both detached and urgent at the same time.\n\n### A \"Four-on-the-Floor\" Dancefloor Sound\n\nAnother key feature of *Childhood* is its use of a **four-on-the-floor** rhythm — a beat pattern where the kick drum hits on every beat of the bar. This pattern is the foundation of dance music from disco to techno. When combined with Ashnymph's dark post-punk textures and industrial grime, it creates something genuinely exciting: goth music you can actually dance to.\n\n### An Impressive Debut\n\n*Childhood* is described as a **\"thrilling opening salvo\"** — a strong first statement from a band that clearly has a defined vision. Music critics and fans alike feel that Ashnymph is on the edge of a significant breakthrough. The EP shows a band that has already developed a mature, distinctive sound, even at this early stage of their career.\n\n### What to Expect Next\n\nFor now, *Childhood* is only an EP, meaning it is a short release with just a few tracks. However, listeners are already eager for a full-length album. If Ashnymph can sustain the energy and creativity shown on this debut release, they could become one of the more important bands to emerge from London's underground scene in recent years.\n\nFor fans of dark, danceable music with depth and atmosphere, *Childhood* is absolutely worth your time.",
+      "keyVocab": [
+        {
+          "word": "post-punk",
+          "meaning": "포스트펑크 (1970년대 후반 펑크 이후에 등장한 어둡고 실험적인 록 장르)",
+          "example": "The band's post-punk sound featured sharp guitar riffs and gloomy lyrics."
+        },
+        {
+          "word": "motorik beat",
+          "meaning": "모토릭 비트 (크라우트록에서 유래한 기계적이고 반복적인 드럼 리듬)",
+          "example": "The motorik beat kept the song moving at a steady, hypnotic pace."
+        },
+        {
+          "word": "ambient",
+          "meaning": "앰비언트 (주변 환경의 소리나 분위기를 활용한)",
+          "example": "The album begins with an ambient recording of rain and distant traffic."
+        },
+        {
+          "word": "reverb",
+          "meaning": "리버브 (소리에 공간감과 울림을 더하는 음향 효과)",
+          "example": "Her vocals were covered in reverb, making them sound like they came from far away."
+        },
+        {
+          "word": "breakthrough",
+          "meaning": "획기적인 성공, 돌파구",
+          "example": "The band's second album marked their commercial breakthrough, reaching the top ten."
+        }
+      ],
+      "publishedAt": "2026-05-10T16:52:41.000Z"
+    },
+    "eeeafabf4cd5": {
+      "id": "eeeafabf4cd5",
+      "source": "Variety",
+      "sourceUrl": "https://variety.com/2026/music/news/kacey-musgraves-billboard-noah-kahan-michael-jackson-albums-1236744199/",
+      "title": "Kacey Musgraves Has Career-Best Opening Week With ‘Middle of Nowhere,’ as Michael Jackson Lands Two Albums in the Top 10",
+      "theme": "music",
+      "themeLabel": "음악",
+      "summary": "케이시 머스그레이브스의 새 앨범 'Middle of Nowhere'가 그녀의 커리어 최고 첫 주 판매량인 10만 장을 기록하며 빌보드 차트 3위에 올랐습니다. 마이클 잭슨도 두 개의 앨범이 동시에 톱 10에 진입하는 성과를 거뒀습니다.",
+      "difficulty": "B1",
+      "estimatedMinutes": 4,
+      "learnerContent": "## Kacey Musgraves Has Her Best Week Ever With New Album 'Middle of Nowhere'\n\nCountry and pop star Kacey Musgraves has had a huge week in the music world. Her new album, *Middle of Nowhere*, debuted at **No. 3** on the charts with 100,000 equivalent album units in its first week. This is the best opening-week performance of her entire career.\n\n### What Is an 'Equivalent Album Unit'?\n\nThe music industry measures album sales using a system called \"equivalent album units.\" This number includes not just physical and digital album sales, but also music streams and individual song downloads. So when we say Musgraves earned 100,000 units, it means a combination of all these different ways fans listened to and bought her music.\n\n### How Does This Compare to Her Past Albums?\n\nMusgraves is no stranger to success. Her 2024 album, *Deeper Well*, also had a strong opening week — but *Middle of Nowhere* performed even better. This shows that her fanbase is growing and that listeners are excited about her new musical direction.\n\nMusgraves recently appeared on the cover of *Variety* magazine, which helped bring more attention to her new release. Magazine covers and media appearances are an important part of promoting an album, and it seems the extra publicity paid off for her.\n\n### A Career Built on Authentic Storytelling\n\nKacey Musgraves first became well known with her 2013 debut album *Same Trailer Different Park*, which won the Grammy Award for Best Country Album. She became even more famous with her 2018 album *Golden Hour*, which won Album of the Year at the Grammys — one of the most prestigious awards in the music industry.\n\nOver the years, Musgraves has been praised for writing honest, personal songs that mix country music with pop and psychedelic sounds. Her lyrics often talk about life in small towns, personal freedom, and following your own path. This unique style has helped her build a loyal and passionate fanbase around the world.\n\n### Michael Jackson Also Makes Chart History\n\nMusgraves was not the only big story in the charts this week. The late King of Pop, **Michael Jackson**, made headlines by landing **two albums** in the Top 10 at the same time. This is a remarkable achievement, especially for an artist who passed away in 2009.\n\nJackson's music continues to attract millions of listeners around the world. His albums frequently return to the charts when new content, documentaries, or anniversaries bring renewed public interest in his legacy.\n\n### Why This Week Matters\n\nThis week's chart results are a reminder that the music industry is full of surprises. A living artist like Musgraves is breaking personal records, while a legendary artist like Michael Jackson continues to dominate the charts years after his death. For music fans, it was an exciting and historic week.",
+      "keyVocab": [
+        {
+          "word": "debut",
+          "meaning": "처음으로 등장하다 / 데뷔",
+          "example": "Her new album debuted at number three on the charts."
+        },
+        {
+          "word": "equivalent album units",
+          "meaning": "음반 판매량 환산 단위 (스트리밍, 다운로드, 실물 판매 포함)",
+          "example": "The album sold 100,000 equivalent album units in its first week."
+        },
+        {
+          "word": "prestigious",
+          "meaning": "권위 있는, 명망 높은",
+          "example": "Winning Album of the Year is one of the most prestigious honors in music."
+        },
+        {
+          "word": "legacy",
+          "meaning": "유산, 업적",
+          "example": "Michael Jackson's legacy continues to influence musicians around the world."
+        },
+        {
+          "word": "fanbase",
+          "meaning": "팬층, 팬들의 집합",
+          "example": "Musgraves has built a loyal fanbase over many years of performing."
+        }
+      ],
+      "publishedAt": "2026-05-10T20:30:10.000Z"
+    },
+    "75014271feec": {
+      "id": "75014271feec",
+      "source": "Variety",
+      "sourceUrl": "https://variety.com/2026/tv/news/savannah-guthrie-mothers-day-tribute-missing-mom-nancy-1236744189/",
+      "title": "Savannah Guthrie Shares Mother’s Day Tribute to Her Missing Mom Nancy: ‘We Will Never Be at Peace Until We Find You’",
+      "theme": "entertainment",
+      "themeLabel": "엔터",
+      "summary": "미국 TV 진행자 사바나 거스리가 어머니의 날에 인스타그램을 통해 2월부터 실종된 어머니 낸시를 찾겠다는 감동적인 메시지를 남겼습니다. 그녀는 어머니를 찾을 때까지 절대 포기하지 않겠다고 전했습니다.",
+      "difficulty": "A2",
+      "estimatedMinutes": 3,
+      "learnerContent": "## Savannah Guthrie Posts Emotional Mother's Day Message for Her Missing Mom\n\nSavannah Guthrie is a famous TV host in the United States. She hosts a popular morning show called *Today* on NBC. On Sunday, she shared a very emotional message on Instagram for Mother's Day.\n\n### A Mother Who Is Missing\n\nSavannah's mother, **Nancy**, has been missing since **February 2026**. This means Nancy has not been seen or heard from for several months. Her family does not know where she is.\n\nMother's Day is a special holiday when people celebrate and thank their mothers. For Savannah, this year's Mother's Day was very sad and difficult.\n\n### What Savannah Wrote\n\nSavannah posted a photo and a message on Instagram. In her caption, she wrote:\n\n> *\"Mother, daughter, sister, Nonie — we miss you with every breath.\"\n\nShe also wrote:\n\n> *\"We will never stop looking for you. We will never be at peace until we find you.\"\n\nThese words show how much pain and worry her family is feeling. The nickname \"Nonie\" is a special family name for her mother, Nancy.\n\n### A Public Plea for Help\n\nBy sharing this message on social media, Savannah is also asking the public for help. When a famous person shares information about a missing family member, more people learn about it. This can help bring new attention to the situation and encourage people to share any information they might have.\n\nSavannah has millions of followers on Instagram and on her TV show. Her message was seen by many people, and many of them left kind and supportive comments for her.\n\n### A Difficult Time\n\nHaving a missing family member is one of the hardest things a person can go through. Savannah's message shows that her family is still searching and has not given up hope. They are determined to find Nancy and bring her home safely.\n\nPeople across the United States have shared their support and prayers for Savannah and her family during this difficult time.",
+      "keyVocab": [
+        {
+          "word": "missing",
+          "meaning": "실종된, 행방불명된",
+          "example": "Her mother has been missing since February."
+        },
+        {
+          "word": "emotional",
+          "meaning": "감정적인, 감동적인",
+          "example": "She shared an emotional message about her missing mother."
+        },
+        {
+          "word": "caption",
+          "meaning": "(사진·게시물의) 설명 글",
+          "example": "She wrote a heartfelt caption under her Instagram photo."
+        },
+        {
+          "word": "supportive",
+          "meaning": "지지하는, 응원하는",
+          "example": "Many fans left supportive comments on her post."
+        },
+        {
+          "word": "determined",
+          "meaning": "결심한, 단호한",
+          "example": "The family is determined to find their missing mother."
+        }
+      ],
+      "publishedAt": "2026-05-10T19:58:50.000Z"
+    },
+    "4abf61abfd21": {
+      "id": "4abf61abfd21",
+      "source": "Pitchfork News",
+      "sourceUrl": "https://pitchfork.com/news/dua-lipa-sues-samsung-for-15-million-over-tv-packaging/",
+      "title": "Dua Lipa Sues Samsung for $15 Million Over TV Packaging",
+      "theme": "music",
+      "themeLabel": "음악",
+      "summary": "두아 리파가 삼성전자를 상대로 1,500만 달러 소송을 제기했습니다. 삼성이 그녀의 동의 없이 저작권이 있는 사진을 TV 포장재에 사용했다고 주장합니다. 두아 리파 측의 여러 차례 중단 요청에도 삼성이 응하지 않았다고 합니다.",
+      "difficulty": "B1",
+      "estimatedMinutes": 4,
+      "learnerContent": "## Dua Lipa Sues Samsung for $15 Million\n\nFamous British-Albanian pop star Dua Lipa is taking legal action against technology giant Samsung. She is demanding $15 million in damages. The lawsuit was filed in May 2026.\n\n### What Happened?\n\nDua Lipa claims that Samsung used a copyrighted photograph of her on the packaging of their televisions. According to the singer, Samsung did this **without her permission**. Copyright law means that a person's image or creative work cannot be used commercially without their consent.\n\nIn simple terms, if a company wants to use a celebrity's photo to sell a product, they must first get that person's agreement — and usually pay for the right to use it. Dua Lipa says Samsung never asked her, and never paid her.\n\n### Samsung Ignored the Warnings\n\nBefore going to court, Dua Lipa's legal team sent Samsung several **cease and desist letters**. A cease and desist letter is an official legal warning that tells a person or company to stop a certain action immediately. It is a common first step before filing a lawsuit.\n\nHowever, according to the lawsuit, Samsung \"refused to comply\" with these requests. This means Samsung did not stop using the photo even after receiving the warnings. Because Samsung did not respond to the letters, Dua Lipa decided to take the matter to court.\n\n### Why Is This a Big Deal?\n\nThis case highlights an important issue in both the music industry and the wider entertainment world: the right to control how your own image is used. Celebrities, like all people, have what is called **\"image rights\"** — the right to decide when and how their appearance is used for commercial purposes.\n\nFor big companies, using a well-known celebrity's face on a product can help attract customers. But doing so without permission is illegal and can result in large financial penalties.\n\nA $15 million lawsuit is a very serious claim. If Dua Lipa wins the case, it could send a strong message to other companies about the importance of respecting image rights and copyright law.\n\n### About Dua Lipa\n\nDua Lipa is one of the biggest pop stars in the world. She is known for hits like *Levitating*, *Don't Start Now*, and her critically praised album *Radical Optimism*. She has a massive global fanbase and a very recognisable public image, which makes her name and face extremely valuable in the commercial world.\n\nThe case is ongoing, and Samsung has not yet made a public statement in response to the lawsuit.",
+      "keyVocab": [
+        {
+          "word": "lawsuit",
+          "meaning": "소송, 법적 소송",
+          "example": "She filed a lawsuit against the company for using her photo without permission."
+        },
+        {
+          "word": "copyright",
+          "meaning": "저작권",
+          "example": "You cannot use someone else's music in your video without respecting their copyright."
+        },
+        {
+          "word": "cease and desist",
+          "meaning": "중단 요청 (서한), 행위 중지 요구",
+          "example": "The lawyer sent a cease and desist letter asking the website to remove the stolen content."
+        },
+        {
+          "word": "consent",
+          "meaning": "동의, 허락",
+          "example": "The company used her image without her consent, which is against the law."
+        },
+        {
+          "word": "damages",
+          "meaning": "손해 배상금",
+          "example": "The court ordered the company to pay damages to the singer for breaking copyright law."
+        }
+      ],
+      "publishedAt": "2026-05-10T18:37:08.000Z"
+    },
+    "2c01b341fa9c": {
+      "id": "2c01b341fa9c",
+      "source": "Pitchfork News",
+      "sourceUrl": "https://pitchfork.com/news/charli-xcx-drops-new-song-i-keep-on-thinking-bout-you-every-single-day-and-night/",
+      "title": "Charli XCX Drops New Song “I Keep On Thinking Bout You Every Single Day and Night”",
+      "theme": "music",
+      "themeLabel": "음악",
+      "summary": "차리 XCX가 새로운 노래 \"I Keep On Thinking Bout You Every Single Day and Night\"를 발표했습니다. 이 곡은 \"Rock Music\"의 B사이드 트랙입니다. 현재 바이닐(LP)과 차리 XCX의 인스타그램에서만 들을 수 있습니다.",
+      "difficulty": "A2",
+      "estimatedMinutes": 4,
+      "learnerContent": "## Charli XCX Releases a New Song\n\nCharli XCX has released a brand new song. The song is called **\"I Keep On Thinking Bout You Every Single Day and Night\"**. It came out in May 2026.\n\n### Where Can You Listen to It?\n\nThis song is a little different from most new releases. You cannot find it on popular music streaming services like Spotify or Apple Music. Right now, there are only **two ways** to hear the song:\n\n- **On vinyl** – You need to buy a physical vinyl record to listen to it.\n- **On Charli XCX's Instagram** – She shared the song on her official Instagram page, so fans can listen there for free.\n\n### What Is a B-Side?\n\nThe new song is the **B-side** to another song called **\"Rock Music\"**. But what does \"B-side\" mean?\n\nIn the past, music was sold on small round discs called **singles**. One side of the disc had the main song — this was called the \"A-side.\" The other side had a second, bonus song — this was called the \"B-side.\" The B-side was often less famous than the A-side, but fans loved finding and listening to these extra tracks.\n\nToday, \"B-side\" still means a bonus or extra song that comes with a main release. It is usually only available in a special format, like vinyl.\n\n### About Charli XCX\n\nCharli XCX is a very popular British singer and songwriter. Her real name is Charlotte Emma Aitchison. She is known for her fun, energetic pop music and her unique style. In 2024, her album *Brat* became a huge hit around the world and was loved by both fans and music critics.\n\nCharli XCX is also well known for connecting with her fans on social media. Sharing new music on Instagram is a great example of this. It makes her fans feel close to her and excited about her music.\n\n### Why Is This Interesting?\n\nIt is unusual for a big artist to release a song **only on vinyl and Instagram**. Most artists want as many people as possible to hear their music, so they put it on streaming services. By keeping this song in a limited format, Charli XCX makes it feel special and exclusive. Fans who really want to hear it need to make an extra effort — and that makes the song even more exciting for them.",
+      "keyVocab": [
+        {
+          "word": "release",
+          "meaning": "발매, 공개하다",
+          "example": "The singer will release her new album next month."
+        },
+        {
+          "word": "vinyl",
+          "meaning": "바이닐, LP 레코드판",
+          "example": "Some music fans prefer to listen to songs on vinyl because they like the warm sound."
+        },
+        {
+          "word": "B-side",
+          "meaning": "B사이드 (싱글의 보너스 트랙)",
+          "example": "The B-side of the single was a fan favourite, even though it was not the main song."
+        },
+        {
+          "word": "exclusive",
+          "meaning": "독점적인, 한정된",
+          "example": "The song is exclusive to vinyl, so you cannot find it on streaming apps."
+        },
+        {
+          "word": "streaming",
+          "meaning": "스트리밍 (인터넷으로 음악·영상 재생)",
+          "example": "Millions of people listen to music every day through streaming services like Spotify."
+        }
+      ],
+      "publishedAt": "2026-05-10T16:18:48.000Z"
     }
   }
 }

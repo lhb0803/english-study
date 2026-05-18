@@ -52,6 +52,39 @@
 3. **뱃지를 노리세요.** 서로 다른 주제를 번갈아 읽으면 "다방면 탐험가" 뱃지를 받을 수 있어요.
 4. **연속 학습일이 끊기는 게 싫다면**, 하루에 짧은 글 하나라도 끝까지 스크롤해서 완독 처리하세요.
 
+## 배포 / 운영
+
+### GitHub Actions Secrets 필수 설정
+
+Settings → Secrets and variables → Actions 에 아래 세 개가 없으면 **주간 픽 생성이 실패**합니다.
+
+| Secret | 설명 |
+|---|---|
+| `ANTHROPIC_API_KEY` | Claude API 키 |
+| `GCP_TTS_KEY` | Google Cloud TTS 서비스 계정 JSON 전체 내용 |
+| `BLOB_READ_WRITE_TOKEN` | Vercel Blob 토큰 |
+
+### 수동 트리거
+
+시크릿 추가 후 바로 반영하고 싶으면:
+**Actions → Weekly Picks → Run workflow**
+
+> Vercel Blob은 **Public** 스토어로 생성해야 합니다 (Private 스토어는 정적 배포와 호환 안 됨).
+
+### 로컬 개발
+
+```bash
+npm install
+npm run picks:dummy   # RSS만, Claude/TTS 호출 없음 (안전)
+npm run dev           # http://localhost:3000
+```
+
+실제 픽 생성 (`.env.local` 에 위 세 개 환경변수 필요):
+
+```bash
+npm run picks:build
+```
+
 ## 기여 / 피드백
 
 - 이슈나 PR 환영 — https://github.com/lhb0803/english-study
@@ -59,4 +92,4 @@
 
 ---
 
-<sub>Powered by Next.js · Vercel · Claude (Anthropic) · 16개의 영어권 RSS 피드</sub>
+<sub>Powered by Next.js · Vercel · Claude (Anthropic) · Google Cloud TTS · 16개의 영어권 RSS 피드</sub>

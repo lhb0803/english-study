@@ -61,7 +61,7 @@ Settings → Secrets and variables → Actions 에 아래 세 개가 없으면 *
 | Secret | 설명 |
 |---|---|
 | `ANTHROPIC_API_KEY` | Claude API 키 |
-| `GCP_TTS_KEY` | Google Cloud TTS 서비스 계정 JSON 전체 내용 |
+| `GCP_TTS_KEY` | Google Cloud TTS 서비스 계정 JSON 전체 내용 (**따옴표 없이** `{` 로 시작하는 JSON 그대로) |
 | `BLOB_READ_WRITE_TOKEN` | Vercel Blob 토큰 |
 
 ### 수동 트리거

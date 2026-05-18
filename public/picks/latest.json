@@ -3,6 +3,47 @@
   "batchLabel": "월요일 추천",
   "articles": [
     {
+      "id": "8e648fbdd1cc",
+      "source": "Variety",
+      "sourceUrl": "https://variety.com/2026/film/festivals/hope-sequel-already-written-director-na-hong-jin-cannes-1236752316/",
+      "title": "‘Hope’ Director Na Hong-jin Confirms Sequel Already Written as Michael Fassbender and Alicia Vikander Explain Why They’re Playing Aliens in Cannes’ Craziest Movie",
+      "theme": "film",
+      "themeLabel": "영화",
+      "summary": "한국 감독 나홍진의 외계인 액션 영화 '호프'가 칸 영화제에서 큰 화제를 모았습니다. 나홍진 감독은 이미 속편 시나리오가 완성되었다고 밝혔습니다. 마이클 패스벤더와 알리시아 비칸데르가 주연을 맡아 외계인 역할을 연기했습니다.",
+      "difficulty": "B1",
+      "estimatedMinutes": 4,
+      "learnerContent": "## 'Hope' Director Na Hong-jin Confirms a Sequel Is Already Written\n\nKorean director Na Hong-jin made a big announcement at the Cannes Film Festival this week. His new film, *Hope*, had its premiere on Sunday night and immediately became one of the most talked-about movies at the festival. The very next day, at a press conference on Monday, Na Hong-jin revealed that a sequel is already being planned — and the script has already been written.\n\n\"I think you can readily imagine this sequel,\" the director told journalists. \"There's a script that's already been done that I'd like to move forward with.\" This surprised many people, as the first film had only just been shown to the public for the first time.\n\n### What Is 'Hope' About?\n\n*Hope* is being described as an alien action epic — a big, exciting science fiction film full of action and surprises. It is directed by Na Hong-jin, who is well known for his intense and creative Korean films, such as *The Wailing* (2016). *Hope* is a major step in a new direction for him, combining a large international cast with a bold science fiction story.\n\nThe film stars two very famous Hollywood actors: Michael Fassbender and Alicia Vikander. Interestingly, both of them play aliens in the movie. This is an unusual and exciting choice, and many viewers at Cannes were curious about why these well-known human actors were chosen to portray non-human characters.\n\n### Why Did Fassbender and Vikander Play Aliens?\n\nBoth actors spoke at the Cannes press conference about their decision to join the film. Playing an alien is a unique challenge for any actor. They must think carefully about how to move, speak, and express emotion in a way that feels different from a normal human being — but still interesting and believable to the audience.\n\nFassbender and Vikander are both experienced actors who have taken on many different types of roles in their careers. Fassbender is known for films like the *X-Men* series and *Steve Jobs*, while Vikander won an Academy Award for her role in *The Danish Girl*. Taking on alien roles in a Korean director's science fiction film shows that both actors are willing to try bold and creative projects.\n\n### A Big Night at Cannes\n\nThe Cannes Film Festival, held every year in the south of France, is one of the most important film festivals in the world. It is a place where filmmakers show their newest and most ambitious work to critics, journalists, and industry professionals from around the globe.\n\n*Hope* was clearly one of the highlights of this year's festival. Audiences reacted strongly to the film, and it quickly became the subject of many conversations and reviews. Films that make a strong impression at Cannes often go on to receive wide international releases and awards attention.\n\n### What's Next?\n\nWith a sequel script already completed, it seems like Na Hong-jin has a clear vision for the future of the *Hope* story. If the first film performs well with general audiences after its wider release, production on the second film could begin relatively quickly.\n\nFor now, film fans around the world are eagerly waiting to see *Hope* for themselves — and wondering what surprises the sequel might bring.",
+      "keyVocab": [
+        {
+          "word": "sequel",
+          "meaning": "속편 (이전 영화나 책에 이어지는 다음 작품)",
+          "example": "The sequel to the popular film will be released next year."
+        },
+        {
+          "word": "premiere",
+          "meaning": "시사회, 첫 상영 (영화나 공연의 첫 번째 공개 상영)",
+          "example": "The movie's premiere was held at a famous film festival in France."
+        },
+        {
+          "word": "auteur",
+          "meaning": "작가주의 감독 (독창적인 스타일을 가진 영화 감독)",
+          "example": "Many critics consider him an auteur because of his unique filmmaking style."
+        },
+        {
+          "word": "portray",
+          "meaning": "묘사하다, 연기하다 (특정 인물이나 캐릭터를 표현하다)",
+          "example": "She was chosen to portray a powerful alien leader in the film."
+        },
+        {
+          "word": "ambitious",
+          "meaning": "야심찬, 대담한 (크고 어려운 목표를 가진)",
+          "example": "The director's most ambitious project yet required a huge international cast."
+        }
+      ],
+      "publishedAt": "2026-05-18T11:19:34.000Z",
+      "audioUrl": "https://ltqzepzxyxgr0qov.public.blob.vercel-storage.com/audio/8e648fbdd1cc.mp3"
+    },
+    {
       "id": "10e29e55855d",
       "source": "BBC World",
       "sourceUrl": "https://www.bbc.com/news/articles/c332mngz25vo?at_medium=RSS&at_campaign=rss",
@@ -40,7 +81,8 @@
           "example": "Police are investigating the cause of the fire."
         }
       ],
-      "publishedAt": "2026-05-18T11:05:16.000Z"
+      "publishedAt": "2026-05-18T11:05:16.000Z",
+      "audioUrl": "https://ltqzepzxyxgr0qov.public.blob.vercel-storage.com/audio/10e29e55855d.mp3"
     },
     {
       "id": "da59a803e441",
@@ -80,7 +122,8 @@
           "example": "The government placed restrictions on travel to the dangerous region."
         }
       ],
-      "publishedAt": "2026-05-18T11:04:34.000Z"
+      "publishedAt": "2026-05-18T11:04:34.000Z",
+      "audioUrl": "https://ltqzepzxyxgr0qov.public.blob.vercel-storage.com/audio/da59a803e441.mp3"
     },
     {
       "id": "c9ed0154bbc4",
@@ -120,7 +163,8 @@
           "example": "Doctors monitor patients carefully after a major operation."
         }
       ],
-      "publishedAt": "2026-05-18T11:00:35.000Z"
+      "publishedAt": "2026-05-18T11:00:35.000Z",
+      "audioUrl": "https://ltqzepzxyxgr0qov.public.blob.vercel-storage.com/audio/c9ed0154bbc4.mp3"
     },
     {
       "id": "e645fc388f2a",
@@ -160,47 +204,8 @@
           "example": "The landlord asked for a deposit before allowing the tenant to move in."
         }
       ],
-      "publishedAt": "2026-05-18T11:00:31.000Z"
-    },
-    {
-      "id": "7a2519943932",
-      "source": "Variety",
-      "sourceUrl": "https://variety.com/2026/film/global/embratur-brazil-tourism-board-8-pronged-strategy-film-tv-1236751940/",
-      "title": "Brazil’s Embratur Spearheads 8-Pronged Strategy to Boost Film, TV, Online Gaming Tourism",
-      "theme": "film",
-      "themeLabel": "영화",
-      "summary": "브라질 관광청 엠브라투르(Embratur)는 영화, TV, 디지털 게임에서 영감을 받은 관광을 촉진하기 위해 8가지 전략을 추진하고 있습니다. 전 세계 약 9천만 명이 미디어에서 본 장소를 여행지로 선택한다는 연구 결과가 이 전략의 배경이 됩니다. 브라질은 이러한 '스크린 관광' 트렌드를 활용해 더 많은 외국인 관광객을 유치하려 하고 있습니다.",
-      "difficulty": "B1",
-      "estimatedMinutes": 4,
-      "learnerContent": "## Brazil Uses Films, TV, and Games to Attract Tourists\n\nBrazil's national tourism board, **Embratur**, has announced a new plan to bring more visitors to the country. The plan has eight different parts, and it focuses on a growing trend called **audiovisual-inspired tourism** — when people travel to a place because they saw it in a movie, TV show, or video game.\n\n### Why Does Screen Tourism Matter?\n\nResearch shows that around **90 million people** around the world choose their holiday destinations based on what they have seen on screen. This is a huge number, and it shows how powerful films and TV shows can be for a country's tourism industry.\n\nA well-known example is **Dubrovnik, Croatia**. This beautiful coastal city became extremely popular with tourists after it appeared as a filming location in the TV series *Game of Thrones*. The city has struggled to manage the large number of visitors ever since. Brazil hopes to create a similar effect — but in a more organized and sustainable way.\n\n### Brazil's Eight-Part Strategy\n\nEmbratur's eight-pronged strategy covers several areas. The plan includes promoting Brazilian locations to international film and TV production companies, encouraging them to shoot their projects in Brazil. When a popular show or movie features a Brazilian city, beach, or landmark, it naturally makes viewers around the world curious about visiting.\n\nThe strategy also focuses on **digital games**. Online and video games are increasingly popular worldwide, and games set in real or realistic locations can inspire players to visit those places in real life. Brazil wants to work with game developers to feature Brazilian landscapes and culture in their games.\n\nAnother part of the strategy involves working with streaming platforms. With services like Netflix and Amazon Prime producing more international content, Brazil sees a strong opportunity to get its locations seen by global audiences.\n\n### Brazil Has a Lot to Offer\n\nBrazil is already famous for its stunning natural scenery, including the **Amazon rainforest**, the **Pantanal wetlands**, and beautiful coastlines with iconic beaches like Copacabana and Ipanema in Rio de Janeiro. The country also has vibrant cities, rich cultural traditions, and world-famous events like the **Rio Carnival**.\n\nHowever, Brazil has sometimes been underrepresented in global media compared to other popular tourist destinations. Embratur believes that by getting more films, series, and games to feature Brazilian settings, the country can reach new audiences and change perceptions.\n\n### A Global Trend\n\nBrazil is not alone in using this approach. Countries like **New Zealand** (famous after *The Lord of the Rings*) and **South Korea** (boosted by the global success of K-dramas and films like *Parasite*) have seen enormous tourism growth linked to their screen presence.\n\nExperts call this \"screen tourism\" or \"set-jetting,\" and it is one of the fastest-growing segments in the global travel industry. Travel agencies report that more and more clients ask specifically to visit places they recognized from a show or film.\n\n### Looking Ahead\n\nEmbratur's new strategy shows that Brazil is serious about competing in the global tourism market. By connecting entertainment and travel, the country hopes to welcome millions of new visitors in the coming years — people who first fell in love with Brazil from their sofas, and then decided to see it for themselves.",
-      "keyVocab": [
-        {
-          "word": "audiovisual-inspired tourism",
-          "meaning": "영화, TV, 게임 등 미디어에서 본 장소를 방문하는 관광",
-          "example": "Audiovisual-inspired tourism has grown rapidly because of popular streaming shows."
-        },
-        {
-          "word": "strategy",
-          "meaning": "전략, 계획",
-          "example": "The company announced a new strategy to increase its number of customers."
-        },
-        {
-          "word": "sustainable",
-          "meaning": "지속 가능한",
-          "example": "The city wants to develop tourism in a sustainable way so it does not harm the environment."
-        },
-        {
-          "word": "underrepresented",
-          "meaning": "충분히 다뤄지지 않은, 과소 대표된",
-          "example": "Many beautiful countries are underrepresented in Hollywood films."
-        },
-        {
-          "word": "perception",
-          "meaning": "인식, 생각",
-          "example": "Positive media coverage can change people's perception of a destination."
-        }
-      ],
-      "publishedAt": "2026-05-18T10:47:26.000Z"
+      "publishedAt": "2026-05-18T11:00:31.000Z",
+      "audioUrl": "https://ltqzepzxyxgr0qov.public.blob.vercel-storage.com/audio/e645fc388f2a.mp3"
     }
   ]
 }

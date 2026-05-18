@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-18T11:16:28.441Z",
+  "updatedAt": "2026-05-18T11:20:29.889Z",
   "articles": {
     "d70e2f5f2434": {
       "id": "d70e2f5f2434",
@@ -2921,6 +2921,46 @@
         }
       ],
       "publishedAt": "2026-05-18T11:04:34.000Z"
+    },
+    "8e648fbdd1cc": {
+      "id": "8e648fbdd1cc",
+      "source": "Variety",
+      "sourceUrl": "https://variety.com/2026/film/festivals/hope-sequel-already-written-director-na-hong-jin-cannes-1236752316/",
+      "title": "‘Hope’ Director Na Hong-jin Confirms Sequel Already Written as Michael Fassbender and Alicia Vikander Explain Why They’re Playing Aliens in Cannes’ Craziest Movie",
+      "theme": "film",
+      "themeLabel": "영화",
+      "summary": "한국 감독 나홍진의 외계인 액션 영화 '호프'가 칸 영화제에서 큰 화제를 모았습니다. 나홍진 감독은 이미 속편 시나리오가 완성되었다고 밝혔습니다. 마이클 패스벤더와 알리시아 비칸데르가 주연을 맡아 외계인 역할을 연기했습니다.",
+      "difficulty": "B1",
+      "estimatedMinutes": 4,
+      "learnerContent": "## 'Hope' Director Na Hong-jin Confirms a Sequel Is Already Written\n\nKorean director Na Hong-jin made a big announcement at the Cannes Film Festival this week. His new film, *Hope*, had its premiere on Sunday night and immediately became one of the most talked-about movies at the festival. The very next day, at a press conference on Monday, Na Hong-jin revealed that a sequel is already being planned — and the script has already been written.\n\n\"I think you can readily imagine this sequel,\" the director told journalists. \"There's a script that's already been done that I'd like to move forward with.\" This surprised many people, as the first film had only just been shown to the public for the first time.\n\n### What Is 'Hope' About?\n\n*Hope* is being described as an alien action epic — a big, exciting science fiction film full of action and surprises. It is directed by Na Hong-jin, who is well known for his intense and creative Korean films, such as *The Wailing* (2016). *Hope* is a major step in a new direction for him, combining a large international cast with a bold science fiction story.\n\nThe film stars two very famous Hollywood actors: Michael Fassbender and Alicia Vikander. Interestingly, both of them play aliens in the movie. This is an unusual and exciting choice, and many viewers at Cannes were curious about why these well-known human actors were chosen to portray non-human characters.\n\n### Why Did Fassbender and Vikander Play Aliens?\n\nBoth actors spoke at the Cannes press conference about their decision to join the film. Playing an alien is a unique challenge for any actor. They must think carefully about how to move, speak, and express emotion in a way that feels different from a normal human being — but still interesting and believable to the audience.\n\nFassbender and Vikander are both experienced actors who have taken on many different types of roles in their careers. Fassbender is known for films like the *X-Men* series and *Steve Jobs*, while Vikander won an Academy Award for her role in *The Danish Girl*. Taking on alien roles in a Korean director's science fiction film shows that both actors are willing to try bold and creative projects.\n\n### A Big Night at Cannes\n\nThe Cannes Film Festival, held every year in the south of France, is one of the most important film festivals in the world. It is a place where filmmakers show their newest and most ambitious work to critics, journalists, and industry professionals from around the globe.\n\n*Hope* was clearly one of the highlights of this year's festival. Audiences reacted strongly to the film, and it quickly became the subject of many conversations and reviews. Films that make a strong impression at Cannes often go on to receive wide international releases and awards attention.\n\n### What's Next?\n\nWith a sequel script already completed, it seems like Na Hong-jin has a clear vision for the future of the *Hope* story. If the first film performs well with general audiences after its wider release, production on the second film could begin relatively quickly.\n\nFor now, film fans around the world are eagerly waiting to see *Hope* for themselves — and wondering what surprises the sequel might bring.",
+      "keyVocab": [
+        {
+          "word": "sequel",
+          "meaning": "속편 (이전 영화나 책에 이어지는 다음 작품)",
+          "example": "The sequel to the popular film will be released next year."
+        },
+        {
+          "word": "premiere",
+          "meaning": "시사회, 첫 상영 (영화나 공연의 첫 번째 공개 상영)",
+          "example": "The movie's premiere was held at a famous film festival in France."
+        },
+        {
+          "word": "auteur",
+          "meaning": "작가주의 감독 (독창적인 스타일을 가진 영화 감독)",
+          "example": "Many critics consider him an auteur because of his unique filmmaking style."
+        },
+        {
+          "word": "portray",
+          "meaning": "묘사하다, 연기하다 (특정 인물이나 캐릭터를 표현하다)",
+          "example": "She was chosen to portray a powerful alien leader in the film."
+        },
+        {
+          "word": "ambitious",
+          "meaning": "야심찬, 대담한 (크고 어려운 목표를 가진)",
+          "example": "The director's most ambitious project yet required a huge international cast."
+        }
+      ],
+      "publishedAt": "2026-05-18T11:19:34.000Z"
     }
   }
 }

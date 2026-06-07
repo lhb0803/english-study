@@ -1,407 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-31T22:00:01.939Z",
+  "updatedAt": "2026-06-07T22:04:38.364Z",
   "articles": {
-    "506b047e3186": {
-      "id": "506b047e3186",
-      "source": "BBC World",
-      "sourceUrl": "https://www.bbc.com/news/articles/cn0px2x53k2o?at_medium=RSS&at_campaign=rss",
-      "title": "Iran says US has responded to its latest peace proposal",
-      "theme": "politics",
-      "themeLabel": "시사",
-      "summary": "이란이 미국으로부터 최신 평화 제안에 대한 답변을 받았다고 밝혔습니다. 미국은 공식적으로 이를 확인하지 않았으며, 트럼프 대통령은 이란의 제안이 받아들일 수 없다고 말한 것으로 알려졌습니다.",
-      "difficulty": "B1",
-      "estimatedMinutes": 3,
-      "learnerContent": "## Iran and the US: Talks Over a Peace Proposal\n\nIran has announced that the United States has responded to its latest peace proposal. However, the US government has not yet officially confirmed this.\n\n### What Is a Peace Proposal?\n\nA peace proposal is a formal offer made by one country to another, suggesting a plan to reduce conflict or reach an agreement. Iran and the US have had a difficult relationship for many years, and the two countries have been involved in diplomatic talks about issues such as nuclear weapons and regional security.\n\n### What Did Iran Say?\n\nIranian officials stated that they sent a new proposal to the United States and that the US had sent a reply. This was seen as a possible step forward in negotiations between the two countries.\n\n### What Did the US Say?\n\nThe United States government has not made an official statement confirming that it replied to Iran's proposal. This means there is still some uncertainty about what exactly happened between the two sides.\n\n### Trump's Reaction\n\nAccording to reports, US President Donald Trump spoke to Israel's Kan News and said that Iran's proposal was \"unacceptable.\" This suggests that, even if the US did respond, the American side is not happy with what Iran offered.\n\n### Why Does This Matter?\n\nThe relationship between the US and Iran is very important for peace and stability in the Middle East and around the world. When the two countries talk, even if they disagree, it can help prevent the situation from getting worse.\n\nIsrael is also closely watching these talks. Israel and Iran have a very tense relationship, and any agreement — or disagreement — between the US and Iran directly affects Israel's security.\n\n### What Happens Next?\n\nIt is unclear what the next step will be. If Trump believes Iran's proposal is unacceptable, negotiations may slow down or stop. Diplomats and analysts around the world are watching carefully to see whether the two sides can find common ground, or whether tensions will continue to rise.\n\nFor now, both countries seem to have very different ideas about what a deal should look like. The coming weeks may be important in deciding the direction of US-Iran relations.",
-      "keyVocab": [
-        {
-          "word": "proposal",
-          "meaning": "제안, 계획안",
-          "example": "The company made a proposal to reduce costs and improve efficiency."
-        },
-        {
-          "word": "confirm",
-          "meaning": "확인하다",
-          "example": "The government has not yet confirmed the details of the new policy."
-        },
-        {
-          "word": "unacceptable",
-          "meaning": "받아들일 수 없는",
-          "example": "The teacher said that cheating on a test is completely unacceptable."
-        },
-        {
-          "word": "negotiations",
-          "meaning": "협상",
-          "example": "The two countries entered into negotiations to end the trade dispute."
-        },
-        {
-          "word": "stability",
-          "meaning": "안정",
-          "example": "Peace and stability in the region are important for economic growth."
-        }
-      ],
-      "publishedAt": "2026-05-03T21:28:09.000Z"
-    },
-    "3be0047f2752": {
-      "id": "3be0047f2752",
-      "source": "NYT Home",
-      "sourceUrl": "https://www.nytimes.com/2026/05/03/well/cruise-ship-virus-fatal-outbreak.html",
-      "title": "3 Dead in Hantavirus Outbreak Aboard Cruise Ship, W.H.O. Says",
-      "theme": "science",
-      "themeLabel": "과학",
-      "summary": "세계보건기구(WHO)에 따르면 크루즈선에서 한타바이러스 발병으로 3명이 사망했습니다. 실험실에서 1건이 확진되었으며, 추가로 5건이 의심 사례로 분류되었습니다.",
-      "difficulty": "B1",
-      "estimatedMinutes": 4,
-      "learnerContent": "## Hantavirus Outbreak on a Cruise Ship: 3 People Dead\n\nThe World Health Organization (WHO) has reported that three people have died following an outbreak of hantavirus on a cruise ship. The announcement was made on Sunday, raising concern among health officials around the world.\n\n### What Is Hantavirus?\n\nHantavirus is a rare but serious virus. It is mainly spread to humans through contact with infected rodents, such as mice or rats, or through their droppings, urine, or saliva. The virus does not usually spread easily from person to person, which makes an outbreak on a cruise ship unusual and surprising.\n\nSymptoms of hantavirus infection can include fever, muscle pain, and tiredness. In more serious cases, it can cause severe breathing problems or kidney failure, which can be life-threatening.\n\n### What Happened on the Cruise Ship?\n\nAccording to the WHO, one case of hantavirus infection has been confirmed through laboratory testing. In addition to this confirmed case, there are five more suspected cases. These are people who may have the virus but whose test results have not yet been fully confirmed.\n\nThree people connected to the outbreak have died. Health officials are working to understand exactly how the virus spread on board the ship.\n\n### Why Is This Unusual?\n\nCruise ships carry hundreds or even thousands of passengers in a small, enclosed space. This makes it easier for some illnesses to spread quickly. However, hantavirus is not commonly found on cruise ships because it is usually linked to rural areas where people come into contact with wild rodents.\n\nHealth experts are investigating where the passengers may have been exposed to the virus. It is possible they came into contact with infected animals during a stop at a port.\n\n### What Is the WHO Doing?\n\nThe WHO is monitoring the situation closely. The organization works with countries around the world to track disease outbreaks and provide guidance to health authorities. They are advising officials to test all suspected cases and to take steps to prevent further spread.\n\n### Should Travelers Be Worried?\n\nHealth officials say the general risk to the public remains low. Hantavirus is not easily passed between people. However, travelers are advised to avoid contact with wild rodents and to maintain good hygiene, especially when visiting natural or rural areas.",
-      "keyVocab": [
-        {
-          "word": "outbreak",
-          "meaning": "발병, 발생",
-          "example": "The government responded quickly to the outbreak of the new disease."
-        },
-        {
-          "word": "confirmed",
-          "meaning": "확진된, 확인된",
-          "example": "There are ten confirmed cases of the illness in the city."
-        },
-        {
-          "word": "suspected",
-          "meaning": "의심되는",
-          "example": "The doctor listed three suspected causes of the patient's symptoms."
-        },
-        {
-          "word": "rodents",
-          "meaning": "설치류 (쥐 등)",
-          "example": "Rodents such as mice can sometimes carry dangerous diseases."
-        },
-        {
-          "word": "hygiene",
-          "meaning": "위생",
-          "example": "Good hygiene, like washing your hands regularly, helps prevent illness."
-        }
-      ],
-      "publishedAt": "2026-05-03T21:24:22.000Z"
-    },
-    "56c4fd907a59": {
-      "id": "56c4fd907a59",
-      "source": "NYT Business",
-      "sourceUrl": "https://www.nytimes.com/2026/05/03/well/cruise-ship-virus-fatal-outbreak.html",
-      "title": "3 Dead in Hantavirus Outbreak Aboard Cruise Ship, W.H.O. Says",
-      "theme": "science",
-      "themeLabel": "과학",
-      "summary": "세계보건기구(WHO)에 따르면 크루즈선에서 한타바이러스 발생으로 3명이 사망했습니다. 실험실에서 한 건의 감염이 확인되었으며, 추가로 5건의 의심 사례가 보고되었습니다.",
-      "difficulty": "B1",
-      "estimatedMinutes": 3,
-      "learnerContent": "## 3 Dead in Hantavirus Outbreak on Cruise Ship, WHO Says\n\nThe World Health Organization (WHO) announced on Sunday that three people have died following a hantavirus outbreak aboard a cruise ship. One case of hantavirus infection has been confirmed through laboratory testing, and there are five additional suspected cases under investigation.\n\n### What Is Hantavirus?\n\nHantavirus is a serious illness caused by a virus that is mainly spread by rodents, such as mice and rats. People can become infected when they breathe in air that has been contaminated by the urine, feces, or saliva of infected rodents. The virus does not usually spread directly from person to person, which makes an outbreak on a cruise ship unusual and concerning.\n\nSymptoms of hantavirus infection often begin like a common flu. People may feel tired, have a fever, and experience muscle aches. However, the disease can become very serious quickly. In severe cases, it can cause breathing difficulties and organ failure, which can be fatal.\n\n### The Outbreak on the Cruise Ship\n\nDetails about the cruise ship, including its name, location, and the nationalities of those affected, have not yet been fully released. Health authorities are currently working to identify all passengers and crew members who may have been exposed to the virus. Contact tracing — the process of finding people who may have come into contact with infected individuals — is ongoing.\n\nThe WHO is closely monitoring the situation. When a disease outbreak occurs on a ship, it can be especially difficult to control because many people are living in a small, enclosed space. This makes it easier for illnesses to spread.\n\n### Why This Matters\n\nAlthough hantavirus outbreaks are relatively rare, they are taken very seriously by global health organizations because the disease can be deadly. There is currently no specific cure or vaccine for hantavirus. Treatment focuses on supporting the patient, such as helping them breathe and keeping their body stable.\n\nHealth experts are urging anyone who was recently on the affected cruise ship and is feeling unwell to seek medical attention immediately and inform doctors of their travel history.\n\nThe WHO has said it will continue to provide updates as more information becomes available. Travelers are advised to follow guidance from health authorities and to be aware of the symptoms of hantavirus, especially if they have been in areas where rodents are common.",
-      "keyVocab": [
-        {
-          "word": "outbreak",
-          "meaning": "갑작스러운 질병의 발생",
-          "example": "Health officials rushed to respond to the outbreak of the disease in the city."
-        },
-        {
-          "word": "confirmed",
-          "meaning": "공식적으로 확인된",
-          "example": "The laboratory confirmed that the patient had been infected with the virus."
-        },
-        {
-          "word": "contaminated",
-          "meaning": "오염된",
-          "example": "The water supply was contaminated, so residents were told not to drink it."
-        },
-        {
-          "word": "contact tracing",
-          "meaning": "접촉자 추적",
-          "example": "Contact tracing helped authorities find people who had been near the infected individual."
-        },
-        {
-          "word": "fatal",
-          "meaning": "치명적인, 사망을 초래하는",
-          "example": "The disease can be fatal if it is not treated quickly."
-        }
-      ],
-      "publishedAt": "2026-05-03T21:24:22.000Z"
-    },
-    "ec72490edebf": {
-      "id": "ec72490edebf",
-      "source": "NYT Business",
-      "sourceUrl": "https://www.nytimes.com/2026/05/03/business/economy/eeoc-discrimination-claim-new-york-times.html",
-      "title": "E.E.O.C. Investigating Discrimination Claim at The New York Times",
-      "theme": "business",
-      "themeLabel": "경제",
-      "summary": "미국 평등고용기회위원회(EEOC)가 뉴욕타임스 직원이 제기한 역차별 불만을 법률 부서에 넘겨 검토 중입니다. 이는 직장 내 차별 문제와 관련하여 언론사에 대한 중요한 조사입니다.",
-      "difficulty": "B2",
-      "estimatedMinutes": 4,
-      "learnerContent": "## EEOC Investigating Discrimination Claim at The New York Times\n\nThe United States Equal Employment Opportunity Commission (EEOC) is investigating a discrimination complaint filed by an employee at The New York Times. The case involves what is known as a \"reverse discrimination\" claim, and it has recently been referred to the agency's legal unit for a more detailed review.\n\n### What Is the EEOC?\n\nThe Equal Employment Opportunity Commission is a federal government agency in the United States. Its main role is to enforce laws that prohibit workplace discrimination. These laws protect employees from being treated unfairly because of their race, color, religion, sex, national origin, age, disability, or other protected characteristics. When an employee believes they have been discriminated against, they can file a complaint with the EEOC, which then investigates the claim.\n\n### What Is Reverse Discrimination?\n\nReverse discrimination refers to a situation where a person from a majority group — for example, a white employee or a male employee — claims they were treated unfairly in favor of someone from a minority group. This type of complaint has become more common in recent years, particularly as many companies have introduced diversity, equity, and inclusion (DEI) programs designed to increase representation of underrepresented groups in the workplace.\n\nCritics of DEI programs argue that these initiatives can sometimes lead to decisions — such as hiring or promotions — that unfairly disadvantage majority-group employees. Supporters, however, say that such programs are necessary to correct long-standing inequalities in the workplace.\n\n### The Case at The New York Times\n\nAn employee at The New York Times has filed a reverse discrimination complaint with the EEOC. The specific details of the complaint — including the identity of the employee and the exact nature of their claim — have not been made public. However, the fact that the EEOC has referred the case to its legal unit suggests that investigators believe the complaint may have enough merit to warrant further examination.\n\nA referral to the legal unit is a significant step. It means the case has moved beyond the initial review stage and is now being considered for potential legal action. This does not mean that The New York Times has been found guilty of any wrongdoing, but it does indicate that the complaint is being taken seriously.\n\n### The Broader Context\n\nThis case comes at a time when many organizations across the United States are facing increased scrutiny over their diversity and inclusion policies. Several high-profile legal challenges to DEI programs have emerged in recent years, reflecting a broader national debate about fairness, equality, and how best to address discrimination in the workplace.\n\nThe New York Times has not yet issued a public statement regarding the investigation. The EEOC is expected to continue its review and may take further action depending on its findings.",
-      "keyVocab": [
-        {
-          "word": "discrimination",
-          "meaning": "차별",
-          "example": "The company was sued for discrimination after refusing to hire qualified candidates based on their age."
-        },
-        {
-          "word": "complaint",
-          "meaning": "불만 신고, 고충",
-          "example": "She filed a formal complaint with the human resources department after being passed over for a promotion."
-        },
-        {
-          "word": "referred",
-          "meaning": "(검토를 위해) 이송된, 넘겨진",
-          "example": "The case was referred to a specialist team for further investigation."
-        },
-        {
-          "word": "merit",
-          "meaning": "타당성, 가치",
-          "example": "The judge decided the case had enough merit to proceed to trial."
-        },
-        {
-          "word": "scrutiny",
-          "meaning": "면밀한 조사, 감시",
-          "example": "The company's hiring practices came under scrutiny after reports of unfair treatment emerged."
-        }
-      ],
-      "publishedAt": "2026-05-03T20:29:51.000Z"
-    },
-    "7ba87e7eb568": {
-      "id": "7ba87e7eb568",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/games/922840/reggie-fils-aime-amazon-nintendo-illegal",
-      "title": "Reggie Fils-Aimé says Amazon once asked Nintendo to break the law",
-      "theme": "tech",
-      "themeLabel": "기술",
-      "summary": "전 닌텐도 오브 아메리카 사장 레지 필스-에이메가 NYU 강연에서 아마존이 닌텐도에게 불법적인 가격 우대를 요구했다고 밝혔습니다. 이로 인해 닌텐도는 한동안 아마존을 통한 제품 판매를 중단했습니다. 현재 두 회사는 화해하여 아마존에서 닌텐도 스위치 2를 구매할 수 있습니다.",
-      "difficulty": "B1",
-      "estimatedMinutes": 4,
-      "learnerContent": "## Nintendo Once Stopped Selling to Amazon — Here's Why\n\nDid you know that Nintendo once refused to sell its products on Amazon? The story behind this decision is quite interesting, and it was recently shared by a former Nintendo executive.\n\n### What Happened?\n\nReggie Fils-Aimé, the former President of Nintendo of America, gave a lecture at New York University (NYU) in 2025. During the talk, he explained why Nintendo made the unusual decision to stop selling its products to Amazon during the Nintendo DS era — roughly in the mid-2000s.\n\nAccording to Fils-Aimé, Amazon asked Nintendo for \"preferential treatment\" on pricing. This means Amazon wanted Nintendo to offer it much lower prices than those offered to other retailers like Walmart or GameStop. Amazon was aggressively growing its business at the time, moving well beyond its origins as an online bookstore. It wanted to undercut every other retailer on price — including major stores like Walmart.\n\n### Why Was This a Problem?\n\nNintendo refused for two main reasons. First, giving Amazon special low prices would have seriously damaged Nintendo's relationships with its other retail partners. Those partners would have felt they were being treated unfairly.\n\nSecond, and more seriously, what Amazon was asking for could have actually broken the law. In the United States, offering one retailer prices that are not available to competing retailers can violate fair trade laws under certain conditions. Nintendo was not willing to take that legal risk.\n\nBecause of this, Nintendo made the bold decision to stop selling its products through Amazon entirely. For many years during the 2000s and into the 2010s, it was very difficult to find Nintendo consoles available for sale on Amazon's website.\n\n### How Did Things Change?\n\nEventually, the two companies resolved their differences and rebuilt their business relationship. Today, Amazon is one of the main places where customers can buy Nintendo products. In fact, you can now purchase the brand-new Nintendo Switch 2 directly through Amazon without any problems.\n\n### Why Does This Story Matter?\n\nThis story gives us a rare look at how major corporations negotiate — and sometimes clash — behind closed doors. It shows that even a large company like Amazon does not always get what it wants. It also shows that Nintendo has a long history of protecting its relationships with retail partners, even if that meant losing sales on one of the world's biggest shopping platforms.\n\nFils-Aimé's lecture at NYU reminds us that business decisions are not always just about profit. Sometimes they are about fairness, legal responsibility, and long-term trust.",
-      "keyVocab": [
-        {
-          "word": "preferential treatment",
-          "meaning": "우대 대우 (다른 사람보다 더 좋은 조건을 받는 것)",
-          "example": "The company was accused of giving preferential treatment to one supplier over others."
-        },
-        {
-          "word": "undercut",
-          "meaning": "가격을 더 낮게 책정하여 경쟁자를 이기다",
-          "example": "The new store undercut all its competitors by offering prices 20% lower."
-        },
-        {
-          "word": "executive",
-          "meaning": "임원, 고위 경영자",
-          "example": "The executive gave a speech about the company's future plans."
-        },
-        {
-          "word": "retail partner",
-          "meaning": "소매 파트너 (제품을 판매하는 협력 매장)",
-          "example": "The brand worked closely with its retail partners to make sure products were available in all major stores."
-        },
-        {
-          "word": "resolve",
-          "meaning": "해결하다",
-          "example": "The two companies were able to resolve their disagreement after several months of negotiation."
-        }
-      ],
-      "publishedAt": "2026-05-03T15:24:27.000Z"
-    },
-    "85bb9847dc50": {
-      "id": "85bb9847dc50",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/gadgets/922616/shokz-openrun-pro-2-bone-conduction-headphones-mothers-day-deal-sale",
-      "title": "Shokz’s bassy OpenRun Pro 2 are $40 off thanks to a new Mother’s Day promo",
-      "theme": "tech",
-      "themeLabel": "기술",
-      "summary": "Shokz의 OpenRun Pro 2 골전도 헤드폰이 어머니날 프로모션으로 40달러 할인된 139.95달러에 판매되고 있습니다. 이 헤드폰은 귀를 막지 않는 오픈형 디자인으로 주변 소리를 들으면서 음악을 감상할 수 있으며, 최대 12시간의 배터리 수명을 제공합니다.",
-      "difficulty": "B1",
-      "estimatedMinutes": 4,
-      "learnerContent": "## Shokz OpenRun Pro 2 Headphones Are on Sale for Mother's Day\n\nIf you are looking for a special gift for your mother — or simply want a new pair of headphones for yourself — now is a great time to buy. Shokz is running a Mother's Day sale, and their popular OpenRun Pro 2 headphones are currently $40 off.\n\n### The Deal\n\nFrom now until May 10th, the Shokz OpenRun Pro 2 are available for **$139.95** (usually $179.95) at Amazon, Best Buy, and the official Shokz website. If you buy directly from Shokz, you will also receive a free waist bag worth $29.99. This is the lowest price these headphones have been all year.\n\n### What Makes These Headphones Special?\n\nThe OpenRun Pro 2 are **bone conduction headphones**. Instead of sitting inside your ear or over it, they rest against your cheekbones and send sound vibrations directly to your inner ear. This means your ears remain completely open while you listen.\n\nThis open design is especially useful for outdoor activities like running or cycling. You can enjoy your music or podcasts while still hearing cars, other people, and your surroundings. Traditional headphones block out the world, which can be dangerous outside.\n\n### How Do They Sound?\n\nBone conduction headphones have sometimes had a reputation for weak bass and poor sound quality. However, the OpenRun Pro 2 include a special air conduction speaker that significantly improves bass and overall clarity. Reviewer Victoria Song from The Verge described using them as feeling \"like the stars finally aligning.\"\n\nOf course, they still cannot match the sound quality of high-end in-ear headphones. But for open-ear headphones, they perform very well.\n\n### Comfort and Battery Life\n\nThe OpenRun Pro 2 are lightweight and use flexible ear hooks with a neckband that wraps around the back of your head. The design is comfortable even for people who wear glasses. They also vibrate much less than older Shokz models, which many users find more pleasant.\n\nBattery life is impressive at up to **12 hours** on a single charge. In testing, this was enough to last almost a full week without recharging. When you do need to charge them, the USB-C connection charges very quickly.\n\nThe headphones also have **AI-powered noise cancellation** for phone calls and an IP55 waterproof rating, making them suitable for sweaty workouts and outdoor use in light rain.\n\n### Other Options on Sale\n\nShokz is also discounting other models during the sale:\n- **OpenFit 2 Plus** – $149.95 (down from $199). These wireless earbuds support Dolby Audio and wireless charging.\n- **OpenRun (standard)** – from $89.94 (down from $149.95). A lighter, simpler model with up to 8 hours of battery and an IP67 water resistance rating, though without USB-C charging.\n\nIf you want open-ear headphones that balance comfort, safety, and sound quality, the OpenRun Pro 2 at this discounted price is worth considering.",
-      "keyVocab": [
-        {
-          "word": "bone conduction",
-          "meaning": "골전도 (뼈를 통해 소리를 전달하는 방식)",
-          "example": "Bone conduction headphones are popular with runners because they allow you to hear traffic while listening to music."
-        },
-        {
-          "word": "waterproof rating",
-          "meaning": "방수 등급",
-          "example": "The smartwatch has a high waterproof rating, so you can wear it while swimming."
-        },
-        {
-          "word": "neckband",
-          "meaning": "목 밴드 (목 뒤에 걸치는 헤드폰 연결 부분)",
-          "example": "The neckband design keeps the headphones securely in place during exercise."
-        },
-        {
-          "word": "noise cancellation",
-          "meaning": "노이즈 캔슬링 (주변 소음을 줄여주는 기술)",
-          "example": "The headphones use noise cancellation technology to block background sounds during calls."
-        },
-        {
-          "word": "discount",
-          "meaning": "할인",
-          "example": "The store offered a 20% discount on all electronics during the holiday sale."
-        }
-      ],
-      "publishedAt": "2026-05-03T15:00:00.000Z"
-    },
-    "4e84eb71f211": {
-      "id": "4e84eb71f211",
-      "source": "Variety",
-      "sourceUrl": "https://variety.com/2026/music/news/noah-kahan-scores-first-no-1-albums-chart-the-great-divide-1236736424/",
-      "title": "Noah Kahan Scores First No. 1 on Albums Chart With ‘The Great Divide’",
-      "theme": "music",
-      "themeLabel": "음악",
-      "summary": "노아 카한이 네 번째 앨범 'The Great Divide'로 빌보드 200 차트에서 처음으로 1위를 차지했습니다. 이 앨범은 389,000 유닛을 기록하며 2014년 이후 록 앨범 중 가장 큰 첫 주 성적을 달성했습니다.",
-      "difficulty": "B1",
-      "estimatedMinutes": 3,
-      "learnerContent": "## Noah Kahan Reaches No. 1 on the Billboard 200\n\nAmerican singer-songwriter Noah Kahan has achieved his first No. 1 album on the Billboard 200 chart. His fourth studio album, **\"The Great Divide,\"** debuted at the top spot with an impressive 389,000 equivalent album units in its first week.\n\n### What Are \"Equivalent Album Units\"?\n\nThe Billboard 200 chart measures album popularity using a system called \"equivalent album units.\" This system counts not just physical album sales, but also digital downloads and music streams. For example, a certain number of streams from a streaming platform like Spotify or Apple Music counts as one album unit. Billboard began using this measurement system at the end of 2014.\n\n### A Historic Week for Rock Music\n\nKahan's first-week numbers are not just a personal milestone — they are historic for rock music. \"The Great Divide\" recorded the biggest opening week for a rock album since Billboard switched to the unit-based measurement system in late 2014. This means no other rock album in over a decade has sold and streamed as strongly as Kahan's new record in its first week.\n\nThe album also ranks as one of the third-biggest opening weeks for any album across all genres in recent years, showing just how wide Kahan's audience has grown.\n\n### Who Is Noah Kahan?\n\nNoah Kahan is a singer-songwriter from Vermont, a small state in the northeastern United States. He is known for his folk-rock style, emotionally honest lyrics, and warm acoustic sound. He first gained wider attention with his 2022 album **\"Stick Season,\"** which became a slow-building hit thanks largely to social media platforms like TikTok. Songs like \"Stick Season\" and \"Dial Drunk\" connected deeply with younger listeners, helping him build a large and loyal fanbase.\n\n\"The Great Divide\" is his fourth full-length album and represents a major step forward in his career. Reaching No. 1 on the Billboard 200 is considered one of the highest achievements in the American music industry.\n\n### A Growing Star\n\nKahan's success with \"The Great Divide\" shows that rock and folk-rock music still has a strong audience, even in an era dominated by pop and hip-hop. His rise also highlights how streaming platforms and social media have changed the way artists can build their careers — sometimes without heavy support from traditional radio.\n\nFans and music critics have praised the album for its honest storytelling and powerful melodies. With this No. 1 debut, Noah Kahan has firmly established himself as one of the most important rock artists working today.",
-      "keyVocab": [
-        {
-          "word": "debut",
-          "meaning": "데뷔, 첫 등장",
-          "example": "The young singer's debut on the music chart surprised many industry experts."
-        },
-        {
-          "word": "equivalent album units",
-          "meaning": "앨범 판매량 환산 단위 (스트리밍, 다운로드, 실물 판매를 합산한 수치)",
-          "example": "The album sold 300,000 equivalent album units in its first week, including streams and downloads."
-        },
-        {
-          "word": "milestone",
-          "meaning": "중요한 성과, 이정표",
-          "example": "Winning the award was an important milestone in her acting career."
-        },
-        {
-          "word": "fanbase",
-          "meaning": "팬층, 팬들의 집합",
-          "example": "The band built a large fanbase by touring small venues across the country."
-        },
-        {
-          "word": "dominated",
-          "meaning": "지배된, 주도된",
-          "example": "The music charts were dominated by pop songs throughout the summer."
-        }
-      ],
-      "publishedAt": "2026-05-03T20:05:50.000Z"
-    },
-    "5a899a193ee4": {
-      "id": "5a899a193ee4",
-      "source": "Variety",
-      "sourceUrl": "https://variety.com/2026/tv/news/the-pitt-isa-briones-calls-out-fans-screaming-broadway-1236736405/",
-      "title": "‘The Pitt’ Star Isa Briones Calls Out Fans For Screaming at Her During Broadway Show: ‘F—ing Disrespectful’",
-      "theme": "entertainment",
-      "themeLabel": "엔터",
-      "summary": "TV 드라마 '더 핏'의 배우 이사 브리오네스가 브로드웨이 공연 도중 소리를 지르는 팬들을 향해 SNS에서 강하게 비판했습니다. 그녀는 이런 행동이 매우 무례하다고 말하며 공연장에서의 예의를 지켜줄 것을 요청했습니다.",
-      "difficulty": "B1",
-      "estimatedMinutes": 4,
-      "learnerContent": "## 'The Pitt' Star Isa Briones Speaks Out Against Disruptive Fans at Broadway Show\n\nActress Isa Briones, known for her role in the TV drama **\"The Pitt,\"** has publicly called out fans who disrupted her Broadway performance by screaming at her during the show. She shared her frustration on social media, describing the behavior as disrespectful to everyone in the theater.\n\n### What Happened?\n\nOn Saturday, Briones posted a message on social media addressing fans who had been shouting at her while she was performing on stage. In her post, she began with \"Hey, hey, hey!\" before expressing her strong feelings about the situation.\n\nShe made it clear that screaming at a performer during a live stage show is not acceptable. She called the behavior \"f---ing disrespectful\" — language that shows just how frustrated and upset she was by the experience.\n\n### Isa Briones: TV Star on the Broadway Stage\n\nBriones is currently starring in the Broadway jukebox musical **\"Just In Time,\"** where she plays the role of **Connie Francis**, a famous American pop singer from the 1950s and 1960s. A jukebox musical is a type of stage show that is built around well-known songs by a real artist or from a particular era.\n\nOutside of Broadway, Briones is widely recognized for playing **Dr. Trinity Santos**, a second-year medical resident, in the TV series \"The Pitt.\" The show has earned strong reviews and helped Briones gain a much larger public profile.\n\n### Why Is This a Problem?\n\nWhen fans recognize a celebrity in a live performance and react by calling out or screaming, it can seriously disrupt the show. Unlike a concert, where audience noise is usually welcome, a Broadway musical requires focus and quiet from the audience so that performers can deliver their lines and songs clearly.\n\nDisruptive behavior can also ruin the experience for other audience members who have paid for their tickets and want to enjoy the show without interruptions.\n\n### A Wider Conversation About Fan Behavior\n\nBriones' post is part of a growing conversation about how fans should behave around celebrities, both in public and at live events. In recent years, many performers and public figures have spoken out about overly aggressive or inconsiderate fan behavior.\n\nWhile enthusiasm for a favorite actor or singer is natural, many in the entertainment industry argue that there is an important line between showing appreciation and causing disruption.\n\nBriones' message was direct and honest. She did not want to shame her fans, but she did want them to understand that respectful behavior allows everyone — performers and audience members alike — to have a better experience.",
-      "keyVocab": [
-        {
-          "word": "call out",
-          "meaning": "공개적으로 비판하다, 지적하다",
-          "example": "The director called out the actor for arriving late to rehearsals repeatedly."
-        },
-        {
-          "word": "disruptive",
-          "meaning": "방해가 되는, 지장을 주는",
-          "example": "The teacher asked the disruptive student to leave the classroom."
-        },
-        {
-          "word": "jukebox musical",
-          "meaning": "기존의 유명한 노래들로 구성된 뮤지컬",
-          "example": "The jukebox musical used classic songs from the 1970s to tell a modern love story."
-        },
-        {
-          "word": "profile",
-          "meaning": "인지도, 명성",
-          "example": "Winning the award raised her profile significantly in the film industry."
-        },
-        {
-          "word": "appreciation",
-          "meaning": "감사, 고마움, 인정",
-          "example": "The audience showed their appreciation by giving the performers a standing ovation."
-        }
-      ],
-      "publishedAt": "2026-05-03T19:13:17.000Z"
-    },
-    "4e55348aa25e": {
-      "id": "4e55348aa25e",
-      "source": "Pitchfork News",
-      "sourceUrl": "https://pitchfork.com/news/shakira-brings-her-biggest-hits-to-free-rio-de-janeiro-show/",
-      "title": "Shakira Brings Her Biggest Hits To Free Rio de Janeiro Show",
-      "theme": "music",
-      "themeLabel": "음악",
-      "summary": "샤키라가 브라질 리우데자네이루의 코파카바나 해변에서 무료 콘서트를 열었습니다. 약 200만 명의 관중이 공연을 관람했으며, 이는 샤키라 역사상 가장 큰 규모의 공연 중 하나입니다.",
-      "difficulty": "A2",
-      "estimatedMinutes": 3,
-      "learnerContent": "## Shakira Performs Free Concert for Two Million Fans in Rio de Janeiro\n\nColombian pop star Shakira performed a free outdoor concert at Copacabana Beach in Rio de Janeiro, Brazil. It was one of the biggest concerts of her career.\n\n**A Huge Crowd**\n\nAn estimated two million people came to watch the show. That is an enormous number of fans. Copacabana Beach is one of the most famous beaches in the world. It is very long and wide, so it can hold very large crowds.\n\nFree concerts on Copacabana Beach have a long history of attracting millions of people. In the past, artists like Madonna and the Rolling Stones have also performed there for huge crowds.\n\n**Shakira's Greatest Hits**\n\nAt the show, Shakira performed many of her most popular songs. She has been making music since the 1990s. Some of her most famous songs include \"Hips Don't Lie,\" \"Whenever, Wherever,\" and \"Waka Waka.\" These songs are known all over the world.\n\nShakira is one of the best-selling music artists of all time. She sings in both Spanish and English. Fans from many different countries love her music.\n\n**Why Rio de Janeiro?**\n\nRio de Janeiro is a very popular city for big music events. The city is known for its energy and its love of music and dance. Copacabana Beach has been the location of several historic free concerts over the years.\n\nA free concert means that anyone can come and watch without paying for a ticket. This makes it possible for millions of people to enjoy the show together.\n\n**A Special Night**\n\nFor the fans who attended, it was a very special night. Seeing a world-famous artist perform live on a beautiful beach, for free, is a rare and exciting experience. With two million people singing and dancing together, it must have been an unforgettable event.",
-      "keyVocab": [
-        {
-          "word": "estimated",
-          "meaning": "추정된",
-          "example": "An estimated two million people came to watch the free concert."
-        },
-        {
-          "word": "enormous",
-          "meaning": "엄청나게 큰",
-          "example": "The crowd at the beach was enormous — you could not see the end of it."
-        },
-        {
-          "word": "attract",
-          "meaning": "끌어모으다",
-          "example": "Free concerts often attract very large crowds."
-        },
-        {
-          "word": "historic",
-          "meaning": "역사적인",
-          "example": "Copacabana Beach has been the location of several historic concerts."
-        },
-        {
-          "word": "unforgettable",
-          "meaning": "잊을 수 없는",
-          "example": "Seeing your favorite singer live is an unforgettable experience."
-        }
-      ],
-      "publishedAt": "2026-05-03T16:41:35.000Z"
-    },
-    "09d2056ef90c": {
-      "id": "09d2056ef90c",
-      "source": "Pitchfork News",
-      "sourceUrl": "https://pitchfork.com/news/watch-olivia-rodrigo-debut-music-with-weyes-blood-on-snl/",
-      "title": "Watch Olivia Rodrigo Perform New Song with Weyes Blood on SNL",
-      "theme": "music",
-      "themeLabel": "음악",
-      "summary": "올리비아 로드리고가 SNL(새터데이 나이트 라이브)에서 진행자와 공연자를 동시에 맡았습니다. 그녀는 웨이스 블러드와 함께 신곡을 선보였으며, 데비 해리와 아지즈 안사리도 게스트로 출연했습니다.",
-      "difficulty": "B1",
-      "estimatedMinutes": 4,
-      "learnerContent": "## Olivia Rodrigo Hosts and Performs on Saturday Night Live\n\nPop star Olivia Rodrigo had a very busy night on the popular American comedy show *Saturday Night Live* (SNL). She took on two big roles at the same time — she was both the host of the show and the musical guest.\n\n**What Is SNL?**\n\n*Saturday Night Live* is a long-running live comedy and sketch show on American television. It has been on the air since 1975. Each week, a celebrity hosts the show and a musical artist performs. It is quite rare for one person to do both jobs in the same episode. When someone hosts and performs, it is called \"playing double duty.\"\n\n**A New Song with Weyes Blood**\n\nOne of the highlights of the night was Olivia Rodrigo performing a brand-new song together with the artist Weyes Blood. Weyes Blood, whose real name is Natalie Mering, is known for her rich, cinematic sound and poetic lyrics. Performing a new song live on national television is a bold move, as there is no second chance if something goes wrong. Fans were excited to hear fresh material from Rodrigo.\n\n**Special Guests on the Show**\n\nThe episode also featured some well-known guests. Debbie Harry, the legendary lead singer of the rock band Blondie, made an appearance. Harry is considered a pioneer of punk and new wave music from the late 1970s and 1980s. Her presence on the show was a special moment for music fans of all ages.\n\nComedian and actor Aziz Ansari also appeared as a guest during the episode. Ansari is well known for his stand-up comedy and for creating and starring in the Netflix series *Master of None*.\n\n**Olivia Rodrigo's Rising Star**\n\nOlivia Rodrigo first became famous in 2021 with her debut single \"drivers license,\" which broke many streaming records. Her albums *SOUR* and *GUTS* were both critically praised and commercially successful. She is widely seen as one of the most talented young artists in pop music today.\n\nHosting SNL while also performing is a sign of how far she has come as an entertainer. It takes confidence, skill, and hard work to handle both responsibilities in front of a live audience.",
-      "keyVocab": [
-        {
-          "word": "double duty",
-          "meaning": "두 가지 역할을 동시에 수행함",
-          "example": "She played double duty that night, acting as both the host and the performer."
-        },
-        {
-          "word": "highlight",
-          "meaning": "가장 인상적인 부분, 하이라이트",
-          "example": "One of the highlights of the concert was when she sang her new song."
-        },
-        {
-          "word": "cinematic",
-          "meaning": "영화 같은",
-          "example": "The artist is known for her cinematic sound and dramatic lyrics."
-        },
-        {
-          "word": "pioneer",
-          "meaning": "선구자",
-          "example": "She is considered a pioneer of new wave music in the 1980s."
-        },
-        {
-          "word": "critically praised",
-          "meaning": "비평가들에게 호평을 받은",
-          "example": "Her second album was both critically praised and very popular with fans."
-        }
-      ],
-      "publishedAt": "2026-05-03T15:38:11.000Z"
-    },
     "aa84a645a121": {
       "id": "aa84a645a121",
       "source": "The Guardian World",
@@ -2441,6 +2041,406 @@
         }
       ],
       "publishedAt": "2026-05-31T18:08:54.000Z"
+    },
+    "308f1b02296e": {
+      "id": "308f1b02296e",
+      "source": "Hankyoreh English",
+      "sourceUrl": "https://www.hani.co.kr/arti/english_edition/e_national/1262154.html",
+      "title": "[News analysis] Korean voters rebuked the PPP, but withheld mandate for Democrats",
+      "theme": "politics",
+      "themeLabel": "시사",
+      "summary": "한국 유권자들은 최근 선거에서 집권 여당인 국민의힘(PPP)을 강하게 심판했지만, 민주당에게 완전한 신임을 주지는 않았습니다. 이는 유권자들이 특정 정당보다 변화 자체를 원한다는 신호로 해석됩니다. 양당 모두 국민의 기대에 부응하기 위한 과제를 안게 되었습니다.",
+      "difficulty": "B1",
+      "estimatedMinutes": 4,
+      "learnerContent": "## Korean Voters Send a Mixed Message\n\nIn South Korea's recent election, voters made their feelings very clear about the ruling People Power Party (PPP). They rejected the PPP strongly, giving the party a significant defeat at the ballot box. However, the results told a more complicated story for the main opposition, the Democratic Party of Korea.\n\n### A Punishment, Not a Reward\n\nPolitical analysts described the election outcome as a \"rebuke\" — a strong public criticism — of the PPP rather than a full show of support for the Democrats. In other words, many voters chose the Democratic Party not because they fully trusted it, but because they wanted to send a warning to the government in power.\n\nThis kind of voting behavior is sometimes called \"protest voting.\" People vote against a party they dislike instead of voting for a party they truly believe in. It is a common pattern in democratic countries when voters feel frustrated but are not yet convinced by any alternative.\n\n### What Went Wrong for the PPP?\n\nThe PPP has faced serious difficulties over the past year. Public trust in the government dropped significantly following political controversies and economic concerns. Many citizens felt that the ruling party was not listening to their needs or addressing important everyday issues such as the cost of living and housing prices.\n\nAs a result, voters across different age groups and regions turned away from the PPP in large numbers. The scale of the rejection surprised even some opposition leaders.\n\n### The Democrats' Incomplete Victory\n\nDespite gaining seats and performing well overall, the Democratic Party did not receive what analysts call a \"mandate\" — a clear and strong public instruction to govern in a particular way. A mandate usually means voters not only rejected the other side but also actively chose and trusted the winning party.\n\nInstead, exit polls and post-election surveys suggested that many Democratic voters still had doubts about the party's leadership and policy direction. Some voters said they wished there were stronger or more trustworthy choices available.\n\n### What Happens Next?\n\nFor the PPP, the priority now is rebuilding trust with the public. Party leaders will likely need to change their approach, replace some key figures, and show that they have heard the voters' message.\n\nFor the Democratic Party, the challenge is different but equally important. Winning without a full mandate means the party must work harder to prove it deserves the public's confidence. Simply being \"not the PPP\" will not be enough to maintain voter support in future elections.\n\n### A Divided Electorate\n\nThis election reflects a broader trend seen in many democracies around the world: voters are increasingly unhappy with established parties but have not found new leaders or movements they fully trust. South Korean politics remains deeply divided, and neither major party has yet found a way to unite the country behind a shared vision.\n\nThe coming months will be critical. How each party responds to this mixed verdict will shape South Korean politics for years to come.",
+      "keyVocab": [
+        {
+          "word": "rebuke",
+          "meaning": "강한 비판 또는 질책",
+          "example": "The election results were seen as a rebuke of the government's economic policies."
+        },
+        {
+          "word": "mandate",
+          "meaning": "권한 부여, 국민의 신임",
+          "example": "The party won the election but lacked a clear mandate to change the constitution."
+        },
+        {
+          "word": "opposition",
+          "meaning": "야당, 반대 세력",
+          "example": "The opposition party criticized the government's new healthcare plan."
+        },
+        {
+          "word": "protest voting",
+          "meaning": "항의 투표 (지지보다 반대를 위한 투표)",
+          "example": "Many citizens engaged in protest voting to show their anger at rising prices."
+        },
+        {
+          "word": "electorate",
+          "meaning": "유권자 전체, 선거권자",
+          "example": "The electorate sent a clear message that it wanted change."
+        }
+      ],
+      "publishedAt": "2026-06-07T22:00:57.647Z"
+    },
+    "d37b8f6be01f": {
+      "id": "d37b8f6be01f",
+      "source": "Hankyoreh English",
+      "sourceUrl": "https://www.hani.co.kr/arti/english_edition/e_editorial/1261966.html",
+      "title": "[Column] Naming the enemy: The unsettling return of ideological litmus tests in Korea",
+      "theme": "politics",
+      "themeLabel": "시사",
+      "summary": "한국에서 이념적 기준으로 개인을 판단하는 '이념 리트머스 테스트' 문화가 다시 고개를 들고 있다는 우려가 제기되고 있습니다. 특정 정치적 입장을 가진 사람을 적으로 규정하는 언어와 행동이 사회적 갈등을 심화시키고 있습니다. 이러한 경향은 민주주의적 토론 문화를 약화시킬 수 있다는 지적이 나옵니다.",
+      "difficulty": "B2",
+      "estimatedMinutes": 5,
+      "learnerContent": "## The Return of Ideological Litmus Tests in South Korea\n\nA troubling pattern has re-emerged in South Korean public life: the practice of judging people not by their actions or arguments, but by whether they pass an ideological \"litmus test.\" This column argues that the return of such thinking — labeling fellow citizens as enemies based on their political beliefs — poses a serious threat to democratic culture.\n\n### What Is an Ideological Litmus Test?\n\nA litmus test, borrowed from chemistry, is a quick way of judging something. In politics, an ideological litmus test means deciding whether a person is acceptable — or even trustworthy — based on whether they hold the \"correct\" political views. Those who fail the test are not simply seen as people with different opinions; they are branded as enemies, traitors, or threats.\n\nThis kind of thinking reduces complex political debate to a simple question: \"Are you with us or against us?\"\n\n### A History Worth Remembering\n\nSouth Korea has painful historical experience with ideological labeling. During the Cold War era and periods of authoritarian rule, accusations of being a \"communist sympathizer\" or a \"pro-government collaborator\" were used to silence dissent, destroy reputations, and justify political persecution. Many innocent people suffered because of such labels.\n\nFor decades, South Korean civil society worked hard to move beyond this binary, accusatory style of politics. The democratic movements of the 1980s and the gradual consolidation of pluralism seemed to promise a more mature political culture — one where disagreement could coexist with mutual respect.\n\n### The Unsettling Return\n\nRecent political discourse suggests that this hard-won progress may be eroding. Across the political spectrum, there are growing signs that opponents are being framed not merely as rivals with different priorities, but as existential enemies who must be defeated and discredited.\n\nOnline spaces amplify this tendency dramatically. Social media algorithms reward outrage and tribal loyalty over nuance. Politicians who use inflammatory language attract more attention and donations than those who seek compromise. The incentives, in short, push toward confrontation.\n\nThe column's author finds this trend deeply unsettling — not only because it coarsens public debate, but because it creates a chilling effect on free expression. When people fear being labeled and ostracized for their views, they self-censor. Honest conversation becomes impossible.\n\n### Naming the Enemy\n\nThe title of this column — \"Naming the Enemy\" — refers to a specific political tactic: publicly identifying individuals or groups as enemies of the nation, democracy, or the people. This rhetoric, when it becomes normalized, can have dangerous consequences. It legitimizes hostility, erodes empathy, and in extreme cases, has historically preceded violence or repression.\n\nThe author is careful to note that identifying genuine threats to democracy is legitimate and necessary. But there is a critical difference between holding power accountable and demonizing ordinary citizens who simply hold different political views.\n\n### A Call for Reflection\n\nUltimately, this column is a plea for political maturity. South Korea's democracy is relatively young but has achieved remarkable things. Preserving it requires citizens and political leaders alike to resist the temptation to sort everyone into friend or foe.\n\nDemocracy depends on the ability to live alongside those we disagree with — and to argue our case without reaching for the language of enmity.",
+      "keyVocab": [
+        {
+          "word": "litmus test",
+          "meaning": "리트머스 테스트, 이념적 기준으로 판단하는 것",
+          "example": "Supporting that policy became an ideological litmus test for members of the party."
+        },
+        {
+          "word": "ostracized",
+          "meaning": "따돌림 당한, 사회적으로 배제된",
+          "example": "He was ostracized by his colleagues after speaking out against the party line."
+        },
+        {
+          "word": "pluralism",
+          "meaning": "다원주의, 다양한 의견의 공존",
+          "example": "A healthy democracy is built on pluralism and respect for different viewpoints."
+        },
+        {
+          "word": "chilling effect",
+          "meaning": "위축 효과 (자유로운 표현을 억제하는 영향)",
+          "example": "The new law had a chilling effect on journalists who feared prosecution."
+        },
+        {
+          "word": "demonizing",
+          "meaning": "악마화하다, 적으로 묘사하다",
+          "example": "Demonizing political opponents makes it impossible to find common ground."
+        }
+      ],
+      "publishedAt": "2026-06-07T22:00:57.647Z"
+    },
+    "66e73530450a": {
+      "id": "66e73530450a",
+      "source": "BBC Business",
+      "sourceUrl": "https://www.bbc.com/news/articles/cr7xr3dvxp9o?at_medium=RSS&at_campaign=rss",
+      "title": "M&S launches new traineeship for 1,000 young people ",
+      "theme": "business",
+      "themeLabel": "경제",
+      "summary": "영국의 대형 유통업체 M&S가 1,000명의 청년을 위한 훈련 프로그램을 시작했습니다. 이 프로그램은 일자리나 교육을 받지 못하는 청년들을 돕기 위해 만들어졌습니다.",
+      "difficulty": "A2",
+      "estimatedMinutes": 3,
+      "learnerContent": "## M&S Starts a New Training Program for Young People\n\nMarks & Spencer (M&S), a famous British shop, has announced a new traineeship program. The program will help 1,000 young people who do not have a job, are not in school, or are not doing any training.\n\n### What Is a Traineeship?\n\nA traineeship is a short program that helps young people learn skills and get work experience. It is different from a regular job. In a traineeship, young people learn while they work. This helps them prepare for a real job in the future.\n\nM&S believes that this kind of program is very important right now. Many young people in the UK are struggling to find work or get into education. This is sometimes called being \"NEET\" — Not in Employment, Education, or Training.\n\n### Why Is M&S Doing This?\n\nM&S says there is a \"growing challenge\" with young people who are NEET. This means the problem is getting bigger. More and more young people are finding it hard to start their careers.\n\nBy offering 1,000 traineeships, M&S wants to give these young people a chance. The company hopes that after the program, the young people will be more confident and ready to work.\n\nM&S is one of the biggest retailers in the United Kingdom. It sells food, clothes, and home products. The company has many stores across the country, so it has the ability to help young people in many different places.\n\n### Why Does This Matter?\n\nWhen young people cannot find jobs or get education, it can be very difficult for them. They may lose confidence, and it becomes harder to find work later. Programs like this one from M&S can make a big difference.\n\nGovernments and companies often work together to solve this problem. When big companies like M&S offer training programs, it helps young people get the experience they need. This is good for the young people, and it is also good for the companies because they can find new, trained workers.\n\nIf you are a young person in the UK who is not working or studying, a traineeship like this could be a great opportunity to start building your future.",
+      "keyVocab": [
+        {
+          "word": "traineeship",
+          "meaning": "견습 프로그램 (일하면서 배우는 단기 훈련 과정)",
+          "example": "She joined a traineeship at a local company to learn new skills."
+        },
+        {
+          "word": "employment",
+          "meaning": "고용, 취업",
+          "example": "Finding employment after university can be difficult for some people."
+        },
+        {
+          "word": "retailer",
+          "meaning": "소매업체 (소비자에게 직접 물건을 파는 회사)",
+          "example": "The retailer opened five new stores across the country last year."
+        },
+        {
+          "word": "confident",
+          "meaning": "자신감 있는",
+          "example": "After the training program, she felt more confident about applying for jobs."
+        },
+        {
+          "word": "opportunity",
+          "meaning": "기회",
+          "example": "The new program is a great opportunity for young people to gain experience."
+        }
+      ],
+      "publishedAt": "2026-06-07T21:54:08.000Z"
+    },
+    "447d90e8c845": {
+      "id": "447d90e8c845",
+      "source": "NYT Business",
+      "sourceUrl": "https://www.nytimes.com/2026/06/07/arts/television/scott-pelley-60-minutes-interview-takeaways.html",
+      "title": "5 Takeaways From Scott Pelley’s Interview With The New York Times",
+      "theme": "business",
+      "themeLabel": "경제",
+      "summary": "CBS 뉴스에서 37년간 일한 베테랑 언론인 스콧 펠리가 해고된 후 처음으로 뉴욕타임스와 인터뷰를 가졌습니다. 그는 백악관 특파원과 '60 Minutes' 기자로 활동한 경력을 가지고 있습니다.",
+      "difficulty": "B2",
+      "estimatedMinutes": 4,
+      "learnerContent": "## Scott Pelley Speaks Out After Being Fired From CBS News\n\nScott Pelley, a veteran television journalist, has given his first major interview since being fired from CBS News. He spoke with The New York Times, sharing his thoughts and reflections after a long and distinguished career at one of America's most respected broadcasters.\n\n### A Long Career at CBS\n\nPelley worked at CBS News for 37 years — more than three and a half decades. During that time, he took on some of the most prestigious roles in American broadcast journalism.\n\nHe served as a **White House correspondent**, meaning he reported directly on the President of the United States and the activities of the US government. This is considered one of the most high-profile assignments a television journalist can receive.\n\nHe was also a correspondent for **\"60 Minutes\"**, the long-running CBS news magazine program. \"60 Minutes\" is famous for its in-depth investigative reports and interviews with world leaders, celebrities, and newsmakers. Working on the program is widely seen as a mark of journalistic achievement.\n\n### The Interview With The New York Times\n\nThe New York Times described the interview as Pelley's \"first extended interview\" since his dismissal from CBS. This suggests that he had largely stayed silent in public following the news of his firing — a notable choice given that he spent his career asking questions and reporting on others.\n\nThe interview covered five key takeaways — major points or insights — from the conversation. While the specific details of what Pelley said were not fully outlined in the initial report, interviews of this kind typically address topics such as the circumstances surrounding a departure, reflections on a career, and the state of the journalism industry.\n\n### Why This Story Matters\n\nThe firing of a senior journalist from a major news network is always significant. It raises questions about the pressures facing traditional television news in a rapidly changing media landscape. Audiences are increasingly turning to online platforms and social media for news, putting legacy broadcasters like CBS under financial and editorial pressure.\n\nFor many journalism professionals and media observers, Pelley's departure is a reminder of the challenges facing experienced reporters in an industry that is undergoing dramatic transformation. His willingness to speak publicly, even in a measured way, may offer insight into tensions within one of America's most iconic news organisations.\n\nPelley's career stands as a significant chapter in the history of American broadcast journalism, and his interview with The New York Times is likely to attract considerable attention from both media professionals and the general public.",
+      "keyVocab": [
+        {
+          "word": "correspondent",
+          "meaning": "특파원 (특정 지역이나 분야를 담당하는 기자)",
+          "example": "She worked as a foreign correspondent, reporting from conflict zones around the world."
+        },
+        {
+          "word": "dismissal",
+          "meaning": "해고",
+          "example": "His dismissal from the company came as a surprise to his colleagues."
+        },
+        {
+          "word": "investigative",
+          "meaning": "탐사적인, 심층 조사의",
+          "example": "The investigative report revealed corruption within the local government."
+        },
+        {
+          "word": "legacy",
+          "meaning": "기존의, 전통적인 (주로 오래된 미디어나 기관을 묘사할 때 사용)",
+          "example": "Legacy media companies are struggling to compete with online news platforms."
+        },
+        {
+          "word": "transformation",
+          "meaning": "변화, 변혁",
+          "example": "The digital transformation of the news industry has changed how people consume information."
+        }
+      ],
+      "publishedAt": "2026-06-07T21:50:42.000Z"
+    },
+    "968dcd4e3098": {
+      "id": "968dcd4e3098",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/culture/2026/06/rip-anthony-head-our-10-favorite-moments-of-buffys-giles/",
+      "title": "RIP Anthony Head: Our 10 favorite moments of Buffy's Giles",
+      "theme": "entertainment",
+      "themeLabel": "엔터",
+      "summary": "영국 배우 앤서니 헤드가 72세의 나이로 세상을 떠났습니다. 그는 드라마 《버피 더 뱀파이어 슬레이어》에서 루퍼트 자일스 역으로 가장 잘 알려져 있습니다. 팬들과 동료 배우들은 소셜 미디어에서 그의 죽음을 애도하며 그의 재능을 기렸습니다.",
+      "difficulty": "B1",
+      "estimatedMinutes": 4,
+      "learnerContent": "## Remembering Anthony Head: The Heart of Buffy the Vampire Slayer\n\nSad news came on Friday when the world learned that British actor Anthony Head had passed away at the age of 72. Head was best known for playing Rupert Giles in the popular supernatural TV drama *Buffy the Vampire Slayer*. Fans and former co-stars quickly took to social media to share their grief and to celebrate his extraordinary talent.\n\n### Who Was Anthony Head?\n\nAnthony Head had a long and successful acting career. While many fans remember him most as Giles, he also appeared in many other well-known TV shows and films. He played the powerful king Uther Pendragon in the British fantasy series *Merlin*. He appeared as the Prime Minister in the comedy show *Little Britain*. He also played a creepy headmaster in a memorable episode of *Doctor Who* called \"School Reunion.\" More recently, younger audiences may recognize him as the wealthy and arrogant Rupert Mannion in the hit comedy series *Ted Lasso*.\n\n### The Role He Was Born to Play\n\nDespite his many roles, Giles remained his most iconic and beloved character. Giles was a \"Watcher\" — a trained expert who guides and protects the vampire slayer, Buffy. In many ways, he was also a father figure to her and the rest of the group of young heroes known as the \"Scooby Gang.\"\n\nInterestingly, there were actually very few episodes of *Buffy* that focused mainly on Giles. However, this does not reflect how important he was to the show. His presence in every scene made the story feel richer and more complete. Head had a special ability to support his fellow actors quietly and skillfully, making every moment better simply by being there. As one way to think about it: if you removed Giles from the show, everything around him would feel smaller and less meaningful.\n\nThere was even talk at one point of creating a spin-off series called *Ripper*, which would have followed a younger version of Giles on his own adventures. Unfortunately, the show was never made.\n\n### A Unique Talent\n\nHead was also known for delivering some of the sharpest and most cleverly written lines in the show. Giles often used dry British humor and old-fashioned expressions that made him funny and lovable at the same time.\n\nBut his true genius was not just in the big, memorable moments. It was in the small, quiet details — the way he reacted to other characters, the warmth he brought to serious scenes, and the way he helped tell the story even when he was not the center of attention.\n\n### A Legacy That Will Last\n\nAnthony Head leaves behind a rich legacy in television history. *Buffy the Vampire Slayer* ran from 1997 to 2003 and is still considered one of the greatest TV dramas ever made. Giles was a key reason why the show worked so well, and Head's performance is a huge part of why the character is still remembered and loved today.\n\nFans around the world are sharing their favorite Giles moments online. It is clear that Anthony Head touched the lives of millions of people through his work, and he will be greatly missed.",
+      "keyVocab": [
+        {
+          "word": "iconic",
+          "meaning": "상징적인, 대표적인",
+          "example": "Giles is one of the most iconic characters in television history."
+        },
+        {
+          "word": "legacy",
+          "meaning": "유산, 업적",
+          "example": "The actor left behind a great legacy that fans will remember for many years."
+        },
+        {
+          "word": "spin-off",
+          "meaning": "파생 작품 (원작에서 갈라져 나온 새로운 시리즈)",
+          "example": "There were plans for a spin-off series, but it was never produced."
+        },
+        {
+          "word": "arrogant",
+          "meaning": "거만한, 오만한",
+          "example": "He played an arrogant character who thought he was better than everyone else."
+        },
+        {
+          "word": "grief",
+          "meaning": "슬픔, 비탄",
+          "example": "Fans expressed their grief on social media after hearing the sad news."
+        }
+      ],
+      "publishedAt": "2026-06-07T19:34:05.000Z"
+    },
+    "e6a911f27741": {
+      "id": "e6a911f27741",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/entertainment/945445/summer-game-fest-2026-biggest-stories",
+      "title": "The 7 biggest storylines from Summer Game Fest 2026",
+      "theme": "tech",
+      "themeLabel": "기술",
+      "summary": "2026년 서머 게임 페스트가 마무리되었으며, 소니와 마이크로소프트를 포함한 주요 게임사들이 다양한 발표를 했습니다. 두 회사 모두 독점 게임과 싱글플레이어 게임에 다시 집중하겠다는 의지를 보였습니다. 한편, 많은 게임사들이 곧 출시될 《그랜드 테프트 오토 6》와의 경쟁을 피하려는 모습을 보였습니다.",
+      "difficulty": "B1",
+      "estimatedMinutes": 4,
+      "learnerContent": "## Summer Game Fest 2026: The Biggest Stories You Need to Know\n\nSummer Game Fest 2026 has come to an end, and it turned out to be one of the busiest and most surprising gaming events in recent memory. The event lasted almost a full week and featured major announcements from some of the biggest names in the gaming industry.\n\n### What Is Summer Game Fest?\n\nSummer Game Fest is an annual online gaming event where video game companies share news, trailers, and announcements about upcoming games. It usually takes place in June and is watched by millions of gaming fans around the world. Think of it as a kind of \"gaming news week,\" where companies compete for attention and excitement from players.\n\n### A Difficult Time for the Games Industry\n\nThis year's event came at a tough time for the games industry. Many companies have been facing challenges, including rising costs and difficult business decisions. For example, some gaming hardware — like consoles — has become more expensive. Also, many so-called \"live-service\" games, which ask players to keep spending money over time, have been struggling to keep players interested.\n\nDespite these challenges, the big keynote presentations at Summer Game Fest were mostly focused on good news and exciting announcements. Companies appeared to be trying to show strength and confidence, rather than drawing attention to their problems.\n\n### Sony and Microsoft Refocus on What Works\n\nTwo of the biggest names in gaming — Sony (maker of PlayStation) and Microsoft (maker of Xbox) — both used their presentations to send a clear message: they are going back to basics.\n\nBoth companies announced that they are refocusing on **exclusive games** — titles that can only be played on their own consoles — and **single-player blockbusters**. These are big-budget games with strong stories that players can enjoy on their own, without needing to be connected online or play against others.\n\nThis is seen as a return to a more traditional style of gaming, and many fans were happy to hear it. In recent years, both Sony and Microsoft had been experimenting more with online multiplayer and live-service games, with mixed results.\n\n### Everyone Is Avoiding GTA VI\n\nOne of the most interesting trends at this year's Summer Game Fest was what companies were *not* doing. It seems that almost every major publisher is trying to avoid releasing their games at the same time as **Grand Theft Auto VI**, the long-awaited next entry in Rockstar Games' hugely popular series.\n\nGTA VI is expected to be one of the biggest game releases in history. Because of this, other companies do not want to compete with it directly. Releasing a game at the same time as GTA VI could mean far fewer people buy it, simply because everyone is focused on Rockstar's title.\n\n### What to Expect Next\n\nSummer Game Fest 2026 showed that the gaming industry is going through a period of change. Companies are rethinking their strategies, focusing on quality single-player experiences, and being very careful about timing their releases.\n\nFor players, this could mean some exciting games are on the way — as long as you are willing to wait a little longer for some of them.",
+      "keyVocab": [
+        {
+          "word": "exclusive",
+          "meaning": "독점적인, 특정 플랫폼에서만 이용 가능한",
+          "example": "The new game is an exclusive title, so you can only play it on PlayStation."
+        },
+        {
+          "word": "keynote",
+          "meaning": "기조 발표, 주요 프레젠테이션",
+          "example": "The company's keynote presentation revealed several new games coming next year."
+        },
+        {
+          "word": "blockbuster",
+          "meaning": "대형 히트작, 블록버스터",
+          "example": "The studio announced a single-player blockbuster with an exciting story and stunning graphics."
+        },
+        {
+          "word": "refocus",
+          "meaning": "방향을 재설정하다, 다시 집중하다",
+          "example": "After years of trying new ideas, the company decided to refocus on what made it successful."
+        },
+        {
+          "word": "strategy",
+          "meaning": "전략, 계획",
+          "example": "The publisher changed its strategy after realizing that live-service games were not popular enough."
+        }
+      ],
+      "publishedAt": "2026-06-07T18:45:33.000Z"
+    },
+    "b5c091b9e851": {
+      "id": "b5c091b9e851",
+      "source": "Variety",
+      "sourceUrl": "https://variety.com/2026/music/news/ariana-grande-concert-review-eternal-sunshine-tour-oakland-1236768845/",
+      "title": "Ariana Grande Makes Her Audience Wish ‘Sunshine’ Really Was Eternal in Bravura Oakland Tour Opener: Concert Review",
+      "theme": "entertainment",
+      "themeLabel": "엔터",
+      "summary": "아리아나 그란데가 미국 오클랜드 아레나에서 'Eternal Sunshine Tour'의 첫 공연을 성공적으로 마쳤습니다. 공연은 그녀의 다재다능한 재능을 보여주며 관객들에게 깊은 인상을 남겼습니다. 리뷰어는 공연이 매우 훌륭했다고 극찬했습니다.",
+      "difficulty": "B1",
+      "estimatedMinutes": 4,
+      "learnerContent": "## Ariana Grande Opens 'Eternal Sunshine Tour' in Oakland\n\nPop superstar Ariana Grande has officially kicked off her highly anticipated \"Eternal Sunshine Tour\" with an opening night show at the Oakland Arena in California. The Saturday night concert left audiences amazed and critics searching for the right words to describe just how impressive the performance was.\n\n### A Night to Remember\n\nThe \"Eternal Sunshine Tour\" takes its name from Grande's most recent studio album, *Eternal Sunshine*, which was released in 2024 and became one of the most celebrated pop albums of that year. The album explored themes of personal growth, healing, and moving forward after difficult times — and the tour brings those ideas to life on stage in a spectacular way.\n\nReviewers who attended the opening night described the show as a \"bravura\" performance — a word that means a display of great skill and confidence. Grande performed with incredible energy and precision, reminding everyone in the arena why she is considered one of the biggest pop stars in the world today.\n\n### More Than Just a Singer\n\nAriana Grande is often described as a \"multi-hyphenate\" talent, meaning she excels in more than one area of the entertainment industry. In addition to her successful music career, she has worked as an actress, most recently appearing in the blockbuster film *Wicked* (2024), where she played the role of Glinda the Good Witch alongside Cynthia Erivo.\n\nThis combination of acting and singing success has made Grande one of the most talked-about entertainers of recent years. Some reviewers at the Oakland show noted that after watching her perform live, they were reminded that her talent as a live performer — her powerful voice, her stage presence, and her emotional connection with the audience — is truly special.\n\n### The Tour Ahead\n\nThe Oakland Arena show was just the beginning. The \"Eternal Sunshine Tour\" is scheduled to continue across North America and potentially other parts of the world in the coming months. Fans who have been waiting to see Grande perform live have described ticket demand as extremely high, with many shows selling out quickly.\n\nThe setlist for the opening night featured songs from *Eternal Sunshine* as well as fan favorites from earlier in her career. Grande has built a loyal fanbase — often called \"Arianators\" — over more than a decade of music, starting with her debut album *Yours Truly* in 2013.\n\n### Why This Tour Matters\n\nFor many fans, this tour is a special moment. Grande took a step back from public life for a period of time while filming *Wicked*, and the \"Eternal Sunshine Tour\" marks her full return to the concert stage. The opening night in Oakland made it clear that she has not lost any of her remarkable ability to connect with a live audience.\n\nIf the rest of the tour matches the energy and quality of the opening night, fans across the country — and possibly the world — are in for an unforgettable experience.",
+      "keyVocab": [
+        {
+          "word": "bravura",
+          "meaning": "대담하고 뛰어난 기술을 보여주는",
+          "example": "The pianist gave a bravura performance that impressed everyone in the concert hall."
+        },
+        {
+          "word": "multi-hyphenate",
+          "meaning": "여러 분야에서 활동하는 다재다능한 사람",
+          "example": "She is a multi-hyphenate talent who works as a singer, actress, and producer."
+        },
+        {
+          "word": "anticipated",
+          "meaning": "기대되는, 고대하던",
+          "example": "The highly anticipated film finally opened in theaters after months of promotion."
+        },
+        {
+          "word": "precision",
+          "meaning": "정확함, 정밀함",
+          "example": "The dancer moved with great precision, never missing a single step."
+        },
+        {
+          "word": "loyal",
+          "meaning": "충성스러운, 변함없는",
+          "example": "The singer has a loyal fanbase that has supported her for over ten years."
+        }
+      ],
+      "publishedAt": "2026-06-07T18:51:39.000Z"
+    },
+    "97adfe63d869": {
+      "id": "97adfe63d869",
+      "source": "Variety",
+      "sourceUrl": "https://variety.com/2026/gaming/news/new-spyro-game-a-realm-beyond-release-spring-2027-1236768742/",
+      "title": "New ‘Spyro’ Game, Complete With Franchise’s First Dragon-Flight Feature, Set for Spring 2027",
+      "theme": "entertainment",
+      "themeLabel": "엔터",
+      "summary": "인기 게임 캐릭터 스파이로가 약 20년 만에 새로운 게임으로 돌아옵니다. 'Spyro: A Real Beyond'는 2027년 봄에 출시될 예정이며, 시리즈 최초로 드래곤 비행 기능이 포함됩니다. 오리지널 성우 톰 케니가 다시 스파이로의 목소리를 담당합니다.",
+      "difficulty": "A2",
+      "estimatedMinutes": 4,
+      "learnerContent": "## A New Spyro Game Is Coming in 2027!\n\nGreat news for video game fans! A brand new *Spyro* game is coming in spring 2027. This is very exciting because the last *Spyro* game came out almost 20 years ago. Many fans have been waiting a long time for this moment.\n\n### What Is Spyro?\n\nSpyro is a famous video game character. He is a small purple dragon with a big personality. The first *Spyro* game came out in 1998 on the PlayStation console. Players control Spyro as he runs, jumps, and breathes fire to defeat enemies and explore colorful worlds.\n\nThe games became very popular, especially with young players. In 2018, a remastered collection called *Spyro Reignited Trilogy* was released. It brought the three original games back with beautiful new graphics. Millions of people played it and fell in love with Spyro again.\n\n### About the New Game\n\nThe new game is called **\"Spyro: A Real Beyond.\"** The game developer is Toys for Bob. They are working together with Activision, which is part of Microsoft. Toys for Bob is a good choice for this game because they also made the *Spyro Reignited Trilogy* in 2018.\n\nThe game is described as \"a completely original adventure.\" This means it is not a remake of an old game. It is a totally new story with new worlds for Spyro to explore.\n\n### Something New: Dragon Flight!\n\nOne of the most exciting things about \"Spyro: A Real Beyond\" is a brand new feature. For the first time in the franchise's history, players will be able to fly freely as Spyro. In the older games, Spyro could only glide through the air for short distances. Now, he can truly fly like a real dragon!\n\nThis is a big change for the series. Fans are very happy about this new ability. Flying freely through the game's worlds will make the experience feel fresh and exciting.\n\n### The Original Voice Returns\n\nAnother piece of great news is about the voice of Spyro. The character's voice will be performed by **Tom Kenny**. Tom Kenny is the original voice actor for Spyro. He first played the role back in 1998. Many people also know Tom Kenny as the voice of SpongeBob SquarePants!\n\nHaving Tom Kenny return is very special for long-time fans. His voice is an important part of what makes Spyro feel like Spyro.\n\n### When Can We Play It?\n\nThe game will be released in **spring 2027**. That means players will need to wait a little longer. But based on everything we know so far, it sounds like it will be worth the wait. Keep an eye out for more news about \"Spyro: A Real Beyond\" in the coming months!",
+      "keyVocab": [
+        {
+          "word": "franchise",
+          "meaning": "시리즈, 프랜차이즈 (같은 캐릭터나 세계관을 공유하는 작품들)",
+          "example": "The Pokémon franchise includes games, cartoons, and movies."
+        },
+        {
+          "word": "remastered",
+          "meaning": "리마스터된 (오래된 작품을 새롭게 개선한)",
+          "example": "They released a remastered version of the old game with better graphics."
+        },
+        {
+          "word": "feature",
+          "meaning": "기능, 특징",
+          "example": "The new phone has a great camera feature that takes very clear photos."
+        },
+        {
+          "word": "original",
+          "meaning": "원래의, 최초의",
+          "example": "He is the original singer of that song, but many other artists have covered it."
+        },
+        {
+          "word": "developer",
+          "meaning": "개발사, 개발자",
+          "example": "The game developer worked for three years to create this new adventure game."
+        }
+      ],
+      "publishedAt": "2026-06-07T18:00:00.000Z"
+    },
+    "e376f2d7b3f4": {
+      "id": "e376f2d7b3f4",
+      "source": "Pitchfork News",
+      "sourceUrl": "https://pitchfork.com/news/duffy-announces-first-live-show-in-15-years/",
+      "title": "Duffy Announces First Live Show in 15 Years",
+      "theme": "music",
+      "themeLabel": "음악",
+      "summary": "영국 가수 더피가 15년 만에 처음으로 라이브 공연을 발표했습니다. 그녀는 납치와 폭행 피해 이후 오랫동안 공적인 활동을 중단했었습니다.",
+      "difficulty": "B1",
+      "estimatedMinutes": 3,
+      "learnerContent": "## Duffy Announces First Live Show in 15 Years\n\nBritish singer Duffy has announced her first live performance in 15 years. This is big news for music fans who remember her powerful voice and emotional songs from the late 2000s.\n\n### Who Is Duffy?\n\nDuffy is a Welsh singer and songwriter who became famous around 2008. Her hit song \"Mercy\" reached number one in many countries and won her a Grammy Award. Her debut album, *Rockferry*, was one of the best-selling albums of that year. She was known for her soulful voice, which reminded many listeners of classic artists from the 1960s.\n\nAt the height of her fame, Duffy suddenly disappeared from public life. Many fans were confused and worried about her long silence.\n\n### Why Did She Step Away?\n\nIn early 2020, Duffy revealed the painful reason for her absence. She shared that she had been abducted, drugged, and assaulted. These traumatic experiences made it impossible for her to continue performing or living a public life. She needed time to heal and recover in private.\n\nHer brave decision to share her story was praised by fans and mental health supporters around the world. She explained that she wanted people to understand why she had disappeared, and she hoped her honesty would help others who had experienced similar trauma.\n\n### A Return to the Stage\n\nNow, after 15 years away from live performance, Duffy is ready to return. The announcement of her upcoming show has created a lot of excitement online. Fans from around the world have expressed their support and happiness for her comeback.\n\nDetails about the location and date of the concert have not yet been fully shared, but the announcement alone has been enough to generate huge interest. Many people are hoping this will be the beginning of a longer return to music for the singer.\n\n### Why This Matters\n\nDuffy's story is about more than music. It is about recovery, strength, and finding the courage to face the world again after something terrible happens. Her return to the stage is seen as a symbol of healing.\n\nFor music fans, it is also a chance to experience a truly special voice live again. Duffy was considered one of the most talented singers of her generation. After such a long time away, her live show is expected to be an emotional and memorable event.\n\nWhether this concert is a one-time event or the start of something bigger, it is clear that Duffy's return is one of the most talked-about music stories of the year.",
+      "keyVocab": [
+        {
+          "word": "abducted",
+          "meaning": "납치된",
+          "example": "The singer revealed that she had been abducted, which was why she disappeared from public life."
+        },
+        {
+          "word": "traumatic",
+          "meaning": "정신적 충격을 주는, 트라우마적인",
+          "example": "The traumatic experience made it very difficult for her to return to performing."
+        },
+        {
+          "word": "absence",
+          "meaning": "부재, 자리를 비움",
+          "example": "After a long absence from music, she finally announced a new concert."
+        },
+        {
+          "word": "recovery",
+          "meaning": "회복",
+          "example": "Her recovery took many years, but she is now strong enough to perform again."
+        },
+        {
+          "word": "generate",
+          "meaning": "만들어내다, 일으키다",
+          "example": "The announcement generated a lot of excitement among her fans worldwide."
+        }
+      ],
+      "publishedAt": "2026-06-07T20:53:02.000Z"
+    },
+    "4d2226df3040": {
+      "id": "4d2226df3040",
+      "source": "Pitchfork News",
+      "sourceUrl": "https://pitchfork.com/news/ariana-grande-launches-first-tour-since-2019/",
+      "title": "Ariana Grande Launches First Tour Since 2019",
+      "theme": "music",
+      "themeLabel": "음악",
+      "summary": "아리아나 그란데가 2019년 이후 처음으로 투어를 시작했습니다. 오클랜드 아레나 공연에서는 새로운 노래들과 'Break Free', 'Into You' 같은 예전 히트곡들을 선보였습니다.",
+      "difficulty": "A2",
+      "estimatedMinutes": 4,
+      "learnerContent": "## Ariana Grande Launches First Tour Since 2019\n\nAriana Grande is back on tour! The popular American singer has started her first world tour since 2019. Fans are very excited to see her perform live again.\n\n### The First Show\n\nThe tour began with a show at the Oakland Arena in Oakland, California. It was a very special night for everyone there. The crowd was loud and full of energy from the very beginning.\n\nAt the show, Ariana performed many songs for the very first time on stage. These \"live debuts\" were a big surprise for fans. People did not know which songs she would choose, so every new song was exciting.\n\n### Old Favorites Return\n\nAriana also performed some of her most popular older songs. Two big favorites were \"Break Free\" and \"Into You.\" These songs are well-known by fans all over the world.\n\n\"Break Free\" came out in 2014. It is an upbeat pop song that many people love to dance to. \"Into You\" came out in 2016 and is also a very popular dance track. Hearing these songs live again made many fans very happy.\n\n### Who Is Ariana Grande?\n\nAriana Grande is one of the biggest pop stars in the world. She started her career as an actor on a children's TV show, but she became very famous as a singer. She is known for her very high singing voice and her long ponytail hairstyle.\n\nShe has released many popular albums over the years. Her music is a mix of pop, R&B, and dance. Millions of people around the world listen to her songs.\n\nHer last tour was in 2019. After that, she took a break from touring. During that time, she continued to make music. Her 2024 album *Eternal Sunshine* was very successful and won her new fans.\n\n### Fan Reactions\n\nFans who went to the Oakland show said it was amazing. Many people posted videos and photos on social media. The comments were very positive. People wrote things like \"best night of my life\" and \"she sounded perfect.\"\n\nTickets for her tour sold very quickly. Many shows were already sold out before the tour even started. This shows how much people love Ariana Grande and wanted to see her perform live.\n\n### What Comes Next?\n\nThe tour will continue with more shows in different cities. Fans in other parts of the United States and around the world are waiting for their turn to see her. It is expected to be one of the biggest music tours of the year.\n\nFor Ariana Grande, this tour is a big and exciting moment. She is sharing her music with fans in person again, and it is clear that people are very happy she is back.",
+      "keyVocab": [
+        {
+          "word": "tour",
+          "meaning": "투어, 순회공연",
+          "example": "The singer started her world tour with a big show in California."
+        },
+        {
+          "word": "debut",
+          "meaning": "데뷔, 처음으로 선보임",
+          "example": "She performed several live debuts, meaning she sang those songs on stage for the first time."
+        },
+        {
+          "word": "upbeat",
+          "meaning": "경쾌한, 활기찬",
+          "example": "\"Break Free\" is an upbeat song that makes people want to dance."
+        },
+        {
+          "word": "sold out",
+          "meaning": "매진된",
+          "example": "The concert tickets sold out very quickly because so many people wanted to go."
+        },
+        {
+          "word": "perform",
+          "meaning": "공연하다",
+          "example": "Ariana Grande will perform in many cities during her tour."
+        }
+      ],
+      "publishedAt": "2026-06-07T17:10:31.000Z"
     }
   }
 }

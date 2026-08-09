@@ -1,407 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-02T21:54:52.199Z",
+  "updatedAt": "2026-08-09T21:30:00.933Z",
   "articles": {
-    "5e93cebfa498": {
-      "id": "5e93cebfa498",
-      "source": "Hankyoreh English",
-      "sourceUrl": "https://www.hani.co.kr/arti/english_edition/e_national/1266652.html",
-      "title": "[NBS] Lee holds steady at 58% approval",
-      "theme": "politics",
-      "themeLabel": "시사",
-      "summary": "NBS 여론조사에 따르면 이재명 대통령의 지지율이 58%로 안정적으로 유지되고 있습니다. 이는 취임 초기부터 꾸준히 높은 수준을 기록하고 있는 것입니다. 전문가들은 이 지지율이 향후 정책 추진에 중요한 역할을 할 것으로 보고 있습니다.",
-      "difficulty": "B1",
-      "estimatedMinutes": 3,
-      "learnerContent": "## Lee's Approval Rating Stays at 58%, Poll Shows\n\nA new survey by the National Barometer Survey (NBS) shows that South Korean President Lee Jae-myung is holding steady at a **58% approval rating**. This means that more than half of South Korean citizens are satisfied with the way he is leading the country.\n\n### What Is an Approval Rating?\n\nAn approval rating is a number that shows how much the public supports a leader. Pollsters ask a group of people whether they approve or disapprove of the president's job performance. The results are shown as a percentage. A rating above 50% is generally considered strong for a sitting president.\n\n### Why Does This Matter?\n\nApproval ratings are important in politics because they show how much public trust a leader has. A high approval rating gives a president more confidence to push forward with new policies. It also sends a signal to other political parties and foreign governments about how popular the leader is at home.\n\nFor President Lee, maintaining a rating close to 60% suggests that many South Koreans feel positive about his leadership so far. Staying above 50% is especially meaningful in today's political environment, where public opinion can shift quickly.\n\n### Factors That May Influence the Rating\n\nSeveral issues could be affecting public opinion in South Korea right now. Citizens are closely watching how the government handles the economy, including rising living costs and job creation. Foreign policy decisions, especially those related to North Korea and relationships with the United States and China, also play a big role in shaping public sentiment.\n\nSocial issues such as housing prices, healthcare, and education are also top concerns for many Korean voters. When people feel the government is managing these areas well, approval ratings tend to remain high.\n\n### A Stable Start\n\nPolitical analysts note that keeping a consistent approval rating over time is often harder than achieving a high number right after an election. New presidents usually enjoy a \"honeymoon period\" when the public gives them extra support. Holding that support over the longer term requires delivering on promises and managing crises effectively.\n\nPresident Lee's steady 58% suggests he has been able to maintain public confidence beyond that early honeymoon phase. Observers will continue to watch future polls closely to see whether this number rises, falls, or stays the same as his administration moves forward with its policy agenda.\n\nThe NBS conducts regular surveys to track public opinion on political leaders and key national issues in South Korea.",
-      "keyVocab": [
-        {
-          "word": "approval rating",
-          "meaning": "지지율 (대통령이나 지도자에 대한 국민의 지지 비율)",
-          "example": "The president's approval rating rose after he announced new economic policies."
-        },
-        {
-          "word": "pollster",
-          "meaning": "여론조사 전문가",
-          "example": "Pollsters interviewed 1,000 people to find out their opinions on the new law."
-        },
-        {
-          "word": "public sentiment",
-          "meaning": "여론, 대중의 감정",
-          "example": "Public sentiment shifted quickly after the government raised taxes."
-        },
-        {
-          "word": "honeymoon period",
-          "meaning": "허니문 기간 (새 지도자가 취임 직후 누리는 높은 인기 기간)",
-          "example": "Many new leaders enjoy a honeymoon period when citizens are willing to give them a chance."
-        },
-        {
-          "word": "consistent",
-          "meaning": "일관된, 꾸준한",
-          "example": "She gave a consistent performance throughout the entire competition."
-        }
-      ],
-      "publishedAt": "2026-07-05T21:57:30.198Z"
-    },
-    "13adbfa207fa": {
-      "id": "13adbfa207fa",
-      "source": "Hankyoreh English",
-      "sourceUrl": "https://www.hani.co.kr/arti/english_edition/e_business/1266651.html",
-      "title": "KOSPI’s rollercoaster ride highlights dependence on chip stocks",
-      "theme": "business",
-      "themeLabel": "경제",
-      "summary": "한국 주식시장 코스피가 최근 급격한 변동성을 보이며 반도체 종목에 대한 과도한 의존도 문제가 다시 주목받고 있습니다. 삼성전자와 SK하이닉스 같은 반도체 대기업의 주가 움직임이 코스피 전체 지수에 큰 영향을 미치는 구조적 문제가 지속되고 있습니다. 전문가들은 시장의 다양화 필요성을 강조하고 있습니다.",
-      "difficulty": "B2",
-      "estimatedMinutes": 4,
-      "learnerContent": "## KOSPI's Wild Ride Exposes Heavy Reliance on Chip Stocks\n\nSouth Korea's benchmark stock index, the **KOSPI**, has been experiencing sharp swings recently, and analysts say the volatility highlights a long-standing structural weakness: the index is heavily dependent on a small number of semiconductor companies.\n\n### What Is the KOSPI?\n\nThe KOSPI, or Korea Composite Stock Price Index, tracks the performance of all companies listed on the Korea Exchange. It is the main indicator of the overall health of South Korea's stock market. When the KOSPI rises, it generally signals investor confidence in the Korean economy. When it falls sharply, it raises concerns about economic stability.\n\n### The Chip Stock Problem\n\nAt the heart of the KOSPI's recent turbulence are semiconductor giants such as **Samsung Electronics** and **SK Hynix**. These two companies alone account for a disproportionately large share of the index's total market capitalization. This means that when their stock prices move — up or down — the entire KOSPI tends to follow.\n\nIn recent sessions, dramatic price swings in chip stocks caused the KOSPI to behave like a rollercoaster, surging on days when semiconductor demand looked strong, then retreating sharply when global trade concerns or inventory worries resurfaced.\n\n### Why Is This a Concern?\n\nFinancial experts warn that **over-concentration** in a single sector is risky for any stock market. If the global semiconductor industry faces a downturn — due to reduced demand from tech companies, supply chain disruptions, or geopolitical tensions — the entire KOSPI can suffer, even if other sectors of the Korean economy are performing well.\n\nThis lack of diversification makes South Korea's market more vulnerable than those of countries where the index is spread more evenly across industries such as finance, consumer goods, healthcare, and manufacturing.\n\n### Global Factors Adding Pressure\n\nThe semiconductor sector is currently facing pressure from multiple directions. Trade tensions between the United States and China have created uncertainty around chip exports and technology restrictions. At the same time, fluctuating demand from major buyers — including smartphone makers and data center operators — means revenue forecasts for chipmakers can change rapidly.\n\nWhen investors sense uncertainty in these areas, they tend to sell chip stocks quickly, and the outsized weight of these stocks in the KOSPI drags the whole market down with them.\n\n### Calls for a More Balanced Market\n\nMany analysts argue that South Korea needs to develop other globally competitive industries to reduce its reliance on semiconductors. Sectors such as **biotechnology, secondary batteries (used in electric vehicles), and entertainment (the K-content industry)** have shown growth potential, but they have not yet reached a scale large enough to meaningfully offset the influence of chip stocks on the KOSPI.\n\nUntil the index becomes more diversified, investors and policymakers will likely continue to watch Samsung and SK Hynix's every move — knowing that what happens to a few chip stocks can move the entire market.",
-      "keyVocab": [
-        {
-          "word": "volatility",
-          "meaning": "변동성 (가격이나 지수가 급격히 오르내리는 성질)",
-          "example": "High volatility in the stock market made many investors nervous about their savings."
-        },
-        {
-          "word": "market capitalization",
-          "meaning": "시가총액 (기업의 총 주식 가치)",
-          "example": "Apple has one of the largest market capitalizations of any company in the world."
-        },
-        {
-          "word": "over-concentration",
-          "meaning": "과도한 집중 (특정 분야에 지나치게 의존하는 상태)",
-          "example": "Over-concentration in one industry can make an economy fragile during a sector downturn."
-        },
-        {
-          "word": "diversification",
-          "meaning": "다각화, 다양화 (투자나 산업을 여러 분야에 분산하는 것)",
-          "example": "Diversification of the investment portfolio helped protect against large losses."
-        },
-        {
-          "word": "disproportionately",
-          "meaning": "불균형적으로, 지나치게",
-          "example": "A few large banks hold a disproportionately large share of the country's total wealth."
-        }
-      ],
-      "publishedAt": "2026-07-05T21:57:30.198Z"
-    },
-    "59c418bdc22f": {
-      "id": "59c418bdc22f",
-      "source": "NYT Business",
-      "sourceUrl": "https://www.nytimes.com/2026/07/05/business/media/minions-box-office-franchise.html",
-      "title": "‘Minions’ Opens at No. 1 but Falls Far Short of Earlier Films in the Franchise",
-      "theme": "film",
-      "themeLabel": "영화",
-      "summary": "새 미니언즈 영화가 북미 박스오피스 1위를 차지했지만, 3640만 달러의 수익은 2024년 전작에 비해 62% 감소한 수치입니다. 이는 프랜차이즈 역대 성적에 크게 못 미치는 결과입니다.",
-      "difficulty": "B1",
-      "estimatedMinutes": 4,
-      "learnerContent": "## *Minions* Opens at No. 1 but Disappoints at the Box Office\n\nThe latest *Minions* movie opened at number one at the North American box office over the recent holiday weekend. However, the film's performance was much weaker than expected, falling far short of earlier movies in the franchise.\n\n### The Numbers\n\nThe new *Minions* film earned $36.4 million in ticket sales in North America during the holiday weekend. While reaching number one sounds like a success, this result is actually quite disappointing. It represents a **62 percent decline** compared to the last *Minions* movie, which was released in 2024.\n\nIn other words, the new film made nearly two-thirds less money than the previous one did in its opening weekend.\n\n### About the Minions Franchise\n\nThe *Minions* franchise is part of the larger *Despicable Me* universe, produced by Universal Pictures and Illumination Entertainment. The small yellow characters first appeared in *Despicable Me* (2010) and quickly became some of the most recognizable animated characters in the world.\n\nThe franchise has been very successful in the past. *Minions* (2015) earned over $1.1 billion worldwide, and *Minions: The Rise of Gru* (2022) made around $939 million globally. These earlier films set very high expectations for any new release.\n\n### Why the Decline?\n\nThere are several possible reasons why this latest film underperformed. First, audiences may be experiencing what is sometimes called **\"franchise fatigue\"** — a feeling of being tired of seeing the same characters again and again. When a film series releases too many movies, fans can lose interest over time.\n\nSecond, competition at the box office can also play a role. Holiday weekends often see multiple big films releasing at the same time, which can split the audience.\n\nThird, the rise of streaming services means that many families now choose to wait and watch movies at home rather than going to a cinema. This trend has made it harder for even popular franchises to attract large crowds.\n\n### What This Means for the Industry\n\nThe disappointing opening of the new *Minions* film is part of a broader trend in Hollywood. Many well-known franchises have struggled recently to repeat their earlier success. Studios are now under pressure to find new ideas and fresh stories rather than relying only on familiar characters.\n\nDespite the weak opening, the film may still earn more money in the coming weeks, especially in international markets where animated family films often perform strongly. Industry analysts will be watching closely to see if the movie can recover.\n\nFor now, though, the opening weekend numbers suggest that even beloved characters like the Minions are not immune to changing audience habits.",
-      "keyVocab": [
-        {
-          "word": "franchise",
-          "meaning": "프랜차이즈 (연속된 시리즈물)",
-          "example": "The *Minions* franchise has produced many popular animated films over the years."
-        },
-        {
-          "word": "decline",
-          "meaning": "감소, 하락",
-          "example": "There was a 62 percent decline in ticket sales compared to the previous film."
-        },
-        {
-          "word": "underperformed",
-          "meaning": "기대에 못 미쳤다",
-          "example": "The new movie underperformed at the box office despite opening at number one."
-        },
-        {
-          "word": "franchise fatigue",
-          "meaning": "프랜차이즈 피로감 (같은 시리즈에 질리는 현상)",
-          "example": "Some fans stopped watching the series because of franchise fatigue."
-        },
-        {
-          "word": "streaming services",
-          "meaning": "스트리밍 서비스",
-          "example": "Many people now use streaming services to watch movies at home instead of going to the cinema."
-        }
-      ],
-      "publishedAt": "2026-07-05T17:51:20.000Z"
-    },
-    "6c6effb51a6c": {
-      "id": "6c6effb51a6c",
-      "source": "BBC Business",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cgjxx7ngz51o?at_medium=RSS&at_campaign=rss",
-      "title": "EasyJet reaches 'agreement in principle' over potential takeover",
-      "theme": "business",
-      "themeLabel": "경제",
-      "summary": "저가 항공사 이지젯이 미국 투자 회사 캐슬레이크로부터의 인수 제안에 대해 '원칙적 합의'에 도달했다고 발표했습니다. 이지젯은 이전에 캐슬레이크의 네 차례 인수 제안을 거절한 바 있습니다.",
-      "difficulty": "B1",
-      "estimatedMinutes": 4,
-      "learnerContent": "## EasyJet Reaches Deal in Principle with US Investment Firm Castlelake\n\nBritish low-cost airline EasyJet has announced that it has reached an **\"agreement in principle\"** with US investment firm Castlelake over a potential takeover. This is a significant development, as EasyJet had previously rejected four separate takeover offers from the same company.\n\n### What Is an \"Agreement in Principle\"?\n\nAn \"agreement in principle\" means that both sides have agreed on the basic terms of a deal, but the final details have not yet been confirmed. It is not a completed deal — more negotiations and legal checks are still needed before anything is made official. However, it does signal that both parties are seriously interested in moving forward.\n\n### Who Is Castlelake?\n\nCastlelake is a US-based investment firm that specializes in alternative investments. Investment firms like Castlelake often look to buy companies or large assets that they believe can grow in value over time. A takeover — also called an **acquisition** — means that one company or organization gains control of another by purchasing it.\n\n### EasyJet's History with Castlelake\n\nThe road to this agreement has not been smooth. Before reaching this point, EasyJet's board of directors rejected **four previous takeover bids** from Castlelake. A \"bid\" is a formal offer to buy a company, usually at a specific price.\n\nWhen a company rejects a takeover bid, it often means the board believes the offer price is too low, or that the deal is not in the best interest of the company and its shareholders. Shareholders are the people or organizations that own shares — small pieces — of the company.\n\nHowever, after continued discussions, EasyJet and Castlelake appear to have finally found common ground.\n\n### About EasyJet\n\nEasyJet is one of Europe's largest low-cost airlines. Founded in 1995 and headquartered in the United Kingdom, the airline flies to hundreds of destinations across Europe and beyond. Like many airlines, EasyJet has faced financial challenges in recent years, including the impact of the COVID-19 pandemic and rising fuel costs.\n\n### What Could This Mean?\n\nIf the takeover is completed, it could bring significant changes to EasyJet. New ownership often leads to changes in management, strategy, and operations. Some employees and passengers may worry about what a US investment firm owning a major European airline could mean for services and jobs.\n\nOn the other hand, new investment could also give EasyJet more financial resources to grow and compete more effectively against other airlines.\n\nThe aviation industry will be watching closely as both sides work toward a final agreement.",
-      "keyVocab": [
-        {
-          "word": "agreement in principle",
-          "meaning": "원칙적 합의 (세부 사항 확정 전 기본 조건에 대한 동의)",
-          "example": "The two companies reached an agreement in principle, but still need to finalize the details."
-        },
-        {
-          "word": "takeover",
-          "meaning": "인수 (한 회사가 다른 회사를 사들여 지배권을 얻는 것)",
-          "example": "The takeover of the airline by the investment firm could change how it operates."
-        },
-        {
-          "word": "bid",
-          "meaning": "입찰, 인수 제안",
-          "example": "The board rejected three bids before finally accepting the fourth offer."
-        },
-        {
-          "word": "shareholders",
-          "meaning": "주주 (회사의 주식을 보유한 사람 또는 기관)",
-          "example": "The shareholders voted on whether to accept the takeover offer."
-        },
-        {
-          "word": "low-cost airline",
-          "meaning": "저가 항공사",
-          "example": "EasyJet is a well-known low-cost airline that offers cheap flights across Europe."
-        }
-      ],
-      "publishedAt": "2026-07-05T17:30:55.000Z"
-    },
-    "05d69e824baf": {
-      "id": "05d69e824baf",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/entertainment/961484/mr-lif-emergency-rations-ep-post-9-11-review",
-      "title": "Mr. Lif’s Emergency Rations EP is post-9/11 hip hop at its most daring",
-      "theme": "music",
-      "themeLabel": "음악",
-      "summary": "Mr. Lif의 2002년 EP '비상 식량(Emergency Rations)'은 9/11 이후 시대의 정치적으로 대담한 힙합 작품입니다. 이 EP는 실험적인 힙합 레이블 Definitive Jux의 정체성을 잘 보여주며, 이후 발매된 정규 앨범 'I, Phantom'의 전초전 역할을 했습니다.",
-      "difficulty": "B2",
-      "estimatedMinutes": 4,
-      "learnerContent": "## Mr. Lif's *Emergency Rations*: Bold Hip Hop After 9/11\n\nIn the early 2000s, an independent record label called **Definitive Jux** (also known as Def Jux) was making waves in the hip hop world. Many music fans and critics believed it could represent the future of the genre. The label was home to many experimental, boundary-pushing, and politically minded artists — but one rapper stood out above the rest: **Mr. Lif**.\n\n### Who Was Mr. Lif?\n\nMr. Lif was considered the most traditional \"conscious rapper\" on the Definitive Jux roster. Conscious rap is a style of hip hop that focuses on social issues, politics, and current events rather than just entertainment. At a time when the United States was still processing the shock and trauma of the September 11, 2001 terrorist attacks, Mr. Lif used his music to ask hard questions and challenge the official narrative.\n\nThe label's head, the influential producer and rapper **El-P**, clearly saw political and socially aware music as a core part of Definitive Jux's identity. In fact, the very first release on the label was Mr. Lif's debut EP, *Enter the Colossus*, which came out in 2000.\n\n### What Is *Emergency Rations*?\n\nMr. Lif's follow-up release, *Emergency Rations*, dropped in **2002**, just months after 9/11. The EP served as a kind of bridge — or \"place setter\" — leading into his full-length album *I, Phantom*, which was released just a couple of months later.\n\nThe EP opens with a short comedic skit featuring Mr. Lif, which sets a darkly humorous tone before diving into sharp political commentary. The title itself, *Emergency Rations*, carries a biting irony: it references the practice of dropping food aid into countries after bombing them — a strategy that Mr. Lif viewed as deeply contradictory and morally troubling.\n\n### Why Did It Matter?\n\nReleased in the shadow of 9/11 and the beginning of the U.S.-led War on Terror, *Emergency Rations* was a daring piece of work. At a time when many artists were being cautious about political statements, Mr. Lif leaned directly into controversy. He questioned government decisions, military actions, and the media's role in shaping public opinion.\n\nThis kind of boldness was rare in mainstream hip hop at the time. While many popular artists focused on club anthems or personal stories, Mr. Lif was more interested in examining the world around him. His lyrics were dense, thoughtful, and challenging — qualities that made him a respected figure in underground hip hop circles.\n\n### A Snapshot of a Specific Moment\n\nLooking back, *Emergency Rations* captures a very specific cultural moment. The early 2000s were a time of fear, confusion, and intense debate in America. Artists like Mr. Lif chose to channel that energy into their music rather than ignore it.\n\nDefinitive Jux as a label did not ultimately become the mainstream force some had predicted — but its legacy in underground and independent hip hop is significant. Mr. Lif's *Emergency Rations* remains one of the most pointed and politically honest recordings from that era, a small EP with a very large set of ideas.",
-      "keyVocab": [
-        {
-          "word": "conscious rap",
-          "meaning": "사회 문제나 정치적 주제를 다루는 힙합 장르",
-          "example": "Conscious rap often addresses issues like inequality and government policy."
-        },
-        {
-          "word": "boundary-pushing",
-          "meaning": "기존의 한계나 규범에 도전하는",
-          "example": "The director was known for boundary-pushing films that made audiences uncomfortable."
-        },
-        {
-          "word": "irony",
-          "meaning": "아이러니, 반어법 (말이나 상황이 기대와 반대인 것)",
-          "example": "There is a deep irony in cutting education budgets while claiming to invest in the future."
-        },
-        {
-          "word": "commentary",
-          "meaning": "논평, 비평 (특히 사회나 정치에 대한)",
-          "example": "The film offers sharp commentary on modern consumer culture."
-        },
-        {
-          "word": "legacy",
-          "meaning": "유산, 후세에 남기는 영향이나 업적",
-          "example": "The musician's legacy continued to influence artists for decades after his death."
-        }
-      ],
-      "publishedAt": "2026-07-05T18:30:00.000Z"
-    },
-    "4043827243f7": {
-      "id": "4043827243f7",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/gadgets/960838/grand-theft-auto-gta-6-vi-preorder-editions-buy",
-      "title": "Where to preorder Grand Theft Auto VI",
-      "theme": "tech",
-      "themeLabel": "기술",
-      "summary": "Rockstar Games의 Grand Theft Auto VI가 2026년 11월 19일 PS5와 Xbox Series S/X로 출시됩니다. 게임은 Standard($79.99)와 Ultimate($99.99) 두 가지 버전으로 예약 구매할 수 있으며, 디스크 없이 디지털 코드 방식으로만 제공됩니다.",
-      "difficulty": "A2",
-      "estimatedMinutes": 4,
-      "learnerContent": "## Where to Preorder Grand Theft Auto VI\n\nOne of the most anticipated video games in history is finally coming. **Grand Theft Auto VI**, made by **Rockstar Games**, will launch on **November 19th, 2026**. It will be available for **PlayStation 5 (PS5)** and **Xbox Series S/X** consoles.\n\n### No Discs — Only Digital\n\nThis is important to know: GTA VI will not come with a physical game disc. If you buy a physical copy (a box from a store), the box will contain a **download code**, not a disc. This means your console needs an internet connection to download and install the game.\n\nBecause of this, preordering the game is simple and straightforward. You can order online from digital stores or physical retailers.\n\n### When Can You Start Downloading?\n\nThe **preloading** period begins on **November 12th, 2026** — one week before the official launch date. Preloading means you can download the game early so it is ready to play on launch day. This is very helpful because large games like GTA VI can take a long time to download.\n\n### Two Versions to Choose From\n\nThere are two editions of the game:\n\n- **Standard Edition** — $79.99\n- **Ultimate Edition** — $99.99\n\nBoth editions come with the same **preorder bonus**. When the game launches, you will receive the **Vintage Vice City Pack**. This is a set of special in-game items, including exclusive vehicles and cosmetic rewards that other players may not have.\n\nThe Ultimate Edition costs $20 more and includes additional in-game content, such as cosmetic items you can use to customize your character's appearance.\n\n### Where Can You Preorder?\n\nBecause the game is digital-only (even in physical boxes), you can preorder from many places:\n\n- The **PlayStation Store** (for PS5 players)\n- The **Microsoft Store** (for Xbox players)\n- Retail stores like Amazon, Best Buy, or GameStop (these will send you a code)\n\n### Why Is GTA VI Such a Big Deal?\n\nThe last major Grand Theft Auto game, **GTA V**, came out in **2013** — more than 12 years ago. It became one of the best-selling video games of all time. Millions of players around the world have been waiting a very long time for the next chapter. GTA VI is set in a place inspired by Miami, called **Vice City**, and features new characters, a bigger world, and major graphical improvements.\n\nIf you are a fan of the series, now is the time to decide which edition to buy and place your preorder!",
-      "keyVocab": [
-        {
-          "word": "preorder",
-          "meaning": "출시 전 미리 주문하다",
-          "example": "I preordered the new phone so I could get it on the first day of release."
-        },
-        {
-          "word": "preloading",
-          "meaning": "출시 전 미리 다운로드하는 것",
-          "example": "Preloading the game saved me time because I could play it right at midnight."
-        },
-        {
-          "word": "edition",
-          "meaning": "판, 버전 (제품의 종류나 등급)",
-          "example": "The deluxe edition of the album includes three bonus tracks."
-        },
-        {
-          "word": "cosmetic",
-          "meaning": "외형 꾸미기용의 (게임에서 능력에 영향을 주지 않는 아이템)",
-          "example": "The cosmetic items let you change your character's outfit but don't affect gameplay."
-        },
-        {
-          "word": "anticipated",
-          "meaning": "기대되는, 오래 기다려온",
-          "example": "The highly anticipated film broke box office records on its opening weekend."
-        }
-      ],
-      "publishedAt": "2026-07-05T16:00:00.000Z"
-    },
-    "7baf7c3028a0": {
-      "id": "7baf7c3028a0",
-      "source": "Variety",
-      "sourceUrl": "https://variety.com/2026/film/news/tom-holland-christopher-nolan-hated-odyssey-performance-1236801979/",
-      "title": "Tom Holland Thought Christopher Nolan Hated His ‘Odyssey’ Performance on His First Day Filming: ‘I Thought I Was Totally S—-ing the Bed’",
-      "theme": "film",
-      "themeLabel": "영화",
-      "summary": "톰 홀랜드는 크리스토퍼 놀란 감독의 영화 '오디세이' 촬영 첫날, 감독이 계속 '컷'을 외치자 자신의 연기가 형편없다고 생각했습니다. 하지만 실제 이유는 IMAX 카메라의 기술적 한계 때문이었습니다. 홀랜드는 이 경험을 통해 IMAX 촬영 방식에 대해 많은 것을 배웠다고 밝혔습니다.",
-      "difficulty": "B1",
-      "estimatedMinutes": 4,
-      "learnerContent": "## Tom Holland Feared the Worst on His First Day Filming 'The Odyssey'\n\nActor Tom Holland recently shared a funny and honest story about his first day on the set of Christopher Nolan's new film, *The Odyssey*. Holland spoke to Fandango and admitted that he was very worried during filming — because director Christopher Nolan kept calling \"cut.\"\n\n### A Nervous Start\n\nWhen a director calls \"cut\" many times during a scene, it usually means something is wrong. Holland thought Nolan was unhappy with his acting. He said, \"I thought I was totally messing up. I thought the director hated what I was doing.\"\n\nFor a young actor working with one of Hollywood's most respected directors, this feeling must have been very stressful. Christopher Nolan is famous for films like *Inception*, *Interstellar*, and *Oppenheimer*. Getting a role in his new movie is a huge opportunity, so Holland clearly wanted to do his best.\n\n### The Real Reason\n\nHowever, Holland soon learned that Nolan's repeated cuts had nothing to do with his performance. The real reason was the IMAX cameras that Nolan was using to shoot the film.\n\nIMAX cameras are very large and powerful, and they can capture incredibly detailed images. But they also have some technical limitations. For example, the film reels inside IMAX cameras are shorter than regular cameras, which means they can only record for a limited amount of time before they need to be reloaded. This is why Nolan had to call \"cut\" so often — not because Holland was doing anything wrong.\n\nHolland described working with IMAX cameras for the first time as \"quite an experience.\" Once he understood the reason behind the frequent stops, he was able to relax and focus on his acting.\n\n### About 'The Odyssey'\n\n*The Odyssey* is Christopher Nolan's upcoming epic film. It is based on the ancient Greek poem of the same name, written by the poet Homer. The original story follows a hero named Odysseus on his long and dangerous journey home after the Trojan War. It is one of the oldest and most famous stories in Western literature.\n\nNolan's version is expected to be a large-scale, visually stunning production. The fact that Nolan is using IMAX cameras throughout the film suggests he wants audiences to feel completely inside the world of the story.\n\n### Holland's Growing Career\n\nTom Holland is best known for playing Spider-Man in the Marvel films. But in recent years, he has worked hard to show audiences that he can do much more than superhero movies. Taking on a role in a Nolan epic is a clear sign that Holland is moving toward more serious, complex projects.\n\nDespite his early nerves on set, Holland's experience on *The Odyssey* seems to have been a positive one. Learning how IMAX technology works — and understanding that not every \"cut\" means failure — is all part of growing as an actor.\n\nFans are excited to see how Holland performs in such a classic and ambitious story.",
-      "keyVocab": [
-        {
-          "word": "limitation",
-          "meaning": "한계, 제한",
-          "example": "The camera had a technical limitation that caused the director to stop filming frequently."
-        },
-        {
-          "word": "admitted",
-          "meaning": "인정했다",
-          "example": "He admitted that he was nervous on his first day at work."
-        },
-        {
-          "word": "performance",
-          "meaning": "연기, 공연",
-          "example": "The director was very happy with the actor's performance in the final scene."
-        },
-        {
-          "word": "epic",
-          "meaning": "서사시적인, 대규모의",
-          "example": "The film was an epic story about adventure and survival."
-        },
-        {
-          "word": "complex",
-          "meaning": "복잡한",
-          "example": "She wanted to take on more complex roles to improve her acting skills."
-        }
-      ],
-      "publishedAt": "2026-07-05T19:48:36.000Z"
-    },
-    "002abaf30204": {
-      "id": "002abaf30204",
-      "source": "Variety",
-      "sourceUrl": "https://variety.com/2026/music/news/ateez-lands-third-no-1-albums-chart-golden-hour-part-5-1236801984/",
-      "title": "Ateez Lands Third No. 1 on Albums Chart With ‘Golden Hour : Part.5’",
-      "theme": "music",
-      "themeLabel": "음악",
-      "summary": "K-팝 그룹 에이티즈가 새 앨범 'Golden Hour: Part.5'로 빌보드 200 차트에서 세 번째 1위를 차지했습니다. 이 앨범은 첫 주에 228,000 앨범 유닛을 기록했으며, 이 중 223,000개가 순수 앨범 판매량이었습니다. 이번 성과는 에이티즈의 빌보드 200 톱 10 진입 중 아홉 번째 기록입니다.",
-      "difficulty": "B1",
-      "estimatedMinutes": 4,
-      "learnerContent": "## Ateez Reaches No. 1 on Billboard 200 for the Third Time\n\nK-pop group Ateez has done it again. The South Korean boy band has landed its third No. 1 album on the Billboard 200 chart with their new release, *Golden Hour: Part.5*. This is a huge achievement and shows just how popular Ateez has become around the world.\n\n### Impressive First-Week Numbers\n\nIn its first week, *Golden Hour: Part.5* earned 228,000 equivalent album units. This number is used by Billboard to measure an album's popularity. It includes music streams, digital downloads, and physical album sales.\n\nOf those 228,000 units, 223,000 came from pure album sales. This means that the majority of fans actually bought the album, rather than just streaming it online. This is a remarkable number in today's music industry, where most people listen to music through streaming services like Spotify or Apple Music.\n\n### Many Formats Available\n\nOne reason for such high physical sales is the large number of album versions that Ateez released. *Golden Hour: Part.5* was available in 30 different CD variants and five vinyl variants. K-pop groups often release albums in multiple versions, each with different photos, packaging, and bonus content. This encourages fans — known as ATINY — to buy more than one copy.\n\nVinyl records have also become very popular again in recent years, especially among music fans who enjoy collecting physical music.\n\n### A Record-Breaking Streak\n\nThis No. 1 album is part of a strong pattern of success for Ateez on the Billboard 200. It is the group's ninth time reaching the top 10 on the albums chart, and their third time reaching the very top spot at No. 1.\n\nReaching No. 1 on the Billboard 200 is a major milestone for any artist. The chart measures album popularity across the entire United States, which is the world's largest music market. For a K-pop group to reach the top three times shows that Ateez has built a very strong and loyal fanbase in America.\n\n### Who Are Ateez?\n\nAteez is an eight-member boy group from South Korea. They made their debut in 2018 under the entertainment company KQ Entertainment. The group is known for their high-energy performances, powerful choreography, and dramatic musical style.\n\nOver the past few years, Ateez has become one of the most successful K-pop groups in the world. They have sold out concerts in large arenas across North America, Europe, and Asia. Their music often tells stories about chasing dreams and overcoming challenges, which connects strongly with their fans.\n\n### The 'Golden Hour' Series\n\n*Golden Hour: Part.5* is the latest chapter in Ateez's ongoing *Golden Hour* album series. The series has been praised by fans and music critics for its rich sound and detailed storytelling. Each part builds on the last, keeping fans excited for what comes next.\n\nWith three Billboard No. 1 albums, Ateez continues to prove that K-pop is a truly global musical force.",
-      "keyVocab": [
-        {
-          "word": "equivalent album units",
-          "meaning": "앨범 판매 환산 단위 (스트리밍, 다운로드, 실물 판매를 합산한 수치)",
-          "example": "The album sold 200,000 equivalent album units in its first week, including streams and physical copies."
-        },
-        {
-          "word": "variant",
-          "meaning": "변형판, 다른 버전",
-          "example": "The K-pop album was released in five different variants, each with unique photo cards."
-        },
-        {
-          "word": "milestone",
-          "meaning": "중요한 이정표, 획기적인 사건",
-          "example": "Reaching one million followers was an important milestone for the young singer."
-        },
-        {
-          "word": "loyal",
-          "meaning": "충성스러운, 헌신적인",
-          "example": "The band has a loyal fanbase that buys every album they release."
-        },
-        {
-          "word": "debut",
-          "meaning": "데뷔, 처음 등장",
-          "example": "The group made their debut in 2018 with a highly praised first album."
-        }
-      ],
-      "publishedAt": "2026-07-05T19:44:42.000Z"
-    },
-    "38eb47ce7a85": {
-      "id": "38eb47ce7a85",
-      "source": "Pitchfork News",
-      "sourceUrl": "https://pitchfork.com/story/listen-to-beyonce-new-song-morning-dew-donk-bday-anniversary/",
-      "title": "Beyoncé Surprise-Releases New Song “Morning Dew (Donk)”",
-      "theme": "music",
-      "themeLabel": "음악",
-      "summary": "비욘세가 새 노래 'Morning Dew (Donk)'를 깜짝 발표했습니다. 이 곡은 그녀의 앨범 'B'Day' 20주년 기념 재발매반에 수록될 예정입니다.",
-      "difficulty": "A2",
-      "estimatedMinutes": 3,
-      "learnerContent": "## Beyoncé Surprises Fans With New Song\n\nBeyoncé has released a new song called **\"Morning Dew (Donk)\"**. She did not tell fans before the release. This kind of release is called a \"surprise drop.\"\n\n### About the Song\n\nThe song is a new single from Beyoncé. A single is one song that an artist shares with the public. \"Morning Dew (Donk)\" will be part of a special new version of her old album called **B'Day**.\n\n### About B'Day\n\nBeyoncé first released B'Day in 2006. That means the album is now 20 years old. To celebrate this anniversary, Beyoncé is making a **reissue** of the album. A reissue is when a music company releases an old album again, sometimes with new or extra songs.\n\nThe new version of B'Day will include \"Morning Dew (Donk)\" as one of its tracks.\n\n### Why This Is Exciting\n\nBeyoncé is one of the most famous musicians in the world. Her fans, who call themselves the **BeyHive**, love it when she surprises them with new music. A surprise release creates a lot of excitement on social media.\n\nB'Day was an important album in Beyoncé's career. It came out just one year after her very successful album Dangerously in Love. B'Day included hit songs and showed Beyoncé's strong and confident style.\n\n### What Is a 20th Anniversary Reissue?\n\nMany artists celebrate big anniversaries of their albums. Twenty years is a long time, so it is a special moment. Artists sometimes add new songs, remixes, or live recordings to the reissue. Fans enjoy hearing old favorites again, plus something new.\n\nBeyoncé has done this before. She has re-released and updated her music several times over the years.\n\n### What's Next?\n\nFans are very excited to hear \"Morning Dew (Donk)\" and are looking forward to the full 20th anniversary reissue of B'Day. No official release date for the reissue has been announced yet, but the surprise single suggests it is coming soon.",
-      "keyVocab": [
-        {
-          "word": "surprise drop",
-          "meaning": "사전 예고 없이 갑작스럽게 발표하는 것",
-          "example": "The band did a surprise drop of their new song late at night."
-        },
-        {
-          "word": "single",
-          "meaning": "단일 곡, 싱글",
-          "example": "The singer released a new single before her album came out."
-        },
-        {
-          "word": "reissue",
-          "meaning": "재발매 (기존 앨범을 다시 출시하는 것)",
-          "example": "The 10th anniversary reissue of the album included three bonus tracks."
-        },
-        {
-          "word": "anniversary",
-          "meaning": "기념일",
-          "example": "The band played a special concert to celebrate the 20th anniversary of their first album."
-        },
-        {
-          "word": "release",
-          "meaning": "발매하다, 공개하다",
-          "example": "The artist will release her new album next Friday."
-        }
-      ],
-      "publishedAt": "2026-07-04T15:02:48.000Z"
-    },
-    "06e8a64aac29": {
-      "id": "06e8a64aac29",
-      "source": "Pitchfork News",
-      "sourceUrl": "https://pitchfork.com/news/taylor-swift-travis-kelce-wedding-married/",
-      "title": "Local Singer Marries Podcaster",
-      "theme": "music",
-      "themeLabel": "음악",
-      "summary": "한 지역 가수가 팟캐스터와 결혼했다는 소식이 전해졌습니다. 보도에 따르면 두 사람 사이에 특별한 감정이 생겼다고 합니다.",
-      "difficulty": "A2",
-      "estimatedMinutes": 3,
-      "learnerContent": "## Local Singer Gets Married to Podcaster\n\nA local singer has married a podcaster, according to recent reports. The couple's names have not been officially confirmed, but reports say the two fell in love and decided to get married.\n\n### Who Are They?\n\nThe singer is described as a **local singer**, which means they perform music in their community or region. They may not be a global superstar, but they are known in their local music scene.\n\nThe person they married is a **podcaster**. A podcaster is someone who makes a podcast. A podcast is an audio show that people can listen to online. Podcasts can be about many topics, such as news, sports, comedy, or music.\n\n### How Did They Meet?\n\nReports say that \"sparks flew\" between the two. This is an English expression. When sparks fly between two people, it means they felt a strong and immediate connection. In other words, they liked each other very much from the beginning.\n\nIt is not clear exactly how or where they met. They may have met through their work in music and media, but the details have not been reported.\n\n### Love Between Artists and Media People\n\nIt is not unusual for musicians to date or marry people who work in media. Singers, podcasters, journalists, and TV hosts often meet at events, interviews, or social gatherings. They share an interest in entertainment and communication, which can bring them together.\n\n### Congratulations!\n\nFans and people in the local community have shared their good wishes for the couple. Marriage is a big and happy event, and people enjoy celebrating love stories, even between less famous individuals.\n\nThis story is a simple and happy piece of news. Not all music news is about big concerts or famous albums. Sometimes, it is just about people finding love.",
-      "keyVocab": [
-        {
-          "word": "local",
-          "meaning": "지역의, 현지의",
-          "example": "The local singer performed at the town festival every summer."
-        },
-        {
-          "word": "podcaster",
-          "meaning": "팟캐스트를 만드는 사람",
-          "example": "She became a popular podcaster after starting a show about travel."
-        },
-        {
-          "word": "sparks flew",
-          "meaning": "두 사람 사이에 강한 감정이 생겼다 (첫눈에 끌렸다)",
-          "example": "Sparks flew when they met at the music festival."
-        },
-        {
-          "word": "connection",
-          "meaning": "연결, 유대감",
-          "example": "The two musicians felt a strong connection when they played together for the first time."
-        },
-        {
-          "word": "community",
-          "meaning": "공동체, 지역 사회",
-          "example": "The singer is well known in her local community."
-        }
-      ],
-      "publishedAt": "2026-07-03T23:46:47.000Z"
-    },
     "b2ef069906d8": {
       "id": "b2ef069906d8",
       "source": "Hankyoreh English",
@@ -761,46 +361,6 @@
         }
       ],
       "publishedAt": "2026-07-12T16:14:44.000Z"
-    },
-    "125a378ae724": {
-      "id": "125a378ae724",
-      "source": "Pitchfork News",
-      "sourceUrl": "https://pitchfork.com/story/madison-square-garden-has-been-secretly-tracking-queer-musicians/",
-      "title": "Madison Square Garden Has Been Secretly Tracking Queer Musicians",
-      "theme": "music",
-      "themeLabel": "음악",
-      "summary": "뉴욕의 유명 공연장 매디슨 스퀘어 가든이 퀴어 뮤지션들을 몰래 추적해온 사실이 밝혀졌습니다. 또한 프레디 깁스, 릴 존 등 여러 래퍼들에게 '고위험' 딱지를 붙인 데이터베이스를 운영한 것으로 드러나 논란이 되고 있습니다.",
-      "difficulty": "B2",
-      "estimatedMinutes": 5,
-      "learnerContent": "## Madison Square Garden Caught Secretly Tracking Musicians\n\nMadison Square Garden (MSG), one of the most famous concert venues in the world, has been found to have secretly maintained a surveillance database targeting queer musicians and certain rappers. The revelation has sparked widespread outrage among artists, fans, and civil liberties advocates.\n\n### What Was the Database?\n\nAccording to reports, MSG operated a hidden database that collected information on specific performers. The venue reportedly tracked queer musicians — that is, artists who identify as LGBTQ+ — without their knowledge or consent. The reasons behind this targeting have not been fully explained by MSG's management.\n\nThe database did not stop there. Several well-known rap artists were also included and were given a label describing them as \"high risk.\" Among those flagged were Freddie Gibbs, a critically acclaimed rapper known for his gritty storytelling, and Lil Jon, the rapper and producer famous for his energetic crunk music style. Neither artist has been linked to any specific incident that would logically justify such a classification.\n\n### A Pattern of Controversial Behavior\n\nThis is not the first time MSG has faced accusations of targeting or discriminating against certain groups of people. In recent years, the venue — which is owned by the Dolan family through MSG Entertainment — has been criticized for banning lawyers who represent clients in lawsuits against the company. That policy drew legal challenges and significant public criticism.\n\nThe new revelations suggest a broader pattern of surveillance and profiling that goes well beyond standard security practices. Critics argue that labeling artists as \"high risk\" based on their identity or musical genre, rather than on any concrete evidence of wrongdoing, is both discriminatory and potentially illegal.\n\n### Reactions from the Music Community\n\nThe music industry has reacted with anger and concern. Artists and their representatives have called for full transparency about who was included in the database and what information was collected. Some have demanded that MSG be held legally accountable for what they describe as an invasion of privacy.\n\nAdvocates for LGBTQ+ rights have pointed out that tracking performers based on their sexual orientation or gender identity is a serious violation of their rights. \"No artist should have to worry that a venue is secretly building a file on them because of who they are,\" one advocate said.\n\n### Why This Matters\n\nMadison Square Garden hosts hundreds of events each year, from major concerts to sporting events. It holds enormous power as a gatekeeper in the entertainment industry. When a venue of this size and influence engages in covert profiling, it raises serious questions about privacy, discrimination, and the safety of marginalized communities in entertainment spaces.\n\nAs of now, MSG has not issued a detailed public statement addressing the specific allegations. Investigations are reportedly ongoing, and pressure is mounting on the venue to provide full answers.",
-      "keyVocab": [
-        {
-          "word": "surveillance",
-          "meaning": "감시, 추적",
-          "example": "The company secretly used surveillance to monitor the activities of certain employees."
-        },
-        {
-          "word": "profiling",
-          "meaning": "특정 집단을 대상으로 한 분류나 차별",
-          "example": "Profiling people based on their race or identity is considered a form of discrimination."
-        },
-        {
-          "word": "covert",
-          "meaning": "비밀의, 은밀한",
-          "example": "The investigation revealed that the organization had been running a covert tracking program for years."
-        },
-        {
-          "word": "marginalized",
-          "meaning": "소외된, 주변화된",
-          "example": "The new policy was designed to better protect marginalized communities from discrimination."
-        },
-        {
-          "word": "accountability",
-          "meaning": "책임, 책무",
-          "example": "Fans and artists are demanding accountability from the venue over its secret database."
-        }
-      ],
-      "publishedAt": "2026-07-10T18:57:07.000Z"
     },
     "5b8d8985c49e": {
       "id": "5b8d8985c49e",
@@ -2001,6 +1561,406 @@
         }
       ],
       "publishedAt": "2026-08-02T17:37:11.000Z"
+    },
+    "a73b87b721f4": {
+      "id": "a73b87b721f4",
+      "source": "Hankyoreh English",
+      "sourceUrl": "https://www.hani.co.kr/arti/english_edition/e_international/1271933.html",
+      "title": "Trump blasts progressive candidates as ‘lunatics’ and ‘communists’ ahead of midterms",
+      "theme": "politics",
+      "themeLabel": "시사",
+      "summary": "트럼프 전 대통령이 중간선거를 앞두고 진보 성향 후보들을 '미치광이'와 '공산주의자'라고 강하게 비난했습니다. 이는 공화당 지지자들을 결집시키기 위한 선거 전략의 일환으로 보입니다. 미국 정치에서 중간선거는 집권당의 정책 방향을 평가하는 중요한 선거입니다.",
+      "difficulty": "B1",
+      "estimatedMinutes": 3,
+      "learnerContent": "## Trump Calls Progressive Candidates 'Lunatics' and 'Communists' Before Midterms\n\nFormer US President Donald Trump has strongly criticized progressive political candidates ahead of the upcoming midterm elections. He used very harsh words, calling them \"lunatics\" and \"communists.\" These kinds of attacks are a common part of Trump's political style.\n\n**What Are Midterm Elections?**\n\nMidterm elections happen in the middle of a US president's four-year term. During these elections, American voters choose new members of Congress — including seats in the House of Representatives and the Senate. Midterms are very important because they can change the balance of power in the US government. If one party wins more seats, it can block or support the president's plans more easily.\n\n**Why Did Trump Use These Words?**\n\nTrump has often used strong language to describe his political opponents. Words like \"lunatics\" suggest that someone is crazy or irrational. Calling someone a \"communist\" is a serious political insult in the United States. It means accusing a person of wanting government control over all parts of society and the economy — an idea that most Americans strongly oppose.\n\nBy using these words, Trump is trying to make his supporters feel that progressive candidates are dangerous or extreme. This is a strategy to encourage Republican voters to go out and vote.\n\n**Who Are Progressive Candidates?**\n\nProgressive candidates generally support policies like stronger environmental protections, more government spending on healthcare and education, and higher taxes on wealthy people and corporations. They are usually members of the Democratic Party or aligned with its left wing. Trump and many conservatives believe these policies go too far and could harm the American economy.\n\n**The Bigger Political Picture**\n\nThe United States is deeply divided politically right now. Republicans and Democrats often disagree strongly on issues like immigration, healthcare, taxes, and foreign policy. Midterm elections are seen as a kind of report card for the party in power. Historically, the party that controls the White House often loses seats in midterm elections.\n\nTrump remains one of the most influential figures in the Republican Party. His support — or opposition — can make a big difference for candidates running in these elections. By speaking out strongly against progressives, he is trying to shape the outcome of the midterms and keep the Republican Party united.\n\n**What Happens Next?**\n\nAs the midterm elections get closer, political speeches and campaign events will become more frequent and more intense. Both parties will try hard to convince voters to support their side. The results of the midterms will have a major impact on US politics and could affect policies both inside the country and around the world.\n\nFor international observers, these elections are an important signal about the direction of American politics in the years ahead.",
+      "keyVocab": [
+        {
+          "word": "progressive",
+          "meaning": "진보적인 (사회 변화를 지지하는)",
+          "example": "The progressive candidate promised to increase spending on public healthcare."
+        },
+        {
+          "word": "midterm elections",
+          "meaning": "중간선거 (대통령 임기 중간에 치러지는 선거)",
+          "example": "Midterm elections are held two years after a presidential election in the United States."
+        },
+        {
+          "word": "opponent",
+          "meaning": "상대방, 반대자",
+          "example": "The politician gave a speech attacking his opponent's economic policies."
+        },
+        {
+          "word": "conservative",
+          "meaning": "보수적인 (전통적 가치와 작은 정부를 지지하는)",
+          "example": "Conservative voters often prefer lower taxes and less government regulation."
+        },
+        {
+          "word": "influential",
+          "meaning": "영향력 있는",
+          "example": "She is one of the most influential leaders in the country."
+        }
+      ],
+      "publishedAt": "2026-08-09T21:26:34.160Z"
+    },
+    "88a669bd70a0": {
+      "id": "88a669bd70a0",
+      "source": "Hankyoreh English",
+      "sourceUrl": "https://www.hani.co.kr/arti/english_edition/e_national/1271932.html",
+      "title": "Foreign Ministry’s ‘KOREAZ’ YouTube channel hits 1 million subscribers",
+      "theme": "politics",
+      "themeLabel": "시사",
+      "summary": "한국 외교부의 공식 유튜브 채널 'KOREAZ'가 구독자 100만 명을 돌파했습니다. 이 채널은 한국의 외교 정책과 문화를 전 세계에 알리기 위해 만들어졌습니다. 이번 성과는 디지털 공공외교의 중요성을 보여줍니다.",
+      "difficulty": "A2",
+      "estimatedMinutes": 3,
+      "learnerContent": "## South Korea's 'KOREAZ' YouTube Channel Reaches 1 Million Subscribers\n\nThe South Korean Ministry of Foreign Affairs has something to celebrate. Its official YouTube channel, called **KOREAZ**, has now reached **1 million subscribers**. This is a big achievement for the channel and for South Korea's public diplomacy efforts.\n\n**What Is KOREAZ?**\n\nKOREAZ is the official YouTube channel of South Korea's Foreign Ministry. The channel shares videos about South Korea's foreign policy, international relations, and Korean culture. It produces content in multiple languages so that people around the world can watch and understand it easily.\n\nThe channel's name, \"KOREAZ,\" combines the word \"Korea\" with the letter \"Z,\" which may suggest energy, youth, and a modern style. The channel tries to connect with younger audiences globally.\n\n**What Kind of Videos Does It Share?**\n\nKOREAZ uploads many different types of videos. Some videos explain South Korea's position on important global issues, such as peace on the Korean Peninsula, climate change, and international cooperation. Other videos introduce Korean culture, history, and society to international viewers.\n\nThe channel is part of South Korea's **public diplomacy** strategy. Public diplomacy means using communication and culture to build positive relationships with people in other countries — not just with governments, but with ordinary citizens too.\n\n**Why Is 1 Million Subscribers Important?**\n\nOn YouTube, reaching 1 million subscribers is a major milestone. It means that a very large number of people from around the world are interested in the channel's content. For a government channel focused on foreign policy, this is especially impressive.\n\nIt shows that many people want to learn more about South Korea directly from an official source. It also means that South Korea can share its message and values with a global audience more effectively.\n\n**The Importance of Digital Diplomacy**\n\nIn recent years, many governments have started using social media platforms like YouTube, Instagram, and X (formerly Twitter) to communicate with the world. This is sometimes called **digital diplomacy** or **e-diplomacy**.\n\nSouth Korea has been active in this area. The country is well known for its strong technology culture and high internet usage. Using YouTube to promote its foreign policy goals is a natural step for South Korea.\n\nThe success of KOREAZ shows that digital tools can be very effective for governments that want to connect with global audiences. As social media continues to grow, more countries will likely follow South Korea's example.\n\n**Congratulations to KOREAZ!**\n\nReaching 1 million subscribers is a great achievement. It reflects the hard work of the team behind the channel and the growing global interest in South Korea. The channel will likely continue to grow as more people around the world become curious about Korean culture and foreign policy.",
+      "keyVocab": [
+        {
+          "word": "subscriber",
+          "meaning": "구독자",
+          "example": "The cooking channel gained 500,000 new subscribers in just one month."
+        },
+        {
+          "word": "diplomacy",
+          "meaning": "외교 (나라 간의 공식적인 관계 관리)",
+          "example": "Good diplomacy helps countries solve problems without fighting."
+        },
+        {
+          "word": "milestone",
+          "meaning": "중요한 이정표, 큰 성과",
+          "example": "Winning the award was a major milestone in her career."
+        },
+        {
+          "word": "official",
+          "meaning": "공식적인",
+          "example": "The government made an official announcement about the new policy."
+        },
+        {
+          "word": "cooperation",
+          "meaning": "협력, 협조",
+          "example": "International cooperation is needed to fight climate change."
+        }
+      ],
+      "publishedAt": "2026-08-09T21:26:34.160Z"
+    },
+    "4076ee581578": {
+      "id": "4076ee581578",
+      "source": "NYT Business",
+      "sourceUrl": "https://www.nytimes.com/2026/08/08/business/medicare-advantage-benefits.html",
+      "title": "Medicare Advantage’s Perks Are Getting Scrutiny",
+      "theme": "business",
+      "themeLabel": "경제",
+      "summary": "미국 정부가 Medicare Advantage 보험 플랜의 일부 추가 혜택을 제한하기로 했습니다. 의료용 대마초, 스트리밍 서비스, 쇼핑 클럽 등의 혜택 확대가 거부되었으며, 2027년에는 더 많은 변화가 예정되어 있습니다.",
+      "difficulty": "B1",
+      "estimatedMinutes": 4,
+      "learnerContent": "## Medicare Advantage's Extra Benefits Are Under Review\n\nMedicare is a health insurance program in the United States for people aged 65 and older, as well as some younger people with disabilities. There are different types of Medicare plans. One popular type is called **Medicare Advantage**, which is offered by private insurance companies instead of the government.\n\n### What Makes Medicare Advantage Special?\n\nMedicare Advantage plans often offer **extra benefits** that regular Medicare does not cover. In recent years, some plans have offered things like dental care, gym memberships, and even help paying for groceries. These extra perks have made Medicare Advantage very attractive to many seniors.\n\nHowever, not all of these extra benefits have been helpful to patients. Some critics argue that certain perks are more about attracting customers than actually improving health. Because of this, government officials have started to look more carefully at what these plans are allowed to offer.\n\n### What Did the Government Decide?\n\nRecently, U.S. government officials reviewed requests from private health insurance companies that wanted to **expand** their extra benefits. These companies wanted to add new perks, such as:\n\n- **Medical marijuana** (cannabis used for health purposes)\n- **Streaming services** (like Netflix or similar entertainment platforms)\n- **Shopping clubs** (membership programs that give discounts at certain stores)\n\nThe government said **no** to all of these requests. Officials decided that these kinds of benefits are not appropriate for a health insurance program. They believe Medicare Advantage should focus on medical care that truly helps patients stay healthy.\n\n### Why Is This Important?\n\nMedicare Advantage has grown very quickly in recent years. Today, more than half of all Medicare users in the United States are enrolled in a Medicare Advantage plan. Because so many people depend on these plans, the rules about what benefits are allowed can affect millions of Americans.\n\nSome insurance companies have used flashy extra benefits to attract new customers, even if those benefits do not improve health outcomes. Government officials want to make sure that Medicare money is spent wisely and that benefits are genuinely useful for patients.\n\n### What Changes Are Coming?\n\nThis review is not finished yet. Officials have announced that **more changes are coming in 2027**. The government is expected to set stricter rules about which extra benefits Medicare Advantage plans can offer. The goal is to make these plans more focused on real medical needs.\n\nHealth policy experts are watching these changes closely. Some support the stricter rules, saying the program needs to be more disciplined. Others worry that removing certain benefits could make Medicare Advantage less appealing to seniors who currently enjoy those perks.\n\nAs the rules continue to change, people who are enrolled in Medicare Advantage — or thinking about joining — should stay informed about what their plan covers.",
+      "keyVocab": [
+        {
+          "word": "extra benefits",
+          "meaning": "추가 혜택",
+          "example": "The insurance plan offers extra benefits like dental care and gym memberships."
+        },
+        {
+          "word": "expand",
+          "meaning": "확장하다",
+          "example": "The company wanted to expand its services to include streaming platforms."
+        },
+        {
+          "word": "enroll",
+          "meaning": "등록하다, 가입하다",
+          "example": "More than half of Medicare users are enrolled in a Medicare Advantage plan."
+        },
+        {
+          "word": "scrutiny",
+          "meaning": "면밀한 검토, 감시",
+          "example": "The new policy is under scrutiny from government officials."
+        },
+        {
+          "word": "health outcomes",
+          "meaning": "건강 결과",
+          "example": "Doctors want to improve health outcomes for elderly patients."
+        }
+      ],
+      "publishedAt": "2026-08-09T18:35:41.000Z"
+    },
+    "c259610c14f7": {
+      "id": "c259610c14f7",
+      "source": "NYT Business",
+      "sourceUrl": "https://www.nytimes.com/2026/08/09/travel/flight-canceled-child-seatbelt-porter-canada.html",
+      "title": "Flight Is Canceled After a Child Refuses to Be Seated",
+      "theme": "business",
+      "themeLabel": "경제",
+      "summary": "포터 항공의 토론토행 비행기가 한 아이가 좌석에 앉기를 거부해 결국 결항되었습니다. 승객들은 다음 날까지 기다려야 했으며, 이 사건은 항공기 안전 규정의 중요성을 다시 한번 보여주었습니다.",
+      "difficulty": "A2",
+      "estimatedMinutes": 4,
+      "learnerContent": "## Flight Canceled Because Child Would Not Sit Down\n\nA flight was canceled after a child refused to sit down and put on a seatbelt. This unusual event happened on a **Porter Airlines** plane that was going to **Toronto**, Canada.\n\n### What Happened?\n\nBefore the plane could take off, all passengers must be seated and wearing their seatbelts. This is a very important safety rule. On this flight, one child stood up in their seat and **would not sit down**. The child also refused to be buckled in with a seatbelt.\n\nThe flight crew tried to solve the problem, but the child continued to stand. Because of this, the plane could not leave safely.\n\n### What Did the Airline Do?\n\nPorter Airlines decided to **cancel the flight**. The airline said that passenger safety is always the most important thing. It is not safe for a plane to take off if someone is not properly seated and buckled in.\n\nAll the other passengers on the plane had to leave the aircraft. They could not fly to Toronto that day. Instead, they had to **wait until the next day** to take another flight.\n\n### How Did Passengers React?\n\nMany passengers were unhappy and frustrated. They had plans in Toronto and did not expect to spend an extra night waiting. It is not pleasant to have your travel plans changed suddenly, especially because of something you cannot control.\n\nHowever, the airline explained that it had no other choice. Safety rules on airplanes are very strict. Every passenger — including children — must follow these rules before a plane can fly.\n\n### Why Are These Rules So Important?\n\nAirplane safety rules exist to protect everyone on board. During takeoff and landing, it is very dangerous to stand up or move around. If something goes wrong, a person who is not buckled in could be seriously hurt.\n\nFlight attendants and pilots are trained to make sure all passengers follow the rules. If someone does not follow the rules and the problem cannot be fixed, the airline may decide to cancel or delay the flight. The safety of all passengers is always more important than being on time.\n\n### A Reminder for Travelers\n\nThis story is a reminder that **everyone must follow airline safety rules**, no matter their age. Parents traveling with young children should be prepared to help their kids stay calm and seated during the flight. Following simple rules helps keep everyone safe and makes the journey better for all passengers.",
+      "keyVocab": [
+        {
+          "word": "cancel",
+          "meaning": "취소하다",
+          "example": "The airline had to cancel the flight because of bad weather."
+        },
+        {
+          "word": "buckle in",
+          "meaning": "안전벨트를 매다",
+          "example": "Please buckle in before the plane takes off."
+        },
+        {
+          "word": "passenger",
+          "meaning": "승객",
+          "example": "All passengers must show their tickets before boarding the plane."
+        },
+        {
+          "word": "safety rules",
+          "meaning": "안전 규칙",
+          "example": "It is important to follow safety rules on an airplane."
+        },
+        {
+          "word": "frustrated",
+          "meaning": "좌절한, 실망한",
+          "example": "The passengers were frustrated because they missed their flight."
+        }
+      ],
+      "publishedAt": "2026-08-09T17:59:36.000Z"
+    },
+    "bd438c5f919a": {
+      "id": "bd438c5f919a",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/entertainment/977190/no-dogs-in-space-music-history-podcast",
+      "title": "No Dogs in Space is a music history podcast for true obsessives",
+      "theme": "music",
+      "themeLabel": "음악",
+      "summary": "'No Dogs in Space'는 음악 역사를 깊이 파고드는 팟캐스트로, 73개 에피소드에 걸쳐 록, 펑크, 실험 음악 등을 다룹니다. 2024년 7월 이후 새 에피소드가 나오지 않아 팬들이 아쉬워하고 있습니다. 음악을 깊이 사랑하는 사람이라면 반드시 들어볼 만한 팟캐스트입니다.",
+      "difficulty": "B1",
+      "estimatedMinutes": 4,
+      "learnerContent": "## No Dogs in Space: A Must-Listen Podcast for Music Lovers\n\nIf you love music history and enjoy learning about bands and genres in great detail, you should know about a podcast called **No Dogs in Space**. It is one of the most in-depth music podcasts ever made, and it is perfect for true music obsessives — people who want to know everything about the music they love.\n\n### What Is No Dogs in Space?\n\nNo Dogs in Space is a podcast hosted by **Marcus Parks**, who is also known for the popular podcast *Last Podcast on the Left*, and **Carolina Hidalgo**. Together, they explore the history of rock music in a very detailed and enthusiastic way.\n\nOver 73 episodes, the hosts take listeners on a deep journey through different music genres and artists. They don't just talk about music on the surface — they really dig into the history, the culture, and the meaning behind the music.\n\n### What Topics Does It Cover?\n\nThe podcast is organized into seasons, and each season focuses on a different music topic.\n\n- **Season one and two** were very popular and covered **punk rock** — a fast, loud, and rebellious style of music that became famous in the 1970s.\n- **Season three** focused on **experimental rock**, including a long series of episodes about a band called **Can**. Experimental rock is a style of music that breaks traditional rules and tries new sounds and ideas.\n- Many fans, including the writer of this article, were excited because it seemed like the next season would focus on **Krautrock** — a style of experimental electronic and rock music that came from Germany in the late 1960s and 1970s. The name \"Krautrock\" comes from a British slang word for Germans.\n\n### Why Did the Podcast Stop?\n\nUnfortunately, the final episode of season three ended with a surprise announcement. Marcus and Carolina said they were going to return to **punk** for another season, going back to the topic of season one. After that announcement, the podcast went completely silent. There has been no new episode since **July 2024**.\n\nThis was disappointing for fans who were hoping for more episodes about experimental music. Many listeners had been looking forward to a deep dive into Krautrock.\n\n### Why Should You Listen?\n\nEven though the podcast is not currently releasing new episodes, the existing 73 episodes are still available to listen to. If you are interested in rock music history, No Dogs in Space is an excellent resource. The hosts are passionate and knowledgeable, and they explain complex music history in an engaging and entertaining way.\n\nFor anyone who wants to understand where modern music came from, or who simply enjoys learning about music culture and history, this podcast is a great place to start. Whether you already know a lot about music or you are just beginning to explore different genres, you will find something interesting in No Dogs in Space.\n\nLet's hope the hosts return soon with new episodes — music fans are waiting!",
+      "keyVocab": [
+        {
+          "word": "obsessive",
+          "meaning": "무언가에 깊이 빠진 사람, 열성팬",
+          "example": "He is a music obsessive who knows every song from the 1970s."
+        },
+        {
+          "word": "in-depth",
+          "meaning": "깊이 있는, 상세한",
+          "example": "The documentary gave an in-depth look at the history of jazz."
+        },
+        {
+          "word": "experimental",
+          "meaning": "실험적인, 새로운 시도를 하는",
+          "example": "The band is known for their experimental sound that mixes rock and electronic music."
+        },
+        {
+          "word": "genre",
+          "meaning": "장르, 음악이나 예술의 종류",
+          "example": "Pop is the most popular music genre in the world today."
+        },
+        {
+          "word": "enthusiastic",
+          "meaning": "열정적인, 열심인",
+          "example": "The enthusiastic hosts made every episode fun and exciting to listen to."
+        }
+      ],
+      "publishedAt": "2026-08-09T20:28:31.000Z"
+    },
+    "801362e503c3": {
+      "id": "801362e503c3",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/977161/mark-zuckerberg-yacht-wilderness-legacy-stranded-boat",
+      "title": "Zuckerberg&#8217;s yacht was closer, but someone else saved a stranded boat",
+      "theme": "tech",
+      "themeLabel": "기술",
+      "summary": "알래스카 해역에서 연료가 떨어진 작은 보트가 조난 상황에 처했을 때, 마크 저커버그의 초대형 요트가 가장 가까이 있었지만 구조 요청에 응하지 않았습니다. 결국 알래스카 크루즈선 '윌더니스 레거시'가 보트를 구조했습니다. 이 사실이 알려지자 많은 사람들의 비판을 받고 있습니다.",
+      "difficulty": "B1",
+      "estimatedMinutes": 4,
+      "learnerContent": "## Zuckerberg's Yacht Was Closer, But Didn't Help a Stranded Boat\n\nEarlier this week, a small boat got into serious trouble near **Farragut Bay** in Alaska. The boat, called a skiff, ran out of fuel and was stranded in the water. In situations like this, nearby ships are generally expected to help if they can. But what happened next raised a lot of questions — and a lot of anger.\n\n### What Happened?\n\nA cruise ship called the **Wilderness Legacy** eventually rescued the stranded skiff and the people on board. The rescue was successful, and everyone was safe.\n\nHowever, tracking data reviewed by the **Alaska Beacon** and **Halifax Shipping News** showed something surprising. According to the data, the closest vessel to the stranded boat at the time was not the Wilderness Legacy — it was **The Launchpad**, the luxury super yacht owned by **Mark Zuckerberg**, the CEO of Meta and founder of Facebook.\n\n### What Did Passengers Say?\n\nA passenger on the Wilderness Legacy named **Michael Love** posted about the incident on the social media platform **Bluesky**. He wrote that the captain of the Wilderness Legacy announced to passengers that the Launchpad was actually closer to the stranded boat, but that it had **\"repeatedly refused to respond\"** to calls for help.\n\nWhen the captain made this announcement, passengers on the cruise ship responded with **booing** — a way of showing disapproval and frustration.\n\n### What Does the Tracking Data Show?\n\nAIS tracking — a system that records the location and movement of ships — appears to support the claim that the Launchpad was closer. The data shows that Zuckerberg's yacht was near the area at the time, but then moved and stopped near the entrance to the bay, away from where the stranded boat was.\n\nIt is not entirely clear why the Launchpad did not respond. No official statement from Zuckerberg or his team has been reported so far.\n\n### Why Does This Matter?\n\nThere is an international rule called the **duty to render assistance at sea**. Under this rule, ships are required to help people in danger on the water if they are able to do so without putting their own crew at serious risk. Not following this rule can have serious legal consequences.\n\nOf course, it is not yet confirmed exactly what happened or why the Launchpad did not respond. But the story has attracted a lot of public attention, especially because of who owns the yacht.\n\nMark Zuckerberg is one of the richest people in the world. His super yacht, the Launchpad, is a very large and expensive vessel. The idea that such a powerful and well-equipped ship may have ignored a call for help — while a standard cruise ship came to the rescue — has upset many people.\n\nThe story is still developing, and more details may come out in the coming days.",
+      "keyVocab": [
+        {
+          "word": "stranded",
+          "meaning": "발이 묶인, 오도 가도 못하는",
+          "example": "The hikers were stranded on the mountain after the storm began."
+        },
+        {
+          "word": "vessel",
+          "meaning": "선박, 배",
+          "example": "The large vessel carried hundreds of passengers across the ocean."
+        },
+        {
+          "word": "tracking data",
+          "meaning": "추적 데이터, 위치 기록 정보",
+          "example": "The tracking data showed exactly where the ship had traveled."
+        },
+        {
+          "word": "render assistance",
+          "meaning": "도움을 제공하다, 구조하다",
+          "example": "Ships are required by law to render assistance to boats in danger."
+        },
+        {
+          "word": "disapproval",
+          "meaning": "반대, 불만의 표시",
+          "example": "The crowd showed their disapproval by booing loudly."
+        }
+      ],
+      "publishedAt": "2026-08-09T17:20:30.000Z"
+    },
+    "9bffd50ed01f": {
+      "id": "9bffd50ed01f",
+      "source": "Variety",
+      "sourceUrl": "https://variety.com/2026/music/news/ariana-grande-debut-petal-album-chart-1236830944/",
+      "title": "Ariana Grande Debuts at No. 1 on Album Chart With ‘Petal,’ Earning Her Best First-Week Numbers in Seven Years",
+      "theme": "music",
+      "themeLabel": "음악",
+      "summary": "아리아나 그란데의 새 앨범 'Petal'이 빌보드 200 차트에서 1위로 데뷔했습니다. 이는 그녀의 7번째 1위 앨범으로, 첫 주에 29만 5천 장에 달하는 판매량을 기록했습니다. 이 수치는 지난 7년간 그녀의 가장 좋은 첫 주 성적입니다.",
+      "difficulty": "B1",
+      "estimatedMinutes": 4,
+      "learnerContent": "## Ariana Grande Reaches No. 1 With New Album 'Petal'\n\nAriana Grande has done it again. Her new album, *Petal*, has debuted at No. 1 on the Billboard 200, one of the most important album charts in the United States. This is her **seventh** No. 1 album — a remarkable achievement for any artist.\n\n### Impressive First-Week Numbers\n\nIn its first week, *Petal* earned 295,000 equivalent album units. This is her best opening-week figure in seven years, making it her strongest start to an album since the early 2020s. \"Equivalent album units\" is a way of measuring an album's popularity. It combines traditional album sales, individual song downloads, and music streaming numbers into one total figure.\n\n### Why Is This News So Big?\n\nReaching No. 1 on the Billboard 200 is a major milestone in the music industry. The chart tracks the most popular albums in America each week. For an artist to have seven No. 1 albums is very rare. Grande joins a small group of elite musicians who have achieved this level of success.\n\nBeyond just the chart position, *Petal* has been the subject of a lot of public conversation. Fans, critics, and media have all been talking about the album's songs and music videos both before and after its release. This kind of attention — called \"buzz\" in the music world — helped drive strong sales and streaming numbers right from the start.\n\n### Ariana Grande's Career So Far\n\nAriana Grande first became famous as a teenager on television before moving into music. Over the years, she has become one of the best-selling music artists in the world. She is known for her powerful voice and her ability to hit very high notes. Some of her most famous previous albums include *Thank U, Next* and *Positions*, both of which also reached No. 1.\n\nHer last major album before *Petal* was *Eternal Sunshine*, released in 2024. That album was also very successful, but *Petal* has now surpassed it in terms of first-week numbers.\n\n### What Makes 'Petal' Special?\n\nWhile full details about *Petal*'s content are still being discussed by fans and critics, the album clearly connected strongly with listeners. In today's music industry, getting people to actually buy or stream an album in its first week is more difficult than ever, because there is so much music available. Earning nearly 300,000 units in just one week shows that Grande's fanbase — often called the \"Arianators\" — is still very dedicated and active.\n\nThe strong performance of *Petal* proves that Ariana Grande remains one of the biggest pop stars in the world, even after more than a decade in the spotlight.",
+      "keyVocab": [
+        {
+          "word": "debut",
+          "meaning": "처음 등장하다 / 데뷔하다",
+          "example": "The new singer debuted at No. 5 on the music chart last week."
+        },
+        {
+          "word": "equivalent album units",
+          "meaning": "음반 판매량 환산 단위 (실물 판매, 다운로드, 스트리밍을 합산)",
+          "example": "The album sold 200,000 equivalent album units, including streams and downloads."
+        },
+        {
+          "word": "milestone",
+          "meaning": "중요한 이정표 / 큰 성과",
+          "example": "Winning her fifth award was a major milestone in the actress's career."
+        },
+        {
+          "word": "surpass",
+          "meaning": "능가하다 / 뛰어넘다",
+          "example": "Her new album surpassed all her previous records in first-week sales."
+        },
+        {
+          "word": "dedicated",
+          "meaning": "헌신적인 / 열성적인",
+          "example": "The dedicated fans waited outside the stadium for hours before the concert."
+        }
+      ],
+      "publishedAt": "2026-08-09T20:01:24.000Z"
+    },
+    "45fe174f198a": {
+      "id": "45fe174f198a",
+      "source": "Variety",
+      "sourceUrl": "https://variety.com/2026/artisans/features/teenage-sex-and-death-at-camp-miasma-jack-haven-little-death-bloody-one-take-dance-1236830889/",
+      "title": "‘Teenage Sex and Death at Camp Miasma’ Cinematographer, Editor and Star Jack Haven Break Down Little Death’s Bloody One-Take Dance",
+      "theme": "film",
+      "themeLabel": "영화",
+      "summary": "'Teenage Sex and Death at Camp Miasma'는 여름 캠프 학살 장면을 단 한 번의 촬영으로 완성한 공포 영화입니다. 감독 제인 쇤브런은 이 장면이 마이클 베이 영화처럼 느껴져야 한다고 했으며, 배우 잭 헤이번이 주인공 Little Death를 연기했습니다. 이 장면은 카운팅 크로우스의 1996년 발라드 'A Long December'에 맞춰 펼쳐집니다.",
+      "difficulty": "B2",
+      "estimatedMinutes": 5,
+      "learnerContent": "## How Filmmakers Created the Bloody One-Take Dance in 'Teenage Sex and Death at Camp Miasma'\n\nOne of the most talked-about moments in the new horror film *Teenage Sex and Death at Camp Miasma* is a shocking, violent dance sequence. In it, a character called Little Death — played by actor Jack Haven — massacres an entire summer camp, all in a single unbroken camera shot. The cinematographer, editor, and star have now spoken about how they pulled it off.\n\n### A Bold Creative Vision\n\nDirector Jane Schoenbrun gave the crew a very specific — and perhaps surprising — instruction for the scene. They wanted it to feel like a **Michael Bay movie**. Bay is a Hollywood director famous for big-budget action films filled with explosive energy, rapid movement, and dramatic visuals. This was a deliberate creative choice: rather than making the horror feel quiet and creepy, Schoenbrun wanted it to feel loud, kinetic, and almost overwhelming.\n\nThis kind of contrast — brutal content presented with the glossy excitement of a blockbuster — is central to what makes the sequence so unsettling and memorable.\n\n### The Challenge of a One-Take Shot\n\nFilming a scene in a single take, without any cuts, is one of the most technically demanding things a film crew can attempt. Every movement by the actor, every camera angle, and every lighting shift must be perfectly coordinated. There is no opportunity to fix a mistake in editing — if something goes wrong, the entire sequence must be restarted from the beginning.\n\nFor a scene as physically demanding as a full massacre set to music, the difficulty is even greater. Jack Haven, who plays Little Death, had to perform complex choreography while staying precisely in time with the song — Counting Crows' melancholic 1996 rock ballad *A Long December*.\n\n### Music as a Dramatic Tool\n\nThe choice of *A Long December* is striking. The song is slow, emotional, and nostalgic — an unusual soundtrack for an act of violence. This contrast between the gentle, reflective music and the brutal on-screen action creates a deeply disorienting effect for the audience. It is a technique sometimes called **tonal juxtaposition**: placing two very different emotional registers side by side to create tension or unease.\n\nThis approach reflects the broader style of *Teenage Sex and Death at Camp Miasma*, which blends horror with sharp social commentary and unconventional filmmaking choices.\n\n### The Collaborative Effort\n\nBehind every great one-take sequence is a team working in perfect coordination. The cinematographer was responsible for keeping the camera moving fluidly throughout the scene, while the editor — despite having no traditional cuts to work with — played a role in shaping the final pacing and tone in post-production. Haven himself has spoken about the physical and emotional demands of embodying Little Death across the full length of the take.\n\nThe result is a sequence that has quickly become one of the most discussed scenes in recent horror cinema.",
+      "keyVocab": [
+        {
+          "word": "one-take",
+          "meaning": "단 한 번의 촬영으로 찍은 (편집 없이)",
+          "example": "The director insisted on a one-take approach to make the scene feel more realistic."
+        },
+        {
+          "word": "kinetic",
+          "meaning": "역동적인 / 활기차고 움직임이 많은",
+          "example": "The action sequence was incredibly kinetic, with the camera constantly in motion."
+        },
+        {
+          "word": "choreography",
+          "meaning": "안무 / 동작 구성",
+          "example": "The actor trained for weeks to master the precise choreography required for the scene."
+        },
+        {
+          "word": "juxtaposition",
+          "meaning": "대비 / 병치 (두 가지 상반된 요소를 나란히 놓는 것)",
+          "example": "The film uses juxtaposition by placing cheerful music over a scene of sadness."
+        },
+        {
+          "word": "melancholic",
+          "meaning": "우울한 / 슬픈 감정을 자아내는",
+          "example": "The melancholic ballad made the audience feel unexpectedly emotional."
+        }
+      ],
+      "publishedAt": "2026-08-09T19:10:35.000Z"
+    },
+    "8c85730ba6bf": {
+      "id": "8c85730ba6bf",
+      "source": "Pitchfork News",
+      "sourceUrl": "https://pitchfork.com/story/charli-xcx-the-strokes-outside-lands/",
+      "title": "Watch Charli XCX Join the Strokes for “Take It Or Leave It” at Outside Lands",
+      "theme": "music",
+      "themeLabel": "음악",
+      "summary": "팝스타 Charli XCX가 샌프란시스코에서 열린 Outside Lands 음악 페스티벌에서 록밴드 The Strokes의 무대에 특별 게스트로 등장했습니다. 그녀는 The Strokes의 곡 \"Take It Or Leave It\"을 함께 공연했습니다. 이 깜짝 등장은 관객들에게 큰 화제가 되었습니다.",
+      "difficulty": "A2",
+      "estimatedMinutes": 3,
+      "learnerContent": "## Charli XCX Joins the Strokes on Stage at Outside Lands\n\nPop superstar Charli XCX made a surprise appearance at the Outside Lands music festival. She joined the rock band the Strokes on stage to perform their song \"Take It Or Leave It.\"\n\n**What Is Outside Lands?**\n\nOutside Lands is a famous music festival held every year in San Francisco, California. Many big artists perform there. Fans come from all over the world to watch their favorite musicians play live.\n\n**The Surprise Moment**\n\nBefore Charli XCX came on stage, one of the Strokes spoke to the crowd. He said, \"We've got a special little guest; a big guest. Well, a superstar.\" The audience did not know who was coming. When Charli XCX walked out, the crowd went wild.\n\nCharli XCX and the Strokes then performed \"Take It Or Leave It\" together. It was an exciting and unexpected moment for everyone at the festival.\n\n**Who Is Charli XCX?**\n\nCharli XCX is a British pop singer and songwriter. She is known for her fun and energetic music style. In recent years, she has become one of the biggest names in pop music. Her album *Brat*, released in 2024, was very popular around the world.\n\n**Who Are the Strokes?**\n\nThe Strokes are a rock band from New York City. They became famous in the early 2000s with songs like \"Last Nite\" and \"Someday.\" \"Take It Or Leave It\" is a track from their well-known debut album *Is This It*, released in 2001. The band is still very popular today, especially at live music events and festivals.\n\n**Why This Moment Was Special**\n\nSeeing two very different artists share a stage is always exciting for music fans. Charli XCX makes pop music, while the Strokes play indie rock. When artists from different genres perform together, it creates a unique and memorable experience.\n\nFans who were at Outside Lands that day were very lucky to see this surprise performance. Videos of the moment were shared widely on social media.",
+      "keyVocab": [
+        {
+          "word": "surprise appearance",
+          "meaning": "깜짝 등장",
+          "example": "The singer made a surprise appearance at the end of the concert."
+        },
+        {
+          "word": "perform",
+          "meaning": "공연하다",
+          "example": "The band will perform their new songs at the festival tonight."
+        },
+        {
+          "word": "crowd",
+          "meaning": "관중, 군중",
+          "example": "The crowd cheered loudly when the superstar walked on stage."
+        },
+        {
+          "word": "debut album",
+          "meaning": "데뷔 앨범",
+          "example": "Their debut album became a huge hit around the world."
+        },
+        {
+          "word": "genre",
+          "meaning": "장르",
+          "example": "Pop and rock are two very different music genres."
+        }
+      ],
+      "publishedAt": "2026-08-09T17:23:04.000Z"
+    },
+    "910a94b4b82e": {
+      "id": "910a94b4b82e",
+      "source": "Pitchfork News",
+      "sourceUrl": "https://pitchfork.com/story/neil-young-and-the-chrome-hearts-return-with-new-album-second-song/",
+      "title": "Neil Young and the Chrome Hearts Return With New Album Second Song",
+      "theme": "music",
+      "themeLabel": "음악",
+      "summary": "전설적인 록 뮤지션 Neil Young이 Chrome Hearts와 함께 새 앨범 'Second Song'을 발표할 예정입니다. 이 앨범은 2026년 9월 18일에 출시되며, 이전 앨범 'Talkin to the Trees'의 후속작입니다. 팬들은 Neil Young의 새로운 음악을 기대하고 있습니다.",
+      "difficulty": "B1",
+      "estimatedMinutes": 4,
+      "learnerContent": "## Neil Young and the Chrome Hearts Announce New Album *Second Song*\n\nLegendary rock musician Neil Young is releasing a new album with his band the Chrome Hearts. The album is called *Second Song* and will be available on September 18, 2026.\n\n**A Follow-Up to *Talkin to the Trees***\n\n*Second Song* is the follow-up to the group's previous album, *Talkin to the Trees*. In the music industry, a \"follow-up\" means the next release that comes after an earlier one. Fans of Neil Young and the Chrome Hearts have been waiting to hear what direction the band would take after *Talkin to the Trees*.\n\nSo far, not many details about *Second Song* have been shared, such as a track list or information about the sound and style of the record. However, the announcement of a release date has already created excitement among fans.\n\n**Who Is Neil Young?**\n\nNeil Young is a Canadian-American singer, songwriter, and guitarist. He first became famous in the late 1960s and early 1970s, both as a solo artist and as a member of the band Crosby, Stills, Nash & Young. He is known for his distinctive voice and his ability to move between different styles of music, including folk, rock, and country.\n\nSome of his most celebrated songs include \"Heart of Gold,\" \"Old Man,\" and \"Rockin' in the Free World.\" Over the decades, he has continued to release new music and tour regularly, earning a reputation as one of rock music's most dedicated and influential artists.\n\n**Who Are the Chrome Hearts?**\n\nThe Chrome Hearts is Neil Young's current backing band. Together, they have continued to explore a raw, guitar-driven sound that connects with Young's long musical history. *Talkin to the Trees*, their previous album together, was well received by fans and critics who appreciate Young's classic style.\n\n**What to Expect**\n\nWhile details about *Second Song* remain limited for now, Neil Young has a strong track record of delivering honest and powerful music. His albums often reflect personal experiences and social themes, giving listeners something meaningful to connect with.\n\nFans can mark September 18 on their calendars and look forward to hearing new music from one of rock's most enduring figures.",
+      "keyVocab": [
+        {
+          "word": "follow-up",
+          "meaning": "후속작",
+          "example": "The band's follow-up to their debut album was even more successful."
+        },
+        {
+          "word": "distinctive",
+          "meaning": "독특한, 특색 있는",
+          "example": "The singer has a very distinctive voice that is easy to recognize."
+        },
+        {
+          "word": "backing band",
+          "meaning": "반주 밴드",
+          "example": "The famous guitarist performed with a new backing band on his latest tour."
+        },
+        {
+          "word": "track record",
+          "meaning": "실적, 경력",
+          "example": "She has a strong track record of producing hit songs every year."
+        },
+        {
+          "word": "enduring",
+          "meaning": "오래 지속되는, 변함없는",
+          "example": "He is one of the most enduring figures in the history of rock music."
+        }
+      ],
+      "publishedAt": "2026-08-07T17:43:42.000Z"
     }
   }
 }

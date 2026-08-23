@@ -1,367 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-16T21:19:05.401Z",
+  "updatedAt": "2026-08-23T21:20:21.033Z",
   "articles": {
-    "5b8d8985c49e": {
-      "id": "5b8d8985c49e",
-      "source": "Hankyoreh English",
-      "sourceUrl": "https://www.hani.co.kr/arti/english_edition/e_entertainment/1268833.html",
-      "title": "[Korea travels] Move over K-BBQ, it’s Korean charcuterie’s time to shine",
-      "theme": "culture",
-      "themeLabel": "문화",
-      "summary": "한국식 샤퀴테리(육가공 식품)가 K-BBQ에 이어 새로운 한식 트렌드로 주목받고 있습니다. 전통 한국 육가공 문화가 현대적으로 재해석되며 국내외에서 인기를 얻고 있습니다.",
-      "difficulty": "B1",
-      "estimatedMinutes": 4,
-      "learnerContent": "## Move Over K-BBQ: Korean Charcuterie Is Having Its Moment\n\nFor years, Korean BBQ has been the star of the global food scene. Images of sizzling meat on a tabletop grill have become famous worldwide. But now, another part of Korean food culture is stepping into the spotlight — Korean charcuterie.\n\n### What Is Charcuterie?\n\nCharcuterie (pronounced \"shar-KOO-tuh-ree\") is a French word for preserved or cured meat products. Think of items like sausages, cured ham, and dried meats. Many cultures around the world have their own versions of these foods, and Korea is no exception.\n\nKorea has a long and rich tradition of preparing and preserving meat. Long before refrigerators existed, Korean cooks developed clever ways to keep meat fresh and flavorful. These methods created unique products that are deeply connected to Korean history and regional identity.\n\n### Traditional Korean Meat Products\n\nSome well-known examples of traditional Korean cured and preserved meats include **bossam** (boiled pork belly), **jeyuk** (spiced pork), and **sundae** (Korean blood sausage). There is also **편육** (pyeonyuk), which is pressed and sliced boiled meat, often served cold as an appetizer or side dish.\n\nMany of these dishes have been eaten for hundreds of years. They were originally made in homes and sold at traditional markets. Today, chefs and food producers are taking these old recipes and giving them a fresh, modern twist.\n\n### A Growing Food Trend\n\nIn recent years, Korean charcuterie boards have started appearing at restaurants, cafes, and food festivals both inside Korea and abroad. These boards feature a mix of traditional Korean cured meats alongside local cheeses, fermented vegetables like kimchi, and various sauces and pickles.\n\nThis trend is exciting because it blends Korean culinary tradition with a Western-style dining format that many people are already familiar with. It makes Korean preserved meats more accessible and visually appealing to international audiences.\n\nFood tourists visiting Korea are now seeking out specialty shops and restaurants that focus on traditional Korean meat products. Cities like Seoul, Jeonju, and Andong — all known for their strong food cultures — are popular destinations for this kind of culinary experience.\n\n### Why Now?\n\nSeveral factors are helping Korean charcuterie gain attention. The global rise of interest in Korean culture, driven by K-pop, Korean dramas, and Korean cinema, has made people curious about all aspects of Korean life — including food.\n\nAt the same time, there is a worldwide trend toward artisanal and traditionally made foods. Consumers are increasingly interested in knowing where their food comes from and how it is made. Korean charcuterie fits perfectly into this movement, as many products are still made using time-honored, handcrafted techniques.\n\nChefs both in Korea and overseas are also experimenting with Korean flavors in new ways. By introducing Korean cured meats to wider audiences through modern presentations, they are helping to build interest and appreciation.\n\n### The Future of Korean Food Culture\n\nKorean BBQ is not going anywhere — it remains one of the most beloved dining experiences in the world. But the growing popularity of Korean charcuterie shows that Korean food culture is rich and varied. There is always something new to discover.\n\nWhether you are visiting Korea for the first time or are already a fan of Korean cuisine, exploring the world of Korean preserved meats is a delicious and rewarding experience. The next time you sit down to eat Korean food, look beyond the grill — you might find something truly special.",
-      "keyVocab": [
-        {
-          "word": "charcuterie",
-          "meaning": "육가공 식품 (소시지, 햄 등 보존 처리된 고기류)",
-          "example": "The restaurant offered a charcuterie board with a variety of cured meats and pickles."
-        },
-        {
-          "word": "preserved",
-          "meaning": "보존된, 저장된",
-          "example": "Preserved foods like dried fish and pickled vegetables last much longer than fresh ones."
-        },
-        {
-          "word": "artisanal",
-          "meaning": "장인이 만든, 수공예 방식의",
-          "example": "Many people prefer artisanal bread because it is made by hand using traditional methods."
-        },
-        {
-          "word": "culinary",
-          "meaning": "요리의, 음식과 관련된",
-          "example": "Jeonju is famous for its rich culinary traditions and delicious local dishes."
-        },
-        {
-          "word": "accessible",
-          "meaning": "접근하기 쉬운, 이해하기 쉬운",
-          "example": "Presenting Korean food in a familiar format makes it more accessible to foreign visitors."
-        }
-      ],
-      "publishedAt": "2026-07-19T21:46:58.022Z"
-    },
-    "0328ab0e27fa": {
-      "id": "0328ab0e27fa",
-      "source": "Hankyoreh English",
-      "sourceUrl": "https://www.hani.co.kr/arti/english_edition/e_national/1268830.html",
-      "title": "Lee has a mandate to tackle inequality. Will he betray it?",
-      "theme": "politics",
-      "themeLabel": "시사",
-      "summary": "한국의 새 대통령 이재명은 불평등 해소를 핵심 공약으로 내세워 강력한 민심을 얻었습니다. 그러나 경제적 기득권층과의 갈등 속에서 공약을 실제로 이행할 수 있을지에 대한 의문이 제기되고 있습니다.",
-      "difficulty": "B2",
-      "estimatedMinutes": 5,
-      "learnerContent": "## Lee Has a Mandate to Tackle Inequality. Will He Betray It?\n\nSouth Korea's new president, Lee Jae-myung, won his election with a clear and powerful message: it is time to address the country's deep and growing inequality. Voters gave him a strong mandate — a public endorsement — to make change happen. But as he begins his presidency, a critical question hangs in the air: will he actually follow through?\n\n### A Country Divided by Wealth\n\nSouth Korea is one of the world's most economically advanced nations. It is home to global giants like Samsung, Hyundai, and LG. Yet beneath the surface of this prosperity, inequality has been widening for decades.\n\nHousing costs in major cities, especially Seoul, have become unaffordable for many ordinary families. Young people face intense competition for a limited number of stable, well-paying jobs. Meanwhile, large family-owned conglomerates — known as **chaebol** — continue to dominate the economy and accumulate enormous wealth.\n\nThis sense of frustration and unfairness was a major driving force behind Lee's electoral victory. His supporters, many of them younger voters and working-class citizens, believed he would fight for a fairer economic system.\n\n### What Did Lee Promise?\n\nDuring his campaign, Lee Jae-myung proposed several bold policies aimed at redistributing wealth and reducing inequality. These included stronger regulations on real estate speculation, expanded welfare programs, and measures to reform the power of the chaebol.\n\nHe also spoke about the importance of a fair society in which hard work — not inherited wealth or connections — determines a person's success. For many South Koreans who feel the system is rigged against them, this message was deeply appealing.\n\n### The Pressure to Compromise\n\nHowever, governing is far more complicated than campaigning. Once in power, leaders face enormous pressure from powerful interest groups, business lobbies, and political opponents who resist change. Economic reform, in particular, tends to create fierce resistance from those who benefit from the existing system.\n\nSome political analysts warn that progressive leaders in South Korea have historically struggled to implement meaningful economic reform. They argue that institutional inertia — the tendency of systems to resist change — and the outsized influence of the chaebol make genuine structural reform extremely difficult.\n\nThere is also the question of political pragmatism. To pass legislation, Lee will need to build coalitions and make compromises. Critics worry that in doing so, he may gradually water down the bold promises that got him elected.\n\n### What Supporters Are Watching\n\nLee's supporters are watching closely to see whether his actions match his rhetoric. Early policy decisions, cabinet appointments, and legislative priorities will all send important signals about his true intentions.\n\nKey tests will include how aggressively his government pursues real estate reform, whether it challenges chaebol privilege in a meaningful way, and how much it expands the social safety net for vulnerable citizens.\n\nIf Lee moves too slowly or backs away from his core commitments, he risks disillusioning the very voters who brought him to power. That kind of betrayal — whether perceived or real — can quickly erode public trust and political capital.\n\n### A Defining Moment\n\nLee Jae-myung's presidency represents a defining moment for South Korea. The country's citizens have clearly expressed their desire for a fairer society. The question is whether their new leader has both the will and the ability to deliver it.\n\nHistory will judge not by what Lee promised, but by what he actually does. The mandate is there. Whether he uses it — or squanders it — remains to be seen.",
-      "keyVocab": [
-        {
-          "word": "mandate",
-          "meaning": "권한, 위임; 선거를 통해 부여된 국민의 지지",
-          "example": "The party won the election with a strong mandate to reform the healthcare system."
-        },
-        {
-          "word": "inequality",
-          "meaning": "불평등",
-          "example": "Growing income inequality has become one of the most serious political issues in many countries."
-        },
-        {
-          "word": "chaebol",
-          "meaning": "재벌 (한국의 대형 가족 소유 기업 집단)",
-          "example": "The chaebol have dominated South Korea's economy for decades, controlling vast amounts of wealth."
-        },
-        {
-          "word": "pragmatism",
-          "meaning": "실용주의, 현실적 타협",
-          "example": "Political pragmatism sometimes means compromising on key promises in order to get legislation passed."
-        },
-        {
-          "word": "erode",
-          "meaning": "약화시키다, 점차 무너뜨리다",
-          "example": "Repeated broken promises can erode public trust in a government over time."
-        }
-      ],
-      "publishedAt": "2026-07-19T21:46:58.022Z"
-    },
-    "c4761b761b61": {
-      "id": "c4761b761b61",
-      "source": "BBC Business",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx278ed09nzo?at_medium=RSS&at_campaign=rss",
-      "title": "Thames Water lenders preparing legal challenge in event of Burnham nationalisation",
-      "theme": "business",
-      "themeLabel": "경제",
-      "summary": "영국 최대 수도 회사인 템스워터의 채권자들이 앤디 번햄 정부가 회사를 국유화할 경우 법적 대응을 준비하고 있습니다. 채권자들은 수십억 파운드에 달하는 채무 전액 상환을 요구할 계획입니다. 이는 영국 수도 민영화 정책을 둘러싼 큰 논쟁으로 이어질 수 있습니다.",
-      "difficulty": "B1",
-      "estimatedMinutes": 4,
-      "learnerContent": "## Thames Water Lenders Prepare Legal Fight Over Possible Nationalisation\n\nThames Water, the largest water company in the United Kingdom, is at the centre of a major financial and political dispute. The company's lenders — organisations and investors who have lent the company large amounts of money — are preparing a legal challenge if the government decides to nationalise it.\n\n### What Is Nationalisation?\n\nNationalisation means that the government takes ownership and control of a private company. When this happens, the company is no longer owned by private investors. Instead, it is run by the state on behalf of the public.\n\nAndy Burnham's government has been discussing the possibility of nationalising Thames Water. This would bring the company under public control, similar to how many water services were managed in the UK before the 1980s, when the government sold them to private companies.\n\n### Why Are Lenders Worried?\n\nThames Water has enormous debts — money it borrowed from banks and other lenders over many years. These debts are worth several billion pounds. The lenders are concerned that if the government nationalises the company, they may not receive the full amount of money they are owed.\n\nAccording to the BBC, creditors — another word for lenders or people owed money — are preparing to take legal action. They want to make sure they are paid the full outstanding amount. \"Outstanding\" means the money that has not yet been paid back.\n\n### What Could Happen Next?\n\nIf the government moves ahead with nationalisation, the legal battle could become very complicated and very expensive. The lenders believe they have a legal right to be paid in full, even if the company is taken over by the government.\n\nThis situation raises important questions. Who should pay for the debts? Should taxpayers cover the cost, or should the original private investors accept a loss? These are difficult questions with no easy answers.\n\n### Background: Thames Water's Problems\n\nThames Water has been struggling financially for some time. The company provides water and sewage services to around 16 million people in London and the surrounding area. However, it has faced heavy criticism for leaking pipes, sewage spills into rivers, and rising customer bills.\n\nThe company's financial problems have grown serious enough that the government is now considering whether to step in. Nationalisation is seen by some as a way to stabilise the company and protect customers. Others argue it would be too costly for the public.\n\n### A Growing Debate\n\nThe possible nationalisation of Thames Water is part of a wider debate in the UK about whether essential services like water should be privately owned or run by the government. Supporters of nationalisation say that water is a basic human need and should not be managed for profit. Critics say that government-run services can be inefficient and expensive for taxpayers.\n\nFor now, no final decision has been made. But the preparation of legal challenges by lenders shows that any move toward nationalisation will not be simple or cheap.",
-      "keyVocab": [
-        {
-          "word": "nationalisation",
-          "meaning": "국유화 (정부가 민간 기업을 공공 소유로 전환하는 것)",
-          "example": "The nationalisation of the water company means it will now be controlled by the government."
-        },
-        {
-          "word": "creditor",
-          "meaning": "채권자 (돈을 빌려준 사람이나 기관)",
-          "example": "The creditors demanded to be paid back before the company closed."
-        },
-        {
-          "word": "outstanding",
-          "meaning": "미지급의, 아직 갚지 않은",
-          "example": "She still had an outstanding debt of £5,000 on her loan."
-        },
-        {
-          "word": "legal challenge",
-          "meaning": "법적 이의 제기, 소송",
-          "example": "The company filed a legal challenge against the new government regulation."
-        },
-        {
-          "word": "dispute",
-          "meaning": "분쟁, 논쟁",
-          "example": "The two companies are involved in a dispute over who owns the patent."
-        }
-      ],
-      "publishedAt": "2026-07-19T18:35:16.000Z"
-    },
-    "f761bfa71c4d": {
-      "id": "f761bfa71c4d",
-      "source": "NYT Business",
-      "sourceUrl": "https://www.nytimes.com/2026/07/19/business/media/the-odyssey-box-office-christopher-nolan.html",
-      "title": "Nolan’s ‘The Odyssey’ Brings in $124.5 Million at the Box Office on Opening Weekend",
-      "theme": "film",
-      "themeLabel": "영화",
-      "summary": "크리스토퍼 놀란 감독의 새 영화 '오디세이'가 개봉 첫 주말에 미국과 캐나다에서 약 1억 2,450만 달러의 수익을 올리며 박스오피스 1위를 차지했습니다. 이 영화는 상영 시간이 거의 3시간에 달하는 대작입니다. 놀란 감독의 영화는 항상 많은 관심을 받는 것으로 유명합니다.",
-      "difficulty": "A2",
-      "estimatedMinutes": 4,
-      "learnerContent": "## Nolan's New Movie 'The Odyssey' Has a Big Opening Weekend\n\nChristopher Nolan has done it again. His new movie, *The Odyssey*, earned about **$124.5 million** in ticket sales during its opening weekend. It was the number one movie in the United States and Canada.\n\n### A Very Long Movie\n\n*The Odyssey* is almost **three hours long**. That is a very long time to sit in a cinema! However, many people still went to see it. This shows that audiences trust Christopher Nolan to make interesting and exciting films, even when they are very long.\n\n### Who Is Christopher Nolan?\n\nChristopher Nolan is one of the most famous film directors in the world. He was born in London, England, and now works in Hollywood. He is known for making big, clever, and visually stunning films.\n\nSome of his most famous movies include:\n\n- **The Dark Knight** (2008) — a superhero film about Batman\n- **Inception** (2010) — a science fiction film about dreams\n- **Interstellar** (2014) — a space adventure film\n- **Dunkirk** (2017) — a World War Two film\n- **Oppenheimer** (2023) — a film about the scientist who helped create the atomic bomb\n\nAll of these films were very successful at the box office. *Oppenheimer*, for example, earned over **$950 million** worldwide.\n\n### What Is 'The Odyssey' About?\n\n*The Odyssey* is based on a very old and famous story. It comes from an ancient Greek poem written by a poet called Homer. The story follows a hero named Odysseus. After a long war, he tries to sail home to his family. But the journey is very dangerous, and it takes him **ten years** to get there. Along the way, he meets monsters, gods, and many other challenges.\n\nThe story of Odysseus is one of the oldest adventure stories in the world. Many people study it in school. Nolan's film brings this ancient story to life in a modern, exciting way.\n\n### Why Is the Box Office Number Important?\n\nThe **box office** is the total amount of money a film earns from ticket sales. A strong opening weekend is very important for a movie. It shows that many people want to see the film right away. It also helps the movie make money for the studio.\n\nEarning over $124 million in just one weekend is excellent. Not many films can do this. It means that *The Odyssey* is already a big success.\n\n### What People Are Saying\n\nFans and critics are excited about the film. Many people say that Nolan is one of the best directors working today. His films are always big events in the cinema world.\n\nIf you enjoy action, adventure, and stunning visuals, *The Odyssey* might be the perfect film for you — just make sure you have enough time!",
-      "keyVocab": [
-        {
-          "word": "box office",
-          "meaning": "박스오피스 (영화 티켓 판매 수익)",
-          "example": "The new superhero film had the biggest box office opening of the year."
-        },
-        {
-          "word": "epic",
-          "meaning": "대작, 웅장한 이야기",
-          "example": "The director spent five years making his epic film about ancient Rome."
-        },
-        {
-          "word": "opening weekend",
-          "meaning": "개봉 첫 주말",
-          "example": "The movie earned $80 million during its opening weekend."
-        },
-        {
-          "word": "ancient",
-          "meaning": "고대의, 아주 오래된",
-          "example": "The ancient Greek story is still read by students around the world today."
-        },
-        {
-          "word": "stunning",
-          "meaning": "매우 인상적인, 놀라운",
-          "example": "The stunning visual effects made the audience feel like they were really in space."
-        }
-      ],
-      "publishedAt": "2026-07-19T16:54:07.000Z"
-    },
-    "226f8dab54c2": {
-      "id": "226f8dab54c2",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/entertainment/967696/four-tet-wingdings-album-review",
-      "title": "This unpronounceable series of glyphs is an incredible side project from Kieran Hebden (aka Four Tet)",
-      "theme": "music",
-      "themeLabel": "음악",
-      "summary": "영국 음악 프로듀서 Four Tet(본명 Kieran Hebden)이 발음도 검색도 불가능한 특수 기호들로 이루어진 이름의 음악 프로젝트를 공개했습니다. 이 기호들은 플랫폼마다 다르게 표시되며, 아티스트 이름 역시 읽을 수 없는 문자들로 구성되어 있습니다. 이 독특한 프로젝트는 음악 팬들 사이에서 큰 화제가 되고 있습니다.",
-      "difficulty": "B1",
-      "estimatedMinutes": 4,
-      "learnerContent": "## Four Tet's Unpronounceable Side Project\n\nKieran Hebden, the British musician known as **Four Tet**, is famous for making creative and experimental electronic music. He has been making music for over 20 years and has many fans around the world. Recently, however, he surprised everyone with a very unusual side project.\n\n### A Name You Cannot Read or Say\n\nHebden released new music under a name that is not made of normal letters. Instead, the artist name is a long series of special symbols and glyphs — characters that most people cannot type, pronounce, or even search for online. You simply cannot Google it.\n\nThe album or project title is also made of these strange glyphs. It looks like a collection of random marks stacked on top of each other, almost like something went wrong with a computer's text display. Some people compare this style to \"Zalgo text\" — a type of distorted text that uses many special Unicode characters to create a chaotic, broken look.\n\n### It Looks Different Everywhere\n\nOne of the most interesting — and frustrating — things about this project is that it does not look the same on every platform. On YouTube Music, the title appears one way. On Apple Music, it looks different. On Bandcamp, it looks different again. This means there is no single, stable visual identity for the project. It changes depending on where you see it.\n\nThis makes the project almost impossible to discuss in a normal way. Writers and fans who want to talk about it cannot simply type the name. They have to find workarounds, like describing it or using a screenshot.\n\n### A Bold Artistic Choice\n\nThis kind of move is not completely new in music. The artist formerly known as Prince famously changed his name to an unpronounceable symbol in 1993 to make a statement about his record label. However, Hebden seems to be doing this more as a creative experiment — pushing the limits of how music can be named and discovered in the digital age.\n\nWhy would an artist do this? Some fans think it is a comment on how streaming platforms control music and identity. Others think it is simply Hebden having fun and testing what is possible. Either way, it forces listeners to engage with the music differently. You cannot find it by searching a name. You have to already know about it, or someone has to share it with you directly.\n\n### A True Side Project\n\nHebden has called this a \"side project,\" separate from his main work as Four Tet. It shows that even well-established artists enjoy experimenting and stepping outside their usual style. The music itself, according to early listeners, fits into Hebden's typical electronic and ambient sound — even if the packaging around it is anything but typical.\n\nWhether this project becomes well-known or stays a niche curiosity, it is a reminder that in music, the way you present yourself can be just as creative as the sounds you make.",
-      "keyVocab": [
-        {
-          "word": "glyph",
-          "meaning": "기호, 상형 문자",
-          "example": "The artist's name was written using strange glyphs that nobody could read."
-        },
-        {
-          "word": "unpronounceable",
-          "meaning": "발음할 수 없는",
-          "example": "The title of the album was completely unpronounceable, even for native speakers."
-        },
-        {
-          "word": "experimental",
-          "meaning": "실험적인",
-          "example": "She loved experimental music that broke the rules of normal songs."
-        },
-        {
-          "word": "distorted",
-          "meaning": "왜곡된, 변형된",
-          "example": "The distorted text on the screen looked like a computer error."
-        },
-        {
-          "word": "workaround",
-          "meaning": "대안적인 해결 방법",
-          "example": "Since the button was broken, he found a workaround to complete the task."
-        }
-      ],
-      "publishedAt": "2026-07-19T21:02:45.000Z"
-    },
-    "31327c329037": {
-      "id": "31327c329037",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/gadgets/967687/kodak-ec35-point-and-shoot-film-camera",
-      "title": "Kodak EC35 is a dirt-cheap point-and-shoot film camera",
-      "theme": "tech",
-      "themeLabel": "기술",
-      "summary": "Reto Project가 Kodak 브랜드의 새로운 35mm 필름 카메라 'EC35'를 단 34.99달러에 출시했습니다. 이 카메라는 매우 간단하게 사용할 수 있으며, 일회용 카메라와 비슷한 수준의 기능을 가지고 있습니다. 특별한 기능은 거의 없지만 가격이 매우 저렴한 것이 특징입니다.",
-      "difficulty": "A2",
-      "estimatedMinutes": 4,
-      "learnerContent": "## The Kodak EC35: A Very Cheap Film Camera\n\nDo you like taking photos with film cameras? If yes, you might be interested in a new camera called the **Kodak EC35**. It is made by a company called **Reto Project**, and it costs only **$34.99**. That is very cheap for a film camera!\n\n### What Is the Kodak EC35?\n\nThe EC35 is a **35mm point-and-shoot film camera**. \"Point-and-shoot\" means you just point the camera at something and press the button. You do not need to change many settings. It is very simple to use.\n\nReto Project already made another Kodak camera called the **Snapic A1**, which costs $99. The EC35 is cheaper and even simpler than the A1.\n\n### Simple Features\n\nThe EC35 has a **25mm acrylic lens**. The aperture is fixed at **f/10**, and the shutter speed is fixed at **1/100**. This means you cannot change how much light comes into the camera. These settings are similar to a **disposable camera** — the kind you can buy at a drugstore and throw away after use.\n\nThe camera also has **manual wind and rewind**. This means you turn a small wheel by hand to move the film after each photo, and you rewind it by hand when the film is finished. There is no automatic motor to do this for you.\n\nThe EC35 also has a **built-in automatic flash**. The flash turns on by itself when it is needed. This is helpful when you are in a dark place.\n\n### What It Does Not Have\n\nThe EC35 is very basic. It does not have a **double exposure feature**, which lets you take two photos on the same piece of film. The more expensive Snapic A1 has this feature, but the EC35 does not.\n\nIt also does not have **zone focusing**. Zone focusing lets you choose how far away your subject is, so the photo is clearer. Without it, the EC35 just focuses at one fixed distance.\n\n### Who Is This Camera For?\n\nThe EC35 is a great camera for **beginners** who want to try film photography for the first time. It is also good for people who want a fun, easy camera to carry around. Because it is so cheap, you do not need to worry too much about breaking it or losing it.\n\nThe camera comes in different colors. One popular color is **avocado green**, which looks stylish and fun.\n\nIf you want a simple, low-cost way to enjoy film photography, the Kodak EC35 could be a great choice. It will not take perfect professional photos, but it will give your pictures a classic, retro film look that many people love.",
-      "keyVocab": [
-        {
-          "word": "point-and-shoot",
-          "meaning": "자동 초점 소형 카메라 (간단히 찍을 수 있는)",
-          "example": "A point-and-shoot camera is easy to use because you don't need to change many settings."
-        },
-        {
-          "word": "aperture",
-          "meaning": "조리개 (카메라 렌즈의 빛이 들어오는 구멍 크기)",
-          "example": "A fixed aperture means you cannot control how much light enters the camera."
-        },
-        {
-          "word": "disposable",
-          "meaning": "일회용의",
-          "example": "She bought a disposable camera for the trip because it was cheap and simple."
-        },
-        {
-          "word": "rewind",
-          "meaning": "되감다 (필름을 처음으로 되돌리다)",
-          "example": "After finishing the film, he had to rewind it by hand before opening the camera."
-        },
-        {
-          "word": "retro",
-          "meaning": "복고풍의, 옛날 스타일의",
-          "example": "Film cameras give photos a retro look that digital cameras cannot copy exactly."
-        }
-      ],
-      "publishedAt": "2026-07-19T19:26:06.000Z"
-    },
-    "e418808a2ac5": {
-      "id": "e418808a2ac5",
-      "source": "Variety",
-      "sourceUrl": "https://variety.com/2026/film/news/ben-shapiro-the-odyssey-masterpiece-christopher-nolan-1236816164/",
-      "title": "Ben Shapiro Calls ‘The Odyssey’ a ‘Masterpiece’ Despite Conservative Outrage: Christopher Nolan Is the ‘Best Working Director Today’",
-      "theme": "entertainment",
-      "themeLabel": "엔터",
-      "summary": "보수 논객 벤 샤피로가 크리스토퍼 놀란 감독의 신작 '오디세이'를 '걸작'이라고 극찬했습니다. 일부 보수층이 영화의 캐스팅과 역사적 정확성에 대해 반발했음에도 불구하고, 샤피로는 놀란이 현재 활동 중인 최고의 감독이라고 밝혔습니다.",
-      "difficulty": "B1",
-      "estimatedMinutes": 3,
-      "learnerContent": "## Ben Shapiro Praises Christopher Nolan's 'The Odyssey' Despite Conservative Criticism\n\nBen Shapiro, a well-known conservative commentator in the United States, has posted a long review of Christopher Nolan's new film, *The Odyssey*, on his YouTube channel. The review is 18 minutes long, and Shapiro calls the film a \"masterpiece.\"\n\nThis is surprising to many people because some conservatives have been angry about the film. Their complaints are mainly about two things: the cast and the film's historical accuracy. Some conservative viewers feel that the casting choices do not match the original Greek story, and they believe the film changes too many historical details.\n\n**Shapiro Defends the Film**\n\nHowever, Shapiro disagrees with these critics. He strongly supports Nolan's work and says the director is \"unparalleled\" — meaning no other director can match his skill. In his review, Shapiro says, \"He's the best director working today, without a doubt. He just creates iconic movie after iconic movie.\"\n\nFor Shapiro, the quality of Nolan's filmmaking is more important than the complaints about casting or historical details.\n\n**About the Film**\n\n*The Odyssey* is based on the ancient Greek epic poem written by Homer. The story follows a hero named Odysseus on his long and dangerous journey home after the Trojan War. It is one of the most famous stories in world literature, and many filmmakers have tried to bring it to the big screen over the years.\n\nChristopher Nolan is the director of many popular and critically praised films, including *Inception*, *Interstellar*, *Dunkirk*, and *Oppenheimer*. His films are known for their complex stories, stunning visuals, and deep themes.\n\n**Why This Story Matters**\n\nIt is interesting when a public figure like Shapiro praises a film that his own political group is criticizing. It shows that opinions about art and film can sometimes cross political lines.\n\nShapiro's review has received a lot of attention online. Some people agree with him and say the film is excellent. Others in the conservative community feel he is wrong to defend it.\n\nAs *The Odyssey* continues to be discussed, it is clear that the film is creating strong reactions — both positive and negative — from audiences around the world.",
-      "keyVocab": [
-        {
-          "word": "masterpiece",
-          "meaning": "걸작, 최고의 작품",
-          "example": "Many critics called the painting a masterpiece because of its beautiful details."
-        },
-        {
-          "word": "commentator",
-          "meaning": "논평가, 해설자",
-          "example": "The political commentator shared his opinion about the new law on television."
-        },
-        {
-          "word": "unparalleled",
-          "meaning": "비할 데 없는, 타의 추종을 불허하는",
-          "example": "Her skill as a pianist is unparalleled — no one plays as beautifully as she does."
-        },
-        {
-          "word": "accuracy",
-          "meaning": "정확성",
-          "example": "The teacher praised the student for the accuracy of her answers on the test."
-        },
-        {
-          "word": "epic",
-          "meaning": "서사시, 대서사적인",
-          "example": "The book is an epic story about a hero's journey across many lands."
-        }
-      ],
-      "publishedAt": "2026-07-19T21:24:08.000Z"
-    },
-    "df3992fdd3bf": {
-      "id": "df3992fdd3bf",
-      "source": "Variety",
-      "sourceUrl": "https://variety.com/2026/music/news/fifa-halftime-madonna-bts-justin-bieber-shakira-1236816110/",
-      "title": "Madonna, BTS, Justin Bieber and Shakira Join Forces for Blink-and-You’ll-Miss-‘Em Moments in a Cluster-FIFA of a Halftime Show",
-      "theme": "entertainment",
-      "themeLabel": "엔터",
-      "summary": "FIFA 월드컵 결승전 하프타임 쇼에 마돈나, BTS, 저스틴 비버, 샤키라 등 세계적인 스타들이 총출동했습니다. 그러나 11분이라는 짧은 시간에 너무 많은 아티스트가 등장해, 각 공연이 매우 짧았다는 평가를 받았습니다.",
-      "difficulty": "B1",
-      "estimatedMinutes": 4,
-      "learnerContent": "## FIFA World Cup Final Halftime Show: Too Many Stars, Too Little Time\n\nThe FIFA World Cup Final Halftime Show featured some of the biggest names in music — but many fans felt the show tried to include too much in too little time.\n\nThe 11-minute performance included Madonna, BTS, Justin Bieber, Shakira, Burna Boy, classical conductor Gustavo Dudamel, Coldplay's Chris Martin, and even the Muppets. That is a remarkable number of performers for such a short show.\n\n**A Crowded Stage**\n\nWith so many artists appearing in just 11 minutes, each performer only had a very brief moment on stage. Some fans joked that if you looked away for even a second, you might miss your favorite artist entirely. The show felt more like a quick collection of cameos than a full concert performance.\n\nBefore the event, there were reports that the halftime show might be given extra time to fit all the performers. However, it appears the show stayed close to its original 11-minute limit, which made it very difficult to give each artist enough time to shine.\n\n**The Artists**\n\nThe lineup was truly global. Madonna is one of the best-selling music artists of all time and has been a pop icon since the 1980s. BTS is the hugely popular South Korean K-pop group with hundreds of millions of fans worldwide. Justin Bieber is a Canadian pop star who has been famous since he was a teenager. Shakira, from Colombia, is known for her energetic performances and is a fan favorite at major sporting events — she famously performed at the 2010 FIFA World Cup Final halftime show as well.\n\nBurna Boy is a celebrated Nigerian Afrobeats artist. Gustavo Dudamel is a world-famous Venezuelan conductor who leads the Los Angeles Philharmonic orchestra. Chris Martin is the lead singer of British rock band Coldplay. And the Muppets — the beloved puppet characters — added a fun and unexpected touch to the event.\n\n**Fan Reactions**\n\nFan reactions to the show were mixed. Many people were excited to see so many famous artists together in one place. However, others felt frustrated that each performance was so short. Some said it felt rushed and that the artists deserved more time to perform.\n\nHalftime shows at major sporting events are always challenging to organize because of strict time limits. Fitting a global lineup of this size into 11 minutes is an enormous task — and not everyone felt it worked well this time.",
-      "keyVocab": [
-        {
-          "word": "halftime show",
-          "meaning": "하프타임 쇼 (경기 중간 휴식 시간의 공연)",
-          "example": "Millions of people watched the halftime show during the Super Bowl."
-        },
-        {
-          "word": "cameo",
-          "meaning": "카메오 출연, 짧은 특별 출연",
-          "example": "The famous director made a cameo in his own film, appearing for just a few seconds."
-        },
-        {
-          "word": "lineup",
-          "meaning": "출연진, 참가자 명단",
-          "example": "The music festival announced an exciting lineup of artists for this year's event."
-        },
-        {
-          "word": "icon",
-          "meaning": "아이콘, 상징적인 인물",
-          "example": "She became a fashion icon because of her unique and influential style."
-        },
-        {
-          "word": "conductor",
-          "meaning": "지휘자",
-          "example": "The conductor raised his baton, and the orchestra began to play."
-        }
-      ],
-      "publishedAt": "2026-07-19T20:40:27.000Z"
-    },
-    "7ee04a6dbf3d": {
-      "id": "7ee04a6dbf3d",
-      "source": "Pitchfork News",
-      "sourceUrl": "https://pitchfork.com/story/l7-bassist-jennifer-finch-dies-at-59/",
-      "title": "L7 Bassist Jennifer Finch Dies at 59",
-      "theme": "music",
-      "themeLabel": "음악",
-      "summary": "그런지 밴드 L7의 베이시스트 제니퍼 핀치가 59세의 나이로 세상을 떠났습니다. 그녀는 공격적인 형태의 뇌암 진단을 받은 후 토요일에 사망했습니다. 핀치는 1990년대 그런지 및 펑크 록 음악계에서 중요한 인물로 기억됩니다.",
-      "difficulty": "B1",
-      "estimatedMinutes": 3,
-      "learnerContent": "## L7 Bassist Jennifer Finch Dies at 59\n\nJennifer Finch, the bassist of the American rock band L7, has passed away at the age of 59. She died on Saturday after being diagnosed with an aggressive form of brain cancer. The music world is mourning the loss of one of its most important figures from the 1990s alternative rock scene.\n\n### Who Was Jennifer Finch?\n\nJennifer Finch was a musician best known for playing bass guitar in L7, an all-female rock band formed in Los Angeles, California in 1985. The band became famous during the early 1990s, a time when grunge and alternative rock music were very popular.\n\nL7 was known for their loud, heavy sound and their bold, fearless attitude. They were not afraid to speak their minds, and they used their music and their platform to talk about social and political issues. The band became an important symbol for women in rock music at a time when the industry was largely dominated by men.\n\n### L7's Rise to Fame\n\nL7 released several albums throughout the late 1980s and 1990s. Their most well-known album, *Bricks Are Heavy*, came out in 1992 and included the hit single \"Pretend We're Dead.\" The song became one of the defining tracks of the grunge era and introduced L7 to a much wider audience.\n\nThe band was also closely connected to the riot grrrl movement, a feminist punk movement that began in the early 1990s in the United States. L7 helped found Rock for Choice, a series of concerts that raised money and awareness for reproductive rights. This showed that the band cared deeply about more than just music.\n\nFinch was a key member of L7 during their most successful years. Her bass playing helped create the band's signature heavy and powerful sound.\n\n### The Band's Later Years\n\nL7 broke up in 2001, but they reunited in 2014 after many fans asked them to perform again. Their reunion was celebrated by fans around the world who had grown up listening to their music. The band continued to tour and release new music after getting back together.\n\n### Reactions from the Music World\n\nNews of Finch's death has brought an outpouring of sadness from fans and fellow musicians. Many people have shared memories of seeing L7 perform live and talked about how much the band's music meant to them. Finch is remembered not only as a talented musician, but also as someone who helped change the way people thought about women in rock music.\n\nBrain cancer is one of the most difficult forms of cancer to treat. An \"aggressive\" form of the disease means that it grows and spreads very quickly, making treatment especially challenging.\n\nJennifer Finch leaves behind a powerful musical legacy. Her work with L7 continues to inspire musicians and music fans around the world.",
-      "keyVocab": [
-        {
-          "word": "bassist",
-          "meaning": "베이스 기타 연주자",
-          "example": "The bassist played a deep, powerful rhythm that drove the whole song forward."
-        },
-        {
-          "word": "aggressive",
-          "meaning": "공격적인, 빠르게 진행되는",
-          "example": "The doctor explained that it was an aggressive cancer that needed immediate treatment."
-        },
-        {
-          "word": "grunge",
-          "meaning": "그런지 (1990년대 헤비하고 거친 록 음악 장르)",
-          "example": "Bands like Nirvana and Soundgarden helped make grunge music popular around the world."
-        },
-        {
-          "word": "legacy",
-          "meaning": "유산, 후대에 남기는 영향",
-          "example": "The musician's legacy lives on through the many artists she inspired."
-        },
-        {
-          "word": "reunite",
-          "meaning": "재결합하다",
-          "example": "The band decided to reunite after ten years apart because fans kept asking for new shows."
-        }
-      ],
-      "publishedAt": "2026-07-19T15:31:57.000Z"
-    },
     "53c3d0f9bec7": {
       "id": "53c3d0f9bec7",
       "source": "Hankyoreh English",
@@ -1961,6 +1601,406 @@
         }
       ],
       "publishedAt": "2026-08-16T14:09:10.000Z"
+    },
+    "5cc72c348d5d": {
+      "id": "5cc72c348d5d",
+      "source": "Hankyoreh English",
+      "sourceUrl": "https://www.hani.co.kr/arti/english_edition/e_entertainment/1274160.html",
+      "title": "[Korea travels] Island escape without the ferry: 3 Incheon islands to explore",
+      "theme": "culture",
+      "themeLabel": "문화",
+      "summary": "인천에는 배를 타지 않고도 갈 수 있는 아름다운 섬들이 있습니다. 이 기사는 인천의 섬 3곳을 소개하며 여행 정보를 제공합니다. 다리나 도로로 연결된 섬들을 쉽게 방문할 수 있습니다.",
+      "difficulty": "A2",
+      "estimatedMinutes": 4,
+      "learnerContent": "## Island Escape Without a Ferry: 3 Islands in Incheon to Visit\n\nMost people think you need a ferry to visit an island. But near Incheon, South Korea, there are some islands you can reach by car or bus. No boat is needed! These islands are great for a short trip from Seoul or Incheon.\n\n### Why Visit Incheon's Islands?\n\nIncheon is a city close to Seoul. It is famous for its airport, but it also has many beautiful islands nearby. Some of these islands are now connected to the mainland by bridges or roads. This makes them very easy to visit.\n\nYou can enjoy fresh seafood, clean beaches, and quiet nature. These islands are much less crowded than popular tourist spots in the city.\n\n### Island 1: Muuido Island\n\nMuuido is one of the most popular islands near Incheon. You can take a short ferry from Jamjindo, but the trip is only about 10 minutes. Many people visit Muuido for its wide, sandy beach called Haeangnuri Beach. The beach is clean and peaceful. There are also nice walking trails on the island.\n\nIn summer, the beach gets busy, but in spring or autumn it is very quiet and relaxing. Small restaurants near the beach serve fresh fish and seafood.\n\n### Island 2: Seonnyeo Island (Jawol-myeon Area)\n\nThis smaller island is perfect for travelers who want a quiet escape. The scenery is beautiful, with green hills and blue water. Local people here are friendly and welcoming.\n\nYou can walk around the island in just a few hours. There are simple guesthouses where you can stay overnight. Eating fresh seafood caught by local fishermen is a highlight of this trip.\n\n### Island 3: Deokjeok Island\n\nDeokjeok Island is a little farther from Incheon, but it is worth the trip. It has beautiful pine forests and clean, clear water. Seopori Beach on Deokjeok Island is one of the most beautiful beaches in the Incheon area.\n\nThe island is a good place for camping. Many Korean families visit in summer to enjoy the nature and the sea. The island is quiet and peaceful compared to busy city beaches.\n\n### Travel Tips\n\nHere are some helpful tips for visiting these islands:\n\n- **Best time to visit:** Spring (April–May) and autumn (September–October) are the best times. The weather is nice and the islands are not too crowded.\n- **Getting there:** You can take buses or subway trains to Incheon and then travel to the islands. Some islands need a short ferry ride, but ferries are cheap and run often.\n- **What to bring:** Wear comfortable shoes for walking. Bring sunscreen in summer. Cash is useful because some small shops do not accept cards.\n- **Food:** Do not miss the fresh seafood. Grilled fish, clam soup, and raw fish (hoe) are popular local dishes.\n\n### A Perfect Short Holiday\n\nThese three islands are great choices for anyone who wants to escape the busy city. You do not need much time or money. A one-day or two-day trip is enough to feel refreshed and relaxed.\n\nIf you live in Seoul or Incheon, these islands are easy to reach on a weekend. Give it a try and enjoy the natural beauty of Korea's west coast!",
+      "keyVocab": [
+        {
+          "word": "mainland",
+          "meaning": "본토 (섬이 아닌 육지)",
+          "example": "The island is connected to the mainland by a long bridge."
+        },
+        {
+          "word": "peaceful",
+          "meaning": "평화로운, 조용한",
+          "example": "The beach was very peaceful in the early morning."
+        },
+        {
+          "word": "scenery",
+          "meaning": "경치, 풍경",
+          "example": "The scenery on the island was beautiful, with green hills and blue water."
+        },
+        {
+          "word": "refreshed",
+          "meaning": "기운을 회복한, 상쾌한",
+          "example": "After the trip, I felt relaxed and refreshed."
+        },
+        {
+          "word": "highlight",
+          "meaning": "가장 좋은 부분, 하이라이트",
+          "example": "Eating fresh seafood was the highlight of our island trip."
+        }
+      ],
+      "publishedAt": "2026-08-23T21:16:48.720Z"
+    },
+    "480bd11d589f": {
+      "id": "480bd11d589f",
+      "source": "Hankyoreh English",
+      "sourceUrl": "https://www.hani.co.kr/arti/english_edition/e_international/1274087.html",
+      "title": "The bill for America’s superpower status is coming due",
+      "theme": "politics",
+      "themeLabel": "시사",
+      "summary": "미국이 세계 최강대국 지위를 유지하는 데 드는 비용이 점점 감당하기 어려워지고 있습니다. 군사비 지출, 국가 부채, 동맹국과의 갈등 등 여러 문제가 미국의 글로벌 영향력을 약화시키고 있습니다. 전문가들은 미국이 자국의 역할과 한계를 재평가해야 할 시점에 왔다고 말합니다.",
+      "difficulty": "B2",
+      "estimatedMinutes": 5,
+      "learnerContent": "## The Bill for America's Superpower Status Is Coming Due\n\nFor decades, the United States has positioned itself as the world's leading superpower. It has maintained hundreds of military bases around the globe, led major international alliances, and acted as the guarantor of a rules-based international order. But now, many analysts are asking a difficult question: can America still afford this role?\n\n### The Rising Cost of Global Leadership\n\nBeing a superpower is expensive. The United States spends more on its military than the next several countries combined. While this spending has helped maintain a degree of global stability, it has also contributed to a national debt that now exceeds $30 trillion. At home, many Americans feel that too much money is going overseas while domestic problems — such as crumbling infrastructure, rising healthcare costs, and inequality — remain unresolved.\n\nThis tension between global commitments and domestic needs is not new, but it has grown sharper in recent years. Political leaders on both the left and the right have begun questioning whether the current model is sustainable.\n\n### Strained Alliances and Shifting Power\n\nAmerica's relationships with its traditional allies have also become more complicated. Disputes over trade, burden-sharing within NATO, and differing approaches to China have created friction with partners in Europe and Asia. Some allies have started to hedge their bets — strengthening their own military capabilities and exploring more independent foreign policies.\n\nMeanwhile, China has emerged as a formidable rival. Beijing has invested heavily in its military, expanded its economic influence across Asia, Africa, and Latin America through initiatives like the Belt and Road, and challenged American dominance in key technology sectors. Russia, despite its economic weaknesses, continues to disrupt the European security order.\n\nThe result is a world that is more multipolar — one in which American power, though still enormous, is no longer uncontested.\n\n### The Domestic Political Dimension\n\nInside the United States, there is growing debate about what kind of global role the country should play. Isolationist voices argue that America should pull back from costly foreign entanglements and focus on rebuilding at home. Internationalists counter that retreating from global leadership would create dangerous power vacuums that rivals like China and Russia would be eager to fill.\n\nThis debate is playing out not just in academic circles but in electoral politics. Voters are increasingly skeptical of foreign military adventures, particularly after the long and costly wars in Iraq and Afghanistan.\n\n### Can America Adapt?\n\nSome analysts believe the United States can adapt to this new environment by leading more through diplomacy, economic tools, and alliances rather than military force alone. Others argue that a genuine reckoning is overdue — that America must make hard choices about where it is willing to commit resources and where it must accept limits.\n\nHistory shows that great powers do not maintain their positions forever. The question is not whether American primacy will eventually fade, but whether the transition can be managed in a way that preserves stability and protects core interests.\n\nFor now, the bills — financial, political, and diplomatic — are piling up. How Washington chooses to respond will shape not just America's future, but the future of the international order itself.",
+      "keyVocab": [
+        {
+          "word": "guarantor",
+          "meaning": "보증인, 보장하는 존재",
+          "example": "The United States has long acted as the guarantor of global security."
+        },
+        {
+          "word": "sustainable",
+          "meaning": "지속 가능한",
+          "example": "Many economists doubt whether the current level of military spending is sustainable."
+        },
+        {
+          "word": "multipolar",
+          "meaning": "다극적인 (여러 강대국이 영향력을 나누는)",
+          "example": "The world is becoming more multipolar as China and other nations grow stronger."
+        },
+        {
+          "word": "entanglement",
+          "meaning": "얽힘, 개입",
+          "example": "Some politicians want to avoid costly foreign entanglements."
+        },
+        {
+          "word": "reckoning",
+          "meaning": "청산, 결산 (결과를 직면하는 것)",
+          "example": "After years of overspending, a financial reckoning was unavoidable."
+        }
+      ],
+      "publishedAt": "2026-08-23T21:16:48.720Z"
+    },
+    "54dabe862f8a": {
+      "id": "54dabe862f8a",
+      "source": "BBC Business",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+      "theme": "business",
+      "themeLabel": "경제",
+      "summary": "캐나다 총리는 미국과의 무역 협상이 결렬된 후 보복 관세를 부과하겠다고 발표했습니다. 트럼프 대통령은 캐나다가 미국의 주(州)가 되기를 원한다고 주장했습니다. 양국 간의 무역 갈등이 점점 심화되고 있습니다.",
+      "difficulty": "B1",
+      "estimatedMinutes": 4,
+      "learnerContent": "## Trump and Canada Clash Over Trade\n\nThe United States and Canada are in a serious trade dispute. After trade talks between the two countries broke down, Canada's Prime Minister announced that Canada would respond with retaliatory tariffs on American goods.\n\n### What Are Tariffs?\n\nTariffs are taxes that a country places on goods imported from another country. When one country adds tariffs, the other country often responds with its own tariffs. This back-and-forth is called a trade war.\n\n### What Did Canada Say?\n\nCanada's Prime Minister said he was \"reluctantly\" announcing the retaliatory tariffs. This means he did not want to take this step, but felt he had no choice. He also accused the United States of starting the trade war by placing tariffs on Canadian goods first.\n\nThe word \"reluctantly\" is important here. It shows that Canada did not make this decision easily. The Prime Minister wanted to find a peaceful agreement, but the trade talks failed.\n\n### What Did Trump Say?\n\nU.S. President Donald Trump responded with strong words. He claimed that Canada actually wants to become a state of the United States. He suggested that Canada is interested in the \"benefits\" of being part of America, such as access to the U.S. economy and military protection.\n\nCanada strongly disagrees with this idea. Canada is an independent country and has no desire to become part of the United States. Many Canadians found Trump's comments offensive and disrespectful.\n\n### Why Are the Two Countries Fighting?\n\nThe United States and Canada have long been close trading partners. In fact, they are each other's largest trading partners. Billions of dollars' worth of goods cross the border between the two countries every day.\n\nHowever, the relationship has become more difficult in recent years. The Trump administration has argued that trade deals with Canada are unfair to the United States. Trump has pushed for new terms that he believes will benefit American workers and businesses more.\n\nCanada, on the other hand, believes the current trade relationship is fair and benefits both sides equally.\n\n### What Happens Next?\n\nWhen two major trading partners place tariffs on each other's goods, it can hurt businesses and consumers in both countries. Prices for everyday products may rise. Companies that rely on trade across the border may face serious problems.\n\nMany economists and business leaders are watching the situation closely. They hope that both sides will return to the negotiating table and find a solution before the trade war causes more economic damage.\n\nFor now, the relationship between the United States and Canada remains tense, and it is unclear when the two sides will reach an agreement.",
+      "keyVocab": [
+        {
+          "word": "retaliatory tariffs",
+          "meaning": "보복 관세 (상대국의 조치에 대응하여 부과하는 세금)",
+          "example": "After the U.S. raised taxes on Canadian steel, Canada announced retaliatory tariffs on American products."
+        },
+        {
+          "word": "trade war",
+          "meaning": "무역 전쟁 (두 나라가 서로 관세를 올리며 경제적으로 대립하는 상황)",
+          "example": "The trade war between the two countries caused prices to rise for ordinary shoppers."
+        },
+        {
+          "word": "reluctantly",
+          "meaning": "마지못해, 내키지 않게",
+          "example": "She reluctantly agreed to the new rules, even though she did not think they were fair."
+        },
+        {
+          "word": "dispute",
+          "meaning": "분쟁, 갈등",
+          "example": "The two companies are in a legal dispute over who owns the patent."
+        },
+        {
+          "word": "negotiating table",
+          "meaning": "협상 테이블 (협상이 이루어지는 자리를 비유적으로 표현)",
+          "example": "Both sides need to return to the negotiating table to find a peaceful solution."
+        }
+      ],
+      "publishedAt": "2026-08-23T19:11:30.000Z"
+    },
+    "ddc09f44b3d7": {
+      "id": "ddc09f44b3d7",
+      "source": "NYT Business",
+      "sourceUrl": "https://www.nytimes.com/2026/08/23/health/clear-eyes-eye-drops-fda-recall.html",
+      "title": "Maker of Clear Eyes Recalls Nearly 40,000 Bottles Over Contamination Risk",
+      "theme": "business",
+      "themeLabel": "경제",
+      "summary": "미국의 인기 안약 브랜드 'Clear Eyes'가 약 4만 병을 회수했습니다. 제품이 세균에 오염되었을 가능성이 있기 때문입니다. 안전 당국은 소비자들에게 해당 제품을 사용하지 말라고 권고했습니다.",
+      "difficulty": "A2",
+      "estimatedMinutes": 4,
+      "learnerContent": "## Popular Eye Drop Brand Recalls Nearly 40,000 Bottles\n\nA well-known American eye drop brand called **Clear Eyes** has recalled almost 40,000 bottles of its product. A recall means that a company asks customers to stop using a product and return it or throw it away because it may not be safe.\n\n### Which Product Was Recalled?\n\nThe product recalled is called **Clear Eyes Maximum Itchy Eye Relief**. This eye drop is used to help people whose eyes feel itchy and uncomfortable. It is a popular product sold in many pharmacies and stores across the United States.\n\n### Why Was the Product Recalled?\n\nThe company recalled the eye drops because of a contamination risk. Contamination means that something harmful, like bacteria or other germs, may have gotten into the product.\n\nU.S. federal safety regulators announced the recall. They said the maker of Clear Eyes recalled the drops because there was a **\"lack of assurance of sterility.\"** This phrase means that the company could not guarantee that the eye drops were completely clean and free from germs.\n\nFor eye drops, sterility is very important. Eyes are sensitive and can be easily infected. If eye drops are not sterile, they can cause serious eye infections or other health problems.\n\n### Did the Company Have to Recall the Product?\n\nNo. The recall was **voluntary**. This means the company chose to recall the product on its own. The company did not wait for the government to force them to act. Voluntary recalls are generally seen as a responsible action by a company.\n\n### What Should Customers Do?\n\nIf you have a bottle of Clear Eyes Maximum Itchy Eye Relief at home, you should stop using it right away. Check the bottle carefully. If it is part of the recall, do not use it.\n\nYou can contact the company or the store where you bought it for more information. In many cases, companies offer a refund or a replacement product.\n\n### How Common Are Product Recalls?\n\nProduct recalls happen quite often in many industries, including food, medicine, and electronics. Safety regulators in the United States, such as the FDA (Food and Drug Administration), work to protect consumers by watching for dangerous products.\n\nWhen a company finds a possible safety problem, the best action is to inform the public quickly. This helps prevent people from getting hurt.",
+      "keyVocab": [
+        {
+          "word": "recall",
+          "meaning": "회수 (안전 문제로 인해 제품을 거둬들이는 것)",
+          "example": "The car company issued a recall after discovering a problem with the brakes."
+        },
+        {
+          "word": "contamination",
+          "meaning": "오염 (유해한 물질이 섞이는 것)",
+          "example": "The contamination of the water supply made many people sick."
+        },
+        {
+          "word": "sterility",
+          "meaning": "무균 상태 (세균이 없는 깨끗한 상태)",
+          "example": "Sterility is essential for medical products like eye drops and injections."
+        },
+        {
+          "word": "voluntary",
+          "meaning": "자발적인 (강요가 아닌 스스로 선택하는)",
+          "example": "The company made a voluntary decision to recall the product before anyone got hurt."
+        },
+        {
+          "word": "regulators",
+          "meaning": "규제 당국 (법과 규정을 집행하는 정부 기관)",
+          "example": "Food safety regulators checked the factory to make sure the products were safe to eat."
+        }
+      ],
+      "publishedAt": "2026-08-23T18:12:53.000Z"
+    },
+    "028d10448dbf": {
+      "id": "028d10448dbf",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games",
+      "title": "GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series",
+      "theme": "tech",
+      "themeLabel": "기술",
+      "summary": "GTA VI는 여러 차례 출시 연기 끝에 2026년 11월 19일 PS5와 Xbox Series X/S용으로 출시될 예정입니다. 게임은 디지털 다운로드 전용으로 제공되며, 두 주인공 Jason과 Lucia가 Vice City에서 펼치는 이야기를 담고 있습니다. 출시 전부터 게임플레이 영상 유출과 노동조합 관련 논란이 이어지고 있습니다.",
+      "difficulty": "B1",
+      "estimatedMinutes": 4,
+      "learnerContent": "## GTA VI: Everything We Know So Far\n\nGrand Theft Auto V came out more than ten years ago, and fans have been waiting a long time for its sequel. GTA VI has had a difficult journey to release, and here is a summary of what we know so far.\n\n### Release Date Delays\n\nRockstar Games, the developer behind the Grand Theft Auto series, has pushed back the release date for GTA VI twice. The game was first planned for fall 2025. Then it was moved to May 26th, 2026. Most recently, it was delayed again to **November 19th, 2026**. That means players have to wait a full year longer than originally expected.\n\n### Price and Where to Buy\n\nGTA VI will be a **digital-only** game, which means you cannot buy a physical disc. Preorders opened on June 25th, and the response has been described as \"exceptional.\" There are two editions available for both PS5 and Xbox Series X/S:\n- **Standard Edition:** $79.99\n- **Ultimate Edition:** $99.99\n\nThe game is not coming to PC at launch.\n\n### The Story\n\nGTA VI takes place in Vice City, a fictional location inspired by Miami. Players will follow two main characters: **Jason and Lucia**. The pair get caught up in a criminal conspiracy after a job goes badly wrong. Their story has been compared to the famous criminal couple Bonnie and Clyde. Rockstar released two trailers, and the second one gave fans a clearer look at the game's story.\n\n### Leaks and Controversies\n\nGTA VI has been one of the most leaked games in history. Several years ago, early gameplay videos were leaked online. More recently, a new series of leaks — called \"CyberLeaks\" — appeared online just days before Rockstar's planned gameplay event on August 27th. That event was set to stream exclusively on Netflix for the first six hours.\n\nRockstar confirmed that it was hacked and said that work on GTA VI would \"continue as planned.\" Microsoft and Discord were even subpoenaed — meaning legally required to provide information — in connection with the leaks.\n\n### Labor Issues\n\nBehind the scenes, there have been serious workplace problems at Rockstar. More than 30 employees were fired, and the company was accused of **union busting** — trying to stop workers from forming a union. Despite this, many Rockstar developers have gone ahead and unionized, meaning they officially joined together as a group to protect their working rights.\n\n### What to Expect Next\n\nRockstar planned an \"extended look\" at GTA VI at the end of August. The company has also been working with Roblox creators to bring new content to the game. Meanwhile, as the November launch gets closer, console prices have been rising, which has frustrated many fans.\n\nGTA VI is one of the most anticipated video games ever made. After years of waiting, leaks, and delays, the November 2026 release date may finally be the one that sticks.",
+      "keyVocab": [
+        {
+          "word": "delay",
+          "meaning": "연기, 지연",
+          "example": "The game suffered multiple delays before its final release date was announced."
+        },
+        {
+          "word": "preorder",
+          "meaning": "사전 주문",
+          "example": "Fans rushed to preorder the game as soon as the store page went live."
+        },
+        {
+          "word": "digital-only",
+          "meaning": "디지털 전용 (실물 없이 다운로드로만 제공)",
+          "example": "Because the game is digital-only, you cannot buy it as a physical disc."
+        },
+        {
+          "word": "union busting",
+          "meaning": "노동조합 결성 방해 행위",
+          "example": "The company was accused of union busting after firing workers who tried to organize."
+        },
+        {
+          "word": "subpoena",
+          "meaning": "소환장을 발부하다, 법적으로 정보 제출을 요구하다",
+          "example": "The court subpoenaed the tech company to hand over records related to the leak."
+        }
+      ],
+      "publishedAt": "2026-08-23T19:14:37.000Z"
+    },
+    "209324830b21": {
+      "id": "209324830b21",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/entertainment/983177/jane-schoenbrun-were-all-going-to-the-worlds-fair-horror-movie-review",
+      "title": "We’re All Going to the World’s Fair is an intimate coming-of-age horror film",
+      "theme": "film",
+      "themeLabel": "영화",
+      "summary": "제인 쇤브룬 감독의 첫 번째 영화 《We're All Going to the World's Fair》는 2021년 선댄스 영화제에서 호평을 받은 독립 공포 영화입니다. 주인공 Casey는 ARG(대체 현실 게임) 형식의 온라인 챌린지에 참여하며 이야기가 시작됩니다. 감독의 신작 개봉에 맞춰 이 첫 번째 작품을 다시 주목할 좋은 기회입니다.",
+      "difficulty": "B2",
+      "estimatedMinutes": 4,
+      "learnerContent": "## *We're All Going to the World's Fair*: An Intimate Horror Film Worth Revisiting\n\nDirector Jane Schoenbrun has a new film in theaters right now — *Teenage Sex and Death at Camp Miasma* — and it is already generating a lot of buzz. For those who are not yet familiar with Schoenbrun's work, this is a perfect moment to go back and watch their debut feature: **We're All Going to the World's Fair**.\n\n### A Film That Made an Impression at Sundance\n\nWhen *We're All Going to the World's Fair* premiered at the **Sundance Film Festival in 2021**, it immediately stood out. Sundance is one of the most respected independent film festivals in the world, and the film earned strong praise from critics and audiences alike. It is the kind of quiet, personal horror film that stays with you long after the credits roll.\n\n### What Is the Film About?\n\nThe film centers on a young girl named **Casey**, who we meet as she participates in something called the **World's Fair Challenge**. This fictional online challenge blends elements of an **ARG** (Alternate Reality Game) — an interactive, real-world game played out online — with internet horror folklore, sometimes called **creepypasta**.\n\nThink of it as a kind of supernatural dare. To take the challenge, Casey must recite a creepy ritual phrase, draw her own blood, and watch a mysterious video. Each of these steps resembles a classic horror movie trope, but they are presented in an unexpectedly mundane and realistic way: a teenage girl, alone in her bedroom, staring directly into her webcam.\n\n### Why the Setting Matters\n\nWhat makes this film feel so fresh is not the horror elements themselves, but the **intimacy** of the setting. There are no elaborate haunted houses or jump scares in the traditional sense. Instead, the horror grows slowly from something deeply familiar: the experience of being a lonely young person spending hours alone online, searching for connection and meaning in strange corners of the internet.\n\nThis approach gives the film a **coming-of-age** quality that is just as important as its horror elements. Casey is not simply a character in a scary story — she feels like a real person navigating identity, isolation, and the unsettling pull of online communities.\n\n### Schoenbrun's Unique Voice\n\nJane Schoenbrun has developed a reputation for making films that are deeply personal and unconventional. Their work often explores themes of identity, queerness, and the psychological impact of digital culture. *We're All Going to the World's Fair* reflects all of these concerns in a way that feels authentic rather than forced.\n\nWith their new film now in cinemas, revisiting this debut is a great way to appreciate how Schoenbrun's artistic voice has developed — and to experience one of the most quietly unsettling horror films of recent years.",
+      "keyVocab": [
+        {
+          "word": "debut",
+          "meaning": "데뷔작, 첫 번째 작품",
+          "example": "Her debut film was praised by critics at an international festival."
+        },
+        {
+          "word": "creepypasta",
+          "meaning": "인터넷에서 퍼지는 공포 관련 이야기나 콘텐츠",
+          "example": "The story felt like a creepypasta, full of unsettling images and unexplained events."
+        },
+        {
+          "word": "ARG (Alternate Reality Game)",
+          "meaning": "대체 현실 게임 (현실과 가상을 결합한 인터랙티브 게임)",
+          "example": "Players of the ARG had to solve real-world puzzles to advance the story."
+        },
+        {
+          "word": "intimacy",
+          "meaning": "친밀함, 내밀함",
+          "example": "The film's intimacy comes from its small cast and quiet, personal atmosphere."
+        },
+        {
+          "word": "mundane",
+          "meaning": "평범한, 일상적인",
+          "example": "The horror felt more frightening because it was set against such a mundane, everyday background."
+        }
+      ],
+      "publishedAt": "2026-08-23T15:00:00.000Z"
+    },
+    "52422add066b": {
+      "id": "52422add066b",
+      "source": "Variety",
+      "sourceUrl": "https://variety.com/2026/film/global/mark-ruffalo-paramount-antisemitic-tropes-1236841081/",
+      "title": "Mark Ruffalo Called Out Over ‘Extremist and Antisemitic Messaging’ by Simon Wiesenthal Center, Creative Communities For Peace",
+      "theme": "entertainment",
+      "themeLabel": "엔터",
+      "summary": "두 유대인 단체가 배우 마크 러팔로가 반유대주의적 메시지를 퍼뜨렸다고 비판했습니다. 사이먼 위젠탈 센터와 크리에이티브 커뮤니티스 포 피스는 러팔로의 발언이 선을 넘었다고 주장했습니다. 파라마운트도 이에 대해 공개적으로 입장을 밝혔습니다.",
+      "difficulty": "B1",
+      "estimatedMinutes": 3,
+      "learnerContent": "## Mark Ruffalo Criticized by Jewish Advocacy Groups\n\nTwo well-known Jewish advocacy groups have publicly criticized actor Mark Ruffalo. They say he has been spreading \"antisemitic tropes\" — meaning harmful stereotypes or false ideas about Jewish people.\n\n### Who Spoke Out?\n\nThe Simon Wiesenthal Center and Creative Communities For Peace both released statements calling out Ruffalo's comments and social media activity. The Simon Wiesenthal Center is one of the most respected Jewish human rights organizations in the world, named after a famous Holocaust survivor who spent his life hunting Nazi war criminals.\n\nJim Berk, the CEO of the Simon Wiesenthal Center, said: \"Words matter, and so does the willingness to draw a line when legitimate debate gives way to antisemitic tropes.\"\n\nThis means that while people are free to debate political topics — including issues related to Israel and Palestine — there is a point where the language used crosses into dangerous and harmful territory.\n\n### What Did Ruffalo Do?\n\nMark Ruffalo is best known for playing the Hulk in the Marvel movies. He has long been vocal about political causes on social media. The groups say that some of his recent posts and statements went beyond fair criticism and included content they describe as \"extremist and antisemitic messaging.\"\n\nRuffalo has not yet publicly responded to these specific accusations at the time of reporting.\n\n### Paramount Also Responds\n\nInterestingly, the studio Paramount also received praise in the statement from the Simon Wiesenthal Center. Berk said: \"We commend Paramount for speaking clearly and refusing to allow prejudice to masquerade\" — meaning the studio took a clear stand against hiding prejudice behind other arguments.\n\nIt is not yet clear exactly what action Paramount took or whether it affects any current or future projects involving Ruffalo.\n\n### Why This Matters\n\nAntisemitism — hatred or prejudice against Jewish people — has been increasing in many parts of the world in recent years. Advocacy groups like the Simon Wiesenthal Center work to fight this kind of hatred wherever it appears, including in entertainment and media.\n\nWhen celebrities with large audiences share certain messages, those messages can reach millions of people very quickly. This is why organizations closely watch what public figures say and do online.\n\nThe situation highlights an ongoing and difficult conversation in Hollywood and beyond: where is the line between political criticism and harmful stereotyping? This is a question that does not have a simple answer, but it remains very important in today's world.",
+      "keyVocab": [
+        {
+          "word": "antisemitic",
+          "meaning": "반유대주의적인 (유대인에 대한 편견이나 혐오를 나타내는)",
+          "example": "The organization works to fight antisemitic messages in the media."
+        },
+        {
+          "word": "trope",
+          "meaning": "상투적인 표현, 고정관념",
+          "example": "Using old tropes about a group of people can spread harmful stereotypes."
+        },
+        {
+          "word": "advocacy group",
+          "meaning": "옹호 단체 (특정 집단의 권리를 위해 활동하는 단체)",
+          "example": "The advocacy group released a statement calling for more equality."
+        },
+        {
+          "word": "commend",
+          "meaning": "칭찬하다, 추천하다",
+          "example": "The teacher commended the student for her excellent work."
+        },
+        {
+          "word": "prejudice",
+          "meaning": "편견",
+          "example": "It is important to speak out when prejudice is disguised as normal debate."
+        }
+      ],
+      "publishedAt": "2026-08-23T20:24:28.000Z"
+    },
+    "c77a11ecc10c": {
+      "id": "c77a11ecc10c",
+      "source": "Variety",
+      "sourceUrl": "https://variety.com/2026/music/news/katseye-wild-first-no-1-phoebe-bridgers-no-2-albums-chart-1236841114/",
+      "title": "Katseye Earns First No. 1 on Albums Chart; Phoebe Bridgers Debuts at No. 2",
+      "theme": "music",
+      "themeLabel": "음악",
+      "summary": "걸그룹 Katseye가 새 앨범 'Wild'로 빌보드 200 차트에서 1위를 차지했습니다. 이는 그룹 역사상 처음 있는 일입니다. 포비 브리저스도 새 앨범으로 2위에 데뷔했습니다.",
+      "difficulty": "A2",
+      "estimatedMinutes": 3,
+      "learnerContent": "## Katseye Reaches No. 1 on the Billboard 200!\n\nThe girl group Katseye has made history. Their new album, called **\"Wild,\"** reached No. 1 on the Billboard 200 chart. This is the first time Katseye has ever been No. 1 on this chart.\n\n### What Is the Billboard 200?\n\nThe Billboard 200 is a very famous music chart in the United States. It shows the 200 most popular albums every week. Reaching No. 1 is a big achievement for any artist or group.\n\n### About the Album \"Wild\"\n\n\"Wild\" is a short album with five tracks, or songs. Two of the main singles — meaning the most promoted songs — are called **\"Pinky Up\"** and **\"Hootie Frutti.\"**\n\nIn its first week, the album earned **170,000 equivalent album units.** This number includes music streams, digital downloads, and physical album sales. It is the best first-week result Katseye has ever had.\n\n### Who Is Katseye?\n\nKatseye is a multinational girl group. The group was formed through a reality competition show called \"Dream Academy,\" which was created together by Hybe — the South Korean music company behind BTS — and Geffen Records, an American label. The members come from different countries, including the United States, the Philippines, and Switzerland.\n\nBecause of their connection to Hybe, Katseye has fans both in the K-pop world and in mainstream Western pop music. Reaching No. 1 on the Billboard 200 shows that their popularity is growing fast.\n\n### Phoebe Bridgers Debuts at No. 2\n\nAnother big music moment happened at the same time. Singer-songwriter **Phoebe Bridgers** debuted at No. 2 on the chart with her new album. Bridgers is known for her emotional and indie folk music style. Debuting at No. 2 in the first week is also a strong result.\n\n### A Big Week for Music\n\nThis week was exciting for music fans. Two different artists from very different styles both had strong debuts. Katseye represents the growing power of pop groups with K-pop connections, while Phoebe Bridgers shows that indie music continues to have a large and loyal audience.\n\nFans of Katseye around the world are celebrating this No. 1 achievement — a milestone moment for the young group.",
+      "keyVocab": [
+        {
+          "word": "debut",
+          "meaning": "데뷔하다, 처음으로 등장하다",
+          "example": "The new singer debuted at No. 5 on the music chart."
+        },
+        {
+          "word": "equivalent album units",
+          "meaning": "앨범 판매 환산 단위 (스트리밍, 다운로드, 실물 판매를 합산한 수치)",
+          "example": "The album sold 200,000 equivalent album units in its first week."
+        },
+        {
+          "word": "singles",
+          "meaning": "싱글 (앨범에서 특별히 홍보되는 개별 곡)",
+          "example": "The band released two singles before the full album came out."
+        },
+        {
+          "word": "achievement",
+          "meaning": "성취, 업적",
+          "example": "Reaching No. 1 on the chart was a great achievement for the young group."
+        },
+        {
+          "word": "mainstream",
+          "meaning": "주류 (대중적으로 인기 있는)",
+          "example": "The indie band became part of mainstream pop music after their hit song."
+        }
+      ],
+      "publishedAt": "2026-08-23T19:44:06.000Z"
+    },
+    "95d387d1b6b5": {
+      "id": "95d387d1b6b5",
+      "source": "Pitchfork News",
+      "sourceUrl": "https://pitchfork.com/story/zara-larsson-and-pinkpantheress-finally-sing-stateside-live-together/",
+      "title": "Zara Larsson and PinkPantheress Finally Perform “Stateside” Live",
+      "theme": "music",
+      "themeLabel": "음악",
+      "summary": "자라 라슨과 핑크팬더레스가 런던의 올 포인츠 이스트 페스티벌에서 처음으로 'Stateside'를 함께 라이브로 공연했습니다. 라슨은 관중에게 '역사적인 순간'을 보고 있다고 말했습니다.",
+      "difficulty": "A2",
+      "estimatedMinutes": 3,
+      "learnerContent": "## Zara Larsson and PinkPantheress Perform \"Stateside\" Live for the First Time\n\nTwo popular music artists, Zara Larsson and PinkPantheress, finally performed their song \"Stateside\" together on stage. This was the first time they sang it live in front of an audience.\n\n### Where Did It Happen?\n\nThe performance took place at a music festival called All Points East in London, England. All Points East is a well-known outdoor festival that takes place every summer in Victoria Park, London. Many famous artists perform there each year.\n\n### What Did Zara Larsson Say?\n\nZara Larsson was very excited about the moment. She told the crowd, \"You guys are watching herstory being made.\" The word \"herstory\" is a playful change of the word \"history.\" It is often used to celebrate important moments for women. Larsson wanted the audience to know that this performance was something special and important.\n\n### Who Are These Artists?\n\nZara Larsson is a Swedish pop singer. She became famous with songs like \"Lush Life\" and \"Never Forget You.\" She is known for her strong voice and fun pop music.\n\nPinkPantheress is a young British singer and music producer. She makes a mix of pop, drum and bass, and R&B music. She became very popular quickly after sharing her music online. Many fans love her unique and dreamy sound.\n\n### About the Song \"Stateside\"\n\n\"Stateside\" is a song that Zara Larsson and PinkPantheress made together. The word \"stateside\" usually means \"in the United States\" or \"related to the United States.\" Fans of both artists were very happy to finally see them perform the song together on stage.\n\n### A Special Moment for Fans\n\nFor many fans at the festival, seeing both artists on stage at the same time was a dream come true. Concerts and live performances are always exciting, but a surprise or first-time performance makes them even more memorable. The crowd at All Points East was lucky to be there for this special moment in music.",
+      "keyVocab": [
+        {
+          "word": "perform",
+          "meaning": "공연하다, 무대에서 노래하거나 연기하다",
+          "example": "The band will perform their new song on stage tonight."
+        },
+        {
+          "word": "audience",
+          "meaning": "관중, 청중",
+          "example": "The audience cheered loudly when the singer came on stage."
+        },
+        {
+          "word": "festival",
+          "meaning": "축제, 페스티벌",
+          "example": "We bought tickets to a music festival happening this summer."
+        },
+        {
+          "word": "herstory",
+          "meaning": "여성의 역사 (history의 변형어로 여성을 강조할 때 사용)",
+          "example": "The athlete said she was making herstory as the first woman to win that award."
+        },
+        {
+          "word": "memorable",
+          "meaning": "기억에 남는, 잊지 못할",
+          "example": "The concert was so memorable that I still think about it today."
+        }
+      ],
+      "publishedAt": "2026-08-23T15:36:18.000Z"
+    },
+    "2436172e6d15": {
+      "id": "2436172e6d15",
+      "source": "Pitchfork News",
+      "sourceUrl": "https://pitchfork.com/story/big-thief-debut-new-triple-album-horsepower-live-in-nashville/",
+      "title": "Big Thief Debut New Triple Album, Horsepower, Live in Nashville",
+      "theme": "music",
+      "themeLabel": "음악",
+      "summary": "인디 포크 밴드 빅 시프가 내슈빌의 라이먼 오디토리엄에서 29곡으로 구성된 새 트리플 앨범 'Horsepower'를 전곡 라이브로 처음 공개했습니다. 루신다 윌리엄스, 질리언 웰치, 아이리스 드멘트 등 특별 게스트들도 무대에 함께 올랐습니다.",
+      "difficulty": "B1",
+      "estimatedMinutes": 4,
+      "learnerContent": "## Big Thief Debut New Triple Album \"Horsepower\" Live in Nashville\n\nThe American indie folk band Big Thief has debuted their brand-new album, *Horsepower*, with a full live performance in Nashville, Tennessee. The show was a major event for fans of the band, as they performed all 29 songs from the album in one night.\n\n### A Historic Venue\n\nThe concert took place at the Ryman Auditorium, one of the most famous music venues in the United States. The Ryman is often called \"The Mother Church of Country Music\" because of its long and important history in American music. It is located in the heart of Nashville, a city that is widely known as the home of country music. Performing at the Ryman is considered a great honor for any musician.\n\n### What Is a Triple Album?\n\nA triple album is a music release that contains three separate albums or discs together as one project. Triple albums are quite rare because they require a huge amount of new music. With 29 songs, *Horsepower* is clearly a very ambitious and large project. It shows that Big Thief put an enormous amount of creative energy into making this record.\n\n### Special Guests Join the Stage\n\nThe concert was made even more exciting by the appearance of several well-known special guests. Country and folk music legends Lucinda Williams, Gillian Welch, and Iris DeMent all joined Big Thief on stage during the performance. \n\nLucinda Williams is a highly respected singer-songwriter known for her emotional lyrics and mix of country, rock, and blues. Gillian Welch is celebrated for her traditional folk and Americana sound. Iris DeMent is known for her powerful voice and deeply personal songs about faith and life. Having all three of these artists perform alongside Big Thief made the night truly extraordinary.\n\n### About Big Thief\n\nBig Thief is an indie folk band led by singer and guitarist Adrianne Lenker. The band is known for writing honest, poetic, and emotionally deep songs. Over the years, they have released several praised albums and have built a dedicated fanbase around the world. They are considered one of the most important indie folk acts of their generation.\n\n### Why This Performance Matters\n\nDebuting an entire new album live on stage — especially one as large as *Horsepower* — is a bold and confident choice. It gives fans a chance to experience the music in a live setting before or at the same time as the official release. The combination of a legendary venue, a massive new album, and famous special guests made this Nashville show a truly unforgettable night in modern folk and indie music.",
+      "keyVocab": [
+        {
+          "word": "debut",
+          "meaning": "처음으로 선보이다, 데뷔하다",
+          "example": "The band will debut their new album at a concert next week."
+        },
+        {
+          "word": "venue",
+          "meaning": "공연장, 행사 장소",
+          "example": "The venue was packed with excited fans waiting for the show to start."
+        },
+        {
+          "word": "ambitious",
+          "meaning": "야심찬, 큰 목표를 가진",
+          "example": "Recording a triple album is an ambitious project for any musician."
+        },
+        {
+          "word": "legendary",
+          "meaning": "전설적인, 매우 유명한",
+          "example": "The legendary guitarist has been making music for over 40 years."
+        },
+        {
+          "word": "dedicated",
+          "meaning": "헌신적인, 열정적인",
+          "example": "The band has a dedicated fanbase that follows them to every concert."
+        }
+      ],
+      "publishedAt": "2026-08-23T14:01:07.000Z"
     }
   }
 }

@@ -1,407 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-23T21:20:21.033Z",
+  "updatedAt": "2026-08-30T23:09:11.990Z",
   "articles": {
-    "53c3d0f9bec7": {
-      "id": "53c3d0f9bec7",
-      "source": "Hankyoreh English",
-      "sourceUrl": "https://www.hani.co.kr/arti/english_edition/e_business/1269466.html",
-      "title": "Samsung Electronics enters physical AI race with dedicated robotics division",
-      "theme": "tech",
-      "themeLabel": "기술",
-      "summary": "삼성전자가 물리적 AI 경쟁에 뛰어들며 로봇공학 전담 부서를 신설했습니다. 이는 삼성이 AI 기술을 실제 물리적 로봇에 적용하려는 전략적 움직임입니다. 글로벌 기술 기업들이 로봇 AI 분야에서 치열하게 경쟁하는 가운데 삼성도 본격적으로 참전한 것입니다.",
-      "difficulty": "B1",
-      "estimatedMinutes": 4,
-      "learnerContent": "## Samsung Electronics Joins the Physical AI Race with a New Robotics Division\n\nSamsung Electronics, one of the world's largest technology companies, has announced that it is entering the \"physical AI\" race. The company has created a new division focused entirely on robotics. This is a major step for Samsung as it tries to compete with other leading technology firms around the world.\n\n### What Is Physical AI?\n\nYou may already know about AI (artificial intelligence) tools like chatbots, which exist only in software. \"Physical AI\" is different. It refers to AI technology that is built into real, physical machines — especially robots. These robots can move, sense their environment, and make decisions on their own.\n\nPhysical AI robots can be used in many places, such as factories, hospitals, warehouses, and even people's homes. Many technology experts believe that physical AI will be one of the most important technologies of the near future.\n\n### Samsung's New Robotics Division\n\nSamsung has decided to create a dedicated robotics division. \"Dedicated\" means this team will focus only on robotics — it will not work on other products like smartphones or televisions. This shows how seriously Samsung is taking the robotics business.\n\nBy building a separate team, Samsung can move faster and focus more clearly on developing new robotic technologies. Companies often create dedicated divisions when they want to grow quickly in a new area.\n\n### Why Is This Important?\n\nSamsung is not the first company to invest heavily in robotics and physical AI. Other major companies, including Tesla, Boston Dynamics, and several Chinese tech firms, are already developing advanced robots. The competition in this field is growing very fast.\n\nFor Samsung, entering this race makes good business sense. The company already has strong skills in manufacturing, semiconductors, and electronics — all of which are needed to build high-quality robots. Samsung can use these existing strengths as it develops its robotics business.\n\n### A Growing Global Trend\n\nAround the world, governments and companies are paying close attention to physical AI. Robots that can work alongside humans — or even replace humans in dangerous or repetitive jobs — could change many industries. Some analysts predict that the global robotics market will be worth hundreds of billions of dollars within the next decade.\n\nFor South Korea, Samsung's move is also nationally significant. South Korea is already known for its strength in semiconductors and electronics. If Samsung becomes a leader in physical AI and robotics, it could help South Korea become a global center for this important new technology.\n\n### What Comes Next?\n\nSamsung has not yet revealed specific products or a detailed timeline for its robotics plans. However, the creation of a dedicated division is a clear signal that the company is making robotics a top priority. Industry watchers will be following Samsung's next steps closely.\n\nAs the physical AI race continues to grow, Samsung's entry could shake up the competition and bring exciting new developments to the world of robotics.",
-      "keyVocab": [
-        {
-          "word": "dedicated",
-          "meaning": "전담의, 특정 목적만을 위한",
-          "example": "The company created a dedicated team to focus only on developing new robots."
-        },
-        {
-          "word": "physical AI",
-          "meaning": "물리적 AI (실제 기계나 로봇에 적용된 인공지능)",
-          "example": "Physical AI allows robots to move and make decisions in the real world."
-        },
-        {
-          "word": "division",
-          "meaning": "부서, 사업부",
-          "example": "Samsung's new robotics division will work separately from its other product teams."
-        },
-        {
-          "word": "semiconductor",
-          "meaning": "반도체",
-          "example": "Semiconductors are essential components used inside computers, smartphones, and robots."
-        },
-        {
-          "word": "repetitive",
-          "meaning": "반복적인",
-          "example": "Robots are often used to do repetitive jobs that would be tiring for humans."
-        }
-      ],
-      "publishedAt": "2026-07-26T21:55:08.930Z"
-    },
-    "8e686c4b3c54": {
-      "id": "8e686c4b3c54",
-      "source": "Hankyoreh English",
-      "sourceUrl": "https://www.hani.co.kr/arti/english_edition/e_entertainment/1269463.html",
-      "title": "World’s top human Go player beats world’s top Go AI",
-      "theme": "tech",
-      "themeLabel": "기술",
-      "summary": "세계 최고의 인간 바둑 기사가 세계 최강의 바둑 AI를 상대로 승리를 거뒀습니다. 이는 AI가 바둑에서 인간을 완전히 앞섰다고 여겨지던 시대에 매우 놀라운 결과입니다. 이 대국은 인간과 AI의 능력 차이에 대한 새로운 논의를 불러일으키고 있습니다.",
-      "difficulty": "B1",
-      "estimatedMinutes": 4,
-      "learnerContent": "## World's Top Human Go Player Defeats the World's Top Go AI\n\nIn a surprising result that has caught the attention of people around the world, the best human Go player has beaten the best Go-playing artificial intelligence (AI) program. This is a remarkable achievement, especially because many people believed that AI had already moved far beyond human ability in the ancient board game of Go.\n\n### What Is Go?\n\nGo is one of the oldest board games in the world. It was invented in China more than 2,500 years ago and is especially popular in East Asian countries like China, Japan, and South Korea. Two players take turns placing black or white stones on a large grid. The goal is to control more territory than your opponent.\n\nDespite its simple rules, Go is considered one of the most complex strategy games ever created. The number of possible moves in a game of Go is greater than the number of atoms in the observable universe.\n\n### AI Conquers Go — Or Did It?\n\nIn 2016, a major moment in history occurred when an AI program called AlphaGo, developed by Google DeepMind, defeated the legendary South Korean player Lee Se-dol. This shocked the world. Many experts had believed it would take at least ten more years for AI to reach that level.\n\nSince then, AI Go programs have continued to improve. They are now generally considered to be far stronger than any human player. Professional Go players often study AI moves to improve their own game.\n\nThis is why the recent result is so surprising. A human player managed to beat the top AI — something most people thought was no longer possible.\n\n### Why Does This Matter?\n\nThis result raises interesting questions about the relationship between humans and AI. Even when AI becomes very powerful in a specific area, humans may still find ways to compete. Some experts suggest that top human players have found creative strategies or weaknesses in AI systems that they can use to their advantage.\n\nIt also shows that AI, while extremely strong, is not perfect. AI programs can sometimes be confused by unusual or unexpected moves — moves that a human might try but that the AI has not seen during its training.\n\n### The Importance of Human Creativity\n\nProfessional Go players train for many years and develop a deep, intuitive understanding of the game. This kind of human creativity and instinct may still give top players an occasional edge, even against very powerful AI.\n\nSome commentators have compared this to a chess grandmaster finding a clever move that surprises a computer program. Even if the computer wins most of the time, human players can still produce moments of brilliance.\n\n### What People Are Saying\n\nThe result has excited the Go community and beyond. Fans of the game celebrated the win as proof that human intelligence still has an important role to play, even in the age of AI. Technology experts are also paying close attention, as results like this can help researchers understand the limits of current AI systems.\n\nWhether this victory will inspire other human players to challenge AI programs remains to be seen. But for now, the world's top human Go player has shown that the game between humans and machines is far from over.",
-      "keyVocab": [
-        {
-          "word": "remarkable",
-          "meaning": "놀라운, 주목할 만한",
-          "example": "Beating the world's top AI was a remarkable achievement for the human player."
-        },
-        {
-          "word": "territory",
-          "meaning": "영역, 지역",
-          "example": "In Go, players try to control more territory on the board than their opponent."
-        },
-        {
-          "word": "intuitive",
-          "meaning": "직관적인",
-          "example": "After years of practice, the player had an intuitive understanding of the game."
-        },
-        {
-          "word": "edge",
-          "meaning": "우위, 유리한 점",
-          "example": "Human creativity can sometimes give players an edge over AI programs."
-        },
-        {
-          "word": "strategy",
-          "meaning": "전략",
-          "example": "The player used an unusual strategy that confused the AI program."
-        }
-      ],
-      "publishedAt": "2026-07-26T21:55:08.930Z"
-    },
-    "3f4d7075d055": {
-      "id": "3f4d7075d055",
-      "source": "BBC Business",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cdew2dnxlzzo?at_medium=RSS&at_campaign=rss",
-      "title": "Water returns to Gatwick Airport after major outage",
-      "theme": "business",
-      "themeLabel": "경제",
-      "summary": "개트윅 공항에서 대규모 단수 사태가 발생해 화장실과 식당이 문을 닫는 등 큰 혼란이 빚어졌습니다. 하루 동안의 불편 끝에 물 공급이 다시 정상화되었습니다. 이번 사건은 공항 운영에 있어 기본 시설의 중요성을 다시 한번 일깨워 주었습니다.",
-      "difficulty": "A2",
-      "estimatedMinutes": 3,
-      "learnerContent": "## Water Returns to Gatwick Airport After Major Outage\n\nGatwick Airport is one of the busiest airports in the United Kingdom. It is located near London and serves millions of passengers every year. On July 26, 2026, the airport faced a very difficult day because of a major water outage.\n\n**What Is a Water Outage?**\n\nA water outage means that the water supply stops working. This can cause many problems in a large, busy place like an airport. Without water, toilets cannot be used and restaurants cannot prepare food or drinks.\n\n**What Happened at Gatwick?**\n\nOn that day, toilets across the airport were closed because there was no water. Restaurants also had to close their doors to passengers. This caused a lot of disruption for travelers who were waiting for their flights.\n\nImagine arriving at an airport and not being able to use the bathroom or buy a meal. Many passengers were frustrated and confused. Airport staff worked hard to give people information and to fix the problem as quickly as possible.\n\n**Why Does This Matter?**\n\nAirports need clean water for many reasons. Water is needed in bathrooms, kitchens, and cleaning areas. When water stops, it affects the health and comfort of thousands of people at the same time.\n\nGatwick Airport can have more than 100,000 passengers on a busy day. So even a few hours without water can cause serious problems for a very large number of people.\n\n**Water Returns**\n\nThe good news is that the water supply returned to normal by the end of the day. Toilets and restaurants were able to open again. The airport worked with engineers and water supply teams to fix the outage as quickly as possible.\n\nAirport officials apologized to passengers for the inconvenience. They also said they would look into why the outage happened and how to prevent it in the future.\n\n**Lessons Learned**\n\nThis event shows how important basic services like water are for a large public place. Airports, train stations, and shopping centers all depend on water to run smoothly. When something goes wrong, it can affect thousands of people very quickly.\n\nFor travelers, it is always a good idea to carry a water bottle and some snacks when going to an airport, just in case something unexpected happens.\n\nGatwick Airport is expected to continue operating normally after this disruption. Officials are working to make sure a similar problem does not happen again.",
-      "keyVocab": [
-        {
-          "word": "outage",
-          "meaning": "공급 중단 (전기, 물 등의)",
-          "example": "The water outage lasted for several hours and caused many problems at the airport."
-        },
-        {
-          "word": "disruption",
-          "meaning": "혼란, 지장",
-          "example": "The closed toilets caused a lot of disruption for passengers waiting for their flights."
-        },
-        {
-          "word": "frustrated",
-          "meaning": "불만스러운, 짜증난",
-          "example": "Many travelers were frustrated because they could not use the bathroom."
-        },
-        {
-          "word": "inconvenience",
-          "meaning": "불편함",
-          "example": "The airport apologized to passengers for the inconvenience caused by the water outage."
-        },
-        {
-          "word": "prevent",
-          "meaning": "예방하다, 막다",
-          "example": "Officials are working to prevent a similar problem from happening in the future."
-        }
-      ],
-      "publishedAt": "2026-07-26T21:15:21.000Z"
-    },
-    "b06edd11ba0f": {
-      "id": "b06edd11ba0f",
-      "source": "NYT Business",
-      "sourceUrl": "https://www.nytimes.com/2026/07/26/business/paramount-warner-bros-deal-pause.html",
-      "title": "Why Paramount Paused Its Blockbuster $111 Billion Deal for Warner Bros.",
-      "theme": "business",
-      "themeLabel": "경제",
-      "summary": "파라마운트가 워너브라더스와의 1,110억 달러 규모의 대형 합병 계약을 일시 중단했습니다. 여러 주 정부가 반독점 문제를 이유로 법적 소송을 준비하면서 협상이 복잡해졌습니다. 이번 소송 결과는 두 미디어 대기업의 운명을 결정할 수 있습니다.",
-      "difficulty": "B2",
-      "estimatedMinutes": 4,
-      "learnerContent": "## Why Paramount Paused Its $111 Billion Deal for Warner Bros.\n\nIn one of the biggest deals in media history, Paramount Global and Warner Bros. Discovery were working toward a merger worth approximately $111 billion. However, in late July 2026, Paramount announced that it was pausing the deal. The reason? A looming legal battle over antitrust concerns.\n\n**What Is This Deal About?**\n\nParamount Global and Warner Bros. Discovery are two of the most iconic names in the entertainment industry. Paramount owns well-known brands such as CBS, MTV, and the Paramount film studio. Warner Bros. is home to HBO, CNN, and the DC Comics film franchise.\n\nA merger between the two companies would create an enormous media giant, combining their content libraries, streaming platforms, and television networks. Supporters of the deal argued it would help both companies compete more effectively against rivals like Netflix and Disney.\n\n**Why Was the Deal Paused?**\n\nDespite weeks of intense negotiations, Paramount chose to pause the deal after a \"flurry\" — or sudden burst — of discussions last week. The key obstacle is a potential antitrust lawsuit brought by several U.S. state governments.\n\nAntitrust laws are designed to prevent any single company from becoming so powerful that it reduces competition in the market. When two very large companies want to merge, regulators and government officials examine whether the combined company could harm consumers or other businesses by controlling too much of the market.\n\nIn this case, a number of state attorneys general — the top legal officers of their states — signaled that they were prepared to go to court to block the merger. This set the stage for what could become a major courtroom battle.\n\n**What Happens in an Antitrust Case?**\n\nIf the states file a lawsuit, both sides will present arguments in court. The states will try to prove that the merger would damage competition in the media and entertainment industry. Paramount and Warner Bros. will argue that the deal is fair and beneficial for consumers.\n\nThese legal proceedings can take months or even years to resolve. The outcome will determine whether the two companies are allowed to combine or must remain separate.\n\n**Why Does This Matter?**\n\nThe media industry is undergoing rapid change. Traditional television viewership is declining as more people switch to streaming services. Companies like Paramount and Warner Bros. are under significant financial pressure to find new ways to grow.\n\nA successful merger could give the combined company greater resources to invest in original content and technology. However, critics worry it could lead to higher prices for consumers, fewer choices, and reduced competition in the marketplace.\n\n**What Comes Next?**\n\nFor now, the deal is on hold. Both companies are watching the legal landscape closely. The antitrust court battle with state governments could prove decisive — either clearing the path for one of the largest media mergers ever seen, or bringing the entire deal to an end.\n\nThe fate of two of Hollywood's most storied institutions now rests, at least in part, in the hands of the courts.",
-      "keyVocab": [
-        {
-          "word": "merger",
-          "meaning": "합병",
-          "example": "The proposed merger between the two companies would create one of the largest media groups in the world."
-        },
-        {
-          "word": "antitrust",
-          "meaning": "반독점 (시장 독점을 방지하는)",
-          "example": "The government launched an antitrust investigation to decide whether the deal would harm competition."
-        },
-        {
-          "word": "regulators",
-          "meaning": "규제 당국",
-          "example": "Regulators carefully reviewed the merger to ensure it would not give one company too much power."
-        },
-        {
-          "word": "looming",
-          "meaning": "임박한, 다가오는 (위협적인)",
-          "example": "The looming lawsuit made both companies hesitant to move forward with their plans."
-        },
-        {
-          "word": "decisive",
-          "meaning": "결정적인",
-          "example": "The court's ruling could be decisive in determining whether the merger is allowed to proceed."
-        }
-      ],
-      "publishedAt": "2026-07-26T21:04:45.000Z"
-    },
-    "c0a696ea26c8": {
-      "id": "c0a696ea26c8",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/column/971103/champagne-and-bullets-bad-movies-review",
-      "title": "Champagne and Bullets belongs on the Mount Rushmore of bad movies",
-      "theme": "film",
-      "themeLabel": "영화",
-      "summary": "\"Champagne and Bullets\"는 The Room, Troll 2와 같은 '너무 나빠서 오히려 좋은' 영화의 반열에 오를 만한 작품입니다. 이 영화는 John De Hart 한 사람이 각본, 감독, 주연을 모두 맡았습니다. 야심은 크지만 능력과 자원이 부족해 오히려 독특한 매력을 지닌 영화로 평가받고 있습니다.",
-      "difficulty": "B1",
-      "estimatedMinutes": 4,
-      "learnerContent": "## Champagne and Bullets: A Masterpiece of Bad Cinema\n\nHave you ever watched a movie that was so badly made that it became entertaining? Films like *The Room*, *Troll 2*, and *Fateful Findings* are famous examples of this strange phenomenon. Critics and fans often call them \"so bad they're good\" movies. Now, a film called *Champagne and Bullets* has joined this very special club.\n\n### What Makes a Movie \"So Bad It's Good\"?\n\nThese types of films share some common traits. The people who make them usually have very big ambitions — they want to create something amazing. However, their resources, skills, and budgets often fall far short of those ambitions. The result is a movie that fails in many technical ways but succeeds in being wildly entertaining. Audiences enjoy watching things go wrong in unexpected and creative ways.\n\n### One Man's Vision\n\n*Champagne and Bullets* is a remarkable film for one main reason: almost everything in it was done by a single person. John De Hart wrote the screenplay, directed the movie, and also plays the lead character, Rick Bode. Taking on all three of these major roles is extremely difficult even for experienced professionals, and the results here are exactly as chaotic as you might expect.\n\nBut De Hart did not stop there. He also performs a musical number in the film — a strange and memorable song called \"Shimmy Slide.\" This kind of unexpected moment is exactly what fans of outsider cinema love. It is bold, unusual, and completely sincere, even if the execution is far from polished.\n\n### What Is Outsider Cinema?\n\n\"Outsider cinema\" refers to films made outside the normal Hollywood system. These movies are usually created by people who do not have professional training or large budgets. Because of this, they often break the usual rules of filmmaking — sometimes accidentally, sometimes on purpose. The results can be confusing, funny, or surprisingly moving.\n\nClassic examples of outsider cinema, like *The Room* by Tommy Wiseau, have developed enormous fan followings over the years. People watch them at midnight screenings, quote the dialogue, and celebrate the unique vision behind them. *Champagne and Bullets* appears to deserve a similar kind of attention.\n\n### Is It Worth Watching?\n\nIf you enjoy movies that are unpredictable, strange, and full of energy — even if that energy is chaotic — then *Champagne and Bullets* might be perfect for you. The film was also released under two other titles: *GetEven* and *Road to Revenge*, which shows that it had a complicated journey to find its audience.\n\nThe movie is described as \"bonkers enough to live up to its artwork,\" meaning that even the promotional images for the film are wild and unusual. For fans of cult movies and outsider art, this is high praise indeed.\n\nSometimes the most interesting creative works come from people who simply refuse to follow the rules — and *Champagne and Bullets* is a perfect example of that.",
-      "keyVocab": [
-        {
-          "word": "phenomenon",
-          "meaning": "현상",
-          "example": "The popularity of \"so bad they're good\" movies is a fascinating cultural phenomenon."
-        },
-        {
-          "word": "ambition",
-          "meaning": "야망, 포부",
-          "example": "His ambition was clear, but he lacked the budget to achieve his vision."
-        },
-        {
-          "word": "outsider cinema",
-          "meaning": "아웃사이더 시네마 (주류 영화 산업 밖에서 만들어진 영화)",
-          "example": "Outsider cinema often breaks traditional rules of filmmaking in surprising ways."
-        },
-        {
-          "word": "execution",
-          "meaning": "실행, 완성도",
-          "example": "The idea for the song was creative, but the execution was quite poor."
-        },
-        {
-          "word": "cult",
-          "meaning": "열성 팬층을 가진 (컬트적인)",
-          "example": "The film developed a cult following after people started sharing clips online."
-        }
-      ],
-      "publishedAt": "2026-07-26T21:24:07.000Z"
-    },
-    "6bccbafbed45": {
-      "id": "6bccbafbed45",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/971101/apple-smart-glasses-privacy",
-      "title": "Apple is banking on privacy to set its smart glasses apart",
-      "theme": "tech",
-      "themeLabel": "기술",
-      "summary": "애플이 2027년 말까지 첫 번째 스마트 안경을 출시할 계획이며, 개인정보 보호를 핵심 차별점으로 내세울 예정입니다. 메타의 스마트 안경은 몰래 사진과 영상을 촬영할 수 있다는 점에서 논란이 되어 왔습니다. 애플은 10년 넘게 쌓아온 프라이버시 브랜드 이미지를 지키기 위해 신중하게 접근하고 있습니다.",
-      "difficulty": "B2",
-      "estimatedMinutes": 5,
-      "learnerContent": "## Apple Bets on Privacy for Its First Smart Glasses\n\nApple is preparing to enter the smart glasses market, but it is taking a careful approach. According to Bloomberg reporter Mark Gurman, a well-known source for Apple news, the company plans to reveal its first smart glasses at WWDC — its annual developer conference — in June 2027. The glasses are then expected to go on sale by the end of that year.\n\n### Why Has It Taken So Long?\n\nApple has been working on wearable technology for years, but smart glasses present a unique challenge. One major reason for the delay appears to be the company's effort to get its privacy features and messaging right before launching the product.\n\nFor Apple, privacy is not just a technical feature — it is a core part of the brand's identity. The company has spent more than a decade positioning itself as a company that protects user data and personal information. Its marketing campaigns regularly highlight privacy as a key reason to choose Apple products over competitors.\n\n### The Problem with Smart Glasses\n\nSmart glasses — eyewear that can connect to the internet, run apps, and capture media — have already caused significant controversy. Meta, the company behind Facebook and Instagram, released its own AI-powered smart glasses, and they quickly became the center of a public debate.\n\nThe main concern is that smart glasses can take photos and videos without other people knowing. Unlike a smartphone, which is clearly visible when raised to take a picture, smart glasses can record discreetly. This raises serious questions about consent, surveillance, and personal privacy in public spaces.\n\nSeveral high-profile incidents have brought this issue into the spotlight. In one notable case, a student used Meta's glasses to identify strangers on the street by cross-referencing their appearance with publicly available online data. The demonstration alarmed many people and renewed calls for stronger regulation of wearable cameras.\n\n### Apple's Difficult Balancing Act\n\nFor Apple, simply entering the smart glasses category creates a reputational risk. As Gurman notes, joining the same market as Meta — regardless of how different Apple's approach may be — could undermine the privacy reputation that Apple has carefully built over many years.\n\nApple will need to clearly communicate to consumers what its glasses can and cannot do. It will also need to design features that visibly signal when recording is happening, and perhaps introduce technical limitations that prevent covert surveillance.\n\nSome analysts believe Apple may include indicator lights, strict on-device data processing, and strong user consent controls as ways to distinguish its product from competitors.\n\n### What to Expect\n\nThe smart glasses market is growing quickly. Meta has reported strong sales of its Ray-Ban AI glasses, and other companies are also developing similar products. Apple entering this space would be a significant moment for the industry.\n\nHowever, Apple's challenge is clear: it must innovate in a category that has already been associated with privacy violations, while simultaneously convincing the public that its version is fundamentally different and trustworthy. Whether Apple can achieve that balance remains to be seen.",
-      "keyVocab": [
-        {
-          "word": "controversy",
-          "meaning": "논란, 논쟁",
-          "example": "The new technology sparked controversy because of its ability to record people without their knowledge."
-        },
-        {
-          "word": "covert",
-          "meaning": "비밀의, 은밀한",
-          "example": "The device was criticized for enabling covert surveillance in public spaces."
-        },
-        {
-          "word": "consent",
-          "meaning": "동의",
-          "example": "Recording someone without their consent is illegal in many countries."
-        },
-        {
-          "word": "reputational risk",
-          "meaning": "평판 위험",
-          "example": "Entering a controversial market can create serious reputational risk for an established brand."
-        },
-        {
-          "word": "distinguish",
-          "meaning": "구별하다, 차별화하다",
-          "example": "Apple needs to distinguish its smart glasses from competitors by emphasizing privacy."
-        }
-      ],
-      "publishedAt": "2026-07-26T19:36:38.000Z"
-    },
-    "4cdcec0e2d6a": {
-      "id": "4cdcec0e2d6a",
-      "source": "Variety",
-      "sourceUrl": "https://variety.com/2026/film/news/kevin-feige-ryan-coogler-david-jonsson-black-panther-3-1236821563/",
-      "title": "Kevin Feige Says Ryan Coogler Met With David Jonsson in a ‘Secret Meeting’ to Discuss ‘Black Panther 3’ Role: ‘I Got Chills’",
-      "theme": "entertainment",
-      "themeLabel": "엔터",
-      "summary": "마블의 케빈 파이기가 데이비드 존슨이 블랙 팬서 3의 주인공으로 캐스팅된 과정을 공개했습니다. 라이언 쿠글러 감독과 존슨이 비밀 미팅을 가졌고, 쿠글러는 즉시 그를 차기 블랙 팬서로 낙점했습니다.",
-      "difficulty": "B1",
-      "estimatedMinutes": 3,
-      "learnerContent": "## David Jonsson Cast as the Next Black Panther\n\nMarvel Studios boss Kevin Feige has revealed how actor David Jonsson was chosen to play the next Black Panther. Feige spoke to the film magazine *Empire* and shared the surprising story behind the casting.\n\n### A Secret Meeting\n\nAccording to Feige, it all began with a \"secret meeting\" between Jonsson and *Black Panther* director Ryan Coogler. The meeting happened before Marvel had even started an official search for the role. In other words, Coogler moved quickly and quietly to find his leading man.\n\nDavid Jonsson is best known for his role in the science fiction film *The Long Walk*. He has impressed audiences and critics with his strong performances in recent years.\n\n### Coogler Knew Right Away\n\nFeige said that Coogler identified Jonsson as the right person almost immediately after their meeting. \"I got chills,\" Feige told *Empire*, suggesting that he was very excited when he heard Coogler's choice.\n\nThis kind of reaction from the head of Marvel Studios shows just how confident the team feels about Jonsson stepping into such an important role. The Black Panther character is one of the most beloved heroes in the Marvel Cinematic Universe (MCU).\n\n### Big Shoes to Fill\n\nThe original Black Panther, T'Challa, was played by Chadwick Boseman, who passed away in 2020. His performance in the 2018 film *Black Panther* and other Marvel movies was hugely popular around the world. The character returned in *Black Panther: Wakanda Forever* (2022), which honored Boseman's memory.\n\nNow, with *Black Panther 3* in development, Marvel is moving the story forward with a new actor in a new version of the hero. David Jonsson will take on that responsibility.\n\n### Who Is David Jonsson?\n\nJonsson is a British actor who has been building his career with strong performances in film and television. His casting in such a major Marvel role is a big step forward for him. Fans around the world are already curious to see how he will bring his own style to the iconic Black Panther suit.\n\n### What's Next?\n\nDetails about *Black Panther 3* are still limited. Marvel has not yet announced an official release date or shared much about the story. However, with Ryan Coogler returning as director and a new lead actor confirmed, excitement for the project is already growing.\n\nKevin Feige's comments suggest that Marvel is very happy with the direction of the film. Fans will likely hear more official news in the coming months.",
-      "keyVocab": [
-        {
-          "word": "casting",
-          "meaning": "배우를 역할에 선발하는 것",
-          "example": "The casting of the new superhero surprised many fans."
-        },
-        {
-          "word": "identify",
-          "meaning": "확인하다, 알아보다",
-          "example": "The director quickly identified the young actor as the perfect choice for the role."
-        },
-        {
-          "word": "iconic",
-          "meaning": "상징적인, 널리 알려진",
-          "example": "The Black Panther suit is one of the most iconic costumes in superhero films."
-        },
-        {
-          "word": "reveal",
-          "meaning": "밝히다, 공개하다",
-          "example": "The studio revealed the name of the new lead actor at a press event."
-        },
-        {
-          "word": "development",
-          "meaning": "개발 중, 제작 준비 단계",
-          "example": "The new film is currently in development and has no release date yet."
-        }
-      ],
-      "publishedAt": "2026-07-26T21:49:16.000Z"
-    },
-    "6255b703a76e": {
-      "id": "6255b703a76e",
-      "source": "Variety",
-      "sourceUrl": "https://variety.com/2026/music/news/gracie-abrams-scores-first-no-1-daughter-from-hell-1236821550/",
-      "title": "Gracie Abrams Scores First No. 1 on Albums Chart With ‘Daughter From Hell’",
-      "theme": "music",
-      "themeLabel": "음악",
-      "summary": "그레이시 에이브럼스가 세 번째 앨범 'Daughter From Hell'로 빌보드 200 차트에서 처음으로 1위를 차지했습니다. 이 앨범은 12만 4천 장의 판매량으로 1위에 올랐습니다.",
-      "difficulty": "A2",
-      "estimatedMinutes": 3,
-      "learnerContent": "## Gracie Abrams Reaches No. 1 for the First Time\n\nSinger-songwriter Gracie Abrams has reached the top of the Billboard 200 albums chart. This is her first No. 1 album. The album is called *Daughter From Hell*, and it is her third studio album.\n\n### Big Numbers\n\nThe album sold 124,000 equivalent album units in its first week. This number includes music streaming, digital downloads, and physical album sales. It was enough to put her at No. 1 on the chart.\n\nThe Billboard 200 is one of the most important music charts in the United States. Reaching No. 1 is a big achievement for any artist.\n\n### About the Album\n\nGracie Abrams announced *Daughter From Hell* in May 2026. At the same time, she released the first single from the album, called \"Hit the Wall.\" The song helped build excitement for the full album.\n\n### Her Music Career So Far\n\nGracie Abrams is an American singer and songwriter. She writes personal and emotional songs. Her music is popular with young listeners.\n\nHer second album, *The Secret of Us*, came out in 2024. That album was also very successful and helped many new fans discover her music. Now, with *Daughter From Hell*, she has reached an even bigger level of success.\n\n### A Growing Star\n\nGracie Abrams has been growing in popularity over the past few years. She has toured with big artists and performed at large music festivals. Her honest lyrics and gentle style have won her many fans around the world.\n\nReaching No. 1 on the Billboard 200 is a dream for many musicians. For Gracie Abrams, this moment shows that she is now one of the top artists in the music industry.\n\nFans are excited to hear more music from her in the future.",
-      "keyVocab": [
-        {
-          "word": "chart",
-          "meaning": "음악 순위표",
-          "example": "Her new song went straight to the top of the chart."
-        },
-        {
-          "word": "equivalent album units",
-          "meaning": "스트리밍, 다운로드, 실물 판매를 합산한 앨범 판매 단위",
-          "example": "The album sold 100,000 equivalent album units in its first week."
-        },
-        {
-          "word": "single",
-          "meaning": "단독 발매곡",
-          "example": "The artist released a new single before her album came out."
-        },
-        {
-          "word": "achievement",
-          "meaning": "성취, 업적",
-          "example": "Getting a No. 1 album is a great achievement for any musician."
-        },
-        {
-          "word": "lyrics",
-          "meaning": "노래 가사",
-          "example": "Many fans love her lyrics because they are honest and easy to understand."
-        }
-      ],
-      "publishedAt": "2026-07-26T19:27:49.000Z"
-    },
-    "53d2449a1bd3": {
-      "id": "53d2449a1bd3",
-      "source": "Pitchfork News",
-      "sourceUrl": "https://pitchfork.com/story/watch-hayley-williams-bring-out-wednesdays-karly-hartzman-jenny-lewis-at-newport-folk-festival/",
-      "title": "Watch Hayley Williams Bring Out Wednesday’s Karly Hartzman, Jenny Lewis at Newport Folk Festival",
-      "theme": "music",
-      "themeLabel": "음악",
-      "summary": "헤일리 윌리엄스가 뉴포트 포크 페스티벌에 출연해 칼리 하르츠만, 제니 루이스 등 여러 아티스트들과 무대를 함께했습니다. 잭 안토노프, 루시 다쿠스 등도 깜짝 등장해 축제를 더욱 풍성하게 만들었습니다.",
-      "difficulty": "B1",
-      "estimatedMinutes": 4,
-      "learnerContent": "## Hayley Williams Shares the Stage at Newport Folk Festival\n\nThe Newport Folk Festival is one of the most famous music festivals in the United States. It takes place every summer in Newport, Rhode Island, and has a long history of bringing together artists from many different musical styles. This year, the festival once again created some memorable moments.\n\n### Hayley Williams Takes the Stage\n\nHayley Williams, the lead singer of the rock band Paramore, gave an exciting performance at the festival. She is well known for her powerful voice and energetic stage presence. However, one of the highlights of her set was not just her solo performance — it was the special guests she invited to join her.\n\n### Special Guests Appear\n\nDuring her performance, Williams brought out Karly Hartzman, the singer from the indie rock band Wednesday. Wednesday is a band from Asheville, North Carolina, and has been gaining a lot of attention in the indie music world in recent years. Hartzman's appearance was a surprise for many fans in the audience.\n\nWilliams also welcomed Jenny Lewis to the stage. Lewis is a well-respected singer-songwriter who has been making music for many years. She first became famous as the lead singer of the indie pop band Rilo Kiley, and she has also had a successful solo career.\n\n### More Artists Join In\n\nThe surprise guest appearances did not stop there. Several other well-known musicians also came onstage during the festival. Jack Antonoff, a famous musician and music producer who has worked with artists like Taylor Swift and Lana Del Rey, also performed. Lucy Dacus, a popular indie rock singer-songwriter known for her thoughtful lyrics, joined in as well.\n\nOther artists who hopped onstage included This Is Lorelei, Kelsey Lu, and Joy Oladokun. This Is Lorelei is a musical project known for its lo-fi indie sound. Kelsey Lu is a singer and cellist who creates unique and emotional music. Joy Oladokun is a singer-songwriter whose music blends folk, pop, and soul.\n\n### Why These Moments Matter\n\nUnplanned or surprise collaborations like these are one of the things that make live music festivals so special. Fans who attend never know exactly what they might see. When artists from different backgrounds come together on one stage, it creates a unique experience that cannot be repeated.\n\nThe Newport Folk Festival has a long tradition of these kinds of surprise moments. Over the years, many legendary performances have happened there, and this year's festival seems to have continued that tradition in a wonderful way.\n\nFor fans of Hayley Williams, Wednesday, Jenny Lewis, and all the other artists involved, this was clearly a night to remember.",
-      "keyVocab": [
-        {
-          "word": "stage presence",
-          "meaning": "무대 위에서 관객을 사로잡는 존재감",
-          "example": "The singer's incredible stage presence kept the audience engaged throughout the entire concert."
-        },
-        {
-          "word": "highlight",
-          "meaning": "가장 흥미롭거나 중요한 부분",
-          "example": "The surprise guest was the highlight of the whole show."
-        },
-        {
-          "word": "collaboration",
-          "meaning": "협업, 공동 작업",
-          "example": "The collaboration between the two artists produced a beautiful new song."
-        },
-        {
-          "word": "tradition",
-          "meaning": "전통, 관습",
-          "example": "It is a tradition at this festival for artists to invite surprise guests onstage."
-        },
-        {
-          "word": "blend",
-          "meaning": "혼합하다, 섞다",
-          "example": "Her music blends elements of folk and pop in a very unique way."
-        }
-      ],
-      "publishedAt": "2026-07-26T21:46:44.000Z"
-    },
-    "30fc9043b782": {
-      "id": "30fc9043b782",
-      "source": "Pitchfork News",
-      "sourceUrl": "https://pitchfork.com/story/charli-xcx-releases-music-fashion-film-b-sides/",
-      "title": "Charli XCX Releases Music, Fashion, Film B-Sides",
-      "theme": "music",
-      "themeLabel": "음악",
-      "summary": "팝스타 찰리 XCX가 음악, 패션, 영화를 주제로 한 세 곡의 B사이드 트랙을 발표했습니다. 각 곡에는 흑백 뮤직비디오가 함께 제공됩니다.",
-      "difficulty": "A2",
-      "estimatedMinutes": 4,
-      "learnerContent": "## Charli XCX Releases Three New B-Side Songs\n\nCharli XCX is a very popular British pop singer. She is known for making bold and creative music. She has many fans around the world. Recently, she released some new music called \"B-sides.\"\n\n### What Are B-Sides?\n\nA \"B-side\" is an extra song that an artist releases alongside their main music. In the past, when music was sold on vinyl records or CDs, the main song was called the \"A-side\" and the extra song on the back was called the \"B-side.\" Today, artists sometimes use this word to describe bonus or additional songs that are released separately from their main albums.\n\n### Three New Songs\n\nCharli XCX released three new B-side songs. Each song is connected to a different theme. The three themes are music, fashion, and film. These are all areas that Charli XCX is very interested in. She is not only known for her music — she also has a strong interest in fashion and has been connected to the world of film as well.\n\n### Black-and-White Music Videos\n\nEach of the three songs comes with its own music video. All three music videos are filmed in black and white. Black-and-white videos often give music a classic and artistic feeling. They can make a video look more serious or creative. For Charli XCX, this choice shows that she wants her B-sides to feel special and thoughtful.\n\n### Why This Is Exciting for Fans\n\nCharli XCX's fans, who sometimes call themselves the \"Brats\" — a name connected to her very successful 2024 album *Brat* — are always excited when she releases new content. Getting three new songs and three new music videos at the same time is a big treat for her fans.\n\nThese B-sides give fans a chance to see a different or more experimental side of Charli XCX. B-sides are often more creative or unusual than an artist's main songs because they have fewer rules. Artists can try new things with B-sides.\n\n### A Creative Artist\n\nCharli XCX continues to show that she is one of the most creative artists in pop music today. With these three new songs and videos, she gives her fans something fresh and interesting to enjoy. Music lovers around the world will be watching closely to see what she does next.",
-      "keyVocab": [
-        {
-          "word": "release",
-          "meaning": "발표하다, 출시하다",
-          "example": "The singer will release her new album next month."
-        },
-        {
-          "word": "B-side",
-          "meaning": "B사이드 (메인 곡 외에 추가로 발표하는 곡)",
-          "example": "The B-side song was not on the album, but many fans loved it."
-        },
-        {
-          "word": "theme",
-          "meaning": "주제",
-          "example": "The music video has a fashion theme and features many beautiful clothes."
-        },
-        {
-          "word": "experimental",
-          "meaning": "실험적인",
-          "example": "The artist's new sound is very experimental and different from her old music."
-        },
-        {
-          "word": "bonus",
-          "meaning": "추가의, 보너스",
-          "example": "The album came with a bonus track that was not listed on the cover."
-        }
-      ],
-      "publishedAt": "2026-07-26T21:12:49.000Z"
-    },
     "613b298ea070": {
       "id": "613b298ea070",
       "source": "Hankyoreh English",
@@ -2001,6 +1601,406 @@
         }
       ],
       "publishedAt": "2026-08-23T14:01:07.000Z"
+    },
+    "ebb26aa0f333": {
+      "id": "ebb26aa0f333",
+      "source": "Hankyoreh English",
+      "sourceUrl": "https://www.hani.co.kr/arti/english_edition/e_editorial/1275277.html",
+      "title": "[Column] What may come of a meeting of Trump and Kim Jong-un",
+      "theme": "politics",
+      "themeLabel": "시사",
+      "summary": "트럼프 미국 대통령과 북한 김정은 국무위원장의 회담 가능성에 대한 분석 칼럼입니다. 두 지도자의 만남이 한반도 정세에 어떤 영향을 미칠지 살펴봅니다. 과거 회담 전례를 바탕으로 향후 결과를 예측해 봅니다.",
+      "difficulty": "B1",
+      "estimatedMinutes": 4,
+      "learnerContent": "## What Could Happen if Trump and Kim Jong-un Meet Again?\n\nThe idea of a meeting between US President Donald Trump and North Korean leader Kim Jong-un is once again becoming a topic of serious discussion. The two leaders have met before, and many observers around the world are asking: what could happen if they sit down together again?\n\n**A History of Meetings**\n\nTrump and Kim Jong-un held historic meetings during Trump's first term as president. Their first summit took place in Singapore in June 2018. It was the first time a sitting US president had ever met a North Korean leader. A second summit was held in Hanoi, Vietnam, in February 2019, but that meeting ended without an agreement.\n\nDespite the lack of a deal in Hanoi, the meetings were seen as an important step in diplomacy — the practice of managing relationships between countries through communication and negotiation rather than conflict.\n\n**Why a New Meeting Matters**\n\nNorth Korea has continued to develop its nuclear weapons and missile programs in the years since those summits. This makes the situation on the Korean Peninsula more dangerous and more complex. A new meeting between Trump and Kim could open a path toward reducing tensions.\n\nHowever, experts warn that talking alone is not enough. Any real progress would require both sides to make difficult compromises. North Korea would likely need to limit or give up parts of its nuclear program. In return, the United States might need to reduce economic sanctions — penalties that restrict trade and financial activity — that have been placed on North Korea.\n\n**What Might Be Discussed**\n\nIf the two leaders meet, several key topics could be on the table. These include:\n\n- **Denuclearization**: Steps to reduce or eliminate North Korea's nuclear weapons.\n- **Security guarantees**: Promises from the US that it will not attack North Korea.\n- **Sanctions relief**: Easing of economic restrictions in exchange for progress on nuclear issues.\n- **Peace treaty**: A formal agreement to officially end the Korean War, which technically never ended — only a ceasefire was signed in 1953.\n\n**Possible Outcomes**\n\nOptimists believe that a Trump-Kim meeting could restart diplomatic talks and lead to small but meaningful agreements. Trump is known for his personal style of diplomacy, and some analysts think his direct approach could work with Kim in ways that more traditional methods have not.\n\nSkeptics, however, point out that North Korea has historically used diplomatic meetings to gain time and international recognition without making real changes to its weapons programs. They worry that a meeting could give Kim legitimacy without producing any lasting results.\n\n**Why It Matters for South Korea and the Region**\n\nAny agreement — or failure to reach one — between the US and North Korea would have a major impact on South Korea, Japan, and the broader region. South Korea in particular has a deep interest in the outcome, as it shares a border with the North and has millions of citizens who were separated from family members during the Korean War.\n\nThe international community will be watching closely. A successful summit could bring hope for peace. A failed one could increase tensions further. Whatever happens, the fate of the Korean Peninsula may depend greatly on what is — or is not — agreed upon between these two powerful leaders.",
+      "keyVocab": [
+        {
+          "word": "summit",
+          "meaning": "정상 회담",
+          "example": "The two leaders held a summit to discuss nuclear issues."
+        },
+        {
+          "word": "diplomacy",
+          "meaning": "외교",
+          "example": "Diplomacy is often a better solution than military conflict."
+        },
+        {
+          "word": "sanctions",
+          "meaning": "제재",
+          "example": "The United Nations placed economic sanctions on the country to pressure its government."
+        },
+        {
+          "word": "denuclearization",
+          "meaning": "비핵화",
+          "example": "Both countries agreed that denuclearization of the peninsula was the ultimate goal."
+        },
+        {
+          "word": "ceasefire",
+          "meaning": "휴전",
+          "example": "A ceasefire was signed to stop the fighting, but a peace treaty was never agreed upon."
+        }
+      ],
+      "publishedAt": "2026-08-30T23:05:39.181Z"
+    },
+    "ca0f20dc4868": {
+      "id": "ca0f20dc4868",
+      "source": "Hankyoreh English",
+      "sourceUrl": "https://www.hani.co.kr/arti/english_edition/e_international/1275196.html",
+      "title": "Fate of 9 Koreans still unknown after floods reportedly destroy work site in Nepal",
+      "theme": "politics",
+      "themeLabel": "시사",
+      "summary": "네팔에서 홍수로 인해 공사 현장이 파괴되면서 한국인 9명의 생사가 불분명한 상황입니다. 한국 정부는 해당 지역과 연락을 취하며 실종자 수색에 나서고 있습니다. 네팔은 매년 몬순 시즌에 심각한 홍수 피해를 입는 나라입니다.",
+      "difficulty": "A2",
+      "estimatedMinutes": 4,
+      "learnerContent": "## 9 Koreans Missing After Floods in Nepal\n\nNine South Korean workers are missing in Nepal after serious floods destroyed a work site where they were staying. Their families and the South Korean government are very worried. It is still not known if they are safe.\n\n**What Happened**\n\nThe nine Koreans were working at a construction site in Nepal. Heavy rain caused major flooding in the area. The floodwaters damaged and destroyed the work site. After the floods, no one could contact the nine workers. Their location and condition are currently unknown.\n\nLocal authorities and rescue teams are working to find them. However, the damage caused by the floods has made the search very difficult. Many roads and communication systems in the area were also destroyed by the water.\n\n**Who Are the Missing Workers?**\n\nThe nine people are South Korean nationals who traveled to Nepal for work. Construction and infrastructure projects in developing countries often hire workers from other nations. Nepal has many large building projects, including roads, tunnels, and hydropower plants — facilities that use river water to create electricity.\n\nWorking abroad can be dangerous, especially in regions that experience extreme weather. Nepal is located in South Asia and sits close to the Himalayan mountains. The country receives very heavy rain during the monsoon season, which usually runs from June to September. During this time, flooding and landslides are common and can be deadly.\n\n**South Korea's Response**\n\nThe South Korean government has been working quickly to find out what happened to the nine workers. Officials from the Korean Embassy in Nepal are in contact with local authorities. The government has also asked rescue teams in the area to search for the missing people as soon as possible.\n\nThe families of the missing workers are waiting anxiously for news. Many have asked the government to do everything possible to find their loved ones and bring them home safely.\n\n**Nepal and Natural Disasters**\n\nNepal is a beautiful country with tall mountains and green valleys. However, it is also a country that is often hit by natural disasters. Every year during the monsoon season, floods and landslides kill many people and destroy homes and buildings.\n\nIn recent years, climate change has made these weather events more extreme. Heavier rains and faster melting of mountain snow have increased the risk of sudden and powerful floods. This makes working at outdoor construction sites in Nepal especially dangerous during the rainy season.\n\n**What Happens Next**\n\nRescue teams are continuing to search the area. The South Korean government says it is doing everything it can to learn about the condition of the nine workers.\n\nThis event is a reminder of the risks that workers face when they take jobs in other countries, especially in areas with dangerous weather conditions. The international community hopes that the nine Koreans will be found safe and returned to their families soon.",
+      "keyVocab": [
+        {
+          "word": "missing",
+          "meaning": "실종된",
+          "example": "Three hikers were reported missing after the storm hit the mountains."
+        },
+        {
+          "word": "flooding",
+          "meaning": "홍수, 침수",
+          "example": "Heavy flooding destroyed many homes in the low-lying areas of the city."
+        },
+        {
+          "word": "monsoon",
+          "meaning": "몬순 (우기)",
+          "example": "The monsoon season brings very heavy rain to many parts of Asia."
+        },
+        {
+          "word": "rescue",
+          "meaning": "구조",
+          "example": "Rescue teams searched through the night to find survivors."
+        },
+        {
+          "word": "authorities",
+          "meaning": "당국, 관계 기관",
+          "example": "Local authorities asked people to leave their homes before the flood arrived."
+        }
+      ],
+      "publishedAt": "2026-08-30T23:05:39.181Z"
+    },
+    "8f66b9ff6809": {
+      "id": "8f66b9ff6809",
+      "source": "NYT Business",
+      "sourceUrl": "https://www.nytimes.com/2026/08/29/business/reporters-denied-g20-meeting.html",
+      "title": "Treasury Bars Some Reporters From G20 Finance Meeting",
+      "theme": "politics",
+      "themeLabel": "시사",
+      "summary": "미국 재무부가 뉴욕타임스, 월스트리트저널, 블룸버그 소속 일부 기자들의 G20 재무 회의 취재를 허가하지 않았습니다. 이 회의는 다음 주 노스캐롤라이나주 애슈빌에서 열릴 예정입니다. 이 결정은 언론의 자유와 정부 투명성에 대한 우려를 낳고 있습니다.",
+      "difficulty": "B1",
+      "estimatedMinutes": 4,
+      "learnerContent": "## Treasury Bars Some Reporters From G20 Finance Meeting\n\nThe United States Department of the Treasury has refused to give press credentials to certain reporters from major news organizations. The affected reporters work for The New York Times, The Wall Street Journal, and Bloomberg. Without credentials, these journalists cannot officially enter and report on the event.\n\n### What Is the G20 Finance Meeting?\n\nThe G20 is a group of the world's 20 largest economies. Finance ministers and other financial leaders from these countries meet regularly to discuss important global economic issues. Topics can include international trade, inflation, debt, and financial stability.\n\nThe upcoming meeting will be held in Asheville, North Carolina, next week. Asheville is a city in the western part of North Carolina. It is not common for G20 finance meetings to take place outside of major cities like Washington, D.C., so this location has already drawn some attention.\n\n### Who Was Blocked?\n\nIt is important to note that the Treasury did not block entire news organizations. Instead, it denied credentials to **specific reporters** from these outlets. This means that other journalists from the same companies may still be allowed to attend.\n\nHowever, The New York Times, The Wall Street Journal, and Bloomberg are three of the most influential financial and political news sources in the world. Blocking even some of their reporters is seen as a significant and unusual move.\n\n### Why Does This Matter?\n\nPress credentials are official passes that allow journalists to cover government events. When the government denies credentials to reporters, it limits what information the public can receive. This raises serious questions about **press freedom** — the right of journalists to report on government activities without interference.\n\nCritics argue that barring reporters from major outlets reduces transparency. Transparency means that the government is open and honest about what it is doing. When financial leaders meet to make important decisions about the economy, the public has an interest in knowing what happens.\n\nOn the other hand, government agencies sometimes say they limit press access for practical reasons, such as limited space at a venue. The Treasury has not publicly explained its specific reasons for denying credentials to these reporters.\n\n### A Broader Trend?\n\nThis incident comes at a time when relationships between the U.S. government and the press have been tense. In recent years, there have been several cases where journalists have faced restrictions when trying to cover government meetings or events.\n\nJournalism and press freedom organizations often monitor such situations closely. They argue that a free press is essential to a healthy democracy because it holds powerful people and institutions accountable.\n\nThe G20 finance meeting in Asheville is expected to address key global economic challenges. The decisions made there could affect people around the world. Many believe it is essential that the public has access to accurate, independent reporting on such events.",
+      "keyVocab": [
+        {
+          "word": "credentials",
+          "meaning": "공식 취재 허가증 또는 자격증",
+          "example": "The journalist showed her credentials at the door before entering the press conference."
+        },
+        {
+          "word": "transparency",
+          "meaning": "투명성 (정보를 공개적으로 공유하는 것)",
+          "example": "The public demanded greater transparency from the government about how tax money was spent."
+        },
+        {
+          "word": "press freedom",
+          "meaning": "언론의 자유",
+          "example": "Press freedom is considered a fundamental right in many democratic countries."
+        },
+        {
+          "word": "financial stability",
+          "meaning": "금융 안정성",
+          "example": "The G20 leaders discussed ways to protect financial stability during the global crisis."
+        },
+        {
+          "word": "accountable",
+          "meaning": "책임을 지는",
+          "example": "A free press helps keep politicians accountable for their decisions."
+        }
+      ],
+      "publishedAt": "2026-08-30T22:55:25.000Z"
+    },
+    "e4407d394845": {
+      "id": "e4407d394845",
+      "source": "BBC Business",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/crr452d45nyo?at_medium=RSS&at_campaign=rss",
+      "title": "School uniform swap shop 'saves money and tackles second hand clothes stigma'",
+      "theme": "lifestyle",
+      "themeLabel": "라이프",
+      "summary": "영국에서 학교 교복을 무료로 교환할 수 있는 '교복 교환 가게' 프로그램이 큰 인기를 얻고 있습니다. 4년 전 한 학교에서 시작된 이 프로그램은 현재 200개 이상의 학교가 참여하고 있습니다. 이 프로그램은 가정의 비용 부담을 줄이고 중고 옷에 대한 편견도 없애는 데 도움이 됩니다.",
+      "difficulty": "A2",
+      "estimatedMinutes": 4,
+      "learnerContent": "## School Uniform Swap Shop Saves Money and Fights Stigma\n\nIn the United Kingdom, children must wear school uniforms. Uniforms can be expensive for families, especially when children grow quickly and need new clothes often. A new program is helping families save money on school uniforms — and it is growing fast.\n\n### What Is a Swap Shop?\n\nA \"swap shop\" is a place where people can exchange things they no longer need. In this case, families bring school uniforms that their children no longer wear. Other families can then take these uniforms for **free**.\n\nThis means parents do not have to buy new uniforms from a shop. Instead, they can get good quality uniforms at no cost.\n\n### How Did It Start?\n\nThe program started four years ago at just **one school**. Someone had a simple idea: instead of throwing away old uniforms, why not let other families use them?\n\nThe idea worked very well. Families loved it. Teachers and parents could see that it helped people who did not have a lot of money. It also reduced waste, because fewer old clothes were thrown away.\n\nBecause it was so successful, the program began to grow. More and more schools joined. Today, **more than 200 schools** are part of the initiative. An \"initiative\" is a new plan or program created to solve a problem.\n\n### Saving Money for Families\n\nSchool uniforms can cost a lot of money. A full set of uniforms — including trousers or skirts, shirts, a blazer, and sports clothes — can cost over £100 (about 170,000 Korean won) per child. For families with two or three children, this is a big expense.\n\nThe swap shop helps families save this money. Parents can bring old uniforms in good condition and pick up others that fit their children. It is simple, free, and helpful.\n\n### Fighting the Stigma of Second-Hand Clothes\n\nSome people feel embarrassed about wearing second-hand, or used, clothes. This feeling is called a \"**stigma**\" — a negative idea that society has about something.\n\nThe swap shop is helping to change this attitude. When many families use the program together, wearing a second-hand uniform becomes normal. Children do not feel different or embarrassed. They understand that sharing and reusing clothes is a smart and kind thing to do.\n\n### Good for the Environment Too\n\nThe program is also good for the environment. When families reuse uniforms instead of buying new ones, fewer clothes are produced and less waste is created. This is an example of a **sustainable** practice — one that is good for both people and the planet.\n\n### A Simple Idea with a Big Impact\n\nThis story shows that a small, simple idea can make a big difference. One school started something that now helps hundreds of schools and thousands of families. It saves money, reduces waste, and helps children feel comfortable at school.",
+      "keyVocab": [
+        {
+          "word": "swap",
+          "meaning": "교환하다, 바꾸다",
+          "example": "The children swapped their old books for new ones at the school fair."
+        },
+        {
+          "word": "initiative",
+          "meaning": "계획, 프로그램 (문제 해결을 위한 새로운 시도)",
+          "example": "The city launched an initiative to plant more trees in local parks."
+        },
+        {
+          "word": "stigma",
+          "meaning": "편견, 오명 (부정적인 사회적 인식)",
+          "example": "There is sometimes a stigma around asking for help, but it is important to speak up."
+        },
+        {
+          "word": "second-hand",
+          "meaning": "중고의, 이미 사용된",
+          "example": "She bought a second-hand bicycle that was still in great condition."
+        },
+        {
+          "word": "sustainable",
+          "meaning": "지속 가능한, 환경에 좋은",
+          "example": "Using reusable bags is a sustainable choice that helps reduce plastic waste."
+        }
+      ],
+      "publishedAt": "2026-08-30T17:16:18.000Z"
+    },
+    "becbf89b42de": {
+      "id": "becbf89b42de",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/",
+      "title": "A 12TB Steam “teraleak” spills more than a decade of lost PC gaming history",
+      "theme": "tech",
+      "themeLabel": "기술",
+      "summary": "12TB 규모의 Steam 데이터 유출 사건이 발생했습니다. 2003년부터 2013년까지의 Steam 게임 관련 파일들이 인터넷에 공개되었으며, 출시 전 미공개 버전 게임들도 포함되어 있습니다.",
+      "difficulty": "B1",
+      "estimatedMinutes": 4,
+      "learnerContent": "## A Huge Steam Data Leak Reveals Lost PC Gaming History\n\nA massive data leak happened this weekend, and it has shocked the gaming world. More than 12 terabytes (TB) of files connected to Valve's Steam gaming platform are now circulating on the internet. Experts are calling it a \"teraleak\" because of its enormous size.\n\n### What Was Leaked?\n\nThe leaked files come from Steam's old server system, known as \"Steam2.\" This system was used by Steam between 2003 and 2013. The collection contains thousands of file packages called \"depots,\" which represent almost every game that was uploaded to Steam during that ten-year period.\n\nThe leak does not just include the normal, public versions of games that players could buy and download. It also includes files that have never been seen before, such as:\n\n- **Pre-release builds** – versions of games that were made before the official release\n- **Prototype versions** – very early test versions of games\n- **Playtest builds** – special versions used for testing gameplay\n\nThese hidden versions exist for games made by Valve itself, as well as games from many other companies that used Steam to sell their products.\n\n### Why Does the Leak Stop at 2013?\n\nThe data cuts off at 2013 because that is the year Valve replaced Steam2 with a new system called **SteamPipe**. The old Steam2 system used a special file format that only Valve controlled. This meant that every time a game needed an update, it had to go through Valve's approval process, which was slow.\n\nSteamPipe changed everything. The new system used a standard internet file format, which made updates much faster and easier. Instead of downloading an entire game update, players only needed to download the small parts that actually changed. This was a big improvement for both players and game developers.\n\n### How Is It Being Shared?\n\nThe leaked files are being shared through a **BitTorrent tracker**, which is a technology that allows many people to share large files with each other over the internet. Because BitTorrent works across many computers at once, it is very difficult to stop. Valve, the company that owns Steam, is unlikely to be able to fully remove these files from the internet.\n\n### Why Does This Matter?\n\nFor gaming historians and fans, this leak is incredibly interesting. Many old games and their early versions have been lost over the years because companies did not save them. This kind of leak gives researchers and fans a rare chance to look back at gaming history and see how famous games developed before they were released to the public.\n\nHowever, the leak also raises serious questions about **data security** and **intellectual property**. These files belong to Valve and other game companies. Sharing or downloading them without permission may be illegal in many countries.\n\nWhether this leak is seen as a treasure for gaming history or a serious legal problem, one thing is clear: it has opened a window into more than a decade of PC gaming that most people never knew existed.",
+      "keyVocab": [
+        {
+          "word": "leak",
+          "meaning": "유출 (비밀 정보나 파일이 허가 없이 공개되는 것)",
+          "example": "The data leak exposed private information from millions of users."
+        },
+        {
+          "word": "prototype",
+          "meaning": "프로토타입, 초기 시험 버전",
+          "example": "The engineers tested a prototype of the new phone before the official release."
+        },
+        {
+          "word": "depot",
+          "meaning": "저장소 (파일이나 데이터를 모아두는 공간)",
+          "example": "Each depot contained a different version of the game files."
+        },
+        {
+          "word": "intellectual property",
+          "meaning": "지적 재산 (창작물에 대한 법적 권리)",
+          "example": "Sharing someone else's music without permission can violate intellectual property laws."
+        },
+        {
+          "word": "circulate",
+          "meaning": "퍼지다, 유통되다",
+          "example": "The rumor began to circulate quickly on social media."
+        }
+      ],
+      "publishedAt": "2026-08-30T21:40:56.000Z"
+    },
+    "467753741a9e": {
+      "id": "467753741a9e",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/entertainment/986564/professor-murder-rides-the-subway-dance-punk-perfection-review",
+      "title": "Professor Murder Rides the Subway is a forgotten slice of dance punk perfection",
+      "theme": "music",
+      "themeLabel": "음악",
+      "summary": "한 작가가 오래된 CD를 다시 꺼내 들으며 잊혀졌던 뉴욕 댄스 펑크 밴드 Professor Murder의 EP를 재발견했습니다. 이 밴드는 2000년대 중반 LCD Soundsystem 등과 함께 뉴욕 인디 음악 씬을 빛냈던 소중한 존재였습니다.",
+      "difficulty": "B2",
+      "estimatedMinutes": 4,
+      "learnerContent": "## Rediscovering a Forgotten Dance Punk Classic\n\nSometimes the best music discoveries happen when you least expect them. For one music writer, the simple act of digging out an old box of CDs and re-ripping them to digital files led to a beautiful surprise: the rediscovery of *Professor Murder Rides the Subway*, a short but unforgettable EP by New York band **Professor Murder**.\n\n### A Perfectly Concise EP\n\nThe writer describes the EP as \"beautifully concise\" — a compliment that means it does exactly what it needs to do without wasting a single second. In an era when albums can feel bloated and overlong, there is something refreshing about a release that gets straight to the point, delivers its energy, and leaves you wanting more.\n\n*Professor Murder Rides the Subway* does exactly that. It captures a very specific feeling that defined a certain moment in New York's indie music scene.\n\n### The Mid-Aughts NYC Dance Punk Scene\n\nTo understand why this EP matters, it helps to understand the musical world it came from. In the mid-2000s — often called the \"mid-aughts\" — New York City's independent music scene was electric. A wave of bands were making music that blended the raw energy of punk rock with the irresistible rhythms of dance music. The result was a genre called **dance punk**.\n\nThe philosophy of this scene was simple but powerful: let go of your inhibitions, dance like nobody is watching, and just have fun. It was a reaction against music that felt too serious or too self-conscious. These bands wanted their audiences on their feet.\n\n### The Big Names and the Hidden Gems\n\nThe most famous bands of the dance punk revival were **LCD Soundsystem** and **The Rapture**. LCD Soundsystem in particular went on to become one of the most critically praised acts of the 2000s, known for intelligent lyrics wrapped in deeply danceable grooves.\n\nBut the scene was much bigger than just those two names. Bands like **Rahim**, **Liars**, and **Dan Deacon** were also part of this movement, along with many lesser-known acts connected to the influential **DFA Records** label. On any given night in New York during this period, you could walk into a small venue and find a band channeling this same joyful, restless energy.\n\nProfessor Murder belonged to this world. They may not have achieved the same level of fame as LCD Soundsystem, but their music captured the spirit of the scene just as authentically.\n\n### Why Forgotten Music Deserves a Second Listen\n\nThe story of rediscovering this EP raises a wider question: how much great music has been quietly forgotten simply because it was never quite famous enough to stay in the cultural conversation?\n\nIn the streaming age, older music that was never digitized properly can easily disappear. Physical formats like CDs hold recordings that streaming platforms may never carry. This is one reason why the writer's decision to re-rip their CD collection turned into such a rewarding experience.\n\nFor fans of indie music, dance punk, or simply the feeling of discovering something that feels both fresh and nostalgic at the same time, *Professor Murder Rides the Subway* is well worth seeking out. Sometimes the best albums are the ones the world almost forgot.",
+      "keyVocab": [
+        {
+          "word": "concise",
+          "meaning": "간결한, 짧고 핵심적인",
+          "example": "Her concise speech delivered the main ideas in just five minutes."
+        },
+        {
+          "word": "revival",
+          "meaning": "부활, 재유행",
+          "example": "The 1990s saw a revival of interest in acoustic folk music."
+        },
+        {
+          "word": "inhibitions",
+          "meaning": "억제, 자제심 (특히 자신을 자유롭게 표현하지 못하게 하는 심리적 장벽)",
+          "example": "After a few songs, the crowd lost their inhibitions and started dancing."
+        },
+        {
+          "word": "bloated",
+          "meaning": "과도하게 길거나 부풀려진",
+          "example": "Critics said the film felt bloated at nearly three hours long."
+        },
+        {
+          "word": "nostalgic",
+          "meaning": "향수를 불러일으키는, 옛날을 그리워하는",
+          "example": "Hearing that old song made her feel nostalgic for her school days."
+        }
+      ],
+      "publishedAt": "2026-08-30T21:18:59.000Z"
+    },
+    "c009b6025eda": {
+      "id": "c009b6025eda",
+      "source": "Variety",
+      "sourceUrl": "https://variety.com/2026/music/news/enhypen-land-first-no-1-dolly-parton-returns-albums-chart-1236846995/",
+      "title": "Enhypen Lands First No. 1, Dolly Parton Reenters Top Five on Albums Chart",
+      "theme": "music",
+      "themeLabel": "음악",
+      "summary": "K-팝 그룹 엔하이픈이 빌보드 200 차트에서 처음으로 1위를 차지했습니다. 한편, 돌리 파튼은 이번 주 초 사망 소식이 전해진 후 그녀의 앨범이 차트 상위 5위권에 다시 진입했습니다.",
+      "difficulty": "B1",
+      "estimatedMinutes": 4,
+      "learnerContent": "## Enhypen Reaches No. 1 on Billboard 200 for the First Time\n\nK-pop group Enhypen has achieved a major milestone in their music career. The group landed their first-ever No. 1 album on the Billboard 200 chart with their new release, **\"The Sin : Bliss.\"**\n\n### A Big First Week\n\nIn just their first week, Enhypen moved **98,000 equivalent album units**. This is an impressive number that shows how popular the group has become around the world. \"The Sin : Bliss\" is actually Enhypen's **seventh studio album**, which means the group has been consistently releasing music and building their fanbase over the years.\n\nReaching No. 1 on the Billboard 200 is a very big deal. The Billboard 200 is one of the most well-known music charts in the United States, and it ranks albums based on streaming numbers, digital downloads, and physical sales. For a K-pop group to top this chart shows just how global the genre has become.\n\n### Who Is Enhypen?\n\nEnhypen is a South Korean boy group that debuted in 2020. The group was formed through a reality competition show called *I-Land*, produced by Big Hit Entertainment and CJ ENM. The members are known for their strong performances, unique storytelling in their music, and a dedicated international fanbase known as \"ENGENE.\"\n\nOver the years, Enhypen has released several successful albums and has performed at major events around the world. Their Billboard 200 No. 1 marks a new high point in their career.\n\n### Dolly Parton Reenters the Top Five\n\nAlso making news on the albums chart this week is **Dolly Parton**, one of the most beloved country music stars in American history. Her compilation album, **\"Ultimate Dolly Parton,\"** reentered the top five of the Billboard 200 following the sad news of her death earlier this week.\n\nIt is common for an artist's music to see a big jump in popularity after they pass away, as fans around the world return to their favorite songs to remember and celebrate the artist's life and legacy.\n\nDolly Parton was famous for hit songs like *\"Jolene\"* and *\"I Will Always Love You,\"* and she was respected not only as a musician but also as a generous person who supported education and literacy programs for children.\n\n### A Chart Full of Stories\n\nThis week's Billboard 200 chart tells two very different but equally powerful stories — a rising K-pop group claiming their place at the top, and a legendary country artist being remembered and honored by fans one last time.",
+      "keyVocab": [
+        {
+          "word": "milestone",
+          "meaning": "중요한 성과, 이정표",
+          "example": "Winning their first award was a major milestone for the young band."
+        },
+        {
+          "word": "equivalent album units",
+          "meaning": "스트리밍, 다운로드, 실물 판매를 합산한 앨범 판매 단위",
+          "example": "The singer moved 150,000 equivalent album units in her first week, combining streams and downloads."
+        },
+        {
+          "word": "compilation album",
+          "meaning": "여러 곡을 모은 모음 앨범",
+          "example": "The compilation album included all of her greatest hits from the past twenty years."
+        },
+        {
+          "word": "legacy",
+          "meaning": "유산, 업적",
+          "example": "The artist's legacy continued to inspire young musicians long after his death."
+        },
+        {
+          "word": "reenter",
+          "meaning": "다시 진입하다",
+          "example": "The classic film reentered the box office top ten after winning a major award."
+        }
+      ],
+      "publishedAt": "2026-08-30T21:45:38.000Z"
+    },
+    "cf045245a9c9": {
+      "id": "cf045245a9c9",
+      "source": "Variety",
+      "sourceUrl": "https://variety.com/2026/film/news/days-of-thunder-2-anne-hathaway-horrible-choice-randy-quaid-1236846972/",
+      "title": "‘Days of Thunder’ Star Randy Quaid Says Anne Hathaway Is ‘Woke’ and a ‘Horrible Choice’ for the Sequel: ‘You Need the Original Girl’",
+      "theme": "film",
+      "themeLabel": "영화",
+      "summary": "배우 랜디 퀘이드가 소셜 미디어에서 앤 해서웨이가 영화 '썬더 데이즈' 속편에 캐스팅된 것을 비판했습니다. 그는 원래 출연했던 니콜 키드먼이 돌아와야 한다고 주장했습니다.",
+      "difficulty": "B1",
+      "estimatedMinutes": 4,
+      "learnerContent": "## Randy Quaid Criticizes Anne Hathaway's Casting in 'Days of Thunder' Sequel\n\nActor **Randy Quaid** has publicly spoken out against the casting of **Anne Hathaway** in the upcoming sequel to the 1990 racing film *Days of Thunder*. Quaid, who appeared in the original film, shared his strong opinions on social media platform X.\n\n### What Did He Say?\n\nAfter news was announced that Anne Hathaway would be joining **Tom Cruise** in the *Days of Thunder* sequel, Randy Quaid reacted quickly and negatively. He posted on X, saying that the filmmakers should bring back **Nicole Kidman**, who starred alongside Tom Cruise in the original movie.\n\n\"We need Nicole back,\" Quaid wrote. He argued that the sequel should feature the original actress and said that replacing her with Hathaway was the wrong decision. He called Hathaway a \"horrible choice\" and used the word \"woke\" to describe her, a term often used in political debates to criticize people seen as too focused on social issues.\n\nQuaid made it clear that his criticism was not meant to be personal, saying, \"It's not personal; it's filmmaking.\"\n\n### Background: What Is 'Days of Thunder'?\n\n*Days of Thunder* is a 1990 Hollywood action film starring **Tom Cruise** as a young and talented NASCAR racing driver. **Nicole Kidman** played his love interest in the film, and the two actors actually fell in love in real life during filming and later got married.\n\nThe film was a box office success and became a classic of the early 1990s. Now, decades later, a sequel is in development, with Tom Cruise returning to his role. However, Nicole Kidman will not be returning — instead, **Anne Hathaway** has been cast in the film.\n\n### Who Is Randy Quaid?\n\nRandy Quaid is an American actor known for his roles in films such as *Independence Day* and *National Lampoon's Vacation*. He appeared in *Days of Thunder* in a supporting role. In recent years, Quaid has become more well-known for his controversial statements on social media than for his acting work.\n\n### Mixed Reactions\n\nQuaid's comments have received mixed reactions from the public. Some people agree that Nicole Kidman's absence is disappointing. Others have defended Anne Hathaway, pointing out that she is a highly talented actress with an Oscar to her name and a strong record of successful films.\n\nThe *Days of Thunder* sequel does not yet have an official release date, but it continues to attract attention — both for its star power and for the online debate surrounding its cast.",
+      "keyVocab": [
+        {
+          "word": "publicly spoken out",
+          "meaning": "공개적으로 의견을 밝히다",
+          "example": "The director publicly spoke out against changes made to his film without his permission."
+        },
+        {
+          "word": "casting",
+          "meaning": "배우 캐스팅, 배역 결정",
+          "example": "Many fans were surprised by the casting of an unknown actor in the lead role."
+        },
+        {
+          "word": "sequel",
+          "meaning": "속편",
+          "example": "The sequel to the popular film was released three years after the original."
+        },
+        {
+          "word": "controversial",
+          "meaning": "논란이 많은, 논쟁적인",
+          "example": "His controversial remarks on social media caused a strong reaction from the public."
+        },
+        {
+          "word": "supporting role",
+          "meaning": "조연",
+          "example": "She played a supporting role in the film but received great reviews for her performance."
+        }
+      ],
+      "publishedAt": "2026-08-30T20:17:20.000Z"
+    },
+    "1977b26ddf0b": {
+      "id": "1977b26ddf0b",
+      "source": "Pitchfork News",
+      "sourceUrl": "https://pitchfork.com/story/dinosaur-jr-announce-2027-tour/",
+      "title": "Dinosaur Jr. Announce 2027 Tour",
+      "theme": "music",
+      "themeLabel": "음악",
+      "summary": "인디 록 밴드 Dinosaur Jr.가 2027년 북미 투어를 발표했습니다. 이번 투어에는 Starcrawler가 서포트 밴드로 함께할 예정입니다.",
+      "difficulty": "B1",
+      "estimatedMinutes": 2,
+      "learnerContent": "## Dinosaur Jr. Announce 2027 North American Tour\n\nLegendary indie rock band **Dinosaur Jr.** have announced a North American tour for 2027. The band will be joined on the road by **Starcrawler**, who will perform as the support act.\n\n### Who Are Dinosaur Jr.?\n\nDinosaur Jr. is an American rock band originally formed in Amherst, Massachusetts in 1984. The band is known for their loud guitar sound, melodic songs, and strong influence on alternative and indie rock music. The group is made up of J Mascis, Lou Barlow, and Murph. Over the decades, they have released many celebrated albums and are widely respected as pioneers of the alternative rock genre.\n\n### Who Are Starcrawler?\n\nStarcrawler is a rock band from Los Angeles, California. They are known for their energetic live performances and retro rock style. Having a band like Starcrawler as a support act is a great match, as both groups share a love of loud, guitar-driven rock music.\n\n### What to Expect\n\nA North American tour typically includes concert stops in cities across the United States and Canada. Fans in many different cities will have the chance to see both Dinosaur Jr. and Starcrawler perform live. More details about specific cities, venues, and ticket information are expected to be announced soon.\n\nFor fans of alternative and indie rock, this tour is an exciting opportunity to see one of the genre's most important and long-running bands perform live in 2027.",
+      "keyVocab": [
+        {
+          "word": "support act",
+          "meaning": "메인 공연 전에 무대에 오르는 보조 공연 팀",
+          "example": "The support act played for 30 minutes before the main band came on stage."
+        },
+        {
+          "word": "pioneer",
+          "meaning": "선구자, 개척자",
+          "example": "She was a pioneer of electronic music in the 1970s."
+        },
+        {
+          "word": "alternative rock",
+          "meaning": "얼터너티브 록 (주류 록과 다른 스타일의 록 음악 장르)",
+          "example": "Alternative rock became very popular in the 1990s."
+        },
+        {
+          "word": "venue",
+          "meaning": "공연장, 행사 장소",
+          "example": "The concert venue holds up to 5,000 people."
+        },
+        {
+          "word": "energetic",
+          "meaning": "활기찬, 에너지 넘치는",
+          "example": "The band gave an energetic performance that impressed the whole crowd."
+        }
+      ],
+      "publishedAt": "2026-08-30T17:35:05.000Z"
+    },
+    "0b0bbf3b3a89": {
+      "id": "0b0bbf3b3a89",
+      "source": "Pitchfork News",
+      "sourceUrl": "https://pitchfork.com/story/watch-olivia-rodrigo-sing-landslide-with-stevie-nicks-at-daisy-chain-fields/",
+      "title": "Watch Olivia Rodrigo Sing  “Landslide” with Stevie Nicks at Daisy Chain Fields",
+      "theme": "music",
+      "themeLabel": "음악",
+      "summary": "올리비아 로드리고가 자신이 만든 새 음악 페스티벌 'Daisy Chain Fields'에서 헤드라이너로 공연했습니다. 그녀는 스티비 닉스, 알라니스 모리셋, 사라 맥라클란을 무대에 초대해 함께 공연하며 관객들을 열광시켰습니다.",
+      "difficulty": "B1",
+      "estimatedMinutes": 3,
+      "learnerContent": "## Olivia Rodrigo Sings \"Landslide\" with Stevie Nicks at Her New Festival\n\nPop star **Olivia Rodrigo** gave an unforgettable performance at her new music festival, **Daisy Chain Fields**, on August 30, 2026. During her headlining set, she surprised the crowd by bringing several legendary artists onto the stage.\n\n### A Special Duet with Stevie Nicks\n\nOne of the biggest highlights of the night was when Rodrigo performed the classic song **\"Landslide\"** together with **Stevie Nicks**. \"Landslide\" is a famous song originally recorded by Fleetwood Mac in 1975 and is closely associated with Stevie Nicks, who wrote it. Seeing Rodrigo sing this beloved song alongside its legendary creator was a deeply emotional moment for the audience.\n\n### More Surprise Guests\n\nRodrigo did not stop there. She also welcomed two more iconic artists to the stage during her set:\n\n- **Alanis Morissette** – the Canadian singer-songwriter best known for her hugely popular 1995 album *Jagged Little Pill*\n- **Sarah McLachlan** – the celebrated Canadian singer known for emotional ballads and co-founding the famous Lilith Fair music festival in the 1990s\n\nThese appearances connected Rodrigo to a tradition of powerful women in rock and pop music, showing her deep respect for the artists who came before her.\n\n### About Daisy Chain Fields\n\nDaisy Chain Fields is a brand new music festival created by Olivia Rodrigo herself. Rodrigo headlined the festival, meaning she was the main and most important performer of the event. Festivals created by artists are becoming more common, giving musicians more creative control over the concert experience they offer to fans.\n\n### Olivia Rodrigo's Rise\n\nOlivia Rodrigo first became famous in 2021 with her debut single \"drivers license,\" which became one of the fastest-selling songs in history. Since then, she has become one of the most successful young artists in the world. Her decision to invite legends like Stevie Nicks, Alanis Morissette, and Sarah McLachlan shows her admiration for the women who helped shape modern music.",
+      "keyVocab": [
+        {
+          "word": "headlining",
+          "meaning": "헤드라이너로 공연하는, 메인 공연자로 출연하는",
+          "example": "The band is headlining the festival for the first time this summer."
+        },
+        {
+          "word": "duet",
+          "meaning": "두 사람이 함께하는 공연 또는 노래",
+          "example": "The two singers performed a beautiful duet at the end of the show."
+        },
+        {
+          "word": "iconic",
+          "meaning": "상징적인, 전설적인",
+          "example": "That guitarist is iconic — everyone knows her name."
+        },
+        {
+          "word": "ballad",
+          "meaning": "감성적인 느린 노래, 발라드",
+          "example": "She closed the concert with a soft ballad that moved many people to tears."
+        },
+        {
+          "word": "admiration",
+          "meaning": "존경, 감탄",
+          "example": "He expressed his admiration for the musician by covering her most famous songs."
+        }
+      ],
+      "publishedAt": "2026-08-30T15:06:10.000Z"
     }
   }
 }
